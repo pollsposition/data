@@ -1934,6 +1934,7 @@
 2021-03-06,macron,Ipsos,1000,internet,41.0,53.0
 2021-03-15,macron,Ifop,1911,phone&internet,37.0,60.0
 2021-03-18,macron,BVA,1001,internet,39.0,61.0
+2021-03-20,macron,Viavoice,1000,internet,33.0,58.0
 2021-03-24,macron,Harris,1023,internet,46.0,54.0
 2021-03-25,macron,Odoxa,1005,internet,39.0,61.0
 2021-03-26,macron,Ifop,1011,internet,39.0,61.0
@@ -1941,4 +1942,13 @@
 2021-03-30,macron,Yougov,1068,internet,30.0,61.0
 2021-04-07,macron,Elabe,1003,internet,33.0,63.0
 2021-04-10,macron,Ipsos,1002,internet,37.0,58.0
+2021-04-22,macron,BVA,1002,internet,39.0,60.0
+2021-04-22,macron,Odoxa,1005,internet,38.0,61.0
 2021-04-26,macron,Kantar,1000,internet,35.0,58.0
+2021-04-28,macron,Harris,1041,internet,46.0,54.0
+2021-04-29,macron,Ifop,1002,internet,41.0,59.0
+2021-05-04,macron,Yougov,1001,internet,31.0,62.0
+2021-05-05,macron,Elabe,1000,internet,33.0,62.0
+2021-05-16,macron,Ifop,1928,phone&internet,40.0,58.0
+2021-05-20,macron,BVA,1004,internet,42.0,58.0
+2021-05-21,macron,Odoxa,1005,internet,41.0,58.0
