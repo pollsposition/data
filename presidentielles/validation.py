@@ -1,10 +1,24 @@
+import datetime
 import json
+from typing import List
+
+from pydantic import BaseModel, ValidationError, validator
 
 
-class Resultats(BaseModel):
-    intentions_exprimees: Optional[int]
-    intentions: Dict[str, float]
-    certitude: Dict[str, float]
+class Sondage(BaseModel):
+    institut: str
+    commanditaires: List[str]
+    date_debut: datetime.date
+    date_fin: datetime.date
+    date_publication: datetime.date
+
+    @validator('date_debut', 'date_fin', 'date_publication')
+    def dates_ordering(cls, debut, fin, publication):
+        if fin < debut:
+            raise ValidationError("La date de fin du sondage doit être postérieur à celle du début")
+        if publication < fin:
+            raise ValidationError("La fin du sondage doit précéder la publication")
+
 
 candidats = [
     "Nathalie Arthaud",
@@ -21,8 +35,12 @@ fields = compulsory_fields + optional_fields
 
 if __name__ == "__main__":
     # This will raise an error if the JSON is not properly formatted
-    with open('sondages.json', 'r') as data:
+    with open("sondages.json", "r") as data:
         sondages = json.load(data)
+
+    for sondage in sondages.values():
+        print(sondage)
+        Sondage(**sondage)
 
     # Verifie que le % total sur la base des suffrages exprimés est égale
     # à 100
