@@ -13,7 +13,7 @@
         "hypotheses": {
             "bertrand": "Xavier Bertrand candidat de la droite",
             "pecresse": "Valérie Pécresse candidate de la droite",
-            "ciotti": "Eric Ciotti candidat de la droite",
+            "ciotti": "Éric Ciotti candidat de la droite",
             "montebourg": "Arnaud Montebourg candidat"
         },
         "premier_tour": {
@@ -120,7 +120,7 @@
         "date_fin": "2021-08-22",
         "date_publication": "2021-08-27",
         "echantillon": 938,
-        "note": "Certains d'aller voter",
+        "population": "Certains d'aller voter",
         "methode": "internet",
         "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/aout/9201-p-ipsos-libres-le-point.pdf",
         "hypotheses": {
@@ -129,60 +129,9 @@
             "wauquiez": "Laurent Wauquiez candidat LR/UDI",
             "barnier": "Michel Barnier candidat LR/UDI"
         },
-        "reports_2017": {
-            "pecresse":
-                {
-                    "votes_2017": ["Jean-Luc Mélenchon", "Benoit Hamon", "Emmanuel Macron", "François Fillon", "Marine Le Pen"],
-                    "intentions_2022": ["Jean-Luc Mélenchon", "Yannick Jadot", "Anne Hidalgo", "Emmanuel Macron", "Valérie Pécresse", "Marine Le Pen", "Éric Zemmour"],
-                    "valeurs": [
-                        [38, 22, 16, 4, 0, 7, 2],
-                        [6, 28, 45, 14, 1, 2, 1],
-                        [2, 8, 8, 68, 7, 3, 2],
-                        [2, 2, 1, 22, 54, 7, 10],
-                        [0, 2, 2, 1, 3, 78, 13]
-                    ]
-                },
-            "bertrand":
-                {
-                    "votes_2017": ["Jean-Luc Mélenchon", "Benoit Hamon", "Emmanuel Macron", "François Fillon", "Marine Le Pen"],
-                    "intentions_2022": ["Jean-Luc Mélenchon", "Yannick Jadot", "Anne Hidalgo", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen", "Éric Zemmour"],
-                    "valeurs": [
-                        [33, 23, 16, 5, 2, 6, 2],
-                        [6, 27, 44, 10, 9, 1, 0],
-                        [1, 8, 9, 68, 9, 1, 3],
-                        [0, 2, 1, 22, 55, 7, 12],
-                        [0, 1, 2, 2, 5, 77, 12]
-                    ]
-                },
-            "wauquiez":
-                {
-                    "votes_2017": ["Jean-Luc Mélenchon", "Benoit Hamon", "Emmanuel Macron", "François Fillon", "Marine Le Pen"],
-                    "intentions_2022": ["Jean-Luc Mélenchon", "Yannick Jadot", "Anne Hidalgo", "Emmanuel Macron", "Laurent Wauquiez", "Marine Le Pen", "Éric Zemmour"],
-                    "valeurs": [
-                        [35, 22, 15, 4, 1, 8, 2],
-                        [6, 31, 43, 12, 2, 3, 0],
-                        [1, 9, 9, 72, 3, 3, 2],
-                        [0, 2, 0, 30, 46, 9, 11],
-                        [0, 1, 3, 1, 2, 78, 14]
-                    ]
-                },
-            "barnier":
-                {
-                    "votes_2017": ["Jean-Luc Mélenchon", "Benoit Hamon", "Emmanuel Macron", "François Fillon", "Marine Le Pen"],
-                    "intentions_2022": ["Jean-Luc Mélenchon", "Yannick Jadot", "Anne Hidalgo", "Emmanuel Macron", "Michel Barnier", "Marine Le Pen", "Éric Zemmour"],
-                    "valeurs": [
-                        [34, 22, 15, 5, 1, 8, 2],
-                        [6, 29, 47, 12, 1, 2, 0],
-                        [2, 8, 9, 69, 6, 2, 2],
-                        [2, 4, 0, 27, 44, 9, 11],
-                        [0, 1, 3, 2, 1, 80, 14]
-                    ]
-                }
-        },
         "premier_tour": {
             "pecresse": {
-                "intentions_exprimees": null,
-                "note": "11% certains d'aller voter n'expriment pas d'opinion",
+                "intentions_exprimees": 89,
                 "intentions": {
                     "Extrême Gauche": 1,
                     "Fabien Roussel": 2,
@@ -197,8 +146,7 @@
                 }
             },
             "bertrand": {
-                "intentions_exprimees": null,
-                "note": "10% certains d'aller voter n'expriment pas d'opinion",
+                "intentions_exprimees": 90,
                 "intentions": {
                     "Extrême Gauche": 1,
                     "Fabien Roussel": 2,
@@ -213,8 +161,7 @@
                 }
             },
             "wauquiez": {
-                "intentions_exprimees": null,
-                "note": "10% certains d'aller voter n'expriment pas d'opinion",
+                "intentions_exprimees": 90,
                 "intentions": {
                     "Extrême Gauche": 1,
                     "Fabien Roussel": 2,
@@ -229,8 +176,7 @@
                 }
             },
             "barnier": {
-                "intentions_exprimees": null,
-                "note": "10% certains d'aller voter n'expriment pas d'opinion",
+                "intentions_exprimees": 90,
                 "intentions": {
                     "Extrême Gauche": 1,
                     "Fabien Roussel": 2,
@@ -238,7 +184,7 @@
                     "Yannick Jadot": 11,
                     "Anne Hidalgo": 9,
                     "Emmanuel Macron": 24.5,
-                    "Micherl Barnier": 11,
+                    "Michel Barnier": 11,
                     "Nicolas Dupont-Aignan": 4,
                     "Marine Le Pen": 22.5,
                     "Éric Zemmour": 7
