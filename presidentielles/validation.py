@@ -34,7 +34,7 @@ methods = ["internet"]
 
 pollsters = ["Harris interactive", "Ifop", "Ipsos", "ELABE"]
 
-sample_types = ["Inscrits sur les listes électorales"]
+populations = ["Inscrits sur les listes électorales"]
 
 
 class Hypothesis(BaseModel):
@@ -171,7 +171,7 @@ class Poll(BaseModel):
     lien: str
 
     echantillon: int
-    echantillon_type: str
+    population: str
 
     hypotheses: Dict[str, str]
     premier_tour: Dict[str, Hypothesis]
@@ -220,10 +220,10 @@ class Poll(BaseModel):
             raise ValueError(f"Method: Expected one of {methods}, got {name}")
         return name
 
-    @validator("echantillon_type")
+    @validator("population")
     def sample_name(cls, name):
-        if name not in sample_types:
-            raise ValueError(f"Sample type: Expected one of {sample_types}, got {name}")
+        if name not in populations:
+            raise ValueError(f"Sample type: Expected one of {populations}, got {name}")
         return name
 
     @validator("premier_tour")
