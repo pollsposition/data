@@ -998,6 +998,83 @@
         }
     },
 
+    "20210419_harris":
+    {
+        "institut": "Harris interactive",
+        "commanditaires": ["Challenges"],
+        "date_debut": "2021-04-16",
+        "date_fin": "2021-04-19",
+        "date_publication": "2021-04-21",
+        "echantillon": 1001,
+        "population": "Inscrits sur les listes électorales",
+        "methode": "internet",
+        "lien": "https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-1/",
+        "hypotheses": {
+            "bertrand": "Xavier Bertrand candidat de la droite",
+            "pecresse": "Valérie Pécresse candidate de la droite"
+        },
+        "premier_tour": {
+            "bertrand": {
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 1,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 6,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 26,
+                        "Jean-Christophe Lagarde": 1,
+                        "Xavier Bertrand": 15,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Jean-Frédéric Poisson": 0,
+                        "Marine Le Pen": 26,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 0
+                    }
+                },
+            "pecresse": {
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 1,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 6,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 28,
+                        "Jean-Christophe Lagarde": 2,
+                        "Valérie Pécresse": 12,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Jean-Frédéric Poisson": 0,
+                        "Marine Le Pen": 26,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 0
+                    }
+                }
+        },
+        "second_tour": {
+                "lepen_macron" : {
+                    "intentions_exprimees": null,
+                    "intentions": {"Marine Le Pen": 46, "Emmanuel Macron": 54}
+                }
+        },
+        "reports": {
+            "bertrand": {
+                "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen"],
+                "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Abstention/Blanc/Nul"],
+                "reports": [
+                    [23, 28, 49],
+                    [9, 42, 49],
+                    [24, 35, 41],
+                    [4, 94, 2],
+                    [18, 41, 41],
+                    [97, 1, 2]
+                ]
+            }
+        }
+    },
+
     "20210524_harris":
     {
         "institut": "Harris interactive",
