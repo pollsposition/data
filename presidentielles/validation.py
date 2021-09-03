@@ -197,7 +197,7 @@ class Poll(BaseModel):
             raise ValueError(f"Polls: the end date {end_dates} is incorrect")
 
         if end_dates < values["date_debut"]:
-            raise ValidationError(
+            raise ValueError(
                 "Poll: the end of the poll must happen after the beggining"
             )
         return end_dates
@@ -208,9 +208,8 @@ class Poll(BaseModel):
             raise ValueError(
                 f"Poll: The publication date {publication_date} is incorrect"
             )
-
-        if publication_date <= values["date_fin"]:
-            raise ValidationError(
+        if publication_date < values["date_fin"]:
+            raise ValueError(
                 "Poll: the publication must happen after the end of the poll"
             )
         return publication_date
@@ -232,6 +231,12 @@ class Poll(BaseModel):
         if name not in populations:
             raise ValueError(f"Sample type: Expected one of {populations}, got {name}")
         return name
+
+    @validator("lien")
+    def link_not_empty(cls, link):
+        if link == "":
+            raise ValueError("Expected a link, found none")
+        return link
 
     @validator("premier_tour")
     def first_round(cls, first_round, values):
