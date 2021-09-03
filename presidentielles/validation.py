@@ -24,6 +24,7 @@ candidates = [
     "Laurent Wauquiez",
     "Éric Ciotti",
     "Michel Barnier",
+    "Jean-Frédéric Poisson",
     "Nicolas Dupont-Aignan",
     "François Asselineau",
     "Jean Lassalle",
