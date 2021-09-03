@@ -195,68 +195,20 @@
 
     "20210823_harris":
     {
-        "institut": "Harris Interactive",
-        "commanditaires": "Challenges",
+        "institut": "Harris interactive",
+        "commanditaires": ["Challenges"],
         "date_debut": "2021-08-20",
         "date_fin": "2021-08-23",
         "date_publication": "2021-08-25",
         "echantillon": 1113,
+        "population": "Inscrits sur les listes électorales",
         "methode": "internet",
         "lien": "https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-10/",
         "hypotheses": {
             "bertrand": "Xavier Bertrand candidat de la droite",
             "pecresse": "Valérie Pécresse candidate de la droite",
             "montebourg": "Arnaud Montebourg candidat",
-            "bertrand_pecresse": "Xavier Bertrand et Valérie Pécresse candidats"},
-        "reports_2017": {
-            "bertrand":
-                {
-                    "votes_2017": ["Jean-Luc Mélenchon", "Benoit Hamon", "Emmanuel Macron", "François Fillon", "Marine Le Pen"],
-                    "intentions_2022": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Nicolas Dupont-Aignan", "Marine Le Pen"],
-                    "valeurs": [
-                        [62, 8, 5, 8, 2, 0, 3],
-                        [13, 34, 25, 6, 7, 0, 3],
-                        [3, 7, 6, 66, 10, 1, 4],
-                        [0,0, 1, 20, 57, 2, 16],
-                        [1, 0, 1, 3, 1, 2, 91]
-                    ]
-                },
-            "pecresse":
-                {
-                    "votes_2017": ["Jean-Luc Mélenchon", "Benoit Hamon", "Emmanuel Macron", "François Fillon", "Marine Le Pen"],
-                    "intentions_2022": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Valérie Pécresse", "Nicolas Dupont-Aignan", "Marine Le Pen"],
-                    "valeurs": [
-                        [57, 10, 5, 9, 4, 0, 4],
-                        [12, 36, 23, 7, 1, 4, 3],
-                        [4, 6, 8, 64, 9, 1, 5],
-                        [1, 0, 1, 24, 48, 3, 18],
-                        [0, 1, 1, 3, 0, 1, 93]
-                    ]
-                },
-            "montebourg":
-                {
-                    "votes_2017": ["Jean-Luc Mélenchon", "Benoit Hamon", "Emmanuel Macron", "François Fillon", "Marine Le Pen"],
-                    "intentions_2022": ["Jean-Luc Mélenchon", "Arnaud Montebourg", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Nicolas Dupont-Aignan", "Marine Le Pen"],
-                    "valeurs": [
-                        [59, 11, 9, 7, 2, 0, 3],
-                        [15, 23, 30, 8, 10, 1, 3],
-                        [3, 3, 8, 65, 10, 1, 6],
-                        [0, 0, 1, 18, 59, 3, 14],
-                        [1, 0, 1, 3, 1, 2, 90]
-                    ]
-                },
-            "bertrand_pecresse":
-                {
-                    "votes_2017": ["Jean-Luc Mélenchon", "Benoit Hamon", "Emmanuel Macron", "François Fillon", "Marine Le Pen"],
-                    "intentions_2022": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Valérie Pécresse", "Nicolas Dupont-Aignan", "Marine Le Pen"],
-                    "valeurs": [
-                        [58, 9, 5, 6, 2, 4, 0, 4],
-                        [10, 39, 21, 7, 4, 3, 1, 3],
-                        [6, 6, 5, 57, 8, 6, 1, 6],
-                        [0, 1, 0, 17, 35, 26, 2, 15],
-                        [0, 1, 1, 3, 2, 1, 3, 87]
-                    ]
-                }
+            "bertrand_pecresse": "Xavier Bertrand et Valérie Pécresse candidats"
         },
         "premier_tour": {
             "bertrand": {
@@ -284,7 +236,7 @@
                         "Nathalie Arthaud": 1,
                         "Philippe Poutou": 1,
                         "Fabien Roussel": 2,
-                        "Jean-Luc Mélenchon": 10,
+                        "Jean-Luc Mélenchon": 11,
                         "Anne Hidalgo": 7,
                         "Yannick Jadot": 6,
                         "Emmanuel Macron": 25,
@@ -303,7 +255,7 @@
                         "Nathalie Arthaud": 1,
                         "Philippe Poutou": 1,
                         "Fabien Roussel": 2,
-                        "Jean-Luc Mélenchon": 10,
+                        "Jean-Luc Mélenchon": 11,
                         "Arnaud Montebourg": 5,
                         "Yannick Jadot": 8,
                         "Emmanuel Macron": 24,
@@ -329,7 +281,7 @@
                         "Jean-Christophe Lagarde": 1,
                         "Xavier Bertrand": 11,
                         "Valérie Pécresse": 8,
-                        "Nicolas Dupont-Aignan": 2,
+                        "Nicolas Dupont-Aignan": 4,
                         "Florian Philippot": 2,
                         "Marine Le Pen": 23,
                         "François Asselineau": 1,
@@ -339,13 +291,13 @@
         },
         "second_tour": {
             "lepen_macron": {"intentions_exprimees": null, "intentions": {"Emmanuel Macron": 55, "Marine Le Pen": 45}}
-	},
-        "reports_premier_tour": {
+	    },
+        "reports": {
             "bertrand": {
-                "intentions_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen"],
-                "intentions_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Abstention/Blanc/Nul"],
-                "valeurs": [
-                    [26, 27, 57],
+                "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen"],
+                "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Abstention/Blanc/Nul"],
+                "reports": [
+                    [16, 27, 57],
                     [12, 42, 46],
                     [8, 52, 40],
                     [4, 95, 1],
