@@ -240,9 +240,8 @@ class Poll(BaseModel):
 
 if __name__ == "__main__":
     # This will raise an error if the JSON is not properly formatted
-    with open("sondages.json", "r") as data:
+    with open("presidentielles/sondages.json", "r") as data:
         sondages = json.load(data)
 
     for sondage in sondages.values():
         Poll(**sondage)
-        break
