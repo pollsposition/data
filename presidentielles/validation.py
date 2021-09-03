@@ -243,5 +243,9 @@ if __name__ == "__main__":
     with open("presidentielles/sondages.json", "r") as data:
         sondages = json.load(data)
 
-    for sondage in sondages.values():
-        Poll(**sondage)
+    for id, sondage in sondages.items():
+        try:
+            Poll(**sondage)
+        except:
+            print(id)
+            raise
