@@ -416,18 +416,19 @@
         "date_fin": "2021-07-02",
         "date_publication": "2021-07-02",
         "echantillon": 1337,
+        "population": "Inscrits sur les listes électorales",
         "methode": "internet",
-        "lien": "",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juillet/9198-pres-ifop-le-figaro.pdf",
         "hypotheses": {
             "bertrand": "Xavier Bertrand candidat de la droite",
             "pecresse": "Valérie Pécresse candidate de la droite",
             "wauquiez": "Laurent Wauquiez candidat de la droite",
             "hidalgo_sans_jadot": "Anne Hidalgo sans Yannick Jadot (Xavier Bertrand candidat de la droite)",
-            "jadot_sans_hildago": "Yannick Jadot sans Anne Hidalgo (Xavier Bertrand candidat de la droite)"
+            "jadot_sans_hidalgo": "Yannick Jadot sans Anne Hidalgo (Xavier Bertrand candidat de la droite)"
         },
         "premier_tour": {
             "bertrand": {
-                    "intentions_exprimees": 700,
+                    "intentions_exprimees": 70.5,
                     "intentions": {
                         "Nathalie Arthaud": 0.5,
                         "Philippe Poutou": 1,
@@ -445,7 +446,7 @@
                     }
                 },
             "pecresse": {
-                    "intentions_exprimees": 691,
+                    "intentions_exprimees": 69.5,
                     "intentions": {
                         "Nathalie Arthaud": 0.5,
                         "Philippe Poutou": 1,
@@ -463,7 +464,7 @@
                     }
                 },
             "wauquiez": {
-                    "intentions_exprimees": 691,
+                    "intentions_exprimees": 69.5,
                     "intentions": {
                         "Nathalie Arthaud": 0.5,
                         "Philippe Poutou": 1,
@@ -481,7 +482,7 @@
                     }
                 },
             "hidalgo_sans_jadot": {
-                    "intentions_exprimees": 683,
+                    "intentions_exprimees": 69.7,
                     "intentions": {
                         "Nathalie Arthaud": 0.5,
                         "Philippe Poutou": 1,
@@ -498,7 +499,7 @@
                     }
                 },
             "jadot_sans_hidalgo": {
-                    "intentions_exprimees": 700,
+                    "intentions_exprimees": 69.5,
                     "intentions": {
                         "Nathalie Arthaud": 0.5,
                         "Philippe Poutou": 1,
@@ -517,17 +518,24 @@
         },
         "second_tour": {
             "lepen_macron": {
-                "intentions_exprimees": 649,
+                "intentions_exprimees": 33.3,
                 "intentions": {
                     "Emmanuel Macron": 57,
                     "Marine Le Pen": 43
                 }
             },
             "bertrand_lepen": {
-                "intentions_exprimees": 556,
+                "intentions_exprimees": 68.4,
+                "intentions": {
+                    "Xavier Bertrand": 61,
+                    "Marine Le Pen": 39
+                }
+            },
+            "bertrand_macron": {
+                "intentions_exprimees": 55.9,
                 "intentions": {
                     "Emmanuel Macron": 48,
-                    "Marine Le Pen": 52
+                    "Xavier Bertrand": 52
                 }
             }
         }
