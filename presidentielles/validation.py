@@ -22,6 +22,7 @@ candidates = [
     "Xavier Bertrand",
     "Valérie Pécresse",
     "Laurent Wauquiez",
+    "François Baroin",
     "Éric Ciotti",
     "Michel Barnier",
     "Jean-Frédéric Poisson",
