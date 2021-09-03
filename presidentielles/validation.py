@@ -9,6 +9,7 @@ END = datetime.date(2022, 4, 24)
 
 candidates = [
     "Abstention/Blanc/Nul",
+    "Extrême Gauche",
     "Nathalie Arthaud",
     "Philippe Poutou",
     "Fabien Roussel",
@@ -22,6 +23,7 @@ candidates = [
     "Valérie Pécresse",
     "Laurent Wauquiez",
     "Éric Ciotti",
+    "Michel Barnier",
     "Nicolas Dupont-Aignan",
     "François Asselineau",
     "Jean Lassalle",
@@ -34,7 +36,11 @@ methods = ["internet"]
 
 pollsters = ["Harris interactive", "Ifop", "Ipsos", "ELABE"]
 
-populations = ["Inscrits sur les listes électorales"]
+populations = [
+    "Inscrits sur les listes électorales",
+    "Certains d'aller voter"
+
+]
 
 
 class Hypothesis(BaseModel):
@@ -175,8 +181,8 @@ class Poll(BaseModel):
 
     hypotheses: Dict[str, str]
     premier_tour: Dict[str, Hypothesis]
-    second_tour: Dict[str, Hypothesis]
-    reports: Dict[str, Transfers]
+    second_tour: Optional[Dict[str, Hypothesis]] = None
+    reports: Optional[Dict[str, Transfers]] = None
 
     @validator("date_debut")
     def start_date_within_election_period(cls, start_date):
