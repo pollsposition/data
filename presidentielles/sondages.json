@@ -309,7 +309,6 @@
 
     "20210705_harris":
     {
-        "id": "20210705_harris",
         "institut": "Harris interactive",
         "commanditaires": ["Challenges"],
         "date_debut": "2021-07-02",
@@ -538,5 +537,102 @@
                 }
             }
         }
-    }
+    },
+
+    "20210628_harris":
+    {
+        "institut": "Harris interactive",
+        "commanditaires": ["Challenges"],
+        "date_debut": "2021-06-27",
+        "date_fin": "2021-06-28",
+        "date_publication": "2021-06-29",
+        "echantillon": 1003,
+        "population": "Inscrits sur les listes électorales",
+        "methode": "internet",
+        "lien": "https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-8/",
+        "hypotheses": {
+            "bertrand": "Xavier Bertrand candidat de la droite",
+            "pecresse": "Valérie Pécresse candidate de la droite",
+            "wauquiez": "Laurent Wauquiez candidat de la droite"
+        },
+        "premier_tour": {
+            "bertrand": {
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 1,
+                        "Jean-Luc Mélenchon": 10,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 25,
+                        "Jean-Christophe Lagarde": 1,
+                        "Xavier Bertrand": 17,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Jean-Frédéric Poisson": 0,
+                        "Marine Le Pen": 24,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                },
+            "pecresse": {
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 1,
+                        "Jean-Luc Mélenchon": 10,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 27,
+                        "Jean-Christophe Lagarde": 1,
+                        "Valérie Pécresse": 11,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Jean-Frédéric Poisson": 0,
+                        "Marine Le Pen": 27,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                },
+            "wauquiez": {
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 1,
+                        "Jean-Luc Mélenchon": 10,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 28,
+                        "Jean-Christophe Lagarde": 1,
+                        "Laurent Wauquiez": 11,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Jean-Frédéric Poisson": 0,
+                        "Marine Le Pen": 26,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                }
+        },
+        "second_tour": {
+                "lepen_macron" : {
+                    "intentions_exprimees": null,
+                    "intentions": {"Marine Le Pen": 45, "Emmanuel Macron": 55}
+                }
+        },
+        "reports": {
+            "bertrand": {
+                "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen"],
+                "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Abstention/Blanc/Nul"],
+                "reports": [
+                    [11, 34, 55],
+                    [10, 42, 48],
+                    [12, 42, 46],
+                    [3, 91, 6],
+                    [29, 37, 34],
+                    [97, 2, 1]
+                ]
+            }
+        }
+     }
 }
