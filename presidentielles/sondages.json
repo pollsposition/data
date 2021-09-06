@@ -1,4 +1,119 @@
 {
+    "20210903_ipsos": {
+        "institut": "Ipsos",
+        "commanditaires": ["franceinfo", "Le Parisien", "Aujourd'hui en France"],
+        "date_debut": "2021-09-02",
+        "date_fin": "2021-09-03",
+        "date_publication": "2021-09-06",
+        "echantillon": 490,
+        "population": "Certains d'aller voter",
+        "methode": "internet",
+        "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2021-09/Enquete%20Ipsos_IV2022%2Bprimaires.pdf",
+        "hypotheses": {
+            "bertrand": "Xavier Bertrand candidat LR/UDI",
+            "pecresse": "Valérie Pécresse candidate LR/UDI",
+            "barnier": "Michel Barnier candidat LR/UDI",
+            "bertrand_zemmour": "Xavier Bertrand candidat LR/UDI et Éric Zemmour candidat",
+            "pecresse_zemmour": "Valérie Pécresse candidate LR/UDI et Éric Zemmour candidat",
+            "barnier_zemmour": "Michel Barnier candidat LR/UDI et Éric Zemmour candidat"
+        },
+        "premier_tour": {
+            "bertrand_zemmour": {
+                "intentions_exprimees": 89,
+                "intentions": {
+                    "Extrême Gauche": 1.5,
+                    "Jean-Luc Mélenchon": 8,
+                    "Fabien Roussel": 1.5,
+                    "Arnaud Montebourg": 2,
+                    "Yannick Jadot": 10,
+                    "Anne Hidalgo": 9,
+                    "Emmanuel Macron": 24,
+                    "Xavier Bertrand": 15,
+                    "Nicolas Dupont-Aignan": 2,
+                    "Marine Le Pen": 19,
+                    "Éric Zemmour": 8
+                }
+            },
+            "pecresse_zemmour": {
+                "intentions_exprimees": 89,
+                "intentions": {
+                    "Extrême Gauche": 1.5,
+                    "Jean-Luc Mélenchon": 8.5,
+                    "Fabien Roussel": 1.5,
+                    "Arnaud Montebourg": 2,
+                    "Yannick Jadot": 10,
+                    "Anne Hidalgo": 9,
+                    "Emmanuel Macron": 24,
+                    "Valérie Pécresse": 14,
+                    "Nicolas Dupont-Aignan": 2.5,
+                    "Marine Le Pen": 19,
+                    "Éric Zemmour": 8
+                }
+            },
+            "barnier_zemmour": {
+                "intentions_exprimees": 89,
+                "intentions": {
+                    "Extrême Gauche": 1.5,
+                    "Jean-Luc Mélenchon": 8.5,
+                    "Fabien Roussel": 1.5,
+                    "Arnaud Montebourg": 2,
+                    "Yannick Jadot": 10,
+                    "Anne Hidalgo": 9,
+                    "Emmanuel Macron": 24,
+                    "Michel Barnier": 11,
+                    "Nicolas Dupont-Aignan": 4,
+                    "Marine Le Pen": 20,
+                    "Éric Zemmour": 8.5
+                }
+            },
+            "bertrand": {
+                "intentions_exprimees": 84,
+                "intentions": {
+                    "Extrême Gauche": 1.5,
+                    "Jean-Luc Mélenchon": 8,
+                    "Fabien Roussel": 1.5,
+                    "Yannick Jadot": 10,
+                    "Arnaud Montebourg": 2,
+                    "Anne Hidalgo": 9,
+                    "Emmanuel Macron": 25,
+                    "Xavier Bertrand": 17,
+                    "Nicolas Dupont-Aignan": 4,
+                    "Marine Le Pen": 22
+                }
+            },
+            "pecresse": {
+                "intentions_exprimees": 85,
+                "intentions": {
+                    "Extrême Gauche": 1.5,
+                    "Jean-Luc Mélenchon": 8,
+                    "Fabien Roussel": 1.5,
+                    "Arnaud Montebourg": 2,
+                    "Yannick Jadot": 10,
+                    "Anne Hidalgo": 9,
+                    "Emmanuel Macron": 25.5,
+                    "Valérie Pécresse": 16,
+                    "Nicolas Dupont-Aignan": 4.5,
+                    "Marine Le Pen": 22
+                }
+            },
+            "barnier": {
+                "intentions_exprimees": 85,
+                "intentions": {
+                    "Extrême Gauche": 1.5,
+                    "Jean-Luc Mélenchon": 8,
+                    "Fabien Roussel": 1.5,
+                    "Arnaud Montebourg": 2,
+                    "Yannick Jadot": 11,
+                    "Anne Hidalgo": 9,
+                    "Emmanuel Macron": 26,
+                    "Michel Barnier": 13,
+                    "Nicolas Dupont-Aignan": 5,
+                    "Marine Le Pen": 23
+                }
+            }
+        }
+    },
+
     "20210830_harris": {
         "institut": "Harris interactive",
         "commanditaires": ["Challenges"],
