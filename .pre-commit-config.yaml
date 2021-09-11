@@ -3,7 +3,7 @@ repos:
     hooks:
     -   id: validate-polls
         name: Validate poll entries
-        entry: python presidentielles/validation.py
+        entry: python sondages/validation.py
         language: system
         types: [python]
         always_run: true

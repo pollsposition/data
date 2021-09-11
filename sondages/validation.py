@@ -255,7 +255,7 @@ class Poll(BaseModel):
 
 if __name__ == "__main__":
     # This will raise an error if the JSON is not properly formatted
-    with open("presidentielles/sondages.json", "r") as data:
+    with open("sondages/presidentielles.json", "r") as data:
         sondages = json.load(data)
 
     for id, sondage in sondages.items():
