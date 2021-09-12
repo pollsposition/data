@@ -1,0 +1,407 @@
+{
+  "2017": {
+    "20170421_odoxa": {
+      "institut": "Odoxa",
+      "commanditaires": [
+        "Le Point"
+      ],
+      "lien": "http://www.odoxa.fr/wp-content/uploads/2017/04/Intention-de-vote-presidentielle-Odoxa-LePoint_210417.pdf",
+      "date_debut": "2021-04-21",
+      "date_fin": "2021-04-21",
+      "methode": "internet",
+      "interroges": 953,
+      "premier_tour": {
+        "base": "SVC",
+        "nspp": 11,
+        "intentions_exprimees": 666,
+        "intentions": {
+          "Nathalie Arthaud": 0,
+          "Philippe Poutou": 1,
+          "Jean-Luc Mélenchon": 19,
+          "Benoît Hamon": 7.5,
+          "Emmanuel Macron": 24.5,
+          "Jean Lassalle": 0.5,
+          "François Fillon": 19,
+          "Nicolas Dupont-Aignan": 4.5,
+          "François Asselineau": 1,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 23
+        },
+        "certitude": {
+          "ensemble": null,
+          "detail": null
+        }
+      }
+    },
+    "20170421_bva": {
+      "institut": "BVA",
+      "commanditaires": [
+        "Presse Régionale",
+        "Orange"
+      ],
+      "lien": "https://www.bva-group.com/wp-content/uploads/2017/04/Intentions-de-vote-Vague-19-POP2017-21-avril-2017-Pr%C3%A9sentation.pdf",
+      "date_debut": "2021-04-20",
+      "date_fin": "2021-04-21",
+      "methode": "internet",
+      "interroges": 1494,
+      "premier_tour": {
+        "base": "SVE",
+        "nspp": 6,
+        "intentions_exprimees": 1134,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 1.5,
+          "Jean-Luc Mélenchon": 19.5,
+          "Benoît Hamon": 8,
+          "Emmanuel Macron": 23,
+          "Jean Lassalle": 1,
+          "François Fillon": 19,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 23
+        },
+        "certitude": {
+          "ensemble": null,
+          "detail": {
+            "Jean-Luc Mélenchon": 70,
+            "Benoît Hamon": 62,
+            "Emmanuel Macron": 73,
+            "François Fillon": 85,
+            "Marine Le Pen": 86
+          }
+        }
+      }
+    },
+    "20170421_ifop": {
+      "institut": "Ifop",
+      "commanditaires": [
+        "Paris Match",
+        "CNews",
+        "Sud Radio"
+      ],
+      "lien": "http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fcdn3-new-parismatch.ladmedia.fr%2Fvar%2Fifop%2F21-04-2017.pdf",
+      "date_debut": "2021-04-18",
+      "date_fin": "2021-04-21",
+      "methode": "internet",
+      "interroges": 2823,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 9.7,
+        "intentions_exprimees": 2115,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 1.5,
+          "Jean-Luc Mélenchon": 18.5,
+          "Benoît Hamon": 7,
+          "Emmanuel Macron": 24.5,
+          "Jean Lassalle": 1,
+          "François Fillon": 19.5,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 1,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 22.5
+        },
+        "certitude": {
+          "ensemble": 74,
+          "detail": {
+            "Jean-Luc Mélenchon": 75,
+            "Benoît Hamon": 63,
+            "Emmanuel Macron": 70,
+            "François Fillon": 79,
+            "Marine Le Pen": 85
+          }
+        }
+      }
+    },
+    "20170420_opinionway": {
+      "institut": "Opinionway",
+      "commanditaires": [
+        "Orpi",
+        "Les Echos",
+        "Radio Classique"
+      ],
+      "lien": "http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fopinionlab.opinion-way.com%2Fdokumenty%2FPresiTRACK-OpinionWay-Orpi-Resultatsdelasemainedu17au21avril.pdf",
+      "date_debut": "2021-04-18",
+      "date_fin": "2021-04-20",
+      "methode": "internet",
+      "interroges": 2269,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 8,
+        "intentions_exprimées": 1495,
+        "intentions": {
+          "Nathalie Arthaud": 0,
+          "Philippe Poutou": 2,
+          "Jean-Luc Mélenchon": 18,
+          "Benoît Hamon": 8,
+          "Emmanuel Macron": 23,
+          "Jean Lassalle": 1,
+          "François Fillon": 21,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 1,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 22
+        },
+        "certitude": {
+          "ensemble": 70,
+          "detail": {
+            "Jean-Luc Mélenchon": 68,
+            "Benoît Hamon": 58,
+            "Emmanuel Macron": 66,
+            "François Fillon": 79,
+            "Nicolas Dupont-Aignan": 54,
+            "Marine Le Pen": 87
+          }
+        }
+      }
+    },
+    "20170420_ipsos": {
+      "institut": "Ipsos",
+      "commanditaires": [
+        "France Télévisions",
+        "Radio France"
+      ],
+      "lien": "http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fwww.ipsos.fr%2Fsites%2Fdefault%2Ffiles%2Fpresidentielle-2017-enquete-ipsos-19-20-avril.pdf",
+      "date_debut": "2021-04-19",
+      "date_fin": "2021-04-20",
+      "methode": "internet",
+      "interroges": 2048,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 7,
+        "intention_exprimees": 1401,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 1.5,
+          "Jean-Luc Mélenchon": 19,
+          "Benoît Hamon": 7.5,
+          "Emmanuel Macron": 24,
+          "Jean Lassalle": 1.5,
+          "François Fillon": 19,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 1,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 22
+        },
+        "certitude": {
+          "ensemble": 69,
+          "detail": {
+            "Jean-Luc Mélenchon": 67,
+            "Benoît Hamon": 51,
+            "Emmanuel Macron": 73,
+            "François Fillon": 83,
+            "Nicolas Dupont-Aignan": 42,
+            "Marine Le Pen": 85
+          }
+        }
+      }
+    },
+    "20170420_elabe": {
+      "institut": "Elabe",
+      "commanditaires": [
+        "BFM TV",
+        "L'Express"
+      ],
+      "lien": "https://elabe.fr/wp-content/uploads/2017/04/20042017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-10.pdf",
+      "date_debut": "2021-04-19",
+      "date_fin": "2021-04-20",
+      "methode": "internet",
+      "interroges": 1445,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 5,
+        "intentions_exprimees": 1137,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 1.5,
+          "Jean-Luc Mélenchon": 19.5,
+          "Benoît Hamon": 7,
+          "Emmanuel Macron": 24,
+          "Jean Lassalle": 1,
+          "François Fillon": 20,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 1,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 21.5
+        },
+        "certitude": {
+          "ensemble": 77,
+          "detail": {
+            "Jean-Luc Mélenchon": 76,
+            "Benoît Hamon": 68,
+            "Emmanuel Macron": 74,
+            "François Fillon": 82,
+            "Marine Le Pen": 89
+          }
+        }
+      }
+    },
+    "20170419_harris": {
+      "institut": "Harris interactive",
+      "commanditaires": [
+        "France Télévisions",
+        "L'émission Politique"
+      ],
+      "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2017/04/Rapport-Harris-intentions-vote-presidentielle-france-televisions-20042017.pdf",
+      "date_debut": "2021-04-18",
+      "date_fin": "2021-04-19",
+      "methode": "internet",
+      "interroges": 2812,
+      "premier_tour": {
+        "base": "I",
+        "nspp": 8,
+        "intentions_exprimees": 2587,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 1.5,
+          "Jean-Luc Mélenchon": 19,
+          "Benoît Hamon": 7.5,
+          "Emmanuel Macron": 25,
+          "Jean Lassalle": 1,
+          "François Fillon": 19,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 22
+        },
+        "certitude": {
+          "ensemble": 75,
+          "detail": {
+            "Jean-Luc Mélenchon": 73,
+            "Benoît Hamon": 62,
+            "Emmanuel Macron": 79,
+            "François Fillon": 85,
+            "Marine Le Pen": 84
+          }
+        }
+      }
+    },
+    "20170419_bva": {
+      "institut": "BVA",
+      "commanditaires": [
+        "Presse Régionale",
+        "Orange"
+      ],
+      "lien": "https://www.bva-group.com/wp-content/uploads/2017/04/Intentions-de-vote-Vague-18-POP2017-19-avril-2017-Pr%C3%A9sentation.pdf",
+      "date_debut": "2021-04-18",
+      "date_fin": "2021-04-19",
+      "methode": "internet",
+      "interroges": 1427,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 5,
+        "intentions_exprimees": 1098,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 1.5,
+          "Jean-Luc Mélenchon": 19,
+          "Benoît Hamon": 8.5,
+          "Emmanuel Macron": 24,
+          "Jean Lassalle": 0.5,
+          "François Fillon": 19,
+          "Nicolas Dupont-Aignan": 3.5,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 23
+        },
+        "certitude": {
+          "ensemble": null,
+          "detail": {
+            "Jean-Luc Mélenchon": 75,
+            "Benoît Hamon": 58,
+            "Emmanuel Macron": 74,
+            "François Fillon": 81,
+            "Marine Le Pen": 86
+          }
+        }
+      }
+    },
+    "20170417_ipsos": {
+      "institut": "Ipsos",
+      "commanditaires": [
+        "CEVIPOF",
+        "Le Monde"
+      ],
+      "lien": "http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fwww.ipsos.fr%2Fsites%2Fdefault%2Ffiles%2Fdoc_associe%2Frapport_vague13.pdf",
+      "date_debut": "2021-04-16",
+      "date_fin": "2021-04-17",
+      "methode": "internet",
+      "interroges": 11601,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 4,
+        "intentions_exprimees": 8274,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 1.5,
+          "Jean-Luc Mélenchon": 19,
+          "Benoît Hamon": 8,
+          "Emmanuel Macron": 23,
+          "Jean Lassalle": 1,
+          "François Fillon": 19.5,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 1,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 22.5
+        },
+        "certitude": {
+          "ensemble": 72,
+          "detail": {
+            "Nathalie Arthaud": 65,
+            "Philippe Poutou": 46,
+            "Jean-Luc Mélenchon": 70,
+            "Benoît Hamon": 61,
+            "Emmanuel Macron": 74,
+            "Jean Lassalle": 36,
+            "François Fillon": 81,
+            "Nicolas Dupont-Aignan": 46,
+            "Marine Le Pen": 84,
+            "François Asselineau": 73
+          }
+        }
+      }
+    },
+    "20170417_kantar": {
+      "institut": "Kantar",
+      "commanditaires": [
+        "LCI",
+        "RTL",
+        "Le Figaro"
+      ],
+      "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2017/avril/8430-pres-kantar-le-figaro.pdf",
+      "date_debut": "2021-04-14",
+      "date_fin": "2021-04-17",
+      "methode": "internet",
+      "interroges": 1530,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": null,
+        "intention_exprimees": 1178,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 2,
+          "Jean-Luc Mélenchon": 18,
+          "Benoît Hamon": 8,
+          "Emmanuel Macron": 24,
+          "Jean Lassalle": 1,
+          "François Fillon": 18.5,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 1,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 23
+        },
+        "certitude": {
+          "ensemble": 65,
+          "detail": {
+            "Jean-Luc Mélenchon": 66,
+            "Benoît Hamon": 56,
+            "Emmanuel Macron": 63,
+            "François Fillon": 80,
+            "Marine Le Pen": 78
+          }
+        }
+      }
+    }
+  }
+}
