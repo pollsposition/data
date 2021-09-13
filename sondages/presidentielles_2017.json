@@ -1,5 +1,5 @@
 {
-  "2017": {
+  "sondages": {
     "20170421_odoxa": {
       "institut": "Odoxa",
       "commanditaires": [
@@ -403,5 +403,6 @@
         }
       }
     }
-  }
+  },
+  "candidats": {}
 }
