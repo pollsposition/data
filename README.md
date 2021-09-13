@@ -15,9 +15,8 @@ Les contributions sont les bienvenues ! Voici ce dont nous avons
 particulièrement besoin en ce moment:
 
 - Report des électeurs de 2017 au premier tour 2022
-- Résultats du premier tour des élections régionales 2021
-- Sondages publiés moins d'un mois avant les présidentielles 2017
-- Sondages publiés moins d'un mois avant les européennes 2019
+- Sondages publiés moins d'un mois avant les présidentielles 2017 ([liste](https://github.com/pollsposition/data/issues/31))
+- Sondages publiés moins d'un mois avant les européennes 2019 ([liste](https://github.com/pollsposition/data/issues/32))
 - Sondages publiés moins d'un mois avant les régionales 2021
 
 Pour contribuer:
