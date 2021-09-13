@@ -519,6 +519,47 @@
         }
       }
     },
+    "20170407_kantar": {
+      "institut": "Kantar",
+      "commanditaires": [
+        "LCI",
+        "RTL",
+        "Le Figaro"
+      ],
+      "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2017/avril/8399-pres-kantar-le-figaro-9-04.pdf",
+      "date_debut": "2021-04-05",
+      "date_fin": "2021-04-07",
+      "methode": "internet",
+      "interroges": 1515,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": null,
+        "intention_exprimees": 1075,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 2.5,
+          "Jean-Luc Mélenchon": 18,
+          "Benoît Hamon": 9,
+          "Emmanuel Macron": 24,
+          "Jean Lassalle": 0.5,
+          "François Fillon": 17,
+          "Nicolas Dupont-Aignan": 3.5,
+          "François Asselineau": 1,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 24
+        },
+        "certitude": {
+          "ensemble": 60,
+          "detail": {
+            "Jean-Luc Mélenchon": 61,
+            "Benoît Hamon": 48,
+            "Emmanuel Macron": 55,
+            "François Fillon": 75,
+            "Marine Le Pen": 76
+          }
+        }
+      }
+    },
     "20170406_opinionway": {
       "institut": "Opinionway",
       "commanditaires": [
@@ -603,7 +644,7 @@
         }
       }
     },
-    "20170330_opinionway": {
+    "20170323_opinionway": {
       "institut": "Opinionway",
       "commanditaires": [
         "Orpi",
