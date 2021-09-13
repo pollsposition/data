@@ -6,7 +6,7 @@ Ce dépôt compile les données utilisées par les modèles et les infographies 
 - Résultats des [élections présidentielles](https://raw.githubusercontent.com/pollsposition/data/main/resultats/presidentielles.json)
 - Résultats des [élections européennes](https://raw.githubusercontent.com/pollsposition/data/main/resultats/europeennes.json)
 - Résultats des [élections régionales](https://raw.githubusercontent.com/pollsposition/data/main/resultats/regionales.json)
-- Sondages pour les [présidentielles 2022](https://raw.githubusercontent.com/pollsposition/data/main/presidentielles/sondages.json)
+- Sondages pour les présidentielles [2022](https://raw.githubusercontent.com/pollsposition/data/main/sondages/presidentielles.json), [2017](https://raw.githubusercontent.com/pollsposition/data/main/sondages/presidentielles_2017.json)
 - Sondages de [popularité des présidents](https://raw.githubusercontent.com/pollsposition/data/main/raw_popularity_presidents.csv)
 
 ## Contribuer
