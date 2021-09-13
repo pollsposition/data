@@ -402,6 +402,248 @@
           }
         }
       }
+    },
+    "20170417_elabe": {
+      "institut": "Elabe",
+      "commanditaires": [
+        "BFM TV",
+        "L'Express"
+      ],
+      "lien": "https://elabe.fr/wp-content/uploads/2017/04/17042017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-9.pdf",
+      "date_debut": "2021-04-16",
+      "date_fin": "2021-04-17",
+      "methode": "internet",
+      "interroges": 1438,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 7,
+        "intentions_exprimees": 1088,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 2,
+          "Jean-Luc Mélenchon": 18,
+          "Benoît Hamon": 8,
+          "Emmanuel Macron": 24,
+          "Jean Lassalle": 0.5,
+          "François Fillon": 19.5,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 23
+        },
+        "certitude": {
+          "ensemble": 73,
+          "detail": {
+            "Jean-Luc Mélenchon": 74,
+            "Benoît Hamon": 53,
+            "Emmanuel Macron": 72,
+            "François Fillon": 76,
+            "Marine Le Pen": 89
+          }
+        }
+      }
+    },
+    "20170408_ifop": {
+      "institut": "Ifop",
+      "commanditaires": [
+        "Paris Match",
+        "Sud Radio"
+      ],
+      "lien": "https://www.ifop.com/wp-content/uploads/2018/03/3724-1-study_file.pdf",
+      "date_debut": "2021-04-07",
+      "date_fin": "2021-04-08",
+      "methode": "internet&telephone",
+      "interroges": 1845,
+      "premier_tour": {
+        "base": "",
+        "nspp": null,
+        "intentions_exprimees": null,
+        "intentions": {
+          "Nathalie Arthaud": 1,
+          "Philippe Poutou": 2,
+          "Jean-Luc Mélenchon": 19,
+          "Benoît Hamon": 8,
+          "Emmanuel Macron": 23,
+          "Jean Lassalle": 1,
+          "François Fillon": 18.5,
+          "Nicolas Dupont-Aignan": 3.5,
+          "François Asselineau": 0,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 24
+        },
+        "certitude": {
+          "ensemble": null,
+          "detail": null
+        }
+      }
+    },
+    "20170413_opinionway": {
+      "institut": "Opinionway",
+      "commanditaires": [
+        "Orpi",
+        "Les Echos",
+        "Radio Classique"
+      ],
+      "lien": "http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fopinionlab.opinion-way.com%2Fdokumenty%2FPresiTRACK-OpinionWay-Orpi-Resultatsdu10au14avril.pdf",
+      "date_debut": "2021-04-11",
+      "date_fin": "2021-04-13",
+      "methode": "internet",
+      "interroges": 1443,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 6,
+        "intentions_exprimées": 973,
+        "intentions": {
+          "Nathalie Arthaud": 0,
+          "Philippe Poutou": 2,
+          "Jean-Luc Mélenchon": 17,
+          "Benoît Hamon": 9,
+          "Emmanuel Macron": 22,
+          "Jean Lassalle": 2,
+          "François Fillon": 20,
+          "Nicolas Dupont-Aignan": 3,
+          "François Asselineau": 2,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 23
+        },
+        "certitude": {
+          "ensemble": 62,
+          "detail": {
+            "Jean-Luc Mélenchon": 52,
+            "Benoît Hamon": 57,
+            "Emmanuel Macron": 63,
+            "François Fillon": 68,
+            "Nicolas Dupont-Aignan": 46,
+            "Marine Le Pen": 79
+          }
+        }
+      }
+    },
+    "20170406_opinionway": {
+      "institut": "Opinionway",
+      "commanditaires": [
+        "Orpi",
+        "Les Echos",
+        "Radio Classique"
+      ],
+      "lien": "http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fopinionlab.opinion-way.com%2Fdokumenty%2FPresiTRACK-OpinionWay-Orpi-Resultats-semaine-3au7avril.pdf",
+      "date_debut": "2021-04-04",
+      "date_fin": "2021-04-06",
+      "methode": "internet",
+      "interroges": 1589,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 8,
+        "intentions_exprimées": 1037,
+        "intentions": {
+          "Nathalie Arthaud": 0,
+          "Philippe Poutou": 2,
+          "Jean-Luc Mélenchon": 16,
+          "Benoît Hamon": 10,
+          "Emmanuel Macron": 24,
+          "Jean Lassalle": 0,
+          "François Fillon": 20,
+          "Nicolas Dupont-Aignan": 3,
+          "François Asselineau": 0,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 25
+        },
+        "certitude": {
+          "ensemble": 59,
+          "detail": {
+            "Jean-Luc Mélenchon": 47,
+            "Benoît Hamon": 44,
+            "Emmanuel Macron": 60,
+            "François Fillon": 74,
+            "Nicolas Dupont-Aignan": 22,
+            "Marine Le Pen": 80
+          }
+        }
+      }
+    },
+    "20170330_opinionway": {
+      "institut": "Opinionway",
+      "commanditaires": [
+        "Orpi",
+        "Les Echos",
+        "Radio Classique"
+      ],
+      "lien": "http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fopinionlab.opinion-way.com%2Fdokumenty%2FPresitrack-synthese-27au31mars.pdf",
+      "date_debut": "2021-03-28",
+      "date_fin": "2021-03-30",
+      "methode": "internet",
+      "interroges": 1609,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 7,
+        "intentions_exprimées": 1044,
+        "intentions": {
+          "Nathalie Arthaud": 0,
+          "Philippe Poutou": 1,
+          "Jean-Luc Mélenchon": 15,
+          "Benoît Hamon": 11,
+          "Emmanuel Macron": 24,
+          "Jean Lassalle": 1,
+          "François Fillon": 19,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 1,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 24
+        },
+        "certitude": {
+          "ensemble": 61,
+          "detail": {
+            "Jean-Luc Mélenchon": 60,
+            "Benoît Hamon": 41,
+            "Emmanuel Macron": 55,
+            "François Fillon": 74,
+            "Nicolas Dupont-Aignan": 25,
+            "Marine Le Pen": 79
+          }
+        }
+      }
+    },
+    "20170330_opinionway": {
+      "institut": "Opinionway",
+      "commanditaires": [
+        "Orpi",
+        "Les Echos",
+        "Radio Classique"
+      ],
+      "lien": "http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fopinionlab.opinion-way.com%2Fdokumenty%2FPresiTRACK-OpinionWay-Orpi-Resultats-de-la-semaine20-24-03.pdf",
+      "date_debut": "2021-03-21",
+      "date_fin": "2021-03-23",
+      "methode": "internet",
+      "interroges": 1103,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 6,
+        "intentions_exprimées": 1044,
+        "intentions": {
+          "Nathalie Arthaud": 1,
+          "Philippe Poutou": 1,
+          "Jean-Luc Mélenchon": 14,
+          "Benoît Hamon": 11,
+          "Emmanuel Macron": 24,
+          "Jean Lassalle": 1,
+          "François Fillon": 19,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 0,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 25
+        },
+        "certitude": {
+          "ensemble": 58,
+          "detail": {
+            "Jean-Luc Mélenchon": 53,
+            "Benoît Hamon": 43,
+            "Emmanuel Macron": 48,
+            "François Fillon": 70,
+            "Nicolas Dupont-Aignan": 25,
+            "Marine Le Pen": 80
+          }
+        }
+      }
     }
   },
   "candidats": {}
