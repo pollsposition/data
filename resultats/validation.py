@@ -37,14 +37,9 @@ class Results(BaseModel):
             )
 
 
-class Presidentielles(BaseModel):
+class ElectionDeuxTours(BaseModel):
     premier_tour: Results
     second_tour: Results
-
-
-class Regionales(BaseModel):
-    premier_tour: dict[str, Results]
-    second_tour: dict[str, Results]
 
 
 def validate_presidentielles():
@@ -53,7 +48,7 @@ def validate_presidentielles():
 
     for year in results:
         try:
-            Presidentielles(**results[year])
+            ElectionDeuxTours(**results[year])
         except ValueError:
             print(f"Presidentielles {year}")
             raise
@@ -76,11 +71,12 @@ def validate_regionales():
         results = json.load(data)
 
     for year in results:
-        try:
-            Regionales(**results[year])
-        except ValueError:
-            print(f"Régionales {year}")
-            raise
+        for resultats in results[year]['resultats'].values():
+            try:
+                ElectionDeuxTours(**resultats)
+            except ValueError:
+                print(f"Régionales {year}")
+                raise
 
 
 if __name__ == "__main__":

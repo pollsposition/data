@@ -1,461 +1,493 @@
 {
   "2021": {
     "lien": "https://www.interieur.gouv.fr/Elections/Les-resultats/Regionales/elecresult__regionales-2021/(path)/regionales-2021/index.html",
-    "premier_tour": {
-      "Auvergne-Rhône-Alpes": {
-        "inscrits": 5403344,
-        "votants": 1761218,
-        "exprimes": 1713647,
-        "resultats": {
-          "Laurent Wauquiez": 751375,
-          "Fabienne Grebert": 248017,
-          "Andréa Kotarac": 211178,
-          "Najat Vallaud-Belkacem": 195727,
-          "Bruno Bonnell": 168292,
-          "Cécile Cukierman": 95434,
-          "Chantal Gomez": 26742,
-          "Sheila Gill": 11198,
-          "Farid Omeir": 5684
-        }
-      },
-      "Bourgogne-Franche-Comté": {
-        "inscrits": 1967032,
-        "votants": 686005,
-        "exprimes": 653942,
-        "resultats": {
-          "Marie-Guite Dufay": 173393,
-          "Julien Odoul": 151625,
-          "Gilles Platret": 137596,
-          "Denis Thuriot": 76457,
-          "Stéphanie Modde": 67618,
-          "Bastien Faudot": 29424,
-          "Claire Rocher": 17829
-        }
-      },
-      "Bretagne": {
-        "inscrits": 2493602,
-        "votants": 892415,
-        "exprimes": 851237,
-        "resultats": {
-          "Loïg Chesnay-Girard": 178362,
-          "Isabelle Le Callennec": 138541,
-          "Thierry Burlot": 132220,
-          "Claire Desmares-Poirrier": 126313,
-          "Gilles Pennelle": 121452,
-          "Daniel Cueff": 55514,
-          "Pierre-Yves Cadalen": 47444,
-          "Valérie Hamon": 19208,
-          "Joannic Martin": 13192,
-          "David Cabas": 11919,
-          "Christophe Daviet": 4198,
-          "Yves Chauvel": 1844,
-          "Kamel Elahiar": 1030
-        }
-      },
-      "Centre-Val de Loire": {
-        "inscrits": 1816435,
-        "votants": 594777,
-        "exprimes": 568784,
-        "resultats": {
-          "François Bonneau": 141136,
-          "Aleksandar Nikolic": 126489,
-          "Nicolas Forissier": 107031,
-          "Marc Fesnau": 94712,
-          "Charles Fournier": 61690,
-          "Jérémy Clément": 23171,
-          "Farida Megdoud": 14555
-        }
-      },
-      "Corse": {
-        "inscrits": 239808,
-        "votants": 136887,
-        "exprimes": 134457,
-        "resultats": {
-          "Gilles Simeoni": 39247,
-          "Laurent Marcangeli": 33432,
-          "Jean-Christophe Angelini": 17772,
-          "Paul-Félix Benedeti": 11282,
-          "Jean-Guy Talamoni": 9280,
-          "Jean-Charles Orsucci": 7957,
-          "François Filoni": 5378,
-          "Agnès Simonpietri": 5039,
-          "Michel Stefani": 4279,
-          "Jean-Antoine Giacomi": 791
-        }
-      },
-      "Grand Est": {
-        "inscrits": 3829952,
-        "votants": 1134179,
-        "exprimes": 1078379,
-        "resultats": {
-          "Jean Rottner": 335954,
-          "Laurent Jacobelli": 227775,
-          "Eliane Romani": 157461,
-          "Brigitte Klinkert": 116120,
-          "Aurélie Filippetti": 93168,
-          "Florian Philippot": 74980,
-          "Martin Meyer": 39568,
-          "Louise Fève": 28091,
-          "Adil Tyane": 5262
-        }
-      },
-      "Guadeloupe": {
-        "inscrits": 316472,
-        "votants": 97379,
-        "exprimes": 91485,
-        "resultats": {
-          "Ary Chalus": 45110,
-          "Josette Bordel-Lincertin": 15900,
-          "Ronald Selbonne": 8591,
-          "Max Matthias Mathiasin": 5090,
-          "Sonia Ibaselle Petro": 3370,
-          "Maxette Pirbakas": 3131,
-          "Eric Coriolan": 2638,
-          "Jean-Marie Normertin": 2443,
-          "Alain Plaisir": 2324,
-          "Christelle Renée Nanor": 1287,
-          "Willy Kevin William": 1069,
-          "Tony Delannay": 532
-        }
-      },
-      "Guyane": {
-        "inscrits": 101818,
-        "votants": 35426,
-        "exprimes": 34361,
-        "resultats": {
-          "Rodolphe Alexandre": 15020,
-          "Gabriel Serville": 9510,
-          "Jean Paul Fereira": 8020,
-          "Jessi Americain": 1811
-        }
-      },
-      "Hauts-de-France": {
-        "inscrits": 4226927,
-        "votants": 2838834,
-        "exprimes": 1330428,
-        "resultats": {
-          "Xavier Bertrand": 551068,
-          "Sébastien Chenu": 324260,
-          "Karima Delli": 252404,
-          "Laurent Pietraszewski": 121466,
-          "Éric Pecqueur": 47325,
-          "José Evrard": 27205,
-          "Audric Alexandre": 6700
-        }
-      },
-      "Ile-de-France": {
-        "inscrits": 7240231,
-        "votants": 2226846,
-        "exprimes": 2170620,
-        "resultats": {
-          "Valérie Pécresse": 785576,
-          "Jordan Bardella": 285115,
-          "Julien Bayou": 282502,
-          "Laurent Saint-Martin": 256402,
-          "Audrey Pulvar": 240839,
-          "Clémentine Autain": 222456,
-          "Victor Pailhac": 38831,
-          "Nathalie Arthaud": 31956,
-          "Éric Berlingen": 12732,
-          "Lionel Brot": 10582,
-          "Fabiola Conti": 3629
-        }
-      },
-      "La Réunion": {
-        "inscrits": 668617,
-        "votants": 424830,
-        "exprimes": 230919,
-        "resultats": {
-          "Didier Robert": 71798,
-          "Huguette Bello": 47899,
-          "Erika Bareigts": 42682,
-          "Vanessa Miranville": 22879,
-          "Patrick Lebreton": 17977,
-          "Olivier Hoarau": 9800,
-          "Philippe Cadet": 6107,
-          "Jean-Pierre Marchau": 4632,
-          "Joseph Rivière": 4012,
-          "Jean Yves Payet": 2627,
-          "Corine De Flore": 506
-        }
-      },
-      "Martinique": {
-        "inscrits": 306530,
-        "votants": 207059,
-        "exprimes": 95614,
-        "resultats": {
-          "Serge Letchimy": 30267,
-          "Alfred Marie-Jeanne": 24664,
-          "Jean-Philippe Nilor": 11481,
-          "Catherine Conconne": 10166,
-          "Yan Monplaisir": 4470,
-          "Philippe Jock": 3747,
-          "Béatrice Bellay": 3407,
-          "Olivier Berisson": 2135,
-          "Max Orville": 1379,
-          "Ralph Donal Yves Monplaisir": 1042,
-          "Guy Christian Marie Ferdinand": 1018,
-          "Marcel Sellaye": 661,
-          "Philippe Petit": 612,
-          "Gabriel Jean-Marie": 565
-        }
-      },
-      "Normandie": {
-        "inscrits": 2384818,
-        "votants": 786762,
-        "exprimes": 754925,
-        "resultats": {
-          "Hervé Morin": 278263,
-          "Nicolas Bay": 149946,
-          "Mélanie Boulanger": 138647,
-          "Laurent Bonnaterre": 83588,
-          "Sébastien Jumel": 72777,
-          "Pascal Le Manach": 23733,
-          "Stéphanie Kernarh": 7971
-        }
-      },
-      "Nouvelle-Aquitaine": {
-        "inscrits": 4352306,
-        "votants": 2787124,
-        "exprimes": 1493620,
-        "resultats": {
-          "Alain Rousset": 430659,
-          "Edwige Diaz": 271771,
-          "Geneviève Darrieussecq": 204767,
-          "Nicolas Florian": 186348,
-          "Nicolas Thierry": 180551,
-          "Eddie Puyjalon": 108882,
-          "Clémence Guetté": 84630,
-          "Guillaume Perchet": 26012
-        }
-      },
-      "Occitanie": {
-        "inscrits": 4220483,
-        "votants": 1571519,
-        "exprimes": 1509081,
-        "resultats": {
-          "Carole Delga": 597157,
-          "Jean-Paul Garraud": 341254,
-          "Aurélien Pradié": 183980,
-          "Antoine Maurice": 133383,
-          "Vincent Terrail-Novès": 132487,
-          "Myriam Martin": 76381,
-          "Malena Adrada": 26720,
-          "Jean-Luc Davezac": 11510,
-          "Anthony Le Boursicaud": 6209
-        }
-      },
-      "Pays de la Loire": {
-        "inscrits": 2775345,
-        "votants": 852833,
-        "exprimes": 813317,
-        "resultats": {
-          "Christelle Morançais": 278948,
-          "Matthieu Orphelin": 152081,
-          "Gauillaume Garot": 132693,
-          "Hervé Juvin": 101951,
-          "François De Rugy": 97371,
-          "Cécile Bayle De Jessé": 24078,
-          "Eddy Le Beller": 21350,
-          "Linda Rigaudeau": 4845
-        }
-      },
-      "Provence-Alpes-Côte d’Azur": {
-        "inscrits": 3580639,
-        "votants": 2373318,
-        "exprimes": 1156069,
-        "resultats": {
-          "Thierry Mariani": 420633,
-          "Renaud Muselier": 368937,
-          "Jean-Laurent Felizia": 195233,
-          "Jean-Marc Governatori": 60991,
-          "Isabelle Bonnet": 31878,
-          "Noël Chuisano": 31204,
-          "Hervé Guerrera": 25209,
-          "Valérie Laupies": 19146,
-          "Mikael Vincenzi": 2838
-        }
-      }
-    },
-    "second_tour": {
-      "Auvergne-Rhône-Alpes": {
-        "inscrits": 5405165,
-        "votants": 1802507,
-        "exprimes": 1740613,
-        "resultats": {
-          "Laurent Wauquiez": 960785,
-          "Fabienne Grebert": 585039,
-          "Andréa Kotarac": 194789
-        }
-      },
-      "Bourgogne-Franche-Comté": {
-        "inscrits": 1967131,
-        "votants": 718744,
-        "exprimes": 686955,
-        "resultats": {
-          "Marie-Guite Dufay": 289926,
-          "Gilles Platret": 166446,
-          "Julien Odoul": 163363,
-          "Denis Thuriot": 67220
-        }
-      },
-      "Bretagne": {
-        "inscrits": 2495250,
-        "votants": 913864,
-        "exprimes": 874268,
-        "resultats": {
-          "Loïc Chesnay-Girard": 260918,
-          "Isabelle Le Callennec": 192127,
-          "Claire Desmares-Poirrier": 176767,
-          "Thierry Burlot": 128915,
-          "Gilles Pennelle": 115541
-        }
-      },
-      "Centre-Val de Loire": {
-        "inscrits": 1816655,
-        "votants": 601939,
-        "exprimes": 576445,
-        "resultats": {
-          "François Bonneau": 225697,
-          "Nicolas Forissier": 130306,
-          "Aleksandar Nikolic": 128183,
-          "Marc Fesnau": 92259
-        }
-      },
-      "Corse": {
-        "inscrits": 239718,
-        "votants": 141223,
-        "exprimes": 136683,
-        "resultats": {
-          "Gilles Simeoni": 55548,
-          "Laurent Marcangeli": 43769,
-          "Jean-Christophe Angelini": 20604,
-          "Paul-Félix Benediti": 16762
-        }
-      },
-      "Grand Est": {
-        "inscrits": 3831079,
-        "votants": 1158443,
-        "exprimes": 1104605,
-        "resultats": {
-          "Jean Rottner": 445185,
-          "Laurent Jacobelli": 290556,
-          "Eliane Romani": 234450,
-          "Brigitte Klinkert": 134414
-        }
-      },
-      "Guadeloupe": {
-        "inscrits": 316465,
-        "votants": 116705,
-        "exprimes": 106960,
-        "resultats": {
-          "Ary Chalus": 77475,
-          "Josette Borel-Lincertin": 29485
-        }
-      },
-      "Guyane": {
-        "inscrits": 101639,
-        "votants": 47550,
-        "exprimes": 46221,
-        "resultats": {
-          "Gabriel Serville": 25342,
-          "Rodolphe Alexandre": 20879
-        }
-      },
-      "Hauts-de-France": {
-        "inscrits": 4227532,
-        "votants": 1402683,
-        "exprimes": 1352831,
-        "resultats": {
-          "Xavier Bertrand": 708518,
-          "Sébastien Chenu": 346918,
-          "Karima Delli": 297395
-        }
-      },
-      "Ile-de-France": {
-        "inscrits": 7241646,
-        "votants": 2408336,
-        "exprimes": 2344999,
-        "resultats": {
-          "Valérie Pécresse": 1076828,
-          "Julien Bayou": 789686,
-          "Jordan Bardella": 253001,
-          "Laurent Saint-Martin": 225484
-        }
-      },
-      "La Réunion": {
-        "inscrits": 668452,
-        "votants": 310825,
-        "exprimes": 294384,
-        "resultats": {
-          "Huguette Bello": 152639,
-          "Didier Robert": 141745
-        }
-      },
-      "Martinique": {
-        "inscrits": 306498,
-        "votants": 137418,
-        "exprimes": 132845,
-        "resultats": {
-          "Serge Letchimy": 50104,
-          "Alfred Marie-Jeanne": 46857,
-          "Catherine Conconne": 19220,
-          "Jean-Philippe Nilor": 16664
-        }
-      },
-      "Normandie": {
-        "inscrits": 2385196,
-        "votants": 785080,
-        "exprimes": 752131,
-        "resultats": {
-          "Hervé Morin": 332889,
-          "Mélanie Boulanger": 196893,
-          "Nicolas Bay": 146838,
-          "Laurent Bonnaterre": 75511
-        }
-      },
-      "Nouvelle-Aquitaine": {
-        "inscrits": 4352880,
-        "votants": 1592008,
-        "exprimes": 1513971,
-        "resultats": {
-          "Alain Rousset": 598193,
-          "Edwige Diaz": 289258,
-          "Nicolas Florian": 214859,
-          "Nicolas Thierry": 214767,
-          "Geneviève Darrieussecq": 196894
-        }
-      },
-      "Occitanie": {
-        "inscrits": 4220832,
-        "votants": 1596944,
-        "exprimes": 1526890,
-        "resultats": {
-          "Carole Delga": 882166,
-          "Jean-Paul Garraud": 366471,
-          "Aurélien Pradié": 278253
-        }
-      },
-      "Pays de la Loire": {
-        "inscrits": 2776091,
-        "votants": 879044,
-        "exprimes": 845297,
-        "resultats": {
-          "Christelle Morançais": 392640,
-          "Matthieu Orphelin": 294705,
-          "Hervé Juvin": 88603,
-          "François De Rugy": 69349
-        }
-      },
-      "Provence-Alpes-Côte d’Azur": {
-        "inscrits": 3581337,
-        "votants": 1319346,
-        "exprimes": 1229313,
-        "resultats": {
-          "Renaud Muselier": 704431,
-          "Thierry Mariani": 524882
-        }
-      }
+    "resultats": {
+	"Auvergne-Rhône-Alpes": {
+	  "premier_tour": {
+	    "inscrits": 5403344,
+	    "votants": 1761218,
+	    "exprimes": 1713647,
+	    "resultats": {
+	      "Laurent Wauquiez": 751375,
+	      "Fabienne Grebert": 248017,
+	      "Andréa Kotarac": 211178,
+	      "Najat Vallaud-Belkacem": 195727,
+	      "Bruno Bonnell": 168292,
+	      "Cécile Cukierman": 95434,
+	      "Chantal Gomez": 26742,
+	      "Sheila Gill": 11198,
+	      "Farid Omeir": 5684
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 5405165,
+	    "votants": 1802507,
+	    "exprimes": 1740613,
+	    "resultats": {
+	      "Laurent Wauquiez": 960785,
+	      "Fabienne Grebert": 585039,
+	      "Andréa Kotarac": 194789
+	    }
+	  }
+	},
+	"Bourgogne-Franche-Comté": {
+	  "premier_tour": {
+	    "inscrits": 1967032,
+	    "votants": 686005,
+	    "exprimes": 653942,
+	    "resultats": {
+	      "Marie-Guite Dufay": 173393,
+	      "Julien Odoul": 151625,
+	      "Gilles Platret": 137596,
+	      "Denis Thuriot": 76457,
+	      "Stéphanie Modde": 67618,
+	      "Bastien Faudot": 29424,
+	      "Claire Rocher": 17829
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 1967131,
+	    "votants": 718744,
+	    "exprimes": 686955,
+	    "resultats": {
+	      "Marie-Guite Dufay": 289926,
+	      "Gilles Platret": 166446,
+	      "Julien Odoul": 163363,
+	      "Denis Thuriot": 67220
+	    }
+	  }
+	},
+	"Bretagne": {
+	  "premier_tour": {
+	    "inscrits": 2493602,
+	    "votants": 892415,
+	    "exprimes": 851237,
+	    "resultats": {
+	      "Loïg Chesnay-Girard": 178362,
+	      "Isabelle Le Callennec": 138541,
+	      "Thierry Burlot": 132220,
+	      "Claire Desmares-Poirrier": 126313,
+	      "Gilles Pennelle": 121452,
+	      "Daniel Cueff": 55514,
+	      "Pierre-Yves Cadalen": 47444,
+	      "Valérie Hamon": 19208,
+	      "Joannic Martin": 13192,
+	      "David Cabas": 11919,
+	      "Christophe Daviet": 4198,
+	      "Yves Chauvel": 1844,
+	      "Kamel Elahiar": 1030
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 2495250,
+	    "votants": 913864,
+	    "exprimes": 874268,
+	    "resultats": {
+	      "Loïc Chesnay-Girard": 260918,
+	      "Isabelle Le Callennec": 192127,
+	      "Claire Desmares-Poirrier": 176767,
+	      "Thierry Burlot": 128915,
+	      "Gilles Pennelle": 115541
+	    }
+	  }
+	},
+	"Centre-Val de Loire": {
+	  "premier_tour": {
+	    "inscrits": 1816435,
+	    "votants": 594777,
+	    "exprimes": 568784,
+	    "resultats": {
+	      "François Bonneau": 141136,
+	      "Aleksandar Nikolic": 126489,
+	      "Nicolas Forissier": 107031,
+	      "Marc Fesnau": 94712,
+	      "Charles Fournier": 61690,
+	      "Jérémy Clément": 23171,
+	      "Farida Megdoud": 14555
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 1816655,
+	    "votants": 601939,
+	    "exprimes": 576445,
+	    "resultats": {
+	      "François Bonneau": 225697,
+	      "Nicolas Forissier": 130306,
+	      "Aleksandar Nikolic": 128183,
+	      "Marc Fesnau": 92259
+	    }
+	  }
+	},
+	"Corse": {
+	  "premier_tour": {
+	    "inscrits": 239808,
+	    "votants": 136887,
+	    "exprimes": 134457,
+	    "resultats": {
+	      "Gilles Simeoni": 39247,
+	      "Laurent Marcangeli": 33432,
+	      "Jean-Christophe Angelini": 17772,
+	      "Paul-Félix Benedeti": 11282,
+	      "Jean-Guy Talamoni": 9280,
+	      "Jean-Charles Orsucci": 7957,
+	      "François Filoni": 5378,
+	      "Agnès Simonpietri": 5039,
+	      "Michel Stefani": 4279,
+	      "Jean-Antoine Giacomi": 791
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 239718,
+	    "votants": 141223,
+	    "exprimes": 136683,
+	    "resultats": {
+	      "Gilles Simeoni": 55548,
+	      "Laurent Marcangeli": 43769,
+	      "Jean-Christophe Angelini": 20604,
+	      "Paul-Félix Benediti": 16762
+	    }
+	  }
+	},
+	"Grand Est": {
+	  "premier_tour": {
+	    "inscrits": 3829952,
+	    "votants": 1134179,
+	    "exprimes": 1078379,
+	    "resultats": {
+	      "Jean Rottner": 335954,
+	      "Laurent Jacobelli": 227775,
+	      "Eliane Romani": 157461,
+	      "Brigitte Klinkert": 116120,
+	      "Aurélie Filippetti": 93168,
+	      "Florian Philippot": 74980,
+	      "Martin Meyer": 39568,
+	      "Louise Fève": 28091,
+	      "Adil Tyane": 5262
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 3831079,
+	    "votants": 1158443,
+	    "exprimes": 1104605,
+	    "resultats": {
+	      "Jean Rottner": 445185,
+	      "Laurent Jacobelli": 290556,
+	      "Eliane Romani": 234450,
+	      "Brigitte Klinkert": 134414
+	    }
+	  }
+	},
+	"Guadeloupe": {
+	  "premier_tour": {
+	    "inscrits": 316472,
+	    "votants": 97379,
+	    "exprimes": 91485,
+	    "resultats": {
+	      "Ary Chalus": 45110,
+	      "Josette Bordel-Lincertin": 15900,
+	      "Ronald Selbonne": 8591,
+	      "Max Matthias Mathiasin": 5090,
+	      "Sonia Ibaselle Petro": 3370,
+	      "Maxette Pirbakas": 3131,
+	      "Eric Coriolan": 2638,
+	      "Jean-Marie Normertin": 2443,
+	      "Alain Plaisir": 2324,
+	      "Christelle Renée Nanor": 1287,
+	      "Willy Kevin William": 1069,
+	      "Tony Delannay": 532
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 316465,
+	    "votants": 116705,
+	    "exprimes": 106960,
+	    "resultats": {
+	      "Ary Chalus": 77475,
+	      "Josette Borel-Lincertin": 29485
+	    }
+	  }
+	},
+	"Guyane": {
+	  "premier_tour": {
+	    "inscrits": 101818,
+	    "votants": 35426,
+	    "exprimes": 34361,
+	    "resultats": {
+	      "Rodolphe Alexandre": 15020,
+	      "Gabriel Serville": 9510,
+	      "Jean Paul Fereira": 8020,
+	      "Jessi Americain": 1811
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 101639,
+	    "votants": 47550,
+	    "exprimes": 46221,
+	    "resultats": {
+	      "Gabriel Serville": 25342,
+	      "Rodolphe Alexandre": 20879
+	    }
+	  }
+	},
+	"Hauts-de-France": {
+	  "premier_tour": {
+	    "inscrits": 4226927,
+	    "votants": 2838834,
+	    "exprimes": 1330428,
+	    "resultats": {
+	      "Xavier Bertrand": 551068,
+	      "Sébastien Chenu": 324260,
+	      "Karima Delli": 252404,
+	      "Laurent Pietraszewski": 121466,
+	      "Éric Pecqueur": 47325,
+	      "José Evrard": 27205,
+	      "Audric Alexandre": 6700
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 4227532,
+	    "votants": 1402683,
+	    "exprimes": 1352831,
+	    "resultats": {
+	      "Xavier Bertrand": 708518,
+	      "Sébastien Chenu": 346918,
+	      "Karima Delli": 297395
+	    }
+	  }
+	},
+	"Ile-de-France": {
+	  "premier_tour": {
+	    "inscrits": 7240231,
+	    "votants": 2226846,
+	    "exprimes": 2170620,
+	    "resultats": {
+	      "Valérie Pécresse": 785576,
+	      "Jordan Bardella": 285115,
+	      "Julien Bayou": 282502,
+	      "Laurent Saint-Martin": 256402,
+	      "Audrey Pulvar": 240839,
+	      "Clémentine Autain": 222456,
+	      "Victor Pailhac": 38831,
+	      "Nathalie Arthaud": 31956,
+	      "Éric Berlingen": 12732,
+	      "Lionel Brot": 10582,
+	      "Fabiola Conti": 3629
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 7241646,
+	    "votants": 2408336,
+	    "exprimes": 2344999,
+	    "resultats": {
+	      "Valérie Pécresse": 1076828,
+	      "Julien Bayou": 789686,
+	      "Jordan Bardella": 253001,
+	      "Laurent Saint-Martin": 225484
+	    }
+	  }
+	},
+	"La Réunion": {
+	  "premier_tour": {
+	    "inscrits": 668617,
+	    "votants": 424830,
+	    "exprimes": 230919,
+	    "resultats": {
+	      "Didier Robert": 71798,
+	      "Huguette Bello": 47899,
+	      "Erika Bareigts": 42682,
+	      "Vanessa Miranville": 22879,
+	      "Patrick Lebreton": 17977,
+	      "Olivier Hoarau": 9800,
+	      "Philippe Cadet": 6107,
+	      "Jean-Pierre Marchau": 4632,
+	      "Joseph Rivière": 4012,
+	      "Jean Yves Payet": 2627,
+	      "Corine De Flore": 506
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 668452,
+	    "votants": 310825,
+	    "exprimes": 294384,
+	    "resultats": {
+	      "Huguette Bello": 152639,
+	      "Didier Robert": 141745
+	    }
+	  }
+	},
+	"Martinique": {
+	  "premier_tour": {
+	    "inscrits": 306530,
+	    "votants": 207059,
+	    "exprimes": 95614,
+	    "resultats": {
+	      "Serge Letchimy": 30267,
+	      "Alfred Marie-Jeanne": 24664,
+	      "Jean-Philippe Nilor": 11481,
+	      "Catherine Conconne": 10166,
+	      "Yan Monplaisir": 4470,
+	      "Philippe Jock": 3747,
+	      "Béatrice Bellay": 3407,
+	      "Olivier Berisson": 2135,
+	      "Max Orville": 1379,
+	      "Ralph Donal Yves Monplaisir": 1042,
+	      "Guy Christian Marie Ferdinand": 1018,
+	      "Marcel Sellaye": 661,
+	      "Philippe Petit": 612,
+	      "Gabriel Jean-Marie": 565
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 306498,
+	    "votants": 137418,
+	    "exprimes": 132845,
+	    "resultats": {
+	      "Serge Letchimy": 50104,
+	      "Alfred Marie-Jeanne": 46857,
+	      "Catherine Conconne": 19220,
+	      "Jean-Philippe Nilor": 16664
+	    }
+	  }
+	},
+	"Normandie": {
+	  "premier_tour": {
+	    "inscrits": 2384818,
+	    "votants": 786762,
+	    "exprimes": 754925,
+	    "resultats": {
+	      "Hervé Morin": 278263,
+	      "Nicolas Bay": 149946,
+	      "Mélanie Boulanger": 138647,
+	      "Laurent Bonnaterre": 83588,
+	      "Sébastien Jumel": 72777,
+	      "Pascal Le Manach": 23733,
+	      "Stéphanie Kernarh": 7971
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 2385196,
+	    "votants": 785080,
+	    "exprimes": 752131,
+	    "resultats": {
+	      "Hervé Morin": 332889,
+	      "Mélanie Boulanger": 196893,
+	      "Nicolas Bay": 146838,
+	      "Laurent Bonnaterre": 75511
+	    }
+	  }
+	},
+	"Nouvelle-Aquitaine": {
+	  "premier_tour": {
+	    "inscrits": 4352306,
+	    "votants": 2787124,
+	    "exprimes": 1493620,
+	    "resultats": {
+	      "Alain Rousset": 430659,
+	      "Edwige Diaz": 271771,
+	      "Geneviève Darrieussecq": 204767,
+	      "Nicolas Florian": 186348,
+	      "Nicolas Thierry": 180551,
+	      "Eddie Puyjalon": 108882,
+	      "Clémence Guetté": 84630,
+	      "Guillaume Perchet": 26012
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 4352880,
+	    "votants": 1592008,
+	    "exprimes": 1513971,
+	    "resultats": {
+	      "Alain Rousset": 598193,
+	      "Edwige Diaz": 289258,
+	      "Nicolas Florian": 214859,
+	      "Nicolas Thierry": 214767,
+	      "Geneviève Darrieussecq": 196894
+	    }
+	  }
+	},
+	"Occitanie": {
+	  "premier_tour": {
+	    "inscrits": 4220483,
+	    "votants": 1571519,
+	    "exprimes": 1509081,
+	    "resultats": {
+	      "Carole Delga": 597157,
+	      "Jean-Paul Garraud": 341254,
+	      "Aurélien Pradié": 183980,
+	      "Antoine Maurice": 133383,
+	      "Vincent Terrail-Novès": 132487,
+	      "Myriam Martin": 76381,
+	      "Malena Adrada": 26720,
+	      "Jean-Luc Davezac": 11510,
+	      "Anthony Le Boursicaud": 6209
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 4220832,
+	    "votants": 1596944,
+	    "exprimes": 1526890,
+	    "resultats": {
+	      "Carole Delga": 882166,
+	      "Jean-Paul Garraud": 366471,
+	      "Aurélien Pradié": 278253
+	    }
+	  }
+	},
+	"Pays de la Loire": {
+	  "premier_tour": {
+	    "inscrits": 2775345,
+	    "votants": 852833,
+	    "exprimes": 813317,
+	    "resultats": {
+	      "Christelle Morançais": 278948,
+	      "Matthieu Orphelin": 152081,
+	      "Gauillaume Garot": 132693,
+	      "Hervé Juvin": 101951,
+	      "François De Rugy": 97371,
+	      "Cécile Bayle De Jessé": 24078,
+	      "Eddy Le Beller": 21350,
+	      "Linda Rigaudeau": 4845
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 2776091,
+	    "votants": 879044,
+	    "exprimes": 845297,
+	    "resultats": {
+	      "Christelle Morançais": 392640,
+	      "Matthieu Orphelin": 294705,
+	      "Hervé Juvin": 88603,
+	      "François De Rugy": 69349
+	    }
+	  }
+	},
+	"Provence-Alpes-Côte d’Azur": {
+	  "premier_tour": {
+	    "inscrits": 3580639,
+	    "votants": 2373318,
+	    "exprimes": 1156069,
+	    "resultats": {
+	      "Thierry Mariani": 420633,
+	      "Renaud Muselier": 368937,
+	      "Jean-Laurent Felizia": 195233,
+	      "Jean-Marc Governatori": 60991,
+	      "Isabelle Bonnet": 31878,
+	      "Noël Chuisano": 31204,
+	      "Hervé Guerrera": 25209,
+	      "Valérie Laupies": 19146,
+	      "Mikael Vincenzi": 2838
+	    }
+	  },
+	  "second_tour": {
+	    "inscrits": 3581337,
+	    "votants": 1319346,
+	    "exprimes": 1229313,
+	    "resultats": {
+	      "Renaud Muselier": 704431,
+	      "Thierry Mariani": 524882
+	    }
+	  }
+	}
     }
   }
 }
