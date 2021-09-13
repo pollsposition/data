@@ -20,13 +20,14 @@ particulièrement besoin en ce moment:
 - Sondages publiés moins d'un mois avant les régionales 2021
 
 Pour contribuer:
-- Ouvrez une [issue](https://github.com/pollsposition/data/issues) pour signaler que vous ajoutez un jeu de données. Soyez
-  précis dans la description du jeu de données ajouté;
-- Mieux, ouvrez une draft Pull Request dès que possible. Convertissez-la en Pull
-  Request normale dès que le jeu de données est prêt à être ajouté;
-- Merci d'ajouter le lien vers la source de données dans la Pull Request pour
-  faciliter la relecture.
 
+0. *Lire les spécifications* pour les [présidentielles](https://github.com/pollsposition/data/issues/35)
+1. Ouvrez une [issue](https://github.com/pollsposition/data/issues) pour signaler que vous ajoutez un jeu de données. Soyez
+  précis dans la description du jeu de données ajouté;
+2. Mieux, ouvrez une draft Pull Request dès que possible. Convertissez-la en Pull Request normale dès que le jeu de données est prêt à être ajouté;
+3. Merci d'ajouter le lien vers la source de données dans la Pull Request pour faciliter la relecture.
+
+Ne pas hésitez à commenter dans l'issue relative aux spécifications si quelque chose n'est pas clair ou s'il y a un problème.
 
 ## Nous contacter
 
