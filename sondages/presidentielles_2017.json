@@ -477,6 +477,45 @@
         }
       }
     },
+    "20170413_odoxa": {
+      "institut": "Odoxa",
+      "commanditaires": [
+        "Le Point"
+      ],
+      "lien": "http://www.odoxa.fr/wp-content/uploads/2017/04/Intention-de-vote-presidentielle-Dentsu-Consulting-LePoint_140417.pdf",
+      "date_debut": "2021-04-12",
+      "date_fin": "2021-04-13",
+      "methode": "internet",
+      "interroges": 950,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 12,
+        "intentions_exprimees": 754,
+        "intentions": {
+          "Nathalie Arthaud": 0,
+          "Philippe Poutou": 1.5,
+          "Jean-Luc Mélenchon": 19,
+          "Benoît Hamon": 8,
+          "Emmanuel Macron": 24.5,
+          "Jean Lassalle": 1.5,
+          "François Fillon": 18.5,
+          "Nicolas Dupont-Aignan": 3.5,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 23
+        },
+        "certitude": {
+          "ensemble": null,
+          "detail": {
+            "Jean-Luc Mélenchon": 72,
+            "Benoît Hamon": 48,
+            "Emmanuel Macron": 74,
+            "François Fillon": 75,
+            "Marine Le Pen": 90
+          }
+        }
+      }
+    },
     "20170413_opinionway": {
       "institut": "Opinionway",
       "commanditaires": [
@@ -602,6 +641,84 @@
         }
       }
     },
+    "20170405_odoxa": {
+      "institut": "Odoxa",
+      "commanditaires": [
+        "Le Point"
+      ],
+      "lien": "http://www.odoxa.fr/wp-content/uploads/2017/04/Intention-de-vote-presidentielle-Dentsu-Consulting-LePoint-07-04-17_15h.pdf",
+      "date_debut": "2021-04-05",
+      "date_fin": "2021-04-05",
+      "methode": "internet",
+      "interroges": 955,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 17,
+        "intentions_exprimees": 799,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 2,
+          "Jean-Luc Mélenchon": 18,
+          "Benoît Hamon": 9,
+          "Emmanuel Macron": 23.5,
+          "Jean Lassalle": 0.5,
+          "François Fillon": 18.5,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 1,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 23
+        },
+        "certitude": {
+          "ensemble": null,
+          "detail": {
+            "Jean-Luc Mélenchon": 70,
+            "Benoît Hamon": 73,
+            "Emmanuel Macron": 71,
+            "François Fillon": 85,
+            "Marine Le Pen": 86
+          }
+        }
+      }
+    },
+    "20170330_odoxa": {
+      "institut": "Odoxa",
+      "commanditaires": [
+        "Le Point"
+      ],
+      "lien": "http://www.odoxa.fr/wp-content/uploads/2017/03/Intention-de-vote-presidentielle-Dentsu-Consulting-LePoint-31-03-17.pdf",
+      "date_debut": "2021-03-29",
+      "date_fin": "2021-03-30",
+      "methode": "internet",
+      "interroges": 969,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 17,
+        "intentions_exprimees": 787,
+        "intentions": {
+          "Nathalie Arthaud": 0,
+          "Philippe Poutou": 1.5,
+          "Jean-Luc Mélenchon": 16,
+          "Benoît Hamon": 8,
+          "Emmanuel Macron": 26,
+          "Jean Lassalle": 1,
+          "François Fillon": 17,
+          "Nicolas Dupont-Aignan": 5,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 25
+        },
+        "certitude": {
+          "ensemble": null,
+          "detail": {
+            "Jean-Luc Mélenchon": 58,
+            "Benoît Hamon": 61,
+            "Emmanuel Macron": 69,
+            "François Fillon": 84,
+            "Marine Le Pen": 85
+          }
+        }
+      }
+    },
     "20170330_opinionway": {
       "institut": "Opinionway",
       "commanditaires": [
@@ -682,6 +799,45 @@
             "François Fillon": 70,
             "Nicolas Dupont-Aignan": 25,
             "Marine Le Pen": 80
+          }
+        }
+      }
+    },
+    "20170316_odoxa": {
+      "institut": "Odoxa",
+      "commanditaires": [
+        "Le Point"
+      ],
+      "lien": "http://www.odoxa.fr/wp-content/uploads/2017/03/Odoxa-Dentsu-pour-13h15-Intention-de-Vote-Presidentielle-2.pdf",
+      "date_debut": "2021-03-15",
+      "date_fin": "2021-03-16",
+      "methode": "internet",
+      "interroges": 964,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 20,
+        "intentions_exprimees": 672,
+        "intentions": {
+          "Nathalie Arthaud": 1,
+          "Philippe Poutou": 1,
+          "Jean-Luc Mélenchon": 10.5,
+          "Benoît Hamon": 12.5,
+          "Emmanuel Macron": 26.5,
+          "Jean Lassalle": 0,
+          "François Fillon": 19,
+          "Nicolas Dupont-Aignan": 3,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 26
+        },
+        "certitude": {
+          "ensemble": null,
+          "detail": {
+            "Jean-Luc Mélenchon": 59,
+            "Benoît Hamon": 61,
+            "Emmanuel Macron": 57,
+            "François Fillon": 71,
+            "Marine Le Pen": 85
           }
         }
       }
