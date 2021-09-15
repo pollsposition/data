@@ -483,6 +483,46 @@
         }
       }
     },
+    "20170412_elabe": {
+      "institut": "Elabe",
+      "commanditaires": [
+        "Les Echos",
+        "Radio Classique"
+      ],
+      "lien": "https://elabe.fr/wp-content/uploads/2017/04/13042017_les_echos_radio_classique_intentions-de-vote-presidentielles.pdf",
+      "date_debut": "2021-04-11",
+      "date_fin": "2021-04-12",
+      "methode": "internet",
+      "interroges": 1010,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 7,
+        "intentions_exprimees": 776,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 2,
+          "Jean-Luc Mélenchon": 18.5,
+          "Benoît Hamon": 9,
+          "Emmanuel Macron": 23.5,
+          "Jean Lassalle": 0.5,
+          "François Fillon": 20,
+          "Nicolas Dupont-Aignan": 3,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 22.5
+        },
+        "certitude": {
+          "ensemble": 70,
+          "detail": {
+            "Jean-Luc Mélenchon": 63,
+            "Benoît Hamon": 56,
+            "Emmanuel Macron": 68,
+            "François Fillon": 71,
+            "Marine Le Pen": 89
+          }
+        }
+      }
+    },
     "20170408_ifop": {
       "institut": "Ifop",
       "commanditaires": [
@@ -552,6 +592,46 @@
             "Benoît Hamon": 67,
             "Emmanuel Macron": 67,
             "François Fillon": 78,
+            "Marine Le Pen": 81
+          }
+        }
+      }
+    },
+    "20170405_elabe": {
+      "institut": "Elabe",
+      "commanditaires": [
+        "L'Express",
+        "BFM TV"
+      ],
+      "lien": "https://elabe.fr/wp-content/uploads/2017/04/05042017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-7.pdf",
+      "date_debut": "2021-04-05",
+      "date_fin": "2021-04-05",
+      "methode": "internet",
+      "interroges": 995,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 7,
+        "intentions_exprimees": 776,
+        "intentions": {
+          "Nathalie Arthaud": 1,
+          "Philippe Poutou": 1.5,
+          "Jean-Luc Mélenchon": 17,
+          "Benoît Hamon": 9,
+          "Emmanuel Macron": 23.5,
+          "Jean Lassalle": 1,
+          "François Fillon": 19,
+          "Nicolas Dupont-Aignan": 4.5,
+          "François Asselineau": 0,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 23.5
+        },
+        "certitude": {
+          "ensemble": 70,
+          "detail": {
+            "Jean-Luc Mélenchon": 61,
+            "Benoît Hamon": 61,
+            "Emmanuel Macron": 67,
+            "François Fillon": 81,
             "Marine Le Pen": 81
           }
         }
@@ -881,6 +961,46 @@
         }
       }
     },
+    "20170329_elabe": {
+      "institut": "Elabe",
+      "commanditaires": [
+        "L'Express",
+        "BFM TV"
+      ],
+      "lien": "https://elabe.fr/wp-content/uploads/2017/03/29032017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-6.pdf",
+      "date_debut": "2021-03-28",
+      "date_fin": "2021-03-29",
+      "methode": "internet",
+      "interroges": 998,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 7,
+        "intentions_exprimees": 757,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 0.5,
+          "Jean-Luc Mélenchon": 15,
+          "Benoît Hamon": 10,
+          "Emmanuel Macron": 25.5,
+          "Jean Lassalle": 1,
+          "François Fillon": 18,
+          "Nicolas Dupont-Aignan": 4.5,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0.5,
+          "Marine Le Pen": 24
+        },
+        "certitude": {
+          "ensemble": 67,
+          "detail": {
+            "Jean-Luc Mélenchon": 62,
+            "Benoît Hamon": 42,
+            "Emmanuel Macron": 62,
+            "François Fillon": 76,
+            "Marine Le Pen": 86
+          }
+        }
+      }
+    },
     "20170324_bva": {
       "institut": "BVA",
       "commanditaires": [
@@ -959,6 +1079,46 @@
             "François Fillon": 70,
             "Nicolas Dupont-Aignan": 25,
             "Marine Le Pen": 80
+          }
+        }
+      }
+    },
+    "20170321_elabe": {
+      "institut": "Elabe",
+      "commanditaires": [
+        "L'Express",
+        "BFM TV"
+      ],
+      "lien": "https://elabe.fr/wp-content/uploads/2017/03/21032017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-5-1.pdf",
+      "date_debut": "2021-03-21",
+      "date_fin": "2021-03-21",
+      "methode": "internet",
+      "interroges": 997,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 7,
+        "intentions_exprimees": 746,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 0.5,
+          "Jean-Luc Mélenchon": 13.5,
+          "Benoît Hamon": 11.5,
+          "Emmanuel Macron": 26,
+          "Jean Lassalle": 1,
+          "François Fillon": 17,
+          "Nicolas Dupont-Aignan": 5,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 24.5
+        },
+        "certitude": {
+          "ensemble": 67,
+          "detail": {
+            "Jean-Luc Mélenchon": 55,
+            "Benoît Hamon": 64,
+            "Emmanuel Macron": 62,
+            "François Fillon": 73,
+            "Marine Le Pen": 84
           }
         }
       }
