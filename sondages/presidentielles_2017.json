@@ -443,6 +443,46 @@
         }
       }
     },
+    "20170414_bva": {
+      "institut": "BVA",
+      "commanditaires": [
+        "Presse Régionale",
+        "Orange"
+      ],
+      "lien": "https://www.bva-group.com/wp-content/uploads/2017/04/Intentions-de-vote-Vague-17-POP2017-14-avril-2017-Pr%C3%A9sentation.pdf",
+      "date_debut": "2021-04-12",
+      "date_fin": "2021-04-14",
+      "methode": "internet",
+      "interroges": 1493,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 6,
+        "intentions_exprimees": 1044,
+        "intentions": {
+          "Nathalie Arthaud": 1,
+          "Philippe Poutou": 1.5,
+          "Jean-Luc Mélenchon": 20,
+          "Benoît Hamon": 7.5,
+          "Emmanuel Macron": 23,
+          "Jean Lassalle": 1,
+          "François Fillon": 20,
+          "Nicolas Dupont-Aignan": 3,
+          "François Asselineau": 1,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 22
+        },
+        "certitude": {
+          "ensemble": null,
+          "detail": {
+            "Jean-Luc Mélenchon": 59,
+            "Benoît Hamon": 43,
+            "Emmanuel Macron": 63,
+            "François Fillon": 79,
+            "Marine Le Pen": 89
+          }
+        }
+      }
+    },
     "20170408_ifop": {
       "institut": "Ifop",
       "commanditaires": [
@@ -474,6 +514,46 @@
         "certitude": {
           "ensemble": null,
           "detail": null
+        }
+      }
+    },
+    "20170407_bva": {
+      "institut": "BVA",
+      "commanditaires": [
+        "Presse Régionale",
+        "Orange"
+      ],
+      "lien": "https://www.bva-group.com/wp-content/uploads/2017/04/Intentions-de-vote-Vague-16-POP2017-8-avril-2017-Pr%C3%A9sentation.pdf",
+      "date_debut": "2021-04-05",
+      "date_fin": "2021-04-07",
+      "methode": "internet",
+      "interroges": 1421,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 9,
+        "intentions_exprimees": 1006,
+        "intentions": {
+          "Nathalie Arthaud": 1,
+          "Philippe Poutou": 1.5,
+          "Jean-Luc Mélenchon": 19,
+          "Benoît Hamon": 8.5,
+          "Emmanuel Macron": 23,
+          "Jean Lassalle": 1,
+          "François Fillon": 19,
+          "Nicolas Dupont-Aignan": 3.5,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 23
+        },
+        "certitude": {
+          "ensemble": null,
+          "detail": {
+            "Jean-Luc Mélenchon": 66,
+            "Benoît Hamon": 67,
+            "Emmanuel Macron": 67,
+            "François Fillon": 78,
+            "Marine Le Pen": 81
+          }
         }
       }
     },
@@ -680,6 +760,46 @@
         }
       }
     },
+    "20170330_bva": {
+      "institut": "BVA",
+      "commanditaires": [
+        "Presse Régionale",
+        "Orange"
+      ],
+      "lien": "https://www.bva-group.com/wp-content/uploads/2017/03/fichier_intentions_de_vote_-_vague_15_-_pop2017_-_1er_avril_2017_-_presentation70fea.pdf",
+      "date_debut": "2021-03-29",
+      "date_fin": "2021-03-30",
+      "methode": "internet",
+      "interroges": 1418,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 7,
+        "intentions_exprimees": 1010,
+        "intentions": {
+          "Nathalie Arthaud": 1,
+          "Philippe Poutou": 0.5,
+          "Jean-Luc Mélenchon": 15,
+          "Benoît Hamon": 11.5,
+          "Emmanuel Macron": 25,
+          "Jean Lassalle": 0.5,
+          "François Fillon": 19,
+          "Nicolas Dupont-Aignan": 3,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 24
+        },
+        "certitude": {
+          "ensemble": null,
+          "detail": {
+            "Jean-Luc Mélenchon": 59,
+            "Benoît Hamon": 45,
+            "Emmanuel Macron": 63,
+            "François Fillon": 79,
+            "Marine Le Pen": 81
+          }
+        }
+      }
+    },
     "20170330_odoxa": {
       "institut": "Odoxa",
       "commanditaires": [
@@ -757,6 +877,46 @@
             "François Fillon": 74,
             "Nicolas Dupont-Aignan": 25,
             "Marine Le Pen": 79
+          }
+        }
+      }
+    },
+    "20170324_bva": {
+      "institut": "BVA",
+      "commanditaires": [
+        "Presse Régionale",
+        "Orange"
+      ],
+      "lien": "https://www.bva-group.com/wp-content/uploads/2017/03/fichier_intentions_de_vote_-_vague_14_-_pop2017_-_25_mars_2017_-_presentationdcc7f.pdf",
+      "date_debut": "2021-03-22",
+      "date_fin": "2021-03-24",
+      "methode": "internet",
+      "interroges": 1431,
+      "premier_tour": {
+        "base": "SV",
+        "nspp": 6,
+        "intentions_exprimees": 1020,
+        "intentions": {
+          "Nathalie Arthaud": 0.5,
+          "Philippe Poutou": 0.5,
+          "Jean-Luc Mélenchon": 14,
+          "Benoît Hamon": 11.5,
+          "Emmanuel Macron": 26,
+          "Jean Lassalle": 1,
+          "François Fillon": 17,
+          "Nicolas Dupont-Aignan": 4,
+          "François Asselineau": 0.5,
+          "Jacques Cheminade": 0,
+          "Marine Le Pen": 25
+        },
+        "certitude": {
+          "ensemble": null,
+          "detail": {
+            "Jean-Luc Mélenchon": 61,
+            "Benoît Hamon": 51,
+            "Emmanuel Macron": 55,
+            "François Fillon": 69,
+            "Marine Le Pen": 82
           }
         }
       }
