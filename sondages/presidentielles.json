@@ -1,4 +1,182 @@
 {
+    "202109_harris":
+    {
+        "institut": "Harris interactive",
+        "commanditaires": ["Challenges"],
+        "date_debut": "2021-09-10",
+        "date_fin": "2021-09-13",
+        "date_publication": "2021-09-15",
+        "echantillon": 1063,
+        "population": "Inscrits sur les listes électorales",
+        "methode": "internet",
+        "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2021/09/Rapport_Harris_-_Vague_13_Intentions_de_vote_Presidentielle_2022_Challenges.pdf",
+        "hypotheses": {
+            "bertrand": "Xavier Bertrand candidat de la droite",
+            "pecresse": "Valérie Pécresse candidate de la droite",
+            "barnier": "Michel Barnier candidat de la droite",
+            "ciotti": "Éric Ciotti candidat de la droite",
+            "juvin": "Philippe Juvin candidat de la droite",
+            "payre": "Denis Payre candidat de la droite",
+            "bertrand_zemmour": "Xavier Bertrand candidat de la droite et Éric Zemmour candidat"
+        },
+        "premier_tour": {
+            "bertrand": {
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 24,
+                        "Jean-Christophe Lagarde": 1,
+                        "Xavier Bertrand": 15,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 22,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                },
+            "pecresse": {
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 25,
+                        "Jean-Christophe Lagarde": 1,
+                        "Valérie Pécresse": 13,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 23,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+            },
+            "barnier": {
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 26,
+                        "Jean-Christophe Lagarde": 1,
+                        "Michel Barnier": 9,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 26,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+            },
+            "ciotti": {
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 29,
+                        "Jean-Christophe Lagarde": 1,
+                        "Éric Ciotti": 6,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 26,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+            },
+            "juvin": {
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 29,
+                        "Jean-Christophe Lagarde": 1,
+                        "Philippe Juvin": 5,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 27,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+            },
+            "payre": {
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 12,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 30,
+                        "Jean-Christophe Lagarde": 1,
+                        "Denis Payre": 1,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 29,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+            },
+            "bertrand_zemmour": {
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 23,
+                        "Jean-Christophe Lagarde": 1,
+                        "Xavier Bertrand": 14,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Florian Philippot": 0,
+                        "Marine Le Pen": 19,
+                        "Éric Zemmour": 10,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 1
+                    }
+                }
+        },
+        "second_tour": {
+                "lepen_macron" : {
+                    "intentions_exprimees": null,
+                    "intentions": {"Marine Le Pen": 46, "Emmanuel Macron": 54}
+                }
+        },
+        "reports": {
+            "bertrand": {
+                "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen"],
+                "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Abstention/Blanc/Nul"],
+                "reports": [
+                    [21, 30, 49],
+                    [4, 55, 41],
+                    [14, 43, 43],
+                    [2, 96, 2],
+                    [34, 32, 34],
+                    [93, 3, 4]
+                ]
+            }
+        }
+    },
+
     "20210914_elabe":
     {
         "institut": "Elabe",

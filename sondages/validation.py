@@ -27,6 +27,7 @@ candidates = [
     "Éric Ciotti",
     "Philippe Juvin",
     "Michel Barnier",
+    "Denis Payre",
     "Jean-Frédéric Poisson",
     "Nicolas Dupont-Aignan",
     "François Asselineau",
