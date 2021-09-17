@@ -1,4 +1,5 @@
 {
+    "sondages": {
     "202109_harris":
     {
         "institut": "Harris interactive",
@@ -1969,52 +1970,35 @@
         "date_debut": "2021-04-16",
         "date_fin": "2021-04-19",
         "date_publication": "2021-04-21",
-        "echantillon": 1001,
-        "population": "Inscrits sur les listes électorales",
+        "interroges": 1001,
         "methode": "internet",
         "lien": "https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-1/",
-        "hypotheses": {
-            "bertrand": "Xavier Bertrand candidat de la droite",
-            "pecresse": "Valérie Pécresse candidate de la droite"
-        },
-        "premier_tour": {
-            "bertrand": {
-                    "intentions_exprimees": null,
-                    "intentions": {
-                        "Nathalie Arthaud": 1,
-                        "Philippe Poutou": 1,
-                        "Fabien Roussel": 1,
-                        "Jean-Luc Mélenchon": 11,
-                        "Anne Hidalgo": 6,
-                        "Yannick Jadot": 6,
-                        "Emmanuel Macron": 26,
-                        "Jean-Christophe Lagarde": 1,
-                        "Xavier Bertrand": 15,
-                        "Nicolas Dupont-Aignan": 5,
-                        "Jean-Frédéric Poisson": 0,
-                        "Marine Le Pen": 26,
-                        "François Asselineau": 1,
-                        "Jean Lassalle": 0
-                    }
+        "premier_tour": [
+            {
+                "id": "bertrand",
+                "hypothese": "Xavier Bertrand candidat de la droite",
+                "base": "I",
+                "nssp": null,
+                "intentions_exprimees": null,
+                "intentions":{
+                    "Nathalie Arthaud": 1,
+                    "Philippe Poutou": 1,
+                    "Fabien Roussel": 1,
+                    "Jean-Luc Mélenchon": 11,
+                    "Anne Hidalgo": 6,
+                    "Yannick Jadot": 6,
+                    "Emmanuel Macron": 26,
+                    "Jean-Christophe Lagarde": 1,
+                    "Xavier Bertrand": 15,
+                    "Nicolas Dupont-Aignan": 5,
+                    "Jean-Frédéric Poisson": 0,
+                    "Marine Le Pen": 26,
+                    "François Asselineau": 1,
+                    "Jean Lassalle": 0
                 },
-            "pecresse": {
-                    "intentions_exprimees": null,
-                    "intentions": {
-                        "Nathalie Arthaud": 1,
-                        "Philippe Poutou": 1,
-                        "Fabien Roussel": 1,
-                        "Jean-Luc Mélenchon": 11,
-                        "Anne Hidalgo": 6,
-                        "Yannick Jadot": 6,
-                        "Emmanuel Macron": 28,
-                        "Jean-Christophe Lagarde": 2,
-                        "Valérie Pécresse": 12,
-                        "Nicolas Dupont-Aignan": 5,
-                        "Jean-Frédéric Poisson": 0,
-                        "Marine Le Pen": 26,
-                        "François Asselineau": 1,
-                        "Jean Lassalle": 0
-                    }
+                "certitude": {
+                    "ensemble": null,
+                    "detail": null
                 }
             },
             {
@@ -2043,11 +2027,31 @@
                     "ensemble": null,
                     "detail": null
                 }
-        },
-        "reports": {
-            "bertrand": {
+            }
+        ],
+        "second_tour": [
+            {
+                "id": "lepen_macron",
+                "hypothese": "Marine Le Pen et Emmanuel Macron au 2nd tour",
+                "base": "I",
+                "nssp": null,
+                "intentions_exprimees": null,
+                "intentions":{
+                    "Emmanuel Macron": 54,
+                    "Marine Le Pen": 46
+                },
+                "certitude": {
+                    "ensemble": null,
+                    "detail": null
+                }
+            }
+        ],
+        "reports": [
+            {
+                "hypothese_1er_tour": "bertrand",
+                "hypothese_2nd tour": "lepen_macron",
                 "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen"],
-                "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Abstention/Blanc/Nul"],
+                "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Non exprimés"],
                 "reports": [
                     [23, 28, 49],
                     [9, 42, 49],
@@ -2057,7 +2061,25 @@
                     [97, 1, 2]
                 ]
             }
-        }
+        ]
     }
 
+    },
+    "candidats": [
+        "Nathalie Arthaud",
+        "Philippe Poutou",
+        "Fabien Roussel",
+        "Jean-Luc Mélenchon",
+        "Anne Hidalgo",
+        "Yannick Jadot",
+        "Emmanuel Macron",
+        "Jean-Christophe Lagarde",
+        "Xavier Bertrand",
+        "Valérie Pécresse",
+        "Nicolas Dupont-Aignan",
+        "Marine Le Pen",
+        "François Asselineau",
+        "Jean Lasalle",
+        "Non exprimés"
+    ]
 }
