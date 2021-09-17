@@ -2016,11 +2016,32 @@
                         "Jean Lassalle": 0
                     }
                 }
-        },
-        "second_tour": {
-                "lepen_macron" : {
-                    "intentions_exprimees": null,
-                    "intentions": {"Marine Le Pen": 46, "Emmanuel Macron": 54}
+            },
+            {
+                "id": "pecresse",
+                "hypothese": "Valérie Précresse candidate de la droite",
+                "base": "I",
+                "nssp": null,
+                "intentions_exprimees": null,
+                "intentions":{
+                    "Nathalie Arthaud": 1,
+                    "Philippe Poutou": 1,
+                    "Fabien Roussel": 1,
+                    "Jean-Luc Mélenchon": 11,
+                    "Anne Hidalgo": 6,
+                    "Yannick Jadot": 6,
+                    "Emmanuel Macron": 28,
+                    "Jean-Christophe Lagarde": 2,
+                    "Xavier Bertrand": 12,
+                    "Nicolas Dupont-Aignan": 5,
+                    "Jean-Frédéric Poisson": 0,
+                    "Marine Le Pen": 26,
+                    "François Asselineau": 1,
+                    "Jean Lassalle": 0
+                },
+                "certitude": {
+                    "ensemble": null,
+                    "detail": null
                 }
         },
         "reports": {
