@@ -18,6 +18,7 @@ candidates = [
     "Arnaud Montebourg",
     "Yannick Jadot",
     "Candidat.e écologiste",
+    "Sandrine Rousseau",
     "Emmanuel Macron",
     "Jean-Christophe Lagarde",
     "Xavier Bertrand",

@@ -1,5 +1,145 @@
 {
-    "202109_harris":
+    "20210920_harris":
+    {
+        "institut": "Harris interactive",
+        "commanditaires": ["Challenges"],
+        "date_debut": "2021-09-17",
+        "date_fin": "2021-09-21",
+        "date_publication": "2021-09-22",
+        "echantillon": 1314,
+        "population": "Inscrits sur les listes électorales",
+        "methode": "internet",
+        "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2021/09/Rapport_Harris_-_Vague_14_Intentions_de_vote_Presidentielle_2022_Challenges.pdf",
+        "hypotheses": {
+            "jadot": "Yanick Jadot candidat écologiste",
+            "rousseau": "Sandrine Rousseau candidate écologiste",
+            "jadot_pecresse": "Yannick Jadot candidat écologiste, Valérie Pécresse candidate de la droite"
+        },
+        "premier_tour": {
+            "jadot": {
+                    "intentions_exprimees": 85,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Arnaud Montebourg": 2,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 23,
+                        "Jean-Christophe Lagarde": 0,
+                        "Xavier Bertrand": 14,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 18,
+                        "Éric Zemmour": 11,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    }
+                },
+            "rousseau": {
+                    "intentions_exprimees": 84,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Arnaud Montebourg": 4,
+                        "Anne Hidalgo": 8,
+                        "Sandrine Rousseau": 2,
+                        "Emmanuel Macron": 23,
+                        "Jean-Christophe Lagarde": 0,
+                        "Xavier Bertrand": 15,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 18,
+                        "Éric Zemmour": 11,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    }
+                },
+            "jadot_pecresse": {
+                    "intentions_exprimees": 82,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Arnaud Montebourg": 3,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 23,
+                        "Jean-Christophe Lagarde": 0,
+                        "Valérie Pécresse": 12,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 19,
+                        "Éric Zemmour": 11,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    }
+                }
+        },
+        "second_tour": {
+                "lepen_macron" : {
+                    "intentions_exprimees": 67,
+                    "intentions": {"Marine Le Pen": 45, "Emmanuel Macron": 55}
+                }
+        },
+        "reports": {
+            "jadot": {
+                "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen", "Éric Zemmour"],
+                "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Abstention/Blanc/Nul"],
+                "reports": [
+                    [20, 32, 48],
+                    [10, 48, 42],
+                    [2, 37, 61],
+                    [2, 94, 4],
+                    [28, 39, 33],
+                    [94, 1, 5],
+                    [62, 9, 29]
+                ]
+            }
+        }
+    },
+    "20210915_ifop":
+    {
+        "institut": "Ifop",
+        "commanditaires": ["La Manche Libre",  "Le Courrier Cauchois", "L'Echo du Berry", "La Renaissance de Saône-et-Loire"],
+        "date_debut": "2021-09-14",
+        "date_fin": "2021-09-15",
+        "date_publication": "2021-09-16",
+        "echantillon": 893,
+        "population": "Inscrits sur les listes électorales",
+        "methode": "internet",
+        "lien": "https://www.ifop.com/wp-content/uploads/2021/09/118442-Rapport.pdf",
+        "hypotheses": {
+            "bertrand_zemmour": "Xavier Bertrand candidat de la droite face à Éric Zemmour"
+        },
+        "premier_tour": {
+            "bertrand_zemmour": {
+                "intentions_exprimees": 71.9,
+                "intentions": {
+                    "Nathalie Arthaud": 0,
+                    "Philippe Poutou": 1,
+                    "Fabien Roussel": 3,
+                    "Jean-Luc Mélenchon": 8,
+                    "Anne Hidalgo": 7,
+                    "Arnaud Montebourg": 2,
+                    "Yannick Jadot": 6,
+                    "Emmanuel Macron": 26,
+                    "Jean-Christophe Lagarde": 0,
+                    "Xavier Bertrand": 15,
+                    "Nicolas Dupont-Aignan": 3,
+                    "Marine Le Pen": 20,
+                    "Éric Zemmour": 9
+                }
+            }
+            },
+        "second_tour": null
+    },
+
+    "202113_harris":
     {
         "institut": "Harris interactive",
         "commanditaires": ["Challenges"],
