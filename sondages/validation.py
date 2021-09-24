@@ -40,7 +40,7 @@ candidates = [
 
 methods = ["internet"]
 
-pollsters = ["Harris interactive", "Ifop", "Ipsos", "Elabe"]
+pollsters = ["Harris interactive", "Ifop", "Ipsos", "Elabe", "Odoxa"]
 
 populations = [
     "Inscrits sur les listes électorales",
