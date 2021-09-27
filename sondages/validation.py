@@ -1,57 +1,53 @@
 import datetime
 import json
-from typing import Dict, List, Optional
+from enum import Enum
+from typing import Dict, List, Optional, Union
 
-from pydantic import BaseModel, ValidationError, validator
-
-BEGIN = datetime.date(2021, 1, 1)
-END = datetime.date(2022, 4, 24)
-
-candidates = [
-    "Abstention/Blanc/Nul",
-    "Extrême Gauche",
-    "Nathalie Arthaud",
-    "Philippe Poutou",
-    "Fabien Roussel",
-    "Jean-Luc Mélenchon",
-    "Anne Hidalgo",
-    "Arnaud Montebourg",
-    "Yannick Jadot",
-    "Candidat.e écologiste",
-    "Sandrine Rousseau",
-    "Emmanuel Macron",
-    "Jean-Christophe Lagarde",
-    "Xavier Bertrand",
-    "Valérie Pécresse",
-    "Laurent Wauquiez",
-    "François Baroin",
-    "Éric Ciotti",
-    "Philippe Juvin",
-    "Michel Barnier",
-    "Denis Payre",
-    "Jean-Frédéric Poisson",
-    "Nicolas Dupont-Aignan",
-    "François Asselineau",
-    "Jean Lassalle",
-    "Florian Philippot",
-    "Marine Le Pen",
-    "Éric Zemmour",
-]
-
-methods = ["internet"]
-
-pollsters = ["Harris interactive", "Ifop", "Ipsos", "Elabe", "Odoxa"]
-
-populations = [
-    "Inscrits sur les listes électorales",
-    "Certains d'aller voter"
-
-]
+from pydantic import BaseModel, PositiveInt, ValidationError, confloat, validator
 
 
-class Hypothesis(BaseModel):
+POLLS_FILES = ["sondages/presidentielles.json", "sondages/presidentielles_2017.json"]
+
+
+class Method(str, Enum):
+    internet = "internet"
+    internet_telephone = "internet & telephone"
+
+
+class Pollster(str, Enum):
+    bva = "BVA"
+    elabe = "Elabe"
+    harris = "Harris interactive"
+    ifop = "Ifop"
+    ipsos = "Ipsos"
+    kantar = "Kantar"
+    odoxa = "Odoxa"
+    opinionway = "Opinionway"
+
+
+class Base(str, Enum):
+    """Population whose intentions are reported"""
+
+    I = "I"  # interviewed
+    SV = "SV"  # interviewed and certain to vote
+    SVC = "SVC"  # interviewed, certain to vote and of their choice
+
+
+class Certitude(BaseModel):
+    ensemble: Optional[confloat(gt=0, lt=100)]
+    detail: Optional[Dict[str, confloat(gt=0, lt=100)]]
+
+    class Config:
+        extra = "forbid"
+
+
+class Scenario(BaseModel):
+    hypothese: Optional[str]
+    base: Base
+    nspp: Optional[confloat(gt=0, lt=100)]
     intentions_exprimees: Optional[int]
-    intentions: Dict[str, float]
+    intentions: Dict[str, confloat(ge=0, lt=100)]
+    certitude: Optional[Certitude]
 
     class Config:
         extra = "forbid"
@@ -88,26 +84,11 @@ class Hypothesis(BaseModel):
                     f"Hypothesis: voting intentions abnormally large: {value}"
                 )
 
-    @staticmethod
-    def candidate_names_are_valid(intentions):
-        """Check that candidate names belong to the list of possible candidates.
-
-        This check prevents typos in names--which happens often--from provoking
-        errors downstream.
-
-        """
-        for candidate in intentions.keys():
-            if candidate not in candidates:
-                raise ValueError(
-                    f"Hypothesis: the specified candidate name '{candidate}' is not valid"
-                )
-
     @validator("intentions")
     def validate_intentions(cls, intentions):
         """Performs all validations on the intentions."""
         cls.intentions_sum_to_100(intentions)
         cls.intentions_in_reasonable_range(intentions)
-        cls.candidate_names_are_valid(intentions)
         return intentions
 
 
@@ -162,107 +143,79 @@ class Transfers(BaseModel):
         cls.transfers_sum_to_100(matrix)
         return matrix
 
-    @validator("candidats_1er_tour", "candidats_2nd_tour")
-    def validate_candidate_names(cls, names):
-        """Check that the name of candidates belongs to the list of possible candidates."""
-        for candidate in names:
-            if candidate not in candidates:
-                raise ValueError(
-                    f"Transfers: the specified candidate name '{candidate}' is not valid"
-                )
-        return names
-
 
 class Poll(BaseModel):
-    institut: str
+    candidates: List[str]  # passed as an argument
+
+    institut: Pollster
     commanditaires: List[str]
+    lien: str
     date_debut: datetime.date
     date_fin: datetime.date
-    date_publication: datetime.date
-    methode: str
-    lien: str
+    methode: Method
+    interroges: PositiveInt
+    premier_tour: Optional[List[Scenario]] = None
+    second_tour: Optional[List[Scenario]] = None
+    reports: Optional[List[Transfers]] = None
 
-    echantillon: int
-    population: str
-
-    hypotheses: Dict[str, str]
-    premier_tour: Dict[str, Hypothesis]
-    second_tour: Optional[Dict[str, Hypothesis]] = None
-    reports: Optional[Dict[str, Transfers]] = None
-
-    @validator("date_debut")
-    def start_date_within_election_period(cls, start_date):
-        if start_date > END or start_date < BEGIN:
-            raise ValueError(f"Poll: the start date {start_date} is incorrect")
-        return start_date
+    class Config:
+        extra = "forbid"
 
     @validator("date_fin")
     def end_date_corectness(cls, end_dates, values):
-        if end_dates > END or end_dates < BEGIN:
-            raise ValueError(f"Polls: the end date {end_dates} is incorrect")
-
         if end_dates < values["date_debut"]:
             raise ValueError(
                 "Poll: the end of the poll must happen after the beggining"
             )
         return end_dates
 
-    @validator("date_publication")
-    def publication_date_ordering(cls, publication_date, values):
-        if publication_date > END or publication_date < BEGIN:
-            raise ValueError(
-                f"Poll: The publication date {publication_date} is incorrect"
-            )
-        if publication_date < values["date_fin"]:
-            raise ValueError(
-                "Poll: the publication must happen after the end of the poll"
-            )
-        return publication_date
-
-    @validator("institut")
-    def pollster_name(cls, name):
-        if name not in pollsters:
-            raise ValueError(f"Pollster: Expected one of {pollsters}, got {name}")
-        return name
-
-    @validator("methode")
-    def method_name(cls, name):
-        if name not in methods:
-            raise ValueError(f"Method: Expected one of {methods}, got {name}")
-        return name
-
-    @validator("population")
-    def sample_name(cls, name):
-        if name not in populations:
-            raise ValueError(f"Sample type: Expected one of {populations}, got {name}")
-        return name
-
-    @validator("lien")
-    def link_not_empty(cls, link):
-        if link == "":
-            raise ValueError("Expected a link, found none")
-        return link
+    @staticmethod
+    def check_candidate_names(allowed, candidates):
+        for name in candidates:
+            if name not in allowed:
+                raise ValueError(
+                    f"Hypothesis: the specified candidate name '{name}' is not valid"
+                )
 
     @validator("premier_tour")
     def first_round(cls, first_round, values):
-        hypotheses = set(values["hypotheses"].keys())
-        hypotheses_1er_tour = set(first_round.keys())
-        if len(hypotheses_1er_tour.difference(hypotheses)) != 0:
-            raise ValueError(
-                "The set of keys for the first round does not match the list of hypotheses:"
-                f" expected {hypotheses}, got {hypotheses_1er_tour}"
-            )
-        return first_round
+        possible_candidates = values["candidates"]
+        for hypothesis in first_round:
+            candidates = hypothesis.intentions.keys()
+            cls.check_candidate_names(possible_candidates, candidates)
+
+    @validator("second_tour")
+    def second_round(cls, second_round, values):
+        possible_candidates = values["candidates"]
+        for hypothesis in second_round:
+            candidates = hypothesis.intentions.keys()
+            cls.check_candidate_names(possible_candidates, candidates)
+
+    @validator("reports")
+    def validate_reports(cls, reports, values):
+        possible_candidates = values["candidates"]
+        for hypothesis in reports:
+            candidates = hypothesis.candidats_1er_tour
+            cls.check_candidate_names(possible_candidates, candidates)
+
+            candidates = hypothesis.candidats_2nd_tour
+            cls.check_candidate_names(possible_candidates, candidates)
 
 
-if __name__ == "__main__":
-    # This will raise an error if the JSON is not properly formatted
-    with open("sondages/presidentielles.json", "r") as data:
+def validate_polls(path):
+    """Validate all polls in file."""
+    with open(path, "r") as data:
         sondages = json.load(data)
 
-    for id, sondage in sondages.items():
+    candidates = sondages["candidats"]
+    for id, sondage in sondages["sondages"].items():
         try:
-            Poll(**sondage)
+            Poll(candidates=candidates, **sondage)
         except:
             print(id)
             raise
+
+
+if __name__ == "__main__":
+    for filename in POLLS_FILES:
+        validate_polls(filename)

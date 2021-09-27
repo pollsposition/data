@@ -129,7 +129,7 @@
       "premier_tour": {
         "base": "SV",
         "nspp": 8,
-        "intentions_exprimées": 1495,
+        "intentions_exprimees": 1495,
         "intentions": {
           "Nathalie Arthaud": 0,
           "Philippe Poutou": 2,
@@ -170,7 +170,7 @@
       "premier_tour": {
         "base": "SV",
         "nspp": 7,
-        "intention_exprimees": 1401,
+        "intentions_exprimees": 1401,
         "intentions": {
           "Nathalie Arthaud": 0.5,
           "Philippe Poutou": 1.5,
@@ -377,7 +377,7 @@
       "premier_tour": {
         "base": "SV",
         "nspp": null,
-        "intention_exprimees": 1178,
+        "intentions_exprimees": 1178,
         "intentions": {
           "Nathalie Arthaud": 0.5,
           "Philippe Poutou": 2,
@@ -578,7 +578,7 @@
       "premier_tour": {
         "base": "SV",
         "nspp": 6,
-        "intentions_exprimées": 973,
+        "intentions_exprimees": 973,
         "intentions": {
           "Nathalie Arthaud": 0,
           "Philippe Poutou": 2,
@@ -686,40 +686,6 @@
         }
       }
     },
-    "20170408_ifop": {
-      "institut": "Ifop",
-      "commanditaires": [
-        "Paris Match",
-        "Sud Radio"
-      ],
-      "lien": "https://www.ifop.com/wp-content/uploads/2018/03/3724-1-study_file.pdf",
-      "date_debut": "2021-04-07",
-      "date_fin": "2021-04-08",
-      "methode": "internet&telephone",
-      "interroges": 1845,
-      "premier_tour": {
-        "base": "",
-        "nspp": null,
-        "intentions_exprimees": null,
-        "intentions": {
-          "Nathalie Arthaud": 1,
-          "Philippe Poutou": 2,
-          "Jean-Luc Mélenchon": 19,
-          "Benoît Hamon": 8,
-          "Emmanuel Macron": 23,
-          "Jean Lassalle": 1,
-          "François Fillon": 18.5,
-          "Nicolas Dupont-Aignan": 3.5,
-          "François Asselineau": 0,
-          "Jacques Cheminade": 0,
-          "Marine Le Pen": 24
-        },
-        "certitude": {
-          "ensemble": null,
-          "detail": null
-        }
-      }
-    },
     "20170407_bva": {
       "institut": "BVA",
       "commanditaires": [
@@ -775,7 +741,7 @@
       "premier_tour": {
         "base": "SV",
         "nspp": null,
-        "intention_exprimees": 1075,
+        "intentions_exprimees": 1075,
         "intentions": {
           "Nathalie Arthaud": 0.5,
           "Philippe Poutou": 2.5,
@@ -816,7 +782,7 @@
       "premier_tour": {
         "base": "SV",
         "nspp": 8,
-        "intentions_exprimées": 1037,
+        "intentions_exprimees": 1037,
         "intentions": {
           "Nathalie Arthaud": 0,
           "Philippe Poutou": 2,
@@ -1098,7 +1064,7 @@
       "premier_tour": {
         "base": "SV",
         "nspp": 7,
-        "intentions_exprimées": 1044,
+        "intentions_exprimees": 1044,
         "intentions": {
           "Nathalie Arthaud": 0,
           "Philippe Poutou": 1,
@@ -1261,7 +1227,7 @@
       "premier_tour": {
         "base": "SV",
         "nspp": 6,
-        "intentions_exprimées": 1044,
+        "intentions_exprimees": 1044,
         "intentions": {
           "Nathalie Arthaud": 1,
           "Philippe Poutou": 1,
@@ -1409,5 +1375,5 @@
       }
     }
   },
-  "candidats": {}
+  "candidats": {"Nathalie Arthaud": {}, "Philippe Poutou": {}, "Jean-Luc Mélenchon": {}, "Benoît Hamon": {}, "Emmanuel Macron": {}, "Jean Lassalle": {}, "François Fillon": {}, "Nicolas Dupont-Aignan": {}, "Marine Le Pen": {}, "François Asselineau": {}, "Jacques Cheminade": {}}
 }
