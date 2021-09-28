@@ -111,7 +111,7 @@
             "reports": [
                 {
                     "candidats_1er_tour": ["Jean-Luc Mélenchon", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen", "Éric Zemmour"],
-                    "candidats_2nd_tour": ["Emmanuel Macron", "Marine Le Pen", "Abstention"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Marine Le Pen", "Non exprimés"],
                     "reports": [
                         [29, 21, 50],
                         [52, 8, 40],
@@ -123,7 +123,7 @@
                 },
                 {
                     "candidats_1er_tour": ["Jean-Luc Mélenchon", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen", "Éric Zemmour"],
-                    "candidats_2nd_tour": ["Emmanuel Macron", "Xavier Bertrand", "Abstention"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Xavier Bertrand", "Non exprimés"],
                     "reports": [
                         [24, 21, 55],
                         [33, 33, 34],
@@ -131,6 +131,127 @@
                         [2, 97, 1],
                         [11, 21, 68],
                         [12, 46, 42]
+                    ]
+                }
+            ]
+        },
+
+        "20210920_harris":
+        {
+            "institut": "Harris interactive",
+            "commanditaires": ["Challenges"],
+            "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2021/09/Rapport_Harris_-_Vague_14_Intentions_de_vote_Presidentielle_2022_Challenges.pdf",
+            "date_debut": "2021-09-17",
+            "date_fin": "2021-09-20",
+            "methode": "internet",
+            "interroges": 1022,
+            "premier_tour": [
+                {
+                    "hypothese": "Yannick Jadot candidat écologiste",
+                    "base": "I",
+                    "nspp": 15,
+                    "intentions_exprimees": 868,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Arnaud Montebourg": 2,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 23,
+                        "Jean-Christophe Lagarde": 0,
+                        "Xavier Bertrand": 14,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Jean-Frédéric Poisson": 0,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 18,
+                        "Éric Zemmour": 11,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    },
+                    "certitude": {
+                        "ensemble": 68
+                    }
+                },
+                {
+                    "hypothese": "Sandrine Rousseau candidate écologiste",
+                    "base": "I",
+                    "nspp": 16,
+                    "intentions_exprimees": 858,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Arnaud Montebourg": 4,
+                        "Anne Hidalgo": 8,
+                        "Sandrine Rousseau": 2,
+                        "Emmanuel Macron": 23,
+                        "Jean-Christophe Lagarde": 0,
+                        "Xavier Bertrand": 15,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Jean-Frédéric Poisson": 0,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 18,
+                        "Éric Zemmour": 11,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    }
+                },
+                {
+                    "hypothese": "Yannick Jadot candidat écologiste et Valérie Pécresse candidate de la droite",
+                    "base": "I",
+                    "nspp": 18,
+                    "intentions_exprimees": 838,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Arnaud Montebourg": 3,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 23,
+                        "Jean-Christophe Lagarde": 0,
+                        "Valérie Pécresse": 12,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Jean-Frédéric Poisson": 0,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 19,
+                        "Éric Zemmour": 11,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 33,
+                    "intentions_exprimees": 684,
+                    "intentions": {
+                        "Marine Le Pen": 45,
+                        "Emmanuel Macron": 55
+                    },
+                    "certitude": {
+                        "ensemble": 87
+                    }
+                }
+            ],
+            "reports": [
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen", "Éric Zemmour"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Marine Le Pen", "Non exprimés"],
+                    "reports": [
+                        [32, 20, 48],
+                        [48, 10, 42],
+                        [37, 2, 61],
+                        [94, 2, 4],
+                        [39, 28, 33],
+                        [1, 94, 5],
+                        [9, 62, 29]
                     ]
                 }
             ]
@@ -357,7 +478,7 @@
             "reports": [
                 {
                     "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen"],
-                    "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Abstention/Blanc/Nul"],
+                    "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Non exprimés"],
                     "reports": [
                         [21, 30, 49],
                         [4, 55, 41],
@@ -2233,8 +2354,7 @@
             }
         },
     "candidats": [
-        "Abstention",
-        "Abstention/Blanc/Nul",
+        "Non exprimés",
         "Nathalie Arthaud",
         "Philippe Poutou",
         "Fabien Roussel",
@@ -2245,6 +2365,7 @@
         "Yannick Jadot",
         "Emmanuel Macron",
         "Jean-Christophe Lagarde",
+        "Jean-Frédéric Poisson",
         "Jean Lassalle",
         "Xavier Bertrand",
         "Valérie Pécresse",
