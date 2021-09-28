@@ -1,6 +1,127 @@
 {
     "sondages": {
 
+        "20210927_harris":
+        {
+            "institut": "Harris interactive",
+            "commanditaires": ["Challenges"],
+            "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2021/09/Rapport-Harris-Vague-15-Intentions-de-vote-Presidentielle-2022-Challenges.pdf",
+            "date_debut": "2021-09-24",
+            "date_fin": "2021-09-27",
+            "methode": "internet",
+            "interroges": 1048,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite",
+                    "base": "I",
+                    "nspp": 1,
+                    "intentions_exprimees": 0,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 1,
+                        "Jean-Luc Mélenchon": 13,
+                        "Arnaud Montebourg": 2,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 23,
+                        "Jean-Christophe Lagarde": 0,
+                        "Xavier Bertrand": 14,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Jean-Frédéric Poisson": 0,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 13,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    },
+                    "certitude": {
+                        "ensemble": 71
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite",
+                    "base": "I",
+                    "nspp": 1,
+                    "intentions_exprimees": 0,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 13,
+                        "Arnaud Montebourg": 2,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 24,
+                        "Jean-Christophe Lagarde": 0,
+                        "Xavier Bertrand": 12,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Jean-Frédéric Poisson": 0,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 13,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat de la droite",
+                    "base": "I",
+                    "nspp": 1,
+                    "intentions_exprimees": 0,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 13,
+                        "Arnaud Montebourg": 2,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 26,
+                        "Jean-Christophe Lagarde": 0,
+                        "Michel Barnier": 8,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Jean-Frédéric Poisson": 0,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 14,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 1,
+                    "intentions_exprimees": 0,
+                    "intentions": {
+                        "Marine Le Pen": 46,
+                        "Emmanuel Macron": 54
+                    },
+                    "certitude": {
+                        "ensemble": 85
+                    }
+                }
+            ],
+            "reports": [
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen", "Éric Zemmour"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Marine Le Pen", "Non exprimés"],
+                    "reports": [
+                        [28, 22, 50],
+                        [44, 18, 38],
+                        [31, 5, 64],
+                        [95, 4, 1],
+                        [35, 12, 53],
+                        [3, 95, 2],
+                        [7, 66, 27]
+                    ]
+                }
+            ]
+        },
+
         "20210923_odoxa":
         {
             "institut": "Odoxa",
