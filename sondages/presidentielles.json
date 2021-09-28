@@ -1018,24 +1018,17 @@
         "20210903_ipsos": {
             "institut": "Ipsos",
             "commanditaires": ["franceinfo", "Le Parisien", "Aujourd'hui en France"],
+            "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2021-09/Enquete%20Ipsos_IV2022%2Bprimaires.pdf",
             "date_debut": "2021-09-02",
             "date_fin": "2021-09-03",
-            "date_publication": "2021-09-06",
-            "echantillon": 490,
-            "population": "Certains d'aller voter",
             "methode": "internet",
-            "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2021-09/Enquete%20Ipsos_IV2022%2Bprimaires.pdf",
-            "hypotheses": {
-                "bertrand": "Xavier Bertrand candidat LR/UDI",
-                "pecresse": "Valérie Pécresse candidate LR/UDI",
-                "barnier": "Michel Barnier candidat LR/UDI",
-                "bertrand_zemmour": "Xavier Bertrand candidat LR/UDI et Éric Zemmour candidat",
-                "pecresse_zemmour": "Valérie Pécresse candidate LR/UDI et Éric Zemmour candidat",
-                "barnier_zemmour": "Michel Barnier candidat LR/UDI et Éric Zemmour candidat"
-            },
-            "premier_tour": {
-                "bertrand_zemmour": {
-                    "intentions_exprimees": 89,
+            "interroges": 925,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat LR/UDI et Éric Zemmour candidat",
+                    "base": "SV",
+                    "nspp": 11,
+                    "intentions_exprimees": 435,
                     "intentions": {
                         "Extrême Gauche": 1.5,
                         "Jean-Luc Mélenchon": 8,
@@ -1050,8 +1043,11 @@
                         "Éric Zemmour": 8
                     }
                 },
-                "pecresse_zemmour": {
-                    "intentions_exprimees": 89,
+                {
+                    "hypothese": "Valérie Pécresse candidate LR/UDI et Éric Zemmour candidat",
+                    "base": "SV",
+                    "nspp": 11,
+                    "intentions_exprimees": 435,
                     "intentions": {
                         "Extrême Gauche": 1.5,
                         "Jean-Luc Mélenchon": 8.5,
@@ -1066,8 +1062,11 @@
                         "Éric Zemmour": 8
                     }
                 },
-                "barnier_zemmour": {
-                    "intentions_exprimees": 89,
+                {
+                    "hypothese": "Michel Barnier candidat LR/UDI et Éric Zemmour candidat",
+                    "base": "SV",
+                    "nspp": 11,
+                    "intentions_exprimees": 435,
                     "intentions": {
                         "Extrême Gauche": 1.5,
                         "Jean-Luc Mélenchon": 8.5,
@@ -1082,8 +1081,11 @@
                         "Éric Zemmour": 8.5
                     }
                 },
-                "bertrand": {
-                    "intentions_exprimees": 84,
+                {
+                    "hypothese": "Xavier Bertrand candidat LR/UDI",
+                    "base": "SV",
+                    "nspp": 16,
+                    "intentions_exprimees": 410,
                     "intentions": {
                         "Extrême Gauche": 1.5,
                         "Jean-Luc Mélenchon": 8,
@@ -1097,8 +1099,11 @@
                         "Marine Le Pen": 22
                     }
                 },
-                "pecresse": {
-                    "intentions_exprimees": 85,
+                {
+                    "hypothese": "Valérie Pécresse candidat LR/UDI",
+                    "base": "SV",
+                    "nspp": 15,
+                    "intentions_exprimees": 415,
                     "intentions": {
                         "Extrême Gauche": 1.5,
                         "Jean-Luc Mélenchon": 8,
@@ -1112,8 +1117,11 @@
                         "Marine Le Pen": 22
                     }
                 },
-                "barnier": {
-                    "intentions_exprimees": 85,
+                {
+                    "hypothese": "Micher Barnier candidat LR/UDI",
+                    "base": "SV",
+                    "nspp": 15,
+                    "intentions_exprimees": 415,
                     "intentions": {
                         "Extrême Gauche": 1.5,
                         "Jean-Luc Mélenchon": 8,
@@ -1127,7 +1135,7 @@
                         "Marine Le Pen": 23
                     }
                 }
-            }
+            ]
         },
 
     "20210902_ifop":
@@ -2565,6 +2573,7 @@
         },
     "candidats": [
         "Non exprimés",
+        "Extrême Gauche",
         "Nathalie Arthaud",
         "Philippe Poutou",
         "Fabien Roussel",
