@@ -139,19 +139,17 @@
         {
             "institut": "Ifop",
             "commanditaires": ["La Manche Libre",  "Le Courrier Cauchois", "L'Echo du Berry", "La Renaissance de Saône-et-Loire"],
+            "lien": "https://www.ifop.com/wp-content/uploads/2021/09/118442-Rapport.pdf",
             "date_debut": "2021-09-14",
             "date_fin": "2021-09-15",
-            "date_publication": "2021-09-16",
-            "echantillon": 893,
-            "population": "Inscrits sur les listes électorales",
             "methode": "internet",
-            "lien": "https://www.ifop.com/wp-content/uploads/2021/09/118442-Rapport.pdf",
-            "hypotheses": {
-                "bertrand_zemmour": "Xavier Bertrand candidat de la droite face à Éric Zemmour"
-            },
-            "premier_tour": {
-                "bertrand_zemmour": {
-                    "intentions_exprimees": 71.9,
+            "interroges": 893,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite face à Éric Zemmour",
+                    "base": "I",
+                    "nspp": 28.1,
+                    "intentions_exprimees": 642,
                     "intentions": {
                         "Nathalie Arthaud": 0,
                         "Philippe Poutou": 1,
@@ -168,8 +166,7 @@
                         "Éric Zemmour": 9
                     }
                 }
-                },
-            "second_tour": null
+            ]
         },
 
         "202113_harris":
@@ -2212,5 +2209,17 @@
             }
             }
         },
-    "candidats": ["Abstention", "Nathalie Arthaud", "Philippe Poutou", "Fabien Roussel", "Jean-Luc Mélenchon", "Arnaud Montebourg", "Anne Hidalgo", "Sandrine Rousseau", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Valérie Pécresse", "Nicolas Dupont-Aignan", "Éric Zemmour", "Marine Le Pen"]
+    "candidats": [
+        "Abstention",
+        "Nathalie Arthaud",
+        "Philippe Poutou",
+        "Fabien Roussel",
+        "Jean-Luc Mélenchon",
+        "Arnaud Montebourg",
+        "Anne Hidalgo",
+        "Sandrine Rousseau",
+        "Yannick Jadot",
+        "Emmanuel Macron",
+        "Jean-Christophe Lagarde",
+        "Xavier Bertrand", "Valérie Pécresse", "Nicolas Dupont-Aignan", "Éric Zemmour", "Marine Le Pen"]
     }
