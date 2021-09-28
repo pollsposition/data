@@ -46,7 +46,7 @@ class Scenario(BaseModel):
     base: Base
     nspp: Optional[confloat(gt=0, lt=100)]
     intentions_exprimees: Optional[int]
-    intentions: Dict[str, confloat(ge=0, lt=100)]
+    intentions: Dict[str, confloat(ge=0, lt=100)]  # % per candidate among answers
     certitude: Optional[Certitude]
 
     class Config:
