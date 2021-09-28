@@ -863,128 +863,146 @@
         {
             "institut": "Harris interactive",
             "commanditaires": ["Challenges"],
+            "lien": "https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-12/",
             "date_debut": "2021-09-03",
             "date_fin": "2021-09-06",
-            "date_publication": "2021-09-08",
-            "echantillon": 1076,
-            "population": "Inscrits sur les listes électorales",
             "methode": "internet",
-            "lien": "https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-12/",
-            "hypotheses": {
-                "bertrand": "Xavier Bertrand candidat de la droite",
-                "pecresse": "Valérie Pécresse candidate de la droite",
-                "barnier": "Michel Barnier candidat de la droite",
-                "bertrand_zemmour": "Xavier Bertrand candidat de la droite et Éric Zemmour candidat",
-                "bertrand_montebourg": "Xavier Bertrand candidat de la droite et Arnaud Montebourg candidat"
-            },
-            "premier_tour": {
-                "bertrand": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 2,
-                            "Jean-Luc Mélenchon": 11,
-                            "Anne Hidalgo": 8,
-                            "Yannick Jadot": 7,
-                            "Emmanuel Macron": 23,
-                            "Jean-Christophe Lagarde": 1,
-                            "Xavier Bertrand": 16,
-                            "Nicolas Dupont-Aignan": 5,
-                            "Florian Philippot": 1,
-                            "Marine Le Pen": 22,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
-                        }
+            "interroges": 1076,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite",
+                    "base": "I",
+                    "nspp": 16,
+                    "intentions_exprimees": 903,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 8,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 23,
+                        "Jean-Christophe Lagarde": 1,
+                        "Xavier Bertrand": 16,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 22,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
                     },
-                "pecresse": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 2,
-                            "Jean-Luc Mélenchon": 11,
-                            "Anne Hidalgo": 8,
-                            "Yannick Jadot": 7,
-                            "Emmanuel Macron": 24,
-                            "Jean-Christophe Lagarde": 1,
-                            "Valérie Pécresse": 14,
-                            "Nicolas Dupont-Aignan": 5,
-                            "Florian Philippot": 1,
-                            "Marine Le Pen": 23,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
-                        }
+                    "certitude": {
+                        "ensemble": 71
+                    }
                 },
-                "barnier": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 3,
-                            "Jean-Luc Mélenchon": 12,
-                            "Anne Hidalgo": 8,
-                            "Yannick Jadot": 7,
-                            "Emmanuel Macron": 25,
-                            "Jean-Christophe Lagarde": 1,
-                            "Michel Barnier": 9,
-                            "Nicolas Dupont-Aignan": 5,
-                            "Florian Philippot": 2,
-                            "Marine Le Pen": 24,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
-                        }
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite",
+                    "base": "I",
+                    "nspp": 15,
+                    "intentions_exprimees": 914,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 8,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 24,
+                        "Jean-Christophe Lagarde": 1,
+                        "Valérie Pécresse": 14,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 23,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
                 },
-                "bertrand_zemmour": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 2,
-                            "Jean-Luc Mélenchon": 10,
-                            "Anne Hidalgo": 8,
-                            "Yannick Jadot": 7,
-                            "Emmanuel Macron": 23,
-                            "Jean-Christophe Lagarde": 1,
-                            "Xavier Bertrand": 15,
-                            "Nicolas Dupont-Aignan": 3,
-                            "Florian Philippot": 1,
-                            "Marine Le Pen": 19,
-                            "Éric Zemmour": 7,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
-                        }
+                {
+                    "hypothese": "Michel Barnier candidat de la droite",
+                    "base": "I",
+                    "nspp": 19,
+                    "intentions_exprimees": 871,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 12,
+                        "Anne Hidalgo": 8,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 25,
+                        "Jean-Christophe Lagarde": 1,
+                        "Michel Barnier": 9,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Florian Philippot": 2,
+                        "Marine Le Pen": 24,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite et Éric Zemmour candidat",
+                    "base": "I",
+                    "nspp": 16,
+                    "intentions_exprimees": 903,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 10,
+                        "Anne Hidalgo": 8,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 23,
+                        "Jean-Christophe Lagarde": 1,
+                        "Xavier Bertrand": 15,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 19,
+                        "Éric Zemmour": 7,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite et Arnaud Montebourg candidat",
+                    "base": "I",
+                    "nspp": 16,
+                    "intentions_exprimees": 903,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 11,
+                        "Arnaud Montebourg": 5,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 25,
+                        "Jean-Christophe Lagarde": 1,
+                        "Xavier Bertrand": 16,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 23,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 33,
+                    "intentions_exprimees": 720,
+                    "intentions": {
+                        "Marine Le Pen": 46,
+                        "Emmanuel Macron": 54
                     },
-                "bertrand_montebourg": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 2,
-                            "Jean-Luc Mélenchon": 11,
-                            "Arnaud Montebourg": 5,
-                            "Yannick Jadot": 7,
-                            "Emmanuel Macron": 25,
-                            "Jean-Christophe Lagarde": 1,
-                            "Xavier Bertrand": 16,
-                            "Nicolas Dupont-Aignan": 5,
-                            "Florian Philippot": 1,
-                            "Marine Le Pen": 23,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
-                        }
+                    "certitude": {
+                        "ensemble": 85
                     }
-            },
-            "second_tour": {
-                    "lepen_macron" : {
-                        "intentions_exprimees": null,
-                        "intentions": {"Marine Le Pen": 46, "Emmanuel Macron": 54}
-                    }
-            },
-            "reports": {
-                "bertrand": {
+                }
+            ],
+            "reports": [
+                {
                     "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen"],
-                    "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Abstention/Blanc/Nul"],
+                    "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Non exprimés"],
                     "reports": [
                         [14, 32, 54],
                         [12, 44, 44],
@@ -994,7 +1012,7 @@
                         [98, 1, 1]
                     ]
                 }
-            }
+            ]
         },
 
         "20210903_ipsos": {
