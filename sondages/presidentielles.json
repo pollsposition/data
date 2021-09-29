@@ -2091,87 +2091,101 @@
         {
             "institut": "Harris interactive",
             "commanditaires": ["Challenges"],
+            "lien": "https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-7/",
             "date_debut": "2021-06-20",
             "date_fin": "2021-06-21",
-            "date_publication": "2021-06-23",
-            "echantillon": 1020,
-            "population": "Inscrits sur les listes électorales",
             "methode": "internet",
-            "lien": "https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-7/",
-            "hypotheses": {
-                "bertrand": "Xavier Bertrand candidat de la droite",
-                "pecresse": "Valérie Pécresse candidate de la droite",
-                "wauquiez": "Laurent Wauquiez candidat de la droite"
-            },
-            "premier_tour": {
-                "bertrand": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 1,
-                            "Jean-Luc Mélenchon": 10,
-                            "Anne Hidalgo": 6,
-                            "Yannick Jadot": 7,
-                            "Emmanuel Macron": 25,
-                            "Jean-Christophe Lagarde": 1,
-                            "Xavier Bertrand": 16,
-                            "Nicolas Dupont-Aignan": 4,
-                            "Jean-Frédéric Poisson": 0,
-                            "Marine Le Pen": 26,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
-                        }
+            "interroges": 1020,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite",
+                    "base": "I",
+                    "nspp": null,
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 1,
+                        "Jean-Luc Mélenchon": 10,
+                        "Anne Hidalgo": 6,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 25,
+                        "Jean-Christophe Lagarde": 1,
+                        "Xavier Bertrand": 16,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Jean-Frédéric Poisson": 0,
+                        "Marine Le Pen": 26,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
                     },
-                "pecresse": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 1,
-                            "Jean-Luc Mélenchon": 10,
-                            "Anne Hidalgo": 7,
-                            "Yannick Jadot": 7,
-                            "Emmanuel Macron": 28,
-                            "Jean-Christophe Lagarde": 1,
-                            "Valérie Pécresse": 10,
-                            "Nicolas Dupont-Aignan": 4,
-                            "Jean-Frédéric Poisson": 0,
-                            "Marine Le Pen": 28,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
-                        }
+                    "certitude" : {
+                        "ensemble": 72
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite",
+                    "base": "I",
+                    "nspp": null,
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 1,
+                        "Jean-Luc Mélenchon": 10,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 28,
+                        "Jean-Christophe Lagarde": 1,
+                        "Valérie Pécresse": 10,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Jean-Frédéric Poisson": 0,
+                        "Marine Le Pen": 28,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Laurent Wauquiez candidat de la droite",
+                    "base": "I",
+                    "nspp": null,
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 1,
+                        "Jean-Luc Mélenchon": 10,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 28,
+                        "Jean-Christophe Lagarde": 1,
+                        "Laurent Wauquiez": 10,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Jean-Frédéric Poisson": 0,
+                        "Marine Le Pen": 27,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": null,
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Marine Le Pen": 46,
+                        "Emmanuel Macron": 54
                     },
-                "wauquiez": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 1,
-                            "Jean-Luc Mélenchon": 10,
-                            "Anne Hidalgo": 7,
-                            "Yannick Jadot": 8,
-                            "Emmanuel Macron": 28,
-                            "Jean-Christophe Lagarde": 1,
-                            "Laurent Wauquiez": 10,
-                            "Nicolas Dupont-Aignan": 4,
-                            "Jean-Frédéric Poisson": 0,
-                            "Marine Le Pen": 27,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
-                        }
+                    "certitude": {
+                        "ensemble": 85
                     }
-            },
-            "second_tour": {
-                    "lepen_macron" : {
-                        "intentions_exprimees": null,
-                        "intentions": {"Marine Le Pen": 46, "Emmanuel Macron": 54}
-                    }
-            },
-            "reports": {
-                "bertrand": {
+                }
+            ],
+            "reports": [
+                {
                     "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen"],
-                    "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Abstention/Blanc/Nul"],
+                    "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Non exprimés"],
                     "reports": [
                         [20, 25, 55],
                         [6, 43, 51],
@@ -2181,7 +2195,7 @@
                         [96, 3, 1]
                     ]
                 }
-            }
+            ]
         },
 
         "20210614_harris":
