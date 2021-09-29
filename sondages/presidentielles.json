@@ -1396,6 +1396,9 @@
                         "Marine Le Pen": 23,
                         "François Asselineau": 1,
                         "Jean Lassalle": 1
+                    },
+                    "certitude": {
+                        "ensemble": 69
                     }
                 },
                 {
@@ -1474,6 +1477,9 @@
                     "intentions": {
                         "Emmanuel Macron": 55,
                         "Marine Le Pen": 45
+                    },
+                    "certitude": {
+                        "ensemble": 84
                     }
                 }
             ],
