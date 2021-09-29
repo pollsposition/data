@@ -1831,136 +1831,150 @@
 
     "20210702_ifop":
         {
-            "id": "20210702_ifop",
             "institut": "Ifop",
             "commanditaires": ["LCI", "Le Figaro"],
+            "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juillet/9198-pres-ifop-le-figaro.pdf",
             "date_debut": "2021-06-29",
             "date_fin": "2021-07-02",
-            "date_publication": "2021-07-02",
-            "echantillon": 1337,
-            "population": "Inscrits sur les listes électorales",
             "methode": "internet",
-            "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juillet/9198-pres-ifop-le-figaro.pdf",
-            "hypotheses": {
-                "bertrand": "Xavier Bertrand candidat de la droite",
-                "pecresse": "Valérie Pécresse candidate de la droite",
-                "wauquiez": "Laurent Wauquiez candidat de la droite",
-                "hidalgo_sans_jadot": "Anne Hidalgo sans Yannick Jadot (Xavier Bertrand candidat de la droite)",
-                "jadot_sans_hidalgo": "Yannick Jadot sans Anne Hidalgo (Xavier Bertrand candidat de la droite)"
-            },
-            "premier_tour": {
-                "bertrand": {
-                        "intentions_exprimees": 70.5,
-                        "intentions": {
-                            "Nathalie Arthaud": 0.5,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 3.5,
-                            "Jean-Luc Mélenchon": 7,
-                            "Anne Hidalgo": 6,
-                            "Yannick Jadot": 7,
-                            "Emmanuel Macron": 24,
-                            "Jean-Christophe Lagarde": 0.5,
-                            "Xavier Bertrand": 18,
-                            "Nicolas Dupont-Aignan": 4,
-                            "Jean-Frédéric Poisson": 0.5,
-                            "Marine Le Pen": 26,
-                            "Jean Lassalle": 2
-                        }
-                    },
-                "pecresse": {
-                        "intentions_exprimees": 69.5,
-                        "intentions": {
-                            "Nathalie Arthaud": 0.5,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 3.5,
-                            "Jean-Luc Mélenchon": 7.5,
-                            "Anne Hidalgo": 6.5,
-                            "Yannick Jadot": 7,
-                            "Emmanuel Macron": 26,
-                            "Jean-Christophe Lagarde": 0.5,
-                            "Valérie Pécresse": 14,
-                            "Nicolas Dupont-Aignan": 4.5,
-                            "Jean-Frédéric Poisson": 0.5,
-                            "Marine Le Pen": 26,
-                            "Jean Lassalle": 2.5
-                        }
-                    },
-                "wauquiez": {
-                        "intentions_exprimees": 69.5,
-                        "intentions": {
-                            "Nathalie Arthaud": 0.5,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 3.5,
-                            "Jean-Luc Mélenchon": 7.5,
-                            "Anne Hidalgo": 6,
-                            "Yannick Jadot": 7,
-                            "Emmanuel Macron": 28,
-                            "Jean-Christophe Lagarde": 0.5,
-                            "Laurent Wauquiez": 13,
-                            "Nicolas Dupont-Aignan": 3.5,
-                            "Jean-Frédéric Poisson": 0.5,
-                            "Marine Le Pen": 26,
-                            "Jean Lassalle": 3
-                        }
-                    },
-                "hidalgo_sans_jadot": {
-                        "intentions_exprimees": 69.7,
-                        "intentions": {
-                            "Nathalie Arthaud": 0.5,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 4,
-                            "Jean-Luc Mélenchon": 7,
-                            "Anne Hidalgo": 8,
-                            "Emmanuel Macron": 28,
-                            "Jean-Christophe Lagarde": 0.5,
-                            "Xavier Bertrand": 18,
-                            "Nicolas Dupont-Aignan": 4.5,
-                            "Jean-Frédéric Poisson": 0.5,
-                            "Marine Le Pen": 26,
-                            "Jean Lassalle": 2
-                        }
-                    },
-                "jadot_sans_hidalgo": {
-                        "intentions_exprimees": 69.5,
-                        "intentions": {
-                            "Nathalie Arthaud": 0.5,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 4,
-                            "Jean-Luc Mélenchon": 7,
-                            "Yannick Jadot": 9,
-                            "Emmanuel Macron": 26,
-                            "Jean-Christophe Lagarde": 0.5,
-                            "Xavier Bertrand": 18.5,
-                            "Nicolas Dupont-Aignan": 4,
-                            "Jean-Frédéric Poisson": 0.5,
-                            "Marine Le Pen": 27,
-                            "Jean Lassalle": 2
-                        }
+            "interroges": 1337,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite",
+                    "base": "I",
+                    "nspp": 29,
+                    "intentions_exprimees": 949,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3.5,
+                        "Jean-Luc Mélenchon": 7,
+                        "Anne Hidalgo": 6,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 24,
+                        "Jean-Christophe Lagarde": 0.5,
+                        "Xavier Bertrand": 18,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Jean-Frédéric Poisson": 0.5,
+                        "Marine Le Pen": 26,
+                        "Jean Lassalle": 2
                     }
-            },
-            "second_tour": {
-                "lepen_macron": {
-                    "intentions_exprimees": 33.3,
+                    },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite",
+                    "base": "I",
+                    "nspp": 30.5,
+                    "intentions_exprimees": 929,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3.5,
+                        "Jean-Luc Mélenchon": 7.5,
+                        "Anne Hidalgo": 6.5,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 26,
+                        "Jean-Christophe Lagarde": 0.5,
+                        "Valérie Pécresse": 14,
+                        "Nicolas Dupont-Aignan": 4.5,
+                        "Jean-Frédéric Poisson": 0.5,
+                        "Marine Le Pen": 26,
+                        "Jean Lassalle": 2.5
+                    }
+                },
+                {
+                    "hypothese": "Laurent Wauquiez candidat de la droite",
+                    "base": "I",
+                    "nspp": 30.1,
+                    "intentions_exprimees": 935,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3.5,
+                        "Jean-Luc Mélenchon": 7.5,
+                        "Anne Hidalgo": 6,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 28,
+                        "Jean-Christophe Lagarde": 0.5,
+                        "Laurent Wauquiez": 13,
+                        "Nicolas Dupont-Aignan": 3.5,
+                        "Jean-Frédéric Poisson": 0.5,
+                        "Marine Le Pen": 26,
+                        "Jean Lassalle": 3
+                    }
+                },
+                {
+                    "hypothese": "Anne Hidalgo sans Yannick Jadot (Xavier Bertrand candidat de la droite)",
+                    "base": "I",
+                    "nspp": 30.3,
+                    "intentions_exprimees": 932,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 4,
+                        "Jean-Luc Mélenchon": 7,
+                        "Anne Hidalgo": 8,
+                        "Emmanuel Macron": 28,
+                        "Jean-Christophe Lagarde": 0.5,
+                        "Xavier Bertrand": 18,
+                        "Nicolas Dupont-Aignan": 4.5,
+                        "Jean-Frédéric Poisson": 0.5,
+                        "Marine Le Pen": 26,
+                        "Jean Lassalle": 2
+                    }
+                },
+                {
+                    "hypothese": "Yannick Jadot sans Anne Hidalgo (Xavier Bertrand candidat de la droite)",
+                    "base": "I",
+                    "nspp": 30.5,
+                    "intentions_exprimees": 929,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 4,
+                        "Jean-Luc Mélenchon": 7,
+                        "Yannick Jadot": 9,
+                        "Emmanuel Macron": 26,
+                        "Jean-Christophe Lagarde": 0.5,
+                        "Xavier Bertrand": 18.5,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Jean-Frédéric Poisson": 0.5,
+                        "Marine Le Pen": 27,
+                        "Jean Lassalle": 2
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 66.7,
+                    "intentions_exprimees": 892,
                     "intentions": {
                         "Emmanuel Macron": 57,
                         "Marine Le Pen": 43
                     }
                 },
-                "bertrand_lepen": {
-                    "intentions_exprimees": 68.4,
+                {
+                    "hypothese": "Marine Le Pen vs Xavier Bertrand",
+                    "base": "I",
+                    "nspp": 31.6,
+                    "intentions_exprimees": 914,
                     "intentions": {
                         "Xavier Bertrand": 61,
                         "Marine Le Pen": 39
                     }
                 },
-                "bertrand_macron": {
-                    "intentions_exprimees": 55.9,
+                {
+                    "hypothese": "Xavier Bertrand vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 44.1,
+                    "intentions_exprimees": 748,
                     "intentions": {
                         "Emmanuel Macron": 48,
                         "Xavier Bertrand": 52
                     }
                 }
-            }
+            ]
         },
 
         "20210628_harris":
