@@ -2599,67 +2599,100 @@
         {
             "institut": "Harris interactive",
             "commanditaires": ["Challenges"],
+            "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9136-p-hi-challenges-v2.pdf",
             "date_debut": "2021-05-14",
             "date_fin": "2021-05-17",
-            "date_publication": "2021-05-19",
-            "echantillon": 1002,
-            "population": "Inscrits sur les listes électorales",
             "methode": "internet",
-            "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9136-p-hi-challenges-v2.pdf",
-            "hypotheses": {
-                "bertrand": "Xavier Bertrand candidat de la droite",
-                "barnier": "Michel Barnier candidat de la droite"
-            },
-            "premier_tour": {
-                "bertrand": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 2,
-                            "Jean-Luc Mélenchon": 12,
-                            "Anne Hidalgo": 6,
-                            "Yannick Jadot": 6,
-                            "Emmanuel Macron": 25,
-                            "Jean-Christophe Lagarde": 1,
-                            "Xavier Bertrand": 14,
-                            "Nicolas Dupont-Aignan": 4,
-                            "Jean-Frédéric Poisson": 0,
-                            "Marine Le Pen": 27,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 0
-                        }
+            "interroges": 1002,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite",
+                    "base": "I",
+                    "nspp": 16,
+                    "intentions_exprimees": 841,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 12,
+                        "Anne Hidalgo": 6,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 25,
+                        "Jean-Christophe Lagarde": 1,
+                        "Xavier Bertrand": 14,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Jean-Frédéric Poisson": 0,
+                        "Marine Le Pen": 27,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 0
                     },
-                "barnier": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 2,
-                            "Jean-Luc Mélenchon": 13,
-                            "Anne Hidalgo": 6,
-                            "Yannick Jadot": 6,
-                            "Emmanuel Macron": 27,
-                            "Jean-Christophe Lagarde": 2,
-                            "Michel Barnier": 6,
-                            "Nicolas Dupont-Aignan": 5,
-                            "Jean-Frédéric Poisson": 0,
-                            "Marine Le Pen": 29,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 79,
+                            "Anne Hidalgo": 44,
+                            "Yannick Jadot": 52,
+                            "Emmanuel Macron": 75,
+                            "Xavier Bertrand": 50,
+                            "Marine Le Pen": 90
                         }
                     }
-            },
-            "second_tour": {
-                    "lepen_macron" : {
-                        "intentions_exprimees": null,
-                        "intentions": {"Marine Le Pen": 47, "Emmanuel Macron": 53}
+                },
+                {
+                    "hypothese": "Michel Barnier candidat de la droite",
+                    "base": "I",
+                    "nspp": 16,
+                    "intentions_exprimees": 841,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 13,
+                        "Anne Hidalgo": 6,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 27,
+                        "Jean-Christophe Lagarde": 2,
+                        "Michel Barnier": 6,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Jean-Frédéric Poisson": 0,
+                        "Marine Le Pen": 29,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 76,
+                            "Anne Hidalgo": 48,
+                            "Yannick Jadot": 56,
+                            "Emmanuel Macron": 71,
+                            "Michel Barnier": 59,
+                            "Marine Le Pen": 84
+                        }
                     }
-            },
-            "reports": {
-                "bertrand": {
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 31,
+                    "intentions_exprimees": 691,
+                    "intentions": {
+                        "Marine Le Pen": 47,
+                        "Emmanuel Macron": 53
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Marine Le Pen": 89,
+                            "Emmanuel Macron": 89,
+                            "Non exprimés": 71
+                        }
+                    }
+                }
+            ],
+            "reports": [
+                {
                     "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen"],
-                    "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Abstention/Blanc/Nul"],
+                    "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Non exprimés"],
                     "reports": [
                         [15, 30, 55],
                         [7, 44, 49],
@@ -2669,7 +2702,7 @@
                         [96, 3, 1]
                     ]
                 }
-            }
+            ]
         },
 
         "20210419_harris":
