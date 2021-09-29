@@ -1493,6 +1493,140 @@
             ]
         },
 
+        "20210823_harris":
+        {
+            "institut": "Harris interactive",
+            "commanditaires": ["Challenges"],
+            "lien": "https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-10/",
+            "date_debut": "2021-08-20",
+            "date_fin": "2021-08-23",
+            "methode": "internet",
+            "interroges": 1113,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite",
+                    "base": "I",
+                    "nspp": 16,
+                    "intentions_exprimees": 934,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 24,
+                        "Jean-Christophe Lagarde": 1,
+                        "Xavier Bertrand": 16,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 24,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    },
+                    "certitude": {
+                        "ensemble": 68
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite",
+                    "base": "I",
+                    "nspp": 18,
+                    "intentions_exprimees": 912,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 25,
+                        "Jean-Christophe Lagarde": 1,
+                        "Valérie Pécresse": 13,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 26,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Arnaud Montebourg candidat",
+                    "base": "I",
+                    "nspp": 19,
+                    "intentions_exprimees": 901,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 11,
+                        "Arnaud Montebourg": 5,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 24,
+                        "Jean-Christophe Lagarde": 1,
+                        "Xavier Bertrand": 16,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 24,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Xavier Bertrand et Valérie Pécresse candidats",
+                    "base": "I",
+                    "nspp": 16,
+                    "intentions_exprimees": 934,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 7,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 21,
+                        "Jean-Christophe Lagarde": 1,
+                        "Xavier Bertrand": 11,
+                        "Valérie Pécresse": 8,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Florian Philippot": 2,
+                        "Marine Le Pen": 23,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 34,
+                    "intentions_exprimees": null,
+                    "intentions": {
+                        "Emmanuel Macron": 55,
+                        "Marine Le Pen": 45
+                    },
+                    "certitude": {
+                        "ensemble": 85
+                    }
+                }
+            ],
+            "reports": [
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen"],
+                    "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Non exprimés"],
+                    "reports": [
+                        [16, 27, 57],
+                        [12, 42, 46],
+                        [8, 52, 40],
+                        [4, 95, 1],
+                        [22, 38, 40],
+                        [96, 2, 2]
+                    ]
+                }
+            ]
+        },
+
         "20210822_ipsos": {
             "institut": "Ipsos",
             "commanditaires": ["Libres!"],
@@ -1573,120 +1707,6 @@
             }
         },
 
-        "20210823_harris":
-        {
-            "institut": "Harris interactive",
-            "commanditaires": ["Challenges"],
-            "date_debut": "2021-08-20",
-            "date_fin": "2021-08-23",
-            "date_publication": "2021-08-25",
-            "echantillon": 1113,
-            "population": "Inscrits sur les listes électorales",
-            "methode": "internet",
-            "lien": "https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-10/",
-            "hypotheses": {
-                "bertrand": "Xavier Bertrand candidat de la droite",
-                "pecresse": "Valérie Pécresse candidate de la droite",
-                "montebourg": "Arnaud Montebourg candidat",
-                "bertrand_pecresse": "Xavier Bertrand et Valérie Pécresse candidats"
-            },
-            "premier_tour": {
-                "bertrand": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 2,
-                            "Jean-Luc Mélenchon": 11,
-                            "Anne Hidalgo": 7,
-                            "Yannick Jadot": 6,
-                            "Emmanuel Macron": 24,
-                            "Jean-Christophe Lagarde": 1,
-                            "Xavier Bertrand": 16,
-                            "Nicolas Dupont-Aignan": 4,
-                            "Florian Philippot": 1,
-                            "Marine Le Pen": 24,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
-                        }
-                },
-                "pecresse": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 2,
-                            "Jean-Luc Mélenchon": 11,
-                            "Anne Hidalgo": 7,
-                            "Yannick Jadot": 6,
-                            "Emmanuel Macron": 25,
-                            "Jean-Christophe Lagarde": 1,
-                            "Valérie Pécresse": 13,
-                            "Nicolas Dupont-Aignan": 4,
-                            "Florian Philippot": 1,
-                            "Marine Le Pen": 26,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
-                        }
-                },
-                "montebourg": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 2,
-                            "Jean-Luc Mélenchon": 11,
-                            "Arnaud Montebourg": 5,
-                            "Yannick Jadot": 8,
-                            "Emmanuel Macron": 24,
-                            "Jean-Christophe Lagarde": 1,
-                            "Xavier Bertrand": 16,
-                            "Nicolas Dupont-Aignan": 4,
-                            "Florian Philippot": 1,
-                            "Marine Le Pen": 24,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
-                        }
-                },
-                "bertrand_pecresse": {
-                        "intentions_exprimees": null,
-                        "intentions": {
-                            "Nathalie Arthaud": 1,
-                            "Philippe Poutou": 1,
-                            "Fabien Roussel": 2,
-                            "Jean-Luc Mélenchon": 11,
-                            "Anne Hidalgo": 7,
-                            "Yannick Jadot": 6,
-                            "Emmanuel Macron": 21,
-                            "Jean-Christophe Lagarde": 1,
-                            "Xavier Bertrand": 11,
-                            "Valérie Pécresse": 8,
-                            "Nicolas Dupont-Aignan": 4,
-                            "Florian Philippot": 2,
-                            "Marine Le Pen": 23,
-                            "François Asselineau": 1,
-                            "Jean Lassalle": 1
-                        }
-                }
-            },
-            "second_tour": {
-                "lepen_macron": {"intentions_exprimees": null, "intentions": {"Emmanuel Macron": 55, "Marine Le Pen": 45}}
-            },
-            "reports": {
-                "bertrand": {
-                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen"],
-                    "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Abstention/Blanc/Nul"],
-                    "reports": [
-                        [16, 27, 57],
-                        [12, 42, 46],
-                        [8, 52, 40],
-                        [4, 95, 1],
-                        [22, 38, 40],
-                        [96, 2, 2]
-                    ]
-                }
-            }
-        },
 
         "20210705_harris":
         {
