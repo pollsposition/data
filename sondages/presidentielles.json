@@ -1636,22 +1636,17 @@
         "20210822_ipsos": {
             "institut": "Ipsos",
             "commanditaires": ["Libres!"],
+            "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/aout/9201-p-ipsos-libres-le-point.pdf",
             "date_debut": "2021-08-20",
             "date_fin": "2021-08-22",
-            "date_publication": "2021-08-27",
-            "echantillon": 938,
-            "population": "Certains d'aller voter",
             "methode": "internet",
-            "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/aout/9201-p-ipsos-libres-le-point.pdf",
-            "hypotheses": {
-                "pecresse": "Valérie Pécresse candidate LR/UDI",
-                "bertrand": "Xavier Bertrand candidat LR/UDI",
-                "wauquiez": "Laurent Wauquiez candidat LR/UDI",
-                "barnier": "Michel Barnier candidat LR/UDI"
-            },
-            "premier_tour": {
-                "pecresse": {
-                    "intentions_exprimees": 89,
+            "interroges": 2000,
+            "premier_tour": [
+                {
+                    "hypothese": "Valérie Pécresse candidate LR/UDI",
+                    "base": "SV",
+                    "nspp": 11,
+                    "intentions_exprimees": 938,
                     "intentions": {
                         "Extrême Gauche": 1,
                         "Fabien Roussel": 2,
@@ -1665,8 +1660,11 @@
                         "Éric Zemmour": 7
                     }
                 },
-                "bertrand": {
-                    "intentions_exprimees": 90,
+                {
+                    "hypothese": "Xavier Bertrand candidat LR/UDI",
+                    "base": "SV",
+                    "nspp": 10,
+                    "intentions_exprimees": 948,
                     "intentions": {
                         "Extrême Gauche": 1,
                         "Fabien Roussel": 2,
@@ -1680,8 +1678,11 @@
                         "Éric Zemmour": 7
                     }
                 },
-                "wauquiez": {
-                    "intentions_exprimees": 90,
+                {
+                    "hypothese": "Laurent Wauquiez candidat LR/UDI",
+                    "base": "SV",
+                    "nspp": 10,
+                    "intentions_exprimees": 948,
                     "intentions": {
                         "Extrême Gauche": 1,
                         "Fabien Roussel": 2,
@@ -1695,8 +1696,11 @@
                         "Éric Zemmour": 7
                     }
                 },
-                "barnier": {
-                    "intentions_exprimees": 90,
+                {
+                    "hypothese": "Michel Barnier candidat LR/UDI",
+                    "base": "SV",
+                    "nspp": 10,
+                    "intentions_exprimees": 948,
                     "intentions": {
                         "Extrême Gauche": 1,
                         "Fabien Roussel": 2,
@@ -1710,9 +1714,8 @@
                         "Éric Zemmour": 7
                     }
                 }
-            }
+            ]
         },
-
 
         "20210705_harris":
         {
@@ -2653,6 +2656,7 @@
         "Jean Lassalle",
         "Xavier Bertrand",
         "Valérie Pécresse",
+        "Laurent Wauquiez",
         "Michel Barnier",
         "Éric Ciotti",
         "Philippe Juvin",
