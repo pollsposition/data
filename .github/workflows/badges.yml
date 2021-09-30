@@ -1,0 +1,46 @@
+name: "Update badges"
+
+on:
+    pull_request:
+    push:
+        branches: [main]
+
+jobs:
+    badge_2022:
+        name: 2022 Presidential election polls
+        runs-on: ubuntu-latest
+        steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v2
+        - name: Download jq
+          run: sudo apt-get update -y && sudo apt-get install -y jq
+        - name: Compute number of polls
+          run: echo "NUM_POLLS=$( jq -r '.sondages | keys[]' sondages/presidentielles.json | wc -l)" >> $GITHUB_ENV
+        - name: Create the Badges
+          uses: schneegans/dynamic-badges-action@v1.1.0
+          with:
+            auth: ${{ secrets.GIST_SECRET }}
+            gistID: 51a78df74e3aeaa07fe17c83eb0608fb
+            filename: 2022.json
+            message: ${{ env.NUM_POLLS }}
+            label: Présidentielles 2022
+            color: green
+    badge_2017:
+        name: 2017 Presidential election polls
+        runs-on: ubuntu-latest
+        steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v2
+        - name: Download jq
+          run: sudo apt-get update -y && sudo apt-get install -y jq
+        - name: Compute number of polls
+          run: echo "NUM_POLLS=$( jq -r '.sondages | keys[]' sondages/presidentielles_2017.json | wc -l)" >> $GITHUB_ENV
+        - name: Create the Badges
+          uses: schneegans/dynamic-badges-action@v1.1.0
+          with:
+            auth: ${{ secrets.GIST_SECRET }}
+            gistID: 51a78df74e3aeaa07fe17c83eb0608fb
+            filename: 2017.json
+            message: ${{ env.NUM_POLLS }}
+            label: Présidentielles 2017
+            color: green 
