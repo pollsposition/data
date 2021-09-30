@@ -14,8 +14,8 @@
                 {
                     "hypothese": "Xavier Bertrand candidat de la droite",
                     "base": "I",
-                    "nspp": 1,
-                    "intentions_exprimees": 0,
+                    "nspp": 15,
+                    "intentions_exprimees": 890,
                     "intentions": {
                         "Nathalie Arthaud": 1,
                         "Philippe Poutou": 1,
@@ -42,8 +42,8 @@
                 {
                     "hypothese": "Valérie Pécresse candidate de la droite",
                     "base": "I",
-                    "nspp": 1,
-                    "intentions_exprimees": 0,
+                    "nspp": 16,
+                    "intentions_exprimees": 880,
                     "intentions": {
                         "Nathalie Arthaud": 1,
                         "Philippe Poutou": 1,
@@ -67,8 +67,8 @@
                 {
                     "hypothese": "Michel Barnier candidat de la droite",
                     "base": "I",
-                    "nspp": 1,
-                    "intentions_exprimees": 0,
+                    "nspp": 18,
+                    "intentions_exprimees": 859,
                     "intentions": {
                         "Nathalie Arthaud": 1,
                         "Philippe Poutou": 1,
@@ -94,8 +94,8 @@
                 {
                     "hypothese": "Marine Le Pen vs Emmanuel Macron",
                     "base": "I",
-                    "nspp": 1,
-                    "intentions_exprimees": 0,
+                    "nspp": 34,
+                    "intentions_exprimees": 691,
                     "intentions": {
                         "Marine Le Pen": 46,
                         "Emmanuel Macron": 54
