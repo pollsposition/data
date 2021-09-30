@@ -1091,6 +1091,53 @@
         }
       ]
     },
+    "20170402_ipsos": {
+      "institut": "Ipsos",
+      "commanditaires": [
+        "CEVIPOF",
+        "Le Monde"
+      ],
+      "lien": "http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fwww.ipsos.fr%2Fsites%2Fdefault%2Ffiles%2Fdoc_associe%2Fcevipof_vague12bis.pdf",
+      "date_debut": "2021-03-31",
+      "date_fin": "2021-04-02",
+      "methode": "internet",
+      "interroges": 14300,
+      "premier_tour": [
+        {
+          "base": "SV",
+          "nspp": 5,
+          "intentions_exprimees": 9460,
+          "intentions": {
+            "Nathalie Arthaud": 1,
+            "Philippe Poutou": 1,
+            "Jean-Luc Mélenchon": 15,
+            "Benoît Hamon": 10,
+            "Emmanuel Macron": 25,
+            "Jean Lassalle": 1,
+            "François Fillon": 17.5,
+            "Nicolas Dupont-Aignan": 4,
+            "François Asselineau": 0.5,
+            "Jacques Cheminade": 0,
+            "Marine Le Pen": 25
+          },
+          "certitude": {
+            "ensemble": 64,
+            "detail": {
+              "Nathalie Arthaud": 50,
+              "Philippe Poutou": 38,
+              "Jean-Luc Mélenchon": 60,
+              "Benoît Hamon": 52,
+              "Emmanuel Macron": 61,
+              "Jean Lassalle": 28,
+              "François Fillon": 75,
+              "Nicolas Dupont-Aignan": 37,
+              "Marine Le Pen": 82,
+              "François Asselineau": 62
+            }
+          }
+        }
+      ]
+    },
     "20170330_bva": {
       "institut": "BVA",
       "commanditaires": [
