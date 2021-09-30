@@ -753,6 +753,48 @@
         }
       ]
     },
+    "20170409_ipsos": {
+      "institut": "Ipsos",
+      "commanditaires": [
+        "France Télévisions",
+        "Radio France"
+      ],
+      "lien": "https://www.ipsos.com/fr-fr/presidentielle-2017-jean-luc-melenchon-poursuit-sa-progression",
+      "date_debut": "2021-04-07",
+      "date_fin": "2021-04-09",
+      "methode": "internet",
+      "interroges": 1604,
+      "premier_tour": [
+        {
+          "base": "SV",
+          "nspp": 10,
+          "intentions_exprimees": 1002,
+          "intentions": {
+            "Nathalie Arthaud": 1,
+            "Philippe Poutou": 1.5,
+            "Jean-Luc Mélenchon": 18.5,
+            "Benoît Hamon": 8,
+            "Emmanuel Macron": 24,
+            "Jean Lassalle": 0.5,
+            "François Fillon": 18,
+            "Nicolas Dupont-Aignan": 3.5,
+            "François Asselineau": 1,
+            "Jacques Cheminade": 0,
+            "Marine Le Pen": 24
+          },
+          "certitude": {
+            "ensemble": 60,
+            "detail": {
+              "Jean-Luc Mélenchon": 60,
+              "Benoît Hamon": 43,
+              "Emmanuel Macron": 44,
+              "François Fillon": 79,
+              "Marine Le Pen": 79
+            }
+          }
+        }
+      ]
+    },
     "20170407_bva": {
       "institut": "BVA",
       "commanditaires": [
