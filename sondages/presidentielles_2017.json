@@ -1348,6 +1348,48 @@
         }
       ]
     },
+    "20170327_ipsos": {
+      "institut": "Ipsos",
+      "commanditaires": [
+        "France Télévisions",
+        "Radio France"
+      ],
+      "lien": "",
+      "date_debut": "2021-03-25",
+      "date_fin": "2021-03-27",
+      "methode": "internet",
+      "interroges": 1005,
+      "premier_tour": [
+        {
+          "base": "SV",
+          "nspp": 11,
+          "intentions_exprimees": 669,
+          "intentions": {
+            "Nathalie Arthaud": 1,
+            "Philippe Poutou": 1,
+            "Jean-Luc Mélenchon": 14,
+            "Benoît Hamon": 12,
+            "Emmanuel Macron": 24,
+            "Jean Lassalle": 1,
+            "François Fillon": 18,
+            "Nicolas Dupont-Aignan": 3.5,
+            "François Asselineau": 0.5,
+            "Jacques Cheminade": 0,
+            "Marine Le Pen": 25
+          },
+          "certitude": {
+            "ensemble": 59,
+            "detail": {
+              "Jean-Luc Mélenchon": 60,
+              "Benoît Hamon": 48,
+              "Emmanuel Macron": 53,
+              "François Fillon": 84,
+              "Marine Le Pen": 82
+            }
+          }
+        }
+      ]
+    },
     "20170324_bva": {
       "institut": "BVA",
       "commanditaires": [
