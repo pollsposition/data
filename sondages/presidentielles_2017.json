@@ -543,6 +543,47 @@
         }
       ]
     },
+    "20170413_ipsos": {
+      "institut": "Ipsos",
+      "commanditaires": [
+        "Le Monde"
+      ],
+      "lien": "http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fwww.ipsos.fr%2Fsites%2Fdefault%2Ffiles%2Fdoc_associe%2Fenquete_presidentielle_ipsos_le_monde.pdf",
+      "date_debut": "2021-04-12",
+      "date_fin": "2021-04-13",
+      "methode": "internet",
+      "interroges": 1509,
+      "premier_tour": [
+        {
+          "base": "SV",
+          "nspp": 10,
+          "intentions_exprimees": 927,
+          "intentions": {
+            "Nathalie Arthaud": 0.5,
+            "Philippe Poutou": 2,
+            "Jean-Luc Mélenchon": 20,
+            "Benoît Hamon": 7.5,
+            "Emmanuel Macron": 22,
+            "Jean Lassalle": 1.5,
+            "François Fillon": 19,
+            "Nicolas Dupont-Aignan": 3.5,
+            "François Asselineau": 1.5,
+            "Jacques Cheminade": 0.5,
+            "Marine Le Pen": 22
+          },
+          "certitude": {
+            "ensemble": 66,
+            "detail": {
+              "Jean-Luc Mélenchon": 66,
+              "Benoît Hamon": 57,
+              "Emmanuel Macron": 68,
+              "François Fillon": 80,
+              "Marine Le Pen": 85
+            }
+          }
+        }
+      ]
+    },
     "20170413_odoxa": {
       "institut": "Odoxa",
       "commanditaires": [
