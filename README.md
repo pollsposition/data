@@ -3,7 +3,8 @@
 Nombre de sondages disponibles:
 
 ![count2022](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rlouf/51a78df74e3aeaa07fe17c83eb0608fb/raw/2022.json)  
-![count2017](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rlouf/51a78df74e3aeaa07fe17c83eb0608fb/raw/2017.json)
+![count2017](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rlouf/51a78df74e3aeaa07fe17c83eb0608fb/raw/2017.json)  
+![popularity](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rlouf/51a78df74e3aeaa07fe17c83eb0608fb/raw/popularity.json)
 
 Ce dépôt compile les données utilisées par les modèles et les infographies de
 [Pollsposition](https://twitter.com/pollsposition):

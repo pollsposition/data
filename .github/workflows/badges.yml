@@ -44,3 +44,20 @@ jobs:
             message: ${{ env.NUM_POLLS }}
             label: Présidentielles 2017
             color: green 
+    badge_popularite:
+        name: Popularity 
+        runs-on: ubuntu-latest
+        steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v2
+        - name: Compute number of polls
+          run: echo "NUM_POLLS=$( tail -n +2 raw_popularity_presidents.csv | wc -l )" >> $GITHUB_ENV
+        - name: Create the Badges
+          uses: schneegans/dynamic-badges-action@v1.1.0
+          with:
+            auth: ${{ secrets.GIST_SECRET }}
+            gistID: 51a78df74e3aeaa07fe17c83eb0608fb
+            filename: popularity.json
+            message: ${{ env.NUM_POLLS }}
+            label: "Popularité du président"
+            color: orange
