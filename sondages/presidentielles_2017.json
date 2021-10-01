@@ -1040,6 +1040,47 @@
         }
       ]
     },
+    "20170405_harris": {
+      "institut": "Harris interactive",
+      "commanditaires": [
+        "France Télévisions",
+        "L'Émission Politique"
+      ],
+      "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2017/04/Rapport-Harris-Intentions-de-vote-a-lelection-presidentielle-France-TV.pdf",
+      "date_debut": "2021-04-03",
+      "date_fin": "2021-04-05",
+      "methode": "internet",
+      "interroges": 2097,
+      "premier_tour": [
+        {
+          "base": "I",
+          "nspp": 10,
+          "intentions_exprimees": 1881,
+          "intentions": {
+            "Nathalie Arthaud": 1,
+            "Philippe Poutou": 1,
+            "Jean-Luc Mélenchon": 17,
+            "Benoît Hamon": 9,
+            "Emmanuel Macron": 25,
+            "Jean Lassalle": 1,
+            "François Fillon": 18,
+            "Nicolas Dupont-Aignan": 3,
+            "Jacques Cheminade": 0,
+            "François Asselineau": 1,
+            "Marine Le Pen": 24
+          },
+          "certitude": {
+            "detail": {
+              "Jean-Luc Mélenchon": 61,
+              "Benoît Hamon": 63,
+              "Emmanuel Macron": 64,
+              "François Fillon": 79,
+              "Marine Le Pen": 80
+            }
+          }
+        }
+      ]
+    },
     "20170405_elabe": {
       "institut": "Elabe",
       "commanditaires": [
