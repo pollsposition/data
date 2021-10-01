@@ -1,124 +1,137 @@
 {
     "sondages": {
 
-        "20210923_opinionway":
-        {
-            "institut": "Opinionway",
-            "commanditaires": [
-                "Les Echos",
-                "C News",
-                "Radio classique"
-            ],
-            "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-les-echos-cnews-et-radio-classique-presitrack-vague-1-septembre-2021/viewdocument/2673.html?Itemid=0",
-            "date_debut": "2021-09-22",
-            "date_fin": "2021-09-23",
+        "20210930_ipsos": {
+            "institut": "Ipsos",
+            "commanditaires": ["franceinfo", "Le Parisien", "Aujourd'hui en France"],
+            "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2021-10/Ipsos%20-%20Le%20Parisien-France%20Info%20-%20IV%202022%20-%20Oct.%202021.pdf",
+            "date_debut": "2021-09-29",
+            "date_fin": "2021-09-30",
             "methode": "internet",
-            "interroges": 980,
+            "interroges": 1500,
             "premier_tour": [
                 {
-                    "hypothese": "Xavier Bertrand candidat de la droite et Éric Zemmour candidats",
-                    "base": "I",
-                    "nspp": 19,
-                    "intentions_exprimees": 793,
+                    "hypothese": "Xavier Bertrand candidat LR/UDI et Éric Zemmour candidat",
+                    "base": "SV",
+                    "nspp": 8,
+                    "intentions_exprimees": 684,
                     "intentions": {
-                        "Nathalie Arthaud": 1,
                         "Philippe Poutou": 1,
-                        "Fabien Roussel": 3,
-                        "Jean-Luc Mélenchon": 8,
-                        "Arnaud Montebourg": 3,
-                        "Anne Hidalgo": 6,
-                        "Yannick Jadot": 7,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 9,
+                        "Fabien Roussel": 1.5,
+                        "Arnaud Montebourg": 1.5,
+                        "Yannick Jadot": 9,
+                        "Anne Hidalgo": 5.5,
                         "Emmanuel Macron": 24,
-                        "Xavier Bertrand": 15,
-                        "Nicolas Dupont-Aignan": 2,
-                        "Marine Le Pen": 20,
-                        "Éric Zemmour": 10
+                        "Xavier Bertrand": 14,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 15
                     }
                 },
                 {
-                    "hypothese": "Xavier Bertrand candidat de la droite",
-                    "base": "I",
-                    "nspp": 20,
-                    "intentions_exprimees": 784,
+                    "hypothese": "Valérie Pécresse candidate LR/UDI et Éric Zemmour candidat",
+                    "base": "SV",
+                    "nspp": 10,
+                    "intentions_exprimees": 670,
                     "intentions": {
-                        "Nathalie Arthaud": 1,
                         "Philippe Poutou": 1,
-                        "Fabien Roussel": 3,
-                        "Jean-Luc Mélenchon": 7,
-                        "Yannick Jadot": 8,
-                        "Arnaud Montebourg": 2,
-                        "Anne Hidalgo": 7,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 9,
+                        "Fabien Roussel": 1.5,
+                        "Arnaud Montebourg": 1.5,
+                        "Yannick Jadot": 9,
+                        "Anne Hidalgo": 5.5,
                         "Emmanuel Macron": 25,
-                        "Xavier Bertrand": 16,
-                        "Nicolas Dupont-Aignan": 5,
+                        "Valérie Pécresse": 12,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 15
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat LR/UDI et Éric Zemmour candidat",
+                    "base": "SV",
+                    "nspp": 10,
+                    "intentions_exprimees": 670,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 9,
+                        "Fabien Roussel": 1.5,
+                        "Arnaud Montebourg": 1.5,
+                        "Yannick Jadot": 9.5,
+                        "Anne Hidalgo": 5.5,
+                        "Emmanuel Macron": 25.5,
+                        "Michel Barnier": 11,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 15
+                    }
+                },
+                {
+                    "hypothese": "Xavier Bertrand candidat LR/UDI",
+                    "base": "SV",
+                    "nspp": 11,
+                    "intentions_exprimees": 662,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 8.5,
+                        "Fabien Roussel": 1.5,
+                        "Arnaud Montebourg": 1.5,
+                        "Yannick Jadot": 9,
+                        "Anne Hidalgo": 5.5,
+                        "Emmanuel Macron": 25,
+                        "Xavier Bertrand": 17,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 4,
                         "Marine Le Pen": 25
                     }
                 },
                 {
-                    "hypothese": "Valérie Pécresse candidate de la droite",
-                    "base": "I",
-                    "nspp": 21,
-                    "intentions_exprimees": 774,
+                    "hypothese": "Valérie Pécresse candidate LR/UDI",
+                    "base": "SV",
+                    "nspp": 12,
+                    "intentions_exprimees": 654,
                     "intentions": {
-                        "Nathalie Arthaud": 1,
                         "Philippe Poutou": 1,
-                        "Fabien Roussel": 3,
-                        "Jean-Luc Mélenchon": 7,
-                        "Yannick Jadot": 8,
-                        "Arnaud Montebourg": 2,
-                        "Anne Hidalgo": 7,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 8.5,
+                        "Fabien Roussel": 1.5,
+                        "Arnaud Montebourg": 1.5,
+                        "Yannick Jadot": 9,
+                        "Anne Hidalgo": 5.5,
                         "Emmanuel Macron": 26,
-                        "Valérie Pécresse": 15,
+                        "Valérie Pécresse": 14,
+                        "Jean Lassalle": 1,
                         "Nicolas Dupont-Aignan": 5,
-                        "Marine Le Pen": 25
-                    }
-                },
-                {
-                    "hypothese": "Michel Barnier candidat de la droite",
-                    "base": "I",
-                    "nspp": 21,
-                    "intentions_exprimees": 774,
-                    "intentions": {
-                        "Nathalie Arthaud": 1,
-                        "Philippe Poutou": 1,
-                        "Fabien Roussel": 3,
-                        "Jean-Luc Mélenchon": 8,
-                        "Yannick Jadot": 8,
-                        "Arnaud Montebourg": 3,
-                        "Anne Hidalgo": 7,
-                        "Emmanuel Macron": 28,
-                        "Michel Barnier": 9,
-                        "Nicolas Dupont-Aignan": 6,
                         "Marine Le Pen": 26
                     }
-                }
-            ],
-            "second_tour": [
+                },
                 {
-                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
-                    "base": "I",
-                    "nspp": 33,
-                    "intentions_exprimees": 656,
+                    "hypothese": "Michel Barnier candidat LR/UDI",
+                    "base": "SV",
+                    "nspp": 11,
+                    "intentions_exprimees": 662,
                     "intentions": {
-                        "Marine Le Pen": 42,
-                        "Emmanuel Macron": 58
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 8.5,
+                        "Fabien Roussel": 1.5,
+                        "Arnaud Montebourg": 1.5,
+                        "Yannick Jadot": 9,
+                        "Anne Hidalgo": 5.5,
+                        "Emmanuel Macron": 27,
+                        "Michel Barnier": 13,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Marine Le Pen": 26
                     }
-                }
-            ],
-            "reports": [
-                {
-                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Yannick Jadot", "Anne Hidalgo", "Emmanuel Macron", "Xavier Bertrand", "Éric Zemmour", "Marine Le Pen", "Non exprimés"],
-                    "candidats_2nd_tour": ["Emmanuel Macron", "Marine Le Pen", "Non exprimés"],
-                    "reports": [
-                        [25,12, 63],
-                        [46, 6, 48],
-                        [55, 9, 36],
-                        [99, 0, 1],
-                        [41, 23, 36],
-                        [9, 71, 20],
-                        [0, 99, 1],
-                        [21, 6, 73]
-                    ]
                 }
             ]
         },
@@ -239,6 +252,128 @@
                         [35, 12, 53],
                         [3, 95, 2],
                         [7, 66, 27]
+                    ]
+                }
+            ]
+        },
+
+        "20210923_opinionway":
+        {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "C News",
+                "Radio classique"
+            ],
+            "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-les-echos-cnews-et-radio-classique-presitrack-vague-1-septembre-2021/viewdocument/2673.html?Itemid=0",
+            "date_debut": "2021-09-22",
+            "date_fin": "2021-09-23",
+            "methode": "internet",
+            "interroges": 980,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite et Éric Zemmour candidats",
+                    "base": "I",
+                    "nspp": 19,
+                    "intentions_exprimees": 793,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 8,
+                        "Arnaud Montebourg": 3,
+                        "Anne Hidalgo": 6,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 24,
+                        "Xavier Bertrand": 15,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 20,
+                        "Éric Zemmour": 10
+                    }
+                },
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite",
+                    "base": "I",
+                    "nspp": 20,
+                    "intentions_exprimees": 784,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 7,
+                        "Yannick Jadot": 8,
+                        "Arnaud Montebourg": 2,
+                        "Anne Hidalgo": 7,
+                        "Emmanuel Macron": 25,
+                        "Xavier Bertrand": 16,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Marine Le Pen": 25
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite",
+                    "base": "I",
+                    "nspp": 21,
+                    "intentions_exprimees": 774,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 7,
+                        "Yannick Jadot": 8,
+                        "Arnaud Montebourg": 2,
+                        "Anne Hidalgo": 7,
+                        "Emmanuel Macron": 26,
+                        "Valérie Pécresse": 15,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Marine Le Pen": 25
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat de la droite",
+                    "base": "I",
+                    "nspp": 21,
+                    "intentions_exprimees": 774,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 8,
+                        "Yannick Jadot": 8,
+                        "Arnaud Montebourg": 3,
+                        "Anne Hidalgo": 7,
+                        "Emmanuel Macron": 28,
+                        "Michel Barnier": 9,
+                        "Nicolas Dupont-Aignan": 6,
+                        "Marine Le Pen": 26
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 33,
+                    "intentions_exprimees": 656,
+                    "intentions": {
+                        "Marine Le Pen": 42,
+                        "Emmanuel Macron": 58
+                    }
+                }
+            ],
+            "reports": [
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Yannick Jadot", "Anne Hidalgo", "Emmanuel Macron", "Xavier Bertrand", "Éric Zemmour", "Marine Le Pen", "Non exprimés"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Marine Le Pen", "Non exprimés"],
+                    "reports": [
+                        [25,12, 63],
+                        [46, 6, 48],
+                        [55, 9, 36],
+                        [99, 0, 1],
+                        [41, 23, 36],
+                        [9, 71, 20],
+                        [0, 99, 1],
+                        [21, 6, 73]
                     ]
                 }
             ]
