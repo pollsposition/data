@@ -913,6 +913,46 @@
         }
       ]
     },
+    "20170406_harris": {
+      "institut": "Harris interactive",
+      "commanditaires": [
+        "LCP"
+      ],
+      "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2017/04/Rapport-Harris-Intentions-vote-election-presidentielle-LCP.pdf",
+      "date_debut": "2021-04-05",
+      "date_fin": "2021-04-06",
+      "methode": "internet",
+      "interroges": 928,
+      "premier_tour": [
+        {
+          "base": "I",
+          "nspp": 10,
+          "intentions_exprimees": 835,
+          "intentions": {
+            "Nathalie Arthaud": 1,
+            "Philippe Poutou": 1,
+            "Jean-Luc Mélenchon": 18,
+            "Benoît Hamon": 9,
+            "Emmanuel Macron": 24,
+            "Jean Lassalle": 1,
+            "François Fillon": 19,
+            "Nicolas Dupont-Aignan": 3,
+            "Jacques Cheminade": 0,
+            "François Asselineau": 1,
+            "Marine Le Pen": 23
+          },
+          "certitude": {
+            "detail": {
+              "Jean-Luc Mélenchon": 65,
+              "Benoît Hamon": 62,
+              "Emmanuel Macron": 68,
+              "Marine Le Pen": 79,
+              "François Fillon": 80
+            }
+          }
+        }
+      ]
+    },
     "20170406_opinionway": {
       "institut": "Opinionway",
       "commanditaires": [
