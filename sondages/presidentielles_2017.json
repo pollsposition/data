@@ -543,6 +543,40 @@
         }
       ]
     },
+    "20170413_harris": {
+      "institut": "Harris interactive",
+      "commanditaires": [
+        "LCP"
+      ],
+      "lien": "http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fharris-interactive.fr%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F04%2FRapport-Harris-Indeed-Intentions-vote-election-presidentielle-LCP.pdf",
+      "date_debut": "2021-04-11",
+      "date_fin": "2021-04-13",
+      "methode": "internet",
+      "interroges": 904,
+      "premier_tour": [
+        {
+          "base": "I",
+          "nspp": 9,
+          "intentions_exprimees": 822,
+          "intentions": {
+            "Nathalie Arthaud": 0,
+            "Philippe Poutou": 1,
+            "Jean-Luc Mélenchon": 19,
+            "Benoît Hamon": 8,
+            "Emmanuel Macron": 24,
+            "Jean Lassalle": 1,
+            "François Fillon": 20,
+            "Nicolas Dupont-Aignan": 4,
+            "Jacques Cheminade": 0,
+            "François Asselineau": 1,
+            "Marine Le Pen": 22
+          },
+          "certitude": {
+            "ensemble": 73
+          }
+        }
+      ]
+    },
     "20170413_ipsos": {
       "institut": "Ipsos",
       "commanditaires": [
