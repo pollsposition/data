@@ -399,7 +399,7 @@
                         "Yannick Jadot": 6,
                         "Emmanuel Macron": 24,
                         "Jean-Christophe Lagarde": 0,
-                        "Xavier Bertrand": 12,
+                        "Valérie Pécresse": 12,
                         "Nicolas Dupont-Aignan": 2,
                         "Jean-Frédéric Poisson": 0,
                         "Florian Philippot": 1,
@@ -660,7 +660,7 @@
                     }
                 },
                 {
-                    "hypothese": "Valérie Bertrand et Sandrine Rousseau candidats",
+                    "hypothese": "Valérie Pécresse et Sandrine Rousseau candidats",
                     "base": "SV",
                     "nspp": 25,
                     "intentions_exprimees": 612,
@@ -1093,7 +1093,7 @@
                     "hypothese": "Xavier Bertrand candidat de la droite",
                     "base": "SV",
                     "nspp": 13,
-                    "intentions_exprimees": 814,
+                    "intentions_exprimees": 824,
                     "intentions": {
                         "Nathalie Arthaud": 1,
                         "Philippe Poutou": 1,
@@ -1130,7 +1130,7 @@
                     "hypothese": "Valérie Pécresse candidate de la droite",
                     "base": "SV",
                     "nspp": 15,
-                    "intentions_exprimees": 795,
+                    "intentions_exprimees": 805,
                     "intentions": {
                         "Nathalie Arthaud": 0,
                         "Philippe Poutou": 1,
@@ -1156,7 +1156,7 @@
                             "Anne Hidalgo": 51,
                             "Yannick Jadot": 48,
                             "Emmanuel Macron": 66,
-                            "Valérie Pécresse": 44,
+                            "Valérie Pécresse": 45,
                             "Nicolas Dupont-Aignan": 42,
                             "Marine Le Pen": 81,
                             "Abstention": 40
@@ -1167,7 +1167,7 @@
                     "hypothese": "Xavier Bertrand candidat de la droite et Éric Zemmour candidat",
                     "base": "SV",
                     "nspp": 14,
-                    "intentions_exprimees": 804,
+                    "intentions_exprimees": 815,
                     "intentions": {
                         "Philippe Poutou": 1,
                         "Nathalie Arthaud": 0,
@@ -1206,7 +1206,7 @@
                     "hypothese": "Valérie Pécresse candidate de la droite et Éric Zemmour candidat",
                     "base": "SV",
                     "nspp": 14,
-                    "intentions_exprimees": 804,
+                    "intentions_exprimees": 815,
                     "intentions": {
                         "Philippe Poutou": 1,
                         "Nathalie Arthaud": 0,
@@ -1297,15 +1297,15 @@
                     "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Nicolas Dupont-Aignan", "Marine Le Pen", "Éric Zemmour", "Non exprimés"],
                     "candidats_2nd_tour": ["Marine Le Pen", "Emmanuel Macron", "Non exprimés"],
                     "reports": [
-                        [19, 24, 57],
-                        [3, 61, 36],
-                        [7, 54, 39],
-                        [0, 99, 1],
-                        [23, 46, 31],
-                        [63, 16, 21],
-                        [63, 16, 21],
-                        [96, 2, 2],
-                        [11, 29, 60]
+                        [17, 26, 57],
+                        [4, 56, 40],
+                        [5,61,34],
+                        [1, 98, 1],
+                        [23, 47, 30],
+                        [61, 15, 24],
+                        [98, 0, 2],
+                        [67,16,17],
+                        [10,34,56]
                     ]
                 },
                 {
@@ -2113,7 +2113,7 @@
                     "hypothese": "Valérie Pécresse candidate LR/UDI",
                     "base": "SV",
                     "nspp": 11,
-                    "intentions_exprimees": 938,
+                    "intentions_exprimees": 959,
                     "intentions": {
                         "Extrême Gauche": 1,
                         "Fabien Roussel": 2,
@@ -2131,7 +2131,7 @@
                     "hypothese": "Xavier Bertrand candidat LR/UDI",
                     "base": "SV",
                     "nspp": 10,
-                    "intentions_exprimees": 948,
+                    "intentions_exprimees": 970,
                     "intentions": {
                         "Extrême Gauche": 1,
                         "Fabien Roussel": 2,
@@ -2148,8 +2148,8 @@
                 {
                     "hypothese": "Laurent Wauquiez candidat LR/UDI",
                     "base": "SV",
-                    "nspp": 10,
-                    "intentions_exprimees": 948,
+                    "nspp": 13,
+                    "intentions_exprimees": 938,
                     "intentions": {
                         "Extrême Gauche": 1,
                         "Fabien Roussel": 2,
@@ -2166,7 +2166,7 @@
                 {
                     "hypothese": "Michel Barnier candidat LR/UDI",
                     "base": "SV",
-                    "nspp": 10,
+                    "nspp": 12,
                     "intentions_exprimees": 948,
                     "intentions": {
                         "Extrême Gauche": 1,
@@ -2276,7 +2276,7 @@
                         "Emmanuel Macron": 55
                     },
                     "certitude": {
-                        "ensemble":  65
+                        "ensemble":  84
                     }
                 }
             ],
@@ -3032,7 +3032,7 @@
                         "Jean Lassalle": 1
                     },
                     "certitude": {
-                        "ensemble": 83
+                        "ensemble": 66
                     }
                 },
                 {
@@ -3055,6 +3055,9 @@
                         "Marine Le Pen": 28,
                         "François Asselineau": 1,
                         "Jean Lassalle": 1
+                    },
+                    "certitude": {
+                        "ensemble": 66
                     }
                 }
             ],
@@ -3144,6 +3147,9 @@
                         "Marine Le Pen": 28,
                         "François Asselineau": 1,
                         "Jean Lassalle": 1
+                    },
+                    "certitude": {
+                        "ensemble": 65
                     }
                 }
             ],
@@ -3359,7 +3365,7 @@
                         "detail": {
                             "Marine Le Pen": 89,
                             "Emmanuel Macron": 89,
-                            "Non exprimés": 71
+                            "Non exprimés": 72
                         }
                     }
                 }
