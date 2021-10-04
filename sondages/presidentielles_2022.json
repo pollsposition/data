@@ -1,6 +1,216 @@
 {
     "sondages": {
 
+        "20211001_ifop":
+        {
+            "institut": "Ifop",
+            "commanditaires": ["LCI",  "Le Figaro"],
+            "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9216-p-ifop-le-figaro-v4.pdf",
+            "date_debut": "2021-09-29",
+            "date_fin": "2021-10-01",
+            "methode": "internet",
+            "interroges": 1351,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite",
+                    "base": "I",
+                    "nspp": 29,
+                    "intentions_exprimees": 959,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 7.5,
+                        "Anne Hidalgo": 6,
+                        "Arnaud Montebourg": 4,
+                        "Yannick Jadot": 8.5,
+                        "Emmanuel Macron": 26,
+                        "Xavier Bertrand": 18,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Marine Le Pen": 23,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite",
+                    "base": "I",
+                    "nspp": 30.5,
+                    "intentions_exprimees": 939,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2.5,
+                        "Jean-Luc Mélenchon": 8,
+                        "Anne Hidalgo": 6,
+                        "Arnaud Montebourg": 4,
+                        "Yannick Jadot": 8.5,
+                        "Emmanuel Macron": 27,
+                        "Valérie Pécresse": 13,
+                        "Nicolas Dupont-Aignan": 3.5,
+                        "Marine Le Pen": 25,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat de la droite",
+                    "base": "I",
+                    "nspp": 30.9,
+                    "intentions_exprimees": 934,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 8,
+                        "Anne Hidalgo": 6,
+                        "Arnaud Montebourg": 3.5,
+                        "Yannick Jadot": 9,
+                        "Emmanuel Macron": 27,
+                        "Michel Barnier": 12,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Marine Le Pen": 25,
+                        "Jean Lassalle": 2
+                    }
+                },
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 26.7,
+                    "intentions_exprimees": 990,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 7,
+                        "Anne Hidalgo": 5.5,
+                        "Arnaud Montebourg": 3.5,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 24,
+                        "Xavier Bertrand": 15,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Marine Le Pen": 18,
+                        "Éric Zemmour": 12,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite et Éric Zemmour",
+                    "base": "I",
+                    "nspp": 27.8,
+                    "intentions_exprimees": 976,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 7,
+                        "Anne Hidalgo": 6,
+                        "Arnaud Montebourg": 3,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 26,
+                        "Valérie Pécresse": 11,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Marine Le Pen": 19,
+                        "Éric Zemmour": 13,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat de la droite et Éric Zemmour",
+                    "base": "I",
+                    "nspp": 28.4,
+                    "intentions_exprimees": 967,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 1.5,
+                        "Jean-Luc Mélenchon": 7,
+                        "Anne Hidalgo": 6,
+                        "Arnaud Montebourg": 3,
+                        "Yannick Jadot": 8.5,
+                        "Emmanuel Macron": 26,
+                        "Michel Barnier": 9.5,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Marine Le Pen": 19.5,
+                        "Éric Zemmour": 14,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat de la droite et Éric Zemmour",
+                    "base": "I",
+                    "nspp": 29.9,
+                    "intentions_exprimees": 947,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 7.5,
+                        "Anne Hidalgo": 5.5,
+                        "Arnaud Montebourg": 3.5,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 27,
+                        "Éric Ciotti": 5,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Marine Le Pen": 21,
+                        "Éric Zemmour": 15,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Emmanuel Macron vs Marine Le Pen",
+                    "base": "I",
+                    "nspp": 31.9,
+                    "intentions_exprimees": 920,
+                    "intentions": {
+                        "Emmanuel Macron": 58,
+                        "Marine Le Pen": 42
+                    }
+                },
+                {
+                    "hypothese": "Emmanuel Macron vs Xavier Bertrand",
+                    "base": "I",
+                    "nspp": 43.2,
+                    "intentions_exprimees": 768,
+                    "intentions": {
+                        "Emmanuel Macron": 51,
+                        "Xavier Bertrand": 49
+                    }
+                },
+                {
+                    "hypothese": "Xavier Bertrand vs Marine Le Pen",
+                    "base": "I",
+                    "nspp": 33.3,
+                    "intentions_exprimees": 901,
+                    "intentions": {
+                        "Xavier Bertrand": 62,
+                        "Marine Le Pen": 38
+                    }
+                },
+                {
+                    "hypothese": "Emmanuel Macron vs Valérie Pécresse",
+                    "base": "I",
+                    "nspp": 45.4,
+                    "intentions_exprimees": 738,
+                    "intentions": {
+                        "Emmanuel Macron": 59,
+                        "Valérie Pécresse": 41
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Marine Le Pen",
+                    "base": "I",
+                    "nspp": 36.9,
+                    "intentions_exprimees": 852,
+                    "intentions": {
+                        "Valérie Pécresse": 58,
+                        "Marine Le Pen": 42
+                    }
+                }
+            ]
+        },
+
+
         "20210930_ipsos": {
             "institut": "Ipsos",
             "commanditaires": ["franceinfo", "Le Parisien", "Aujourd'hui en France"],
