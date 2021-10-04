@@ -1,5 +1,8 @@
 # Données
 
+Rejoignez-nous sur Discord: [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://t.co/5imMnlOOY1?amp=1)
+
+
 Nombre de sondages disponibles:
 
 ![count2022](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rlouf/51a78df74e3aeaa07fe17c83eb0608fb/raw/2022.json)  
