@@ -1,6 +1,6 @@
 # Données
 
-Rejoignez-nous sur Discord: [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://t.co/5imMnlOOY1?amp=1)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Pollsposition&logo=discord&style=flat-square)](https://t.co/5imMnlOOY1?amp=1)
 
 
 Nombre de sondages disponibles:
