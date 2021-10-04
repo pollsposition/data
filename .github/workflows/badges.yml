@@ -15,7 +15,7 @@ jobs:
         - name: Download jq
           run: sudo apt-get update -y && sudo apt-get install -y jq
         - name: Compute number of polls
-          run: echo "NUM_POLLS=$( jq -r '.sondages | keys[]' sondages/presidentielles.json | wc -l)" >> $GITHUB_ENV
+          run: echo "NUM_POLLS=$( jq -r '.sondages | keys[]' sondages/presidentielles_2022.json | wc -l)" >> $GITHUB_ENV
         - name: Create the Badges
           uses: schneegans/dynamic-badges-action@v1.1.0
           with:
@@ -51,7 +51,7 @@ jobs:
         - name: Checkout Repository
           uses: actions/checkout@v2
         - name: Compute number of polls
-          run: echo "NUM_POLLS=$( tail -n +2 raw_popularity_presidents.csv | wc -l )" >> $GITHUB_ENV
+          run: echo "NUM_POLLS=$( tail -n +2 sondages/popularite.csv | wc -l )" >> $GITHUB_ENV
         - name: Create the Badges
           uses: schneegans/dynamic-badges-action@v1.1.0
           with:
@@ -59,5 +59,5 @@ jobs:
             gistID: 51a78df74e3aeaa07fe17c83eb0608fb
             filename: popularity.json
             message: ${{ env.NUM_POLLS }}
-            label: "Popularité du président"
-            color: orange
+            label: Popularité
+            color: green
