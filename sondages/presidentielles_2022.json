@@ -2756,6 +2756,40 @@
             ]
         },
 
+    "20210609_ifop":
+        {
+            "institut": "Ifop",
+            "commanditaires": ["Le Point"],
+            "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9190-presidentielles-ifop-le-point.pdf",
+            "date_debut": "2021-06-08",
+            "date_fin": "2021-06-09",
+            "methode": "internet",
+            "interroges": 901,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite",
+                    "base": "I",
+                    "nspp": 30.5,
+                    "intentions_exprimees": 626,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 9,
+                        "Anne Hidalgo": 5,
+                        "Yannick Jadot": 5.5,
+                        "Emmanuel Macron": 26,
+                        "Jean-Christophe Lagarde": 0,
+                        "Xavier Bertrand": 13.5,
+                        "Nicolas Dupont-Aignan": 3.5,
+                        "Marine Le Pen": 28,
+                        "Éric Zemmour": 5.5,
+                        "Jean Lassalle": 0.5
+                    }
+                }
+            ]
+        },
+
         "20210607_harris":
         {
             "institut": "Harris interactive",
