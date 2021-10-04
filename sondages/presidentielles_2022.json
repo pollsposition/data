@@ -2234,6 +2234,180 @@
             ]
         },
 
+        "20210629_elabe":
+        {
+            "institut": "Elabe",
+            "commanditaires": ["BFM TV"],
+            "lien": "https://elabe.fr/wp-content/uploads/2021/06/2022.pdf",
+            "date_debut": "2021-06-28",
+            "date_fin": "2021-06-29",
+            "methode": "internet",
+            "interroges": 1006,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite",
+                    "base": "I",
+                    "nspp": 17,
+                    "intentions_exprimees": 834,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 1,
+                        "Jean-Luc Mélenchon": 9,
+                        "Anne Hidalgo": 5,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 29,
+                        "Jean-Christophe Lagarde": 0,
+                        "Xavier Bertrand": 14,
+                        "Jean Lassalle": 2,
+                        "François Asselineau": 1,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Jean-Frédéric Poisson": 1,
+                        "Marine Le Pen": 25
+                    },
+                    "certitude": {
+                        "ensemble": 57,
+                        "detail": {
+                            "Jean-Luc Mélenchon": 64,
+                            "Anne Hidalgo": 33,
+                            "Yannick Jadot": 43,
+                            "Emmanuel Macron": 63,
+                            "Xavier Bertrand": 55,
+                            "Nicolas Dupont-Aignan": 35,
+                            "Marine Le Pen": 78,
+                            "Abstention": 41
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite",
+                    "base": "I",
+                    "nspp": 17,
+                    "intentions_exprimees": 834,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 2,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 10,
+                        "Anne Hidalgo": 5,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 30,
+                        "Jean-Christophe Lagarde": 1,
+                        "Valérie Pécresse": 11,
+                        "Jean Lassalle": 2,
+                        "François Asselineau": 2,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Jean-Frédéric Poisson": 1,
+                        "Marine Le Pen": 23
+                    },
+                    "certitude": {
+                        "ensemble": 58,
+                        "detail": {
+                            "Jean-Luc Mélenchon": 68,
+                            "Anne Hidalgo": 51,
+                            "Yannick Jadot": 43,
+                            "Emmanuel Macron": 64,
+                            "Valérie Pécresse": 64,
+                            "Nicolas Dupont-Aignan": 46,
+                            "Marine Le Pen": 75,
+                            "Abstention": 37
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Laurent Wauquiez candidat de la droite",
+                    "base": "I",
+                    "nspp": 17,
+                    "intentions_exprimees": 834,
+                    "intentions": {
+                        "Philippe Poutou": 2,
+                        "Nathalie Arthaud": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 10,
+                        "Anne Hidalgo": 4,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 31,
+                        "Jean-Christophe Lagarde": 0,
+                        "Laurent Wauquiez": 12,
+                        "Jean Lassalle": 1,
+                        "François Asselineau": 1,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Jean-Frédéric Poisson": 1,
+                        "Marine Le Pen": 24
+                    },
+                    "certitude": {
+                        "ensemble": 55,
+                        "detail": {
+                            "Jean-Luc Mélenchon": 57,
+                            "Anne Hidalgo": 40,
+                            "Yannick Jadot": 39,
+                            "Emmanuel Macron": 61,
+                            "Xavier Bertrand": 50,
+                            "Nicolas Dupont-Aignan": 29,
+                            "Marine Le Pen": 79,
+                            "Abstention": 39
+                        }
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 28,
+                    "intentions_exprimees": 724,
+                    "intentions": {
+                        "Marine Le Pen": 40,
+                        "Emmanuel Macron": 60
+                    }
+                }
+            ],
+            "reports": [
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Nicolas Dupont-Aignan", "Marine Le Pen", "Non exprimés"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Marine Le Pen", "Non exprimés"],
+                    "reports": [
+                        [27, 12, 61],
+                        [60, 0, 40],
+                        [51, 9, 40],
+                        [96, 1, 3],
+                        [56, 20, 24],
+                        [3, 62, 35],
+                        [1, 96, 3],
+                        [31, 8, 61]
+                    ]
+                },
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Valérie Pécresse", "Nicolas Dupont-Aignan", "Marine Le Pen", "Non exprimés"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Marine Le Pen", "Non exprimés"],
+                    "reports": [
+                        [24, 14, 62],
+                        [59, 0, 41],
+                        [56, 9, 35],
+                        [96, 1, 3],
+                        [48, 24, 28],
+                        [3, 65, 32],
+                        [1, 96, 3],
+                        [31, 8, 61]
+                    ]
+                },
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Laurent Wauquiez", "Nicolas Dupont-Aignan", "Marine Le Pen", "Non exprimés"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Marine Le Pen", "Non exprimés"],
+                    "reports": [
+                        [26, 10, 64],
+                        [55, 1, 44],
+                        [55, 11, 34],
+                        [97, 3, 0],
+                        [42, 25, 33],
+                        [5, 71, 24],
+                        [1, 97, 2],
+                        [31, 7, 62]
+                    ]
+                }
+            ]
+        },
+
         "20210628_harris": {
             "institut": "Harris interactive",
             "commanditaires": ["Challenges"],
