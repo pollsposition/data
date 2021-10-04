@@ -1,6 +1,5 @@
 # Données
 
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Pollsposition&logo=discord&style=flat-square)](https://t.co/5imMnlOOY1?amp=1)
 
 
 Nombre de sondages disponibles:
@@ -17,6 +16,8 @@ Ce dépôt compile les données utilisées par les modèles et les infographies 
 - Résultats des [élections régionales](https://raw.githubusercontent.com/pollsposition/data/main/resultats/regionales.json)
 - Sondages pour les présidentielles [2022](https://raw.githubusercontent.com/pollsposition/data/main/sondages/presidentielles.json), [2017](https://raw.githubusercontent.com/pollsposition/data/main/sondages/presidentielles_2017.json)
 - Sondages de [popularité des présidents](https://raw.githubusercontent.com/pollsposition/data/main/raw_popularity_presidents.csv)
+
+Venez discuter avec nous: [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://t.co/5imMnlOOY1?amp=1)
 
 ## Contribuer
 
