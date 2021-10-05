@@ -37,7 +37,7 @@
       "votants": 36584399,
       "exprimes": 35883209,
       "resultats": {
-	"Eva Joly": 828345,
+        "Eva Joly": 828345,
         "Marine Le Pen": 6421426,
         "Nicolas Sarkozy": 9753629,
         "Jean-Luc Mélenchon": 3984822,
@@ -67,15 +67,15 @@
       "votants": 37254242,
       "exprimes": 36719396,
       "resultats": {
-	"Olivier Besancenot": 1498581,
-	"Marie-Georges Buffer": 707268,
-	"Gérard Schivardi": 123540,
+        "Olivier Besancenot": 1498581,
+        "Marie-Georges Buffet": 707268,
+        "Gérard Schivardi": 123540,
         "François Bayrou": 6820119,
-	"José Bové": 483008,
-	"Dominique Voynet": 576666,
-	"Philippe de Villiers": 818407,
-	"Ségolène Royal": 9500112,
-	"Frédéric Nihous": 420645,
+        "José Bové": 483008,
+        "Dominique Voynet": 576666,
+        "Philippe de Villiers": 818407,
+        "Ségolène Royal": 9500112,
+        "Frédéric Nihous": 420645,
         "Jean-Marie Le Pen": 3834530,
         "Arlette Laguiller": 487857,
         "Nicolas Sarkozy": 11448663
@@ -89,6 +89,42 @@
       "resultats": {
         "Ségolène Royal": 16790440,
         "Nicolas Sarkozy": 18983138
+      }
+    }
+  },
+  "2002": {
+    "premier_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/election-presidentielle-2002/resultats-du-1er-tour",
+      "inscrits": 41194689,
+      "votants": 29495733,
+      "exprimes": 28498471,
+      "resultats": {
+        "Brunot Mégret": 667026,
+        "Corrine Lepage": 535837,
+        "Daniel Gluckstein": 132686,
+        "François Bayrou": 1949170,
+        "Jacques Chirac": 5665855,
+        "Jean-Marie Le Pen": 4804713,
+        "Christine Taubira": 660447,
+        "Jean Saint-Josse": 1204689,
+        "Noël Mamère": 1495724,
+        "Lionel Jospin": 4610113,
+        "Christine Boutin": 339112,
+        "Robert Hue": 960480,
+        "Jean-Pierre Chevènement": 1518528,
+        "Alain Madelin": 1113484,
+        "Arlette Laguiller": 1630045,
+        "Olivier Besancenot": 1210562
+      }
+    },
+    "second_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/election-presidentielle-2002/resultats-definitifs-du-second-tour-5-mai-2002",
+      "inscrits": 41191169,
+      "votants": 32832195,
+      "exprimes": 31062988,
+      "resultats": {
+        "Jacques Chirac": 25537956,
+        "Jean-Marie Le Pen": 5525032
       }
     }
   }
