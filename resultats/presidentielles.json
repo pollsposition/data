@@ -247,5 +247,32 @@
         "François Mitterrand": 12971604
       }
     }
+  },
+  "1969": {
+    "premier_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/1969/6920PDR.htm",
+      "inscrits": 29513361,
+      "votants": 22898960,
+      "exprimes": 22603924,
+      "resultats": {
+        "Gaston Defferre": 1133222,
+        "Louis Ducatel": 286447,
+        "Jacques Duclos": 4808285,
+        "Alain Krivine": 239104,
+        "Alain Poher": 5268613,
+        "Georges Pompidou": 10051783,
+        "Michel Rocard": 816470
+      }
+    },
+    "second_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/1969/6922pdr.htm",
+      "inscrits": 29500334,
+      "votants": 20311287,
+      "exprimes": 19007489,
+      "resultats": {
+        "Georges Pompidou": 11064371,
+        "Alain Poher": 7943118
+      }
+    }
   }
 }
