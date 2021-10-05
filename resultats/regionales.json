@@ -1,6 +1,6 @@
 {
   "2021": {
-    "lien": "https://www.interieur.gouv.fr/Elections/Les-resultats/Regionales/elecresult__regionales-2021/(path)/regionales-2021/index.html",
+    "source": "https://www.interieur.gouv.fr/Elections/Les-resultats/Regionales/elecresult__regionales-2021/(path)/regionales-2021/index.html",
     "resultats": {
 	"Auvergne-Rhône-Alpes": {
 	  "premier_tour": {
