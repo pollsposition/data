@@ -156,5 +156,34 @@
         "Lionel Jospin": 14180644
       }
     }
+  },
+  "1988": {
+    "premier_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/1988/8856pdr.htm",
+      "inscrits": 38128507,
+      "votants": 31027972,
+      "exprimes": 30406038,
+      "resultats": {
+        "Raymond Barre": 5031849,
+        "Pierre Juquin": 639084,
+        "Jean-Marie Le Pen": 4375894,
+        "Jacques Chirac": 6063514,
+        "François Mitterrand": 10367220,
+        "Pierre Boussel": 116823,
+        "Antoine Waechter": 1149642,
+        "Arlette Laguiller": 606017,
+        "André Lajoinie": 2055995
+      }
+    },
+    "second_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/1988/8860PDR.htm",
+      "inscrits": 38168869,
+      "votants": 32085071,
+      "exprimes": 30923249,
+      "resultats": {
+        "Jacques Chirac": 14218970,
+        "François Mitterrand": 16704279
+      }
+    }
   }
 }
