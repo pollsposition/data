@@ -149,7 +149,7 @@ class Poll(BaseModel):
 
     institut: Pollster
     commanditaires: List[str]
-    lien: str
+    source: str
     date_debut: datetime.date
     date_fin: datetime.date
     methode: Method
