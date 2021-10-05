@@ -1,12 +1,11 @@
-# Données
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pollsposition/data/main/.github/logo.png" height=150>
+</p>
 
-
-
-Nombre de sondages disponibles:
-
-![count2022](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rlouf/51a78df74e3aeaa07fe17c83eb0608fb/raw/2022.json)  
-![count2017](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rlouf/51a78df74e3aeaa07fe17c83eb0608fb/raw/2017.json)  
-![popularity](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rlouf/51a78df74e3aeaa07fe17c83eb0608fb/raw/popularity.json)
+**Sondages:** ![count2022](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rlouf/51a78df74e3aeaa07fe17c83eb0608fb/raw/2022.json) 
+![count2017](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rlouf/51a78df74e3aeaa07fe17c83eb0608fb/raw/2017.json) 
+![popularity](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rlouf/51a78df74e3aeaa07fe17c83eb0608fb/raw/popularity.json)  
+**Rejoignez-nous:** [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://t.co/5imMnlOOY1?amp=1)
 
 Ce dépôt compile les données utilisées par les modèles et les infographies de
 [Pollsposition](https://twitter.com/pollsposition):
@@ -15,9 +14,9 @@ Ce dépôt compile les données utilisées par les modèles et les infographies 
 - Résultats des [élections européennes](https://raw.githubusercontent.com/pollsposition/data/main/resultats/europeennes.json)
 - Résultats des [élections régionales](https://raw.githubusercontent.com/pollsposition/data/main/resultats/regionales.json)
 - Sondages pour les présidentielles [2022](https://raw.githubusercontent.com/pollsposition/data/main/sondages/presidentielles_2022.json), [2017](https://raw.githubusercontent.com/pollsposition/data/main/sondages/presidentielles_2017.json)
-- Sondages de [popularité des présidents](https://raw.githubusercontent.com/pollsposition/data/main/raw_popularity_presidents.csv)
+- Sondages de [popularité des présidents](https://raw.githubusercontent.com/pollsposition/data/main/sondages/popularite.csv)
 
-Venez discuter avec nous: [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://t.co/5imMnlOOY1?amp=1)
+
 
 ## Contribuer
 
