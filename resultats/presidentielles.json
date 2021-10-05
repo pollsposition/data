@@ -185,5 +185,35 @@
         "François Mitterrand": 16704279
       }
     }
+  },
+  "1981": {
+    "premier_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/1981/8145pdr.htm",
+      "inscrits": 36398659,
+      "votants": 29516082,
+      "exprimes": 29038117,
+      "resultats": {
+        "Arlette Laguiller": 668057,
+        "Marie-France Garaud": 386623,
+        "Michel Crépeau": 642847,
+        "Huguette Bouchardeau": 321353,
+        "Brice Lalonde": 1126254,
+        "François Mitterrand": 7505960,
+        "Valéry Giscard d'Estaing": 8222432,
+        "Georges Marchais": 4456922,
+        "Michel Debré": 481821,
+        "Jacques Chirac": 5225848
+      }
+    },
+    "second_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/1981/8147pdr.htm",
+      "inscrits": 36398762,
+      "votants": 31249552,
+      "exprimes": 30350568,
+      "resultats": {
+        "Valéry Giscard d'Estaing": 14642306,
+        "François Mitterrand": 15708262
+      }
+    }
   }
 }
