@@ -274,5 +274,31 @@
         "Alain Poher": 7943118
       }
     }
+  },
+  "1965": {
+    "premier_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/1965/656pdr.htm",
+      "inscrits": 28910581,
+      "votants": 24502916,
+      "exprimes": 24254556,
+      "resultats": {
+        "Marcel Barbu": 279685,
+        "Charle de Gaulle": 10828521,
+        "Jean Lecanuet": 3777120,
+        "Pierre Marcilhacy": 415017,
+        "François Mitterrand": 7694005,
+        "Jean-Louis Tixier-Vignancou": 1260208
+      }
+    },
+    "second_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/1965/6510pdr.htm",
+      "inscrits": 28902704,
+      "votants": 24371647,
+      "exprimes": 23703434,
+      "resultats": {
+        "Charles de Gaulle": 13083699,
+        "François Mitterrand": 10619735
+      }
+    }
   }
 }
