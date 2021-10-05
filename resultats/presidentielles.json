@@ -1,7 +1,7 @@
 {
   "2017": {
     "premier_tour": {
-      "lien": "https://www.conseil-constitutionnel.fr/decision/2017/2017169PDR.htm",
+      "source": "https://www.conseil-constitutionnel.fr/decision/2017/2017169PDR.htm",
       "inscrits": 47582183,
       "votants": 37003728,
       "exprimes": 36054394,
@@ -20,13 +20,43 @@
       }
     },
     "second_tour": {
-      "lien": "https://www.conseil-constitutionnel.fr/decision/2017/2017171PDR.htm",
+      "source": "https://www.conseil-constitutionnel.fr/decision/2017/2017171PDR.htm",
       "inscrits": 47568693,
       "votants": 35467327,
       "exprimes": 31381603,
       "resultats": {
         "Emmanuel Macron": 20743128,
         "Marine Le Pen": 10638475
+      }
+    }
+  },
+  "2012": {
+    "premier_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/2012/2012152PDR.htm",
+      "inscrits": 46028542,
+      "votants": 36584399,
+      "exprimes": 35883209,
+      "resultats": {
+	"Eva Joly": 828345,
+        "Marine Le Pen": 6421426,
+        "Nicolas Sarkozy": 9753629,
+        "Jean-Luc Mélenchon": 3984822,
+        "Philippe Poutou": 411160,
+        "Nathalie Arthaud": 202548,
+        "Jacques Cheminade": 89545,
+        "François Bayrou": 3275122,
+        "Nicolas Dupont-Aignan": 643907,
+        "François Hollande":  10272705
+      }
+    },
+    "second_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/2012/2012154PDR.htm",
+      "inscrits": 46066307,
+      "votants": 37016309,
+      "exprimes": 34861353,
+      "resultats": {
+        "François Hollande": 18000668,
+        "Nicolas Sarkozy": 16860685 
       }
     }
   }
