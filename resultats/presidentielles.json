@@ -127,5 +127,34 @@
         "Jean-Marie Le Pen": 5525032
       }
     }
+  },
+  "1995": {
+    "premier_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/1995/9579pdr.htm",
+      "inscrits": 39992912,
+      "votants": 31345794,
+      "exprimes": 30462633,
+      "resultats": {
+        "Philippe de Villiers": 1443186,
+        "Jean-Marie Le Pen": 4570838,
+        "Jacques Chirac": 6348375,
+        "Arlette Laguiller": 1615552,
+        "Jacques Cheminade": 84959,
+        "Lionel Jospin": 7097786,
+        "Dominique Voynet": 1010681,
+        "Edouard Balladur": 5658796,
+        "Robert Hue": 2632460
+      }
+    },
+    "second_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/1995/9581PDR.htm",
+      "inscrits": 39976944,
+      "votants": 31845819,
+      "exprimes": 29943671,
+      "resultats": {
+        "Jacques Chirac": 15763027,
+        "Lionel Jospin": 14180644
+      }
+    }
   }
 }
