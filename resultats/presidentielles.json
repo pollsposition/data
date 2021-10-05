@@ -215,5 +215,37 @@
         "François Mitterrand": 15708262
       }
     }
+  },
+  "1974": {
+    "premier_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/1974/7430pdr.htm",
+      "inscrits": 30602953,
+      "votants": 25775743,
+      "exprimes": 25538636,
+      "resultats": {
+        "Jacques Chaban-Delmas": 3857728,
+        "René Dumont": 337800,
+        "Valéry Giscard d'Estaing": 8326774,
+        "Guy Héraud": 19255,
+        "Alain Krivine": 93990,
+        "Arlette Laguiller": 595247,
+        "Jean-Marie Le Pen": 190921,
+        "François Mitterrand": 11044373,
+        "Emile Muller": 176279,
+        "Bertrand Renouvin": 43722,
+        "Jean Royer": 810540,
+        "Jean-Claude Sebag": 42007
+      }
+    },
+    "second_tour": {
+      "source": "https://www.conseil-constitutionnel.fr/decision/1974/7432PDR.htm",
+      "inscrits": 30600775,
+      "votants": 26721595,
+      "exprimes": 26367807,
+      "resultats": {
+        "Valéry Giscard d'Estaing": 13396203,
+        "François Mitterrand": 12971604
+      }
+    }
   }
 }
