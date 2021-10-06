@@ -28,7 +28,64 @@
         "Emmanuel Macron": 20743128,
         "Marine Le Pen": 10638475
       }
-    }
+    },
+    "candidats": [
+      {
+        "nom": "Nicolas Dupont-Aignan",
+        "parti": "Debout la France",
+        "parti_court": "DLF"
+      },
+      {
+        "nom": "Marine Le Pen",
+        "parti": "Front national",
+        "parti_court": "FN"
+      },
+      {
+        "nom": "Emmanuel Macron",
+        "parti": "En marche",
+        "parti_court": "EM"
+      },
+      {
+        "nom": "Benoît Hamon",
+        "parti": "Parti socialiste",
+        "parti_court": "PS"
+      },
+      {
+        "nom": "Nathalie Arthaud",
+        "parti": "Lutte ouvrière",
+        "parti_court": "LO"
+      },
+      {
+        "nom": "Philippe Poutou",
+        "parti": "Nouveau parti anticapitaliste",
+        "parti_court": "NPA"
+      },
+      {
+        "nom": "Jacques Cheminade",
+        "parti": "Solidarité et progrès",
+        "parti_court": "S&P"
+      },
+      {
+        "nom": "Jean Lassalle",
+        "parti": "Résistons",
+        "parti_court": "R"
+      },
+      {
+        "nom": "Jean-Luc Mélenchon",
+        "parti": "La France insoumise",
+        "parti_court": "LFI"
+      },
+      {
+        "nom": "François Asselineau",
+        "parti": "Union populaire républicaine",
+        "parti_court": "UPR"
+      },
+      {
+        "nom": "François Fillon",
+        "parti": "Les républicains",
+        "parti_court": ""
+      }
+    ]
   },
   "2012": {
     "premier_tour": {
@@ -58,7 +115,59 @@
         "François Hollande": 18000668,
         "Nicolas Sarkozy": 16860685 
       }
-    }
+    },
+    "candidats": [
+      {
+        "nom": "Eva Joly",
+        "parti": "Europe écologie les verts",
+        "parti_court": "EELV"
+      },
+      {
+        "nom": "Marine Le Pen",
+        "parti": "Front national",
+        "parti_court": "FN"
+      },
+      {
+        "nom": "Nicolas Sarkozy",
+        "parti": "Union pour un mouvement populaire",
+        "parti_court": "UMP"
+      },
+      {
+        "nom": "Jean-Luc Mélenchon",
+        "parti": "Front de gauche",
+        "parti_court": "FG"
+      },
+      {
+        "nom": "Philipe Poutou",
+        "parti": "Nouveau parti anticapitaliste",
+        "parti_court": "NPA"
+      },
+      {
+        "nom": "Nathalie Arthaud",
+        "parti": "Lutte ouvrière",
+        "parti_court": "LO"
+      },
+      {
+        "nom": "Jacques Cheminade",
+        "parti": "Solidarité et progrès",
+        "parti_court": "S&P"
+      },
+      {
+        "nom": "François Bayrou",
+        "parti": "Mouvement démocrate",
+        "parti_court": "MoDem"
+      },
+      {
+        "nom": "Nicolas Dupont-Aignan",
+        "parti": "Debout la République",
+        "parti_court": "DLR"
+      },
+      {
+        "nom": "François Hollande",
+        "parti": "Parti socialiste",
+        "parti_court": "PS"
+      }
+    ]
   },
   "2007": {
     "premier_tour": {
@@ -90,7 +199,69 @@
         "Ségolène Royal": 16790440,
         "Nicolas Sarkozy": 18983138
       }
-    }
+    },
+    "candidats": [
+      {
+        "nom": "François Bayrou",
+        "parti": "Union pour la démocratie française",
+        "parti_court": "UDF"
+      },
+      {
+        "nom": "Olivier Besancenot",
+        "parti": "Ligue communiste révolutionnaire",
+        "parti_court": "LCR"
+      },
+      {
+        "nom": "José Bové",
+        "parti": "Sans étiquette",
+        "parti_court": "-"
+      },
+      {
+        "nom": "Marie-Georges Buffet",
+        "parti": "Parti communiste français",
+        "parti_court": "PCF"
+      },
+      {
+        "nom": "Arlette Laguiller",
+        "parti": "Lutte ouvrière",
+        "parti_court": "LO"
+      },
+      {
+        "nom": "Jean-Marie Le Pen",
+        "parti": "Front national",
+        "parti_court": "FN"
+      },
+      {
+        "nom": "Frédéric Nihous",
+        "parti": "Chasse, pêche, nature et traditions",
+        "parti_court": "CPNT"
+      },
+      {
+        "nom": "Ségolène Royal",
+        "parti": "Parti socialiste",
+        "parti_court": "PS"
+      },
+      {
+        "nom": "Nicolas Sarkozy",
+        "parti": "Union pour un mouvement populaire",
+        "parti_court": "UMP"
+      },
+      {
+        "nom": "Gérard Schivardi",
+        "parti": "Comité national pour la reconquête de la démocratie",
+        "parti_court": "CNRD"
+      },
+      {
+        "nom": "Philippe de Villiers",
+        "parti": "Mouvement pour la France",
+        "parti_court": "MPF"
+      },
+      {
+        "nom": "Dominique Voynet",
+        "parti": "Les verts",
+        "parti_court": "LV"
+      }
+    ]
   },
   "2002": {
     "premier_tour": {
@@ -126,7 +297,89 @@
         "Jacques Chirac": 25537956,
         "Jean-Marie Le Pen": 5525032
       }
-    }
+    },
+    "candidats": [
+      {
+        "nom": "Daniel Gluckstein",
+        "parti": "Parti des travailleurs",
+        "parti_court": "PT"
+      },
+      {
+        "nom": "Christine Boutin",
+        "parti": "Forum des républicains sociaux",
+        "parti_court": "FRS"
+      },
+      {
+        "nom": "Corine Lepage",
+        "parti": "Cap21",
+        "parti_court": "Cap21"
+      },
+      {
+        "nom": "Christiane Taubira",
+        "parti": "Parti radical de gauche",
+        "parti_court": "PRG"
+      },
+      {
+        "nom": "Bruno Mégret",
+        "parti": "Mouvement national républicain",
+        "parti_court": "MNR"
+      },
+      {
+        "nom": "Robert Hue",
+        "parti": "Parti communiste français",
+        "parti_court": "PCF"
+      },
+      {
+        "nom": "Alain Madelin",
+        "parti": "Démocratie libérale",
+        "parti_court": "DL"
+      },
+      {
+        "nom": "Jean Saint-Josse",
+        "parti": "Chasse, pêche, nature et traditions",
+        "parti_court": "CPNT"
+      },
+      {
+        "nom": "Olivier Besancenot",
+        "parti": "Ligue communiste révolutionnaire",
+        "parti_court": "LCR"
+      },
+      {
+        "nom": "Noël Mamère",
+        "parti": "Les verts",
+        "parti_court": "LV"
+      },
+      {
+        "nom": "Jean-Pierre Chevènement",
+        "parti": "Mouvement des citoyens",
+        "parti_court": "MDC"
+      },
+      {
+        "nom": "Arlette Laguiller",
+        "parti": "Lutte ouvrière",
+        "parti_court": "LO"
+      },
+      {
+        "nom": "François Bayrou",
+        "parti": "Union pour la démocratie française",
+        "parti_court": "UDF"
+      },
+      {
+        "nom": "Lionel Jospin",
+        "parti": "Parti socialiste",
+        "parti_court": "PS"
+      },
+      {
+        "nom": "Jean-Marie Le Pen",
+        "parti": "Front national",
+        "parti_court": "FN"
+      },
+      {
+        "nom": "Jacques Chirac",
+        "parti": "Rassemblement pour la République",
+        "parti_court": "RPR"
+      }
+    ]
   },
   "1995": {
     "premier_tour": {
@@ -155,7 +408,54 @@
         "Jacques Chirac": 15763027,
         "Lionel Jospin": 14180644
       }
-    }
+    },
+    "candidats": [
+      {
+        "nom": "Jacques Cheminade",
+        "parti": "Fédération pour une nouvelle solidarité",
+        "parti_court": "FNS"
+      },
+      {
+        "nom": "Dominique Voynet",
+        "parti": "Les verts",
+        "parti_court": "LV"
+      },
+      {
+        "nom": "Philippe de Villiers",
+        "parti": "Mouvement pour la France",
+        "parti_court": "MPF"
+      },
+      {
+        "nom": "Arlette Laguiller",
+        "parti": "Lutte ouvrière",
+        "parti_court": "LO"
+      },
+      {
+        "nom": "Robert Hue",
+        "parti": "Parti communiste français",
+        "parti_court": "PCF"
+      },
+      {
+        "nom": "Jean-Marie Le Pen",
+        "parti": "Front national",
+        "parti_court": "FN"
+      },
+      {
+        "nom": "Édouard Balladur",
+        "parti": "Rassemblement pour la République",
+        "parti_court": "RPR"
+      },
+      {
+        "nom": "Jacques Chirac",
+        "parti": "Rassemblement pour la République",
+        "parti_court": "RPR"
+      },
+      {
+        "nom": "Lionel Jospin",
+        "parti": "Parti socialiste",
+        "parti_court": "PS"
+      }
+    ]
   },
   "1988": {
     "premier_tour": {
@@ -184,7 +484,54 @@
         "Jacques Chirac": 14218970,
         "François Mitterrand": 16704279
       }
-    }
+    },
+    "candidats": [
+      {
+        "nom": "Pierre Boussel",
+        "parti": "Mouvement pour un parti des travailleurs",
+        "parti_court": "MPPT"
+      },
+      {
+        "nom": "Arlette Laguiller",
+        "parti": "Lutte ouvrière",
+        "parti_court": "LO"
+      },
+      {
+        "nom": "Pierre Juquin",
+        "parti": "Communiste rénovateur",
+        "parti_court": "CR"
+      },
+      {
+        "nom": "Antoine Waechter",
+        "parti": "Les verts",
+        "parti_court": "LV"
+      },
+      {
+        "nom": "André Lajoinie",
+        "parti": "Parti communiste français",
+        "parti_court": "PCF"
+      },
+      {
+        "nom": "Jean-Marie Le Pen",
+        "parti": "Front national",
+        "parti_court": "FN"
+      },
+      {
+        "nom": "Raymond Barre",
+        "parti": "Union pour la démocratie française",
+        "parti_court": "UDF"
+      },
+      {
+        "nom": "Jacques Chirac",
+        "parti": "Rassemblement pour la République",
+        "parti_court": "RPR"
+      },
+      {
+        "nom": "François Mitterrand",
+        "parti": "Parti socialiste",
+        "parti_court": "PS"
+      }
+    ]
   },
   "1981": {
     "premier_tour": {
@@ -214,7 +561,59 @@
         "Valéry Giscard d'Estaing": 14642306,
         "François Mitterrand": 15708262
       }
-    }
+    },
+    "candidats": [
+      {
+        "nom": "Valery Giscard d'Estaing",
+        "parti": "Union pour la démocratie française",
+        "parti_court": "UDF"
+      },
+      {
+        "nom": "François Mitterrand",
+        "parti": "Parti socialiste",
+        "parti_court": "PS"
+      },
+      {
+        "nom": "Jacques Chirac",
+        "parti": "Rassemblement pour la République",
+        "parti_court": "RPR"
+      },
+      {
+        "nom": "Georges Marchais",
+        "parti": "Parti communiste français",
+        "parti_court": "PCF"
+      },
+      {
+        "nom": "Brice Lalonde",
+        "parti": "Mouvement d'écologie politique",
+        "parti_court": "MEP"
+      },
+      {
+        "nom": "Arlette Laguiller",
+        "parti": "Lutte ouvrière",
+        "parti_court": "LO"
+      },
+      {
+        "nom": "Michel Crépeau",
+        "parti": "Mouvement des radicaux de gauche",
+        "parti_court": "MRG"
+      },
+      {
+        "nom": "Michel Debré",
+        "parti": "Divers droite",
+        "parti_court": "DVD"
+      },
+      {
+        "nom": "Marie-France Garaud",
+        "parti": "Divers droite",
+        "parti_court": "DVD"
+      },
+      {
+        "nom": "Huguette Bourchardeau",
+        "parti": "Parti socialiste unifié",
+        "parti_court": "PSU"
+      }
+    ]
   },
   "1974": {
     "premier_tour": {
@@ -246,7 +645,69 @@
         "Valéry Giscard d'Estaing": 13396203,
         "François Mitterrand": 12971604
       }
-    }
+    },
+    "candidats": [
+      {
+        "nom": "Guy Héraud",
+        "parti": "Indépendant",
+        "parti_court": "I"
+      },
+      {
+        "nom": "Jean-Claude Sebag",
+        "parti": "Mouvement fédéraliste européen",
+        "parti_court": "MFE"
+      },
+      {
+        "nom": "Bertrand Renouvin",
+        "parti": "Nouvelle Action française",
+        "parti_court": "NAF"
+      },
+      {
+        "nom": "Alain Krivine",
+        "parti": "Front communiste révolutionnaire",
+        "parti_court": "FCR"
+      },
+      {
+        "nom": "Emile Muller",
+        "parti": "Mouvement démocrate socialiste de France",
+        "parti_court": "MDSF"
+      },
+      {
+        "nom": "Jean-Marie Le Pen",
+        "parti": "Front national",
+        "parti_court": "FN"
+      },
+      {
+        "nom": "René Dumont",
+        "parti": "Divers gacuhe",
+        "parti_court": "DVG"
+      },
+      {
+        "nom": "Arlette Laguiller",
+        "parti": "Lutte Ouvrière",
+        "parti_court": "LO"
+      },
+      {
+        "nom": "Jean Royer",
+        "parti": "Divers droite",
+        "parti_court": "DVD"
+      },
+      {
+        "nom": "Jacques Chaban-Delmas",
+        "parti": "Union des démocrates pour la République",
+        "parti_court": "UDR"
+      },
+      {
+        "nom": "Valéry Giscard d'Estaing",
+        "parti": "Fédération nationale des républicains indépendants",
+        "parti_court": "FNRI"
+      },
+      {
+        "nom": "François Mitterrand",
+        "parti": "Parti socialiste",
+        "parti_court": "PS"
+      }
+    ]
   },
   "1969": {
     "premier_tour": {
@@ -273,7 +734,44 @@
         "Georges Pompidou": 11064371,
         "Alain Poher": 7943118
       }
-    }
+    },
+    "candidats": [
+      {
+        "nom": "Gaston Defferre",
+        "parti": "Section française de l'internationale ouvrière",
+        "parti_court": "SFIO"
+      },
+      {
+        "nom": "Louis Ducatel",
+        "parti": "Divers gauche",
+        "parti_court": "DVG"
+      },
+      {
+        "nom": "Jacques Duclos",
+        "parti": "Parti communiste français",
+        "parti_court": "PCF"
+      },
+      {
+        "nom": "Alain Krivine",
+        "parti": "Ligue communiste",
+        "parti_court": "LC"
+      },
+      {
+        "nom": "Alain Poher",
+        "parti": "Centre démocrate",
+        "parti_court": "CD"
+      },
+      {
+        "nom": "Georges Pompidou",
+        "parti": "Union des démocrates pour la République",
+        "parti_court": "UDR"
+      },
+      {
+        "nom": "Michel Rocard",
+        "parti": "Parti socialiste unifié",
+        "parti_court": "PSU"
+      }
+    ]
   },
   "1965": {
     "premier_tour": {
@@ -287,7 +785,7 @@
         "Jean Lecanuet": 3777120,
         "Pierre Marcilhacy": 415017,
         "François Mitterrand": 7694005,
-        "Jean-Louis Tixier-Vignancou": 1260208
+        "Jean-Louis Tixier-Vignancour": 1260208
       }
     },
     "second_tour": {
@@ -299,6 +797,38 @@
         "Charles de Gaulle": 13083699,
         "François Mitterrand": 10619735
       }
-    }
+    },
+    "candidats": [
+      {
+        "nom": "Marcel Barbu",
+        "parti": "Divers gauche",
+        "parti_court": "DVG"
+      },
+      {
+        "nom": "Charles de Gaulle",
+        "parti": "Union pour la nouvelle République - Union démocratique du travail",
+        "parti_court": "UNR-UDT"
+      },
+      {
+        "nom": "Jean Lecanuet",
+        "parti": "Mouvement républicain populaire",
+        "parti_court": "MRP"
+      },
+      {
+        "nom": "Pierre Marcilhacy",
+        "parti": "Parti libéral européen",
+        "parti_court": "PLE"
+      },
+      {
+        "nom": "François Mitterand",
+        "parti": "Convention des institutions républicaines",
+        "parti_court": "CIR"
+      },
+      {
+        "nom": "Jean-Louis Tixier-Vignancour",
+        "parti": "Comité Tixier-Vignancour",
+        "parti_court": "CTV"
+      }
+    ]
   }
 }
