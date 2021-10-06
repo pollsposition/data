@@ -2,6 +2,7 @@
   "2017": {
     "premier_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/2017/2017169PDR.htm",
+      "date": "2017-04-23",
       "inscrits": 47582183,
       "votants": 37003728,
       "exprimes": 36054394,
@@ -21,6 +22,7 @@
     },
     "second_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/2017/2017171PDR.htm",
+      "date": "2017-05-07",
       "inscrits": 47568693,
       "votants": 35467327,
       "exprimes": 31381603,
@@ -90,6 +92,7 @@
   "2012": {
     "premier_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/2012/2012152PDR.htm",
+      "date": "2012-04-22",
       "inscrits": 46028542,
       "votants": 36584399,
       "exprimes": 35883209,
@@ -108,6 +111,7 @@
     },
     "second_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/2012/2012154PDR.htm",
+      "date": "2012-05-06",
       "inscrits": 46066307,
       "votants": 37016309,
       "exprimes": 34861353,
@@ -172,6 +176,7 @@
   "2007": {
     "premier_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/2007/2007139PDR.htm",
+      "date": "2007-04-22",
       "inscrits": 44472834,
       "votants": 37254242,
       "exprimes": 36719396,
@@ -192,6 +197,7 @@
     },
     "second_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/2007/2007141pdr.htm",
+      "date": "2007-05-02",
       "inscrits": 44472733,
       "votants": 37342004,
       "exprimes": 35773578,
@@ -266,6 +272,7 @@
   "2002": {
     "premier_tour": {
       "source": "https://www.conseil-constitutionnel.fr/election-presidentielle-2002/resultats-du-1er-tour",
+      "date": "2022-04-21",
       "inscrits": 41194689,
       "votants": 29495733,
       "exprimes": 28498471,
@@ -290,6 +297,7 @@
     },
     "second_tour": {
       "source": "https://www.conseil-constitutionnel.fr/election-presidentielle-2002/resultats-definitifs-du-second-tour-5-mai-2002",
+      "date": "2022-05-05",
       "inscrits": 41191169,
       "votants": 32832195,
       "exprimes": 31062988,
@@ -383,7 +391,8 @@
   },
   "1995": {
     "premier_tour": {
-      "source": "https://www.conseil-constitutionnel.fr/decision/1995/9579pdr.htm",
+      "source": "https://www.conseil-constitutionnel.fr/decision/1988/8860PDR.htm",
+      "date": "1995-04-23",
       "inscrits": 39992912,
       "votants": 31345794,
       "exprimes": 30462633,
@@ -401,6 +410,7 @@
     },
     "second_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/1995/9581PDR.htm",
+      "date": "1995-05-07",
       "inscrits": 39976944,
       "votants": 31845819,
       "exprimes": 29943671,
@@ -460,6 +470,7 @@
   "1988": {
     "premier_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/1988/8856pdr.htm",
+      "date": "1988-04-24",
       "inscrits": 38128507,
       "votants": 31027972,
       "exprimes": 30406038,
@@ -477,6 +488,7 @@
     },
     "second_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/1988/8860PDR.htm",
+      "date": "1988-05-08",
       "inscrits": 38168869,
       "votants": 32085071,
       "exprimes": 30923249,
@@ -536,6 +548,7 @@
   "1981": {
     "premier_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/1981/8145pdr.htm",
+      "date": "1981-04-26",
       "inscrits": 36398659,
       "votants": 29516082,
       "exprimes": 29038117,
@@ -554,6 +567,7 @@
     },
     "second_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/1981/8147pdr.htm",
+      "date": "1981-05-10",
       "inscrits": 36398762,
       "votants": 31249552,
       "exprimes": 30350568,
@@ -618,6 +632,7 @@
   "1974": {
     "premier_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/1974/7430pdr.htm",
+      "date": "1974-05-05",
       "inscrits": 30602953,
       "votants": 25775743,
       "exprimes": 25538636,
@@ -638,6 +653,7 @@
     },
     "second_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/1974/7432PDR.htm",
+      "date": "1974-05-19",
       "inscrits": 30600775,
       "votants": 26721595,
       "exprimes": 26367807,
@@ -712,6 +728,7 @@
   "1969": {
     "premier_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/1969/6920PDR.htm",
+      "date": "1969-06-01",
       "inscrits": 29513361,
       "votants": 22898960,
       "exprimes": 22603924,
@@ -727,6 +744,7 @@
     },
     "second_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/1969/6922pdr.htm",
+      "date": "1969-06-15",
       "inscrits": 29500334,
       "votants": 20311287,
       "exprimes": 19007489,
@@ -776,6 +794,7 @@
   "1965": {
     "premier_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/1965/656pdr.htm",
+      "date": "1965-12-05",
       "inscrits": 28910581,
       "votants": 24502916,
       "exprimes": 24254556,
@@ -790,6 +809,7 @@
     },
     "second_tour": {
       "source": "https://www.conseil-constitutionnel.fr/decision/1965/6510pdr.htm",
+      "date": "1965-12-19",
       "inscrits": 28902704,
       "votants": 24371647,
       "exprimes": 23703434,
