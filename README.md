@@ -8,7 +8,7 @@
 **Rejoignez-nous:** [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://t.co/5imMnlOOY1?amp=1)
 
 Ce dépôt compile les données utilisées par les modèles et les infographies de
-[Pollsposition](https://twitter.com/pollsposition):
+[Pollsposition](https://twitter.com/pollsposition), et plus:
 
 - Résultats des [élections présidentielles](https://raw.githubusercontent.com/pollsposition/data/main/resultats/presidentielles.json)
 - Résultats des [élections européennes](https://raw.githubusercontent.com/pollsposition/data/main/resultats/europeennes.json)
