@@ -31,6 +31,37 @@
         }
       ]
     },
+    "20170505_ifop": {
+      "institut": "Ifop",
+      "commanditaires": [
+        "Paris Match",
+        "C News",
+        "Sud Radio"
+      ],
+      "source": "http://www.commission-des-sondages.fr/notices/files/notices/2017/mai/8517-roll-69-ifop-pm.pdf",
+      "date_debut": "2021-05-02",
+      "date_fin": "2021-05-05",
+      "methode": "internet",
+      "interroges": 1861,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 24.1,
+          "intentions_exprimees": 1185,
+          "intentions": {
+            "Emmanuel Macron": 63,
+            "Marine Le Pen": 37
+          },
+          "certitude": {
+            "ensemble": 91,
+            "detail": {
+              "Emmanuel Macron": 91,
+              "Marine Le Pen": 90
+            }
+          }
+        }
+      ]
+    },
     "20170504_ipsos": {
       "institut": "Ipsos",
       "commanditaires": [
@@ -57,6 +88,37 @@
               "Emmanuel Macron": 93,
               "Marine Le Pen": 88,
               "Blancs/nuls": 48
+            }
+          }
+        }
+      ]
+    },
+    "20170502_ifop": {
+      "institut": "Ifop",
+      "commanditaires": [
+        "Paris Match",
+        "C News",
+        "Sud Radio"
+      ],
+      "source": "http://www.commission-des-sondages.fr/notices/files/notices/2017/mai/8489-rolling-66-ifop-pm.pdf",
+      "date_debut": "2021-04-28",
+      "date_fin": "2021-05-02",
+      "methode": "internet",
+      "interroges": 1388,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 20.8,
+          "intentions_exprimees": 913,
+          "intentions": {
+            "Emmanuel Macron": 59.5,
+            "Marine Le Pen": 40.5
+          },
+          "certitude": {
+            "ensemble": 89,
+            "detail": {
+              "Emmanuel Macron": 90,
+              "Marine Le Pen": 87
             }
           }
         }
@@ -124,15 +186,77 @@
         }
       ]
     },
-    "20170423_ipsos": {
+    "20170427_ifop": {
+      "institut": "Ifop",
+      "commanditaires": [
+        "Paris Match",
+        "C News",
+        "Sud Radio"
+      ],
+      "source": "",
+      "date_debut": "2021-04-24",
+      "date_fin": "2021-04-27",
+      "methode": "internet",
+      "interroges": 1407,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 22.5,
+          "intentions_exprimees": 893,
+          "intentions": {
+            "Emmanuel Macron": 60.5,
+            "Marine Le Pen": 39.5
+          },
+          "certitude": {
+            "ensemble": 88,
+            "detail": {
+              "Emmanuel Macron": 90,
+              "Marine Le Pen": 84
+            }
+          }
+        }
+      ]
+    },
+    "20170425_ifop": {
+      "institut": "Ifop",
+      "commanditaires": [
+        "Paris Match",
+        "C News",
+        "Sud Radio"
+      ],
+      "source": "",
+      "date_debut": "2021-04-23",
+      "date_fin": "2021-04-25",
+      "methode": "internet",
+      "interroges": 1416,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 18.6,
+          "intentions_exprimees": 962,
+          "intentions": {
+            "Emmanuel Macron": 61,
+            "Marine Le Pen": 39
+          },
+          "certitude": {
+            "ensemble": 88,
+            "detail": {
+              "Emmanuel Macron": 92,
+              "Marine Le Pen": 84
+            }
+          }
+        }
+      ]
+    },
+    "20170425_ipsos": {
       "institut": "Ipsos",
       "commanditaires": [
         "France Télévisions",
         "Radio France"
       ],
-      "source": "",
+      "source": "http://www.commission-des-sondages.fr/notices/files/notices/2017/avril/8467-rolling-61-ifopo-pm.pdf",
       "date_debut": "2021-04-23",
-      "date_fin": "2021-04-23",
+      "date_fin": "2021-04-25",
       "methode": "internet",
       "interroges": 2024,
       "second_tour": [
