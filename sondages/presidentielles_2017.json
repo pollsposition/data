@@ -1,5 +1,159 @@
 {
   "sondages": {
+    "20170505_ipsos": {
+      "institut": "Ipsos",
+      "commanditaires": [
+        "France Télévisions",
+        "Radio France"
+      ],
+      "source": "",
+      "date_debut": "2021-05-05",
+      "date_fin": "2021-05-05",
+      "methode": "internet",
+      "interroges": 8200,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 16,
+          "intentions_exprimees": 5331,
+          "intentions": {
+            "Emmanuel Macron": 63,
+            "Marine Le Pen": 37
+          },
+          "certitude": {
+            "ensemble": 89,
+            "detail": {
+              "Emmanuel Macron": 95,
+              "Marine Le Pen": 92,
+              "Blancs/nuls": 66
+            }
+          }
+        }
+      ]
+    },
+    "20170504_ipsos": {
+      "institut": "Ipsos",
+      "commanditaires": [
+        "France Télévisions",
+        "Radio France"
+      ],
+      "source": "",
+      "date_debut": "2021-05-04",
+      "date_fin": "2021-05-04",
+      "methode": "internet",
+      "interroges": 2632,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 17,
+          "intentions_exprimees": 1605,
+          "intentions": {
+            "Emmanuel Macron": 61.5,
+            "Marine Le Pen": 38.5
+          },
+          "certitude": {
+            "ensemble": 84,
+            "detail": {
+              "Emmanuel Macron": 93,
+              "Marine Le Pen": 88,
+              "Blancs/nuls": 48
+            }
+          }
+        }
+      ]
+    },
+    "20170501_ipsos": {
+      "institut": "Ipsos",
+      "commanditaires": [
+        "Le Monde",
+        "Cevipof"
+      ],
+      "source": "",
+      "date_debut": "2021-04-30",
+      "date_fin": "2021-05-01",
+      "methode": "internet",
+      "interroges": 13742,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 14,
+          "intentions_exprimees": 8936,
+          "intentions": {
+            "Emmanuel Macron": 59,
+            "Marine Le Pen": 41
+          },
+          "certitude": {
+            "ensemble": 85,
+            "detail": {
+              "Emmanuel Macron": 91,
+              "Marine Le Pen": 88,
+              "Blancs/nuls": 51
+            }
+          }
+        }
+      ]
+    },
+    "20170429_ipsos": {
+      "institut": "Ipsos",
+      "commanditaires": [
+        "France Télévisions",
+        "Radio France"
+      ],
+      "source": "",
+      "date_debut": "2021-04-28",
+      "date_fin": "2021-04-29",
+      "methode": "internet",
+      "interroges": 1504,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 27,
+          "intentions_exprimees": 918,
+          "intentions": {
+            "Emmanuel Macron": 60,
+            "Marine Le Pen": 40
+          },
+          "certitude": {
+            "ensemble": 81,
+            "detail": {
+              "Emmanuel Macron": 87,
+              "Marine Le Pen": 87,
+              "Blancs/nuls": 46
+            }
+          }
+        }
+      ]
+    },
+    "20170423_ipsos": {
+      "institut": "Ipsos",
+      "commanditaires": [
+        "France Télévisions",
+        "Radio France"
+      ],
+      "source": "",
+      "date_debut": "2021-04-23",
+      "date_fin": "2021-04-23",
+      "methode": "internet",
+      "interroges": 2024,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 12,
+          "intentions_exprimees": 1379,
+          "intentions": {
+            "Emmanuel Macron": 62,
+            "Marine Le Pen": 38
+          },
+          "certitude": {
+            "ensemble": 85,
+            "detail": {
+              "Emmanuel Macron": 92,
+              "Marine Le Pen": 85
+            }
+          }
+        }
+      ]
+    },
     "20170421_odoxa": {
       "institut": "Odoxa",
       "commanditaires": [
