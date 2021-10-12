@@ -31,6 +31,36 @@
         }
       ]
     },
+    "20170505_elabe": {
+      "institut": "Elabe",
+      "commanditaires": [
+        "BFM TV",
+        "L'Express"
+      ],
+      "source": "",
+      "date_debut": "2021-04-28",
+      "date_fin": "2021-05-02",
+      "methode": "internet",
+      "interroges": 1009,
+      "second_tour": [
+        {
+          "base": "I",
+          "nspp": 19,
+          "intentions_exprimees": 817,
+          "intentions": {
+            "Emmanuel Macron": 62,
+            "Marine Le Pen": 38
+          },
+          "certitude": {
+            "ensemble": 90,
+            "detail": {
+              "Emmanuel Macron": 92,
+              "Marine Le Pen": 88
+            }
+          }
+        }
+      ]
+    },
     "20170505_ifop": {
       "institut": "Ifop",
       "commanditaires": [
@@ -119,6 +149,36 @@
             "detail": {
               "Emmanuel Macron": 90,
               "Marine Le Pen": 87
+            }
+          }
+        }
+      ]
+    },
+    "20170502_elabe": {
+      "institut": "Elabe",
+      "commanditaires": [
+        "BFM TV",
+        "L'Express"
+      ],
+      "source": "http://www.commission-des-sondages.fr/notices/files/notices/2017/mai/8485-pres-elabe-bfm-tv.pdf",
+      "date_debut": "2021-04-28",
+      "date_fin": "2021-05-02",
+      "methode": "internet",
+      "interroges": 3817,
+      "second_tour": [
+        {
+          "base": "I",
+          "nspp": 18,
+          "intentions_exprimees": ,
+          "intentions": {
+            "Emmanuel Macron": 59,
+            "Marine Le Pen": 41
+          },
+          "certitude": {
+            "ensemble": 89,
+            "detail": {
+              "Emmanuel Macron": 91,
+              "Marine Le Pen": 86
             }
           }
         }
@@ -274,6 +334,28 @@
               "Emmanuel Macron": 92,
               "Marine Le Pen": 85
             }
+          }
+        }
+      ]
+    },
+    "20170424_elabe": {
+      "institut": "Elabe",
+      "commanditaires": [
+        "BFM TV",
+      ],
+      "source": "http://www.commission-des-sondages.fr/notices/files/notices/2017/avril/8465-pres-elabe-l-express.pdf",
+      "date_debut": "2021-04-24",
+      "date_fin": "2021-04-24",
+      "methode": "internet",
+      "interroges": 967,
+      "second_tour": [
+        {
+          "base": "I",
+          "nspp": 17,
+          "intentions_exprimees": 802,
+          "intentions": {
+            "Emmanuel Macron": 64,
+            "Marine Le Pen": 36
           }
         }
       ]
