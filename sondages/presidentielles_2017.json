@@ -92,6 +92,34 @@
         }
       ]
     },
+    "20170502_odoxa": {
+      "institut": "Odoxa",
+      "commanditaires": [
+        "Le Point"
+      ],
+      "source": "",
+      "date_debut": "2021-05-04",
+      "date_fin": "2021-05-04",
+      "methode": "internet",
+      "interroges": 998,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 18,
+          "intentions_exprimees": 501,
+          "intentions": {
+            "Emmanuel Macron": 62,
+            "Marine Le Pen": 38
+          },
+          "certitude": {
+            "detail": {
+              "Emmanuel Macron": 94,
+              "Marine Le Pen": 95
+            }
+          }
+        }
+      ]
+    },
     "20170504_ipsos": {
       "institut": "Ipsos",
       "commanditaires": [
@@ -241,6 +269,35 @@
               "Emmanuel Macron": 87,
               "Marine Le Pen": 87,
               "Blancs/nuls": 46
+            }
+          }
+        }
+      ]
+    },
+    "20170427_odoxa": {
+      "institut": "Odoxa",
+      "commanditaires": [
+        "Le Point"
+      ],
+      "source": "",
+      "date_debut": "2021-04-26",
+      "date_fin": "2021-04-27",
+      "methode": "internet",
+      "interroges": 968,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 20,
+          "intentions_exprimees": 642,
+          "intentions": {
+            "Emmanuel Macron": 59,
+            "Marine Le Pen": 41
+          },
+          "certitude": {
+            "ensemble": 91,
+            "detail": {
+              "Emmanuel Macron": 91,
+              "Marine Le Pen": 91
             }
           }
         }
