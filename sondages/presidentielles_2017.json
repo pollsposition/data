@@ -92,6 +92,29 @@
         }
       ]
     },
+    "20170504_opinionway": {
+      "institut": "Opinionway",
+      "commanditaires": [
+        "Les Echos",
+        "Radio Classique"
+      ],
+      "source": "http://www.commission-des-sondages.fr/notices/files/notices/2017/mai/8511-presitrack-65-ow-les-echos.pdf",
+      "date_debut": "2021-05-01",
+      "date_fin": "2021-05-04",
+      "methode": "internet",
+      "interroges": 2320,
+      "second_tour": [
+        {
+          "base": "I",
+          "nspp": 21,
+          "intentions_exprimees": 1616,
+          "intentions": {
+            "Emmanuel Macron": 61,
+            "Marine Le Pen": 39
+          }
+        }
+      ]
+    },
     "20170502_odoxa": {
       "institut": "Odoxa",
       "commanditaires": [
@@ -299,6 +322,29 @@
               "Emmanuel Macron": 91,
               "Marine Le Pen": 91
             }
+          }
+        }
+      ]
+    },
+    "20170424_opinionway": {
+      "institut": "Opinionway",
+      "commanditaires": [
+        "Les Echos",
+        "Radio Classique"
+      ],
+      "source": "",
+      "date_debut": "2021-04-23",
+      "date_fin": "2021-04-27",
+      "methode": "internet",
+      "interroges": 1825,
+      "second_tour": [
+        {
+          "base": "I",
+          "nspp": 22,
+          "intentions_exprimees": 1271,
+          "intentions": {
+            "Emmanuel Macron": 60,
+            "Marine Le Pen": 40
           }
         }
       ]
