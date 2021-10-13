@@ -197,7 +197,7 @@
         {
           "base": "I",
           "nspp": 18,
-          "intentions_exprimees": ,
+          "intentions_exprimees": 3129,
           "intentions": {
             "Emmanuel Macron": 59,
             "Marine Le Pen": 41
@@ -398,7 +398,7 @@
     "20170424_elabe": {
       "institut": "Elabe",
       "commanditaires": [
-        "BFM TV",
+        "BFM TV"
       ],
       "source": "http://www.commission-des-sondages.fr/notices/files/notices/2017/avril/8465-pres-elabe-l-express.pdf",
       "date_debut": "2021-04-24",
