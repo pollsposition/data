@@ -115,29 +115,30 @@
         }
       ]
     },
-    "20170502_odoxa": {
-      "institut": "Odoxa",
+    "20170428_bva": {
+      "institut": "BVA",
       "commanditaires": [
-        "Le Point"
+        "Presse Régionale",
+        "Orange"
       ],
-      "source": "",
-      "date_debut": "2021-05-04",
-      "date_fin": "2021-05-04",
+      "source": "http://www.commission-des-sondages.fr/notices/files/notices/2017/mai/8491-pres-bva-pqr.pdf",
+      "date_debut": "2021-05-01",
+      "date_fin": "2021-05-02",
       "methode": "internet",
-      "interroges": 998,
+      "interroges": 1435,
       "second_tour": [
         {
           "base": "SV",
-          "nspp": 18,
-          "intentions_exprimees": 501,
+          "nspp": 13,
+          "intentions_exprimees": 1012,
           "intentions": {
-            "Emmanuel Macron": 62,
-            "Marine Le Pen": 38
+            "Emmanuel Macron": 60,
+            "Marine Le Pen": 40
           },
           "certitude": {
             "detail": {
-              "Emmanuel Macron": 94,
-              "Marine Le Pen": 95
+              "Emmanuel Macron": 90,
+              "Marine Le Pen": 86
             }
           }
         }
@@ -169,6 +170,34 @@
               "Emmanuel Macron": 93,
               "Marine Le Pen": 88,
               "Blancs/nuls": 48
+            }
+          }
+        }
+      ]
+    },
+    "20170502_odoxa": {
+      "institut": "Odoxa",
+      "commanditaires": [
+        "Le Point"
+      ],
+      "source": "",
+      "date_debut": "2021-05-04",
+      "date_fin": "2021-05-04",
+      "methode": "internet",
+      "interroges": 998,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 18,
+          "intentions_exprimees": 501,
+          "intentions": {
+            "Emmanuel Macron": 62,
+            "Marine Le Pen": 38
+          },
+          "certitude": {
+            "detail": {
+              "Emmanuel Macron": 94,
+              "Marine Le Pen": 95
             }
           }
         }
@@ -297,6 +326,35 @@
         }
       ]
     },
+    "20170428_bva": {
+      "institut": "BVA",
+      "commanditaires": [
+        "Presse Régionale",
+        "Orange"
+      ],
+      "source": "http://www.commission-des-sondages.fr/notices/files/notices/2017/avril/8482-pres-bva-pqr.pdf",
+      "date_debut": "2021-04-26",
+      "date_fin": "2021-04-28",
+      "methode": "internet",
+      "interroges": 1438,
+      "second_tour": [
+        {
+          "base": "SV",
+          "nspp": 16,
+          "intentions_exprimees": 944,
+          "intentions": {
+            "Emmanuel Macron": 59,
+            "Marine Le Pen": 41
+          },
+          "certitude": {
+            "detail": {
+              "Emmanuel Macron": 89,
+              "Marine Le Pen": 85
+            }
+          }
+        }
+      ]
+    },
     "20170427_odoxa": {
       "institut": "Odoxa",
       "commanditaires": [
@@ -322,29 +380,6 @@
               "Emmanuel Macron": 91,
               "Marine Le Pen": 91
             }
-          }
-        }
-      ]
-    },
-    "20170424_opinionway": {
-      "institut": "Opinionway",
-      "commanditaires": [
-        "Les Echos",
-        "Radio Classique"
-      ],
-      "source": "",
-      "date_debut": "2021-04-23",
-      "date_fin": "2021-04-27",
-      "methode": "internet",
-      "interroges": 1825,
-      "second_tour": [
-        {
-          "base": "I",
-          "nspp": 22,
-          "intentions_exprimees": 1271,
-          "intentions": {
-            "Emmanuel Macron": 60,
-            "Marine Le Pen": 40
           }
         }
       ]
@@ -437,6 +472,29 @@
               "Emmanuel Macron": 92,
               "Marine Le Pen": 85
             }
+          }
+        }
+      ]
+    },
+    "20170424_opinionway": {
+      "institut": "Opinionway",
+      "commanditaires": [
+        "Les Echos",
+        "Radio Classique"
+      ],
+      "source": "",
+      "date_debut": "2021-04-23",
+      "date_fin": "2021-04-27",
+      "methode": "internet",
+      "interroges": 1825,
+      "second_tour": [
+        {
+          "base": "I",
+          "nspp": 22,
+          "intentions_exprimees": 1271,
+          "intentions": {
+            "Emmanuel Macron": 60,
+            "Marine Le Pen": 40
           }
         }
       ]
