@@ -1,6 +1,61 @@
 {
     "sondages": {
 
+        "20211006_ifop":
+        {
+            "institut": "Ifop",
+            "commanditaires": ["Sud Radio"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9220-p-ifop-sud-radio.pdf",
+            "date_debut": "2021-10-05",
+            "date_fin": "2021-10-06",
+            "methode": "internet",
+            "interroges": 921,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 23.9,
+                    "intentions_exprimees": 701,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 0.5,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 7,
+                        "Anne Hidalgo": 6,
+                        "Arnaud Montebourg": 2,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 25,
+                        "Xavier Bertrand": 16,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 14,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite et Éric Zemmour",
+                    "base": "I",
+                    "nspp": 25.6,
+                    "intentions_exprimees": 685,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 0.5,
+                        "Fabien Roussel": 1.5,
+                        "Jean-Luc Mélenchon": 8,
+                        "Anne Hidalgo": 6,
+                        "Arnaud Montebourg": 2.5,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 26,
+                        "Valérie Pécresse": 11,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Marine Le Pen": 18,
+                        "Éric Zemmour": 14,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ]
+        },
+
         "20211006_elabe":
         {
             "institut": "Elabe",
@@ -686,7 +741,7 @@
                     }
                 },
                 {
-                    "hypothese": "Michel Barnier candidat de la droite et Éric Zemmour",
+                    "hypothese": "Éric Ciotti candidat de la droite et Éric Zemmour",
                     "base": "I",
                     "nspp": 29.9,
                     "intentions_exprimees": 947,
