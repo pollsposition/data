@@ -1,6 +1,146 @@
 {
     "sondages": {
 
+        "20211011_Odoxa":
+        {
+            "institut": "Odoxa",
+            "commanditaires": ["L'Obs"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9223-p-odoxa-l-obs.pdf",
+            "date_debut": "2021-10-05",
+            "date_fin": "2021-10-11",
+            "methode": "internet",
+            "interroges": 2663,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 22,
+                    "intentions_exprimees": 1856,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 2,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 8,
+                        "Yannick Jadot": 6.5,
+                        "Arnaud Montebourg": 2,
+                        "Anne Hidalgo": 4.5,
+                        "Emmanuel Macron": 25,
+                        "Xavier Bertrand": 13,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 18,
+                        "Éric Zemmour": 16
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 75,
+                            "Yannick Jadot": 53,
+                            "Anne Hidalgo": 45,
+                            "Emmanuel Macron": 78,
+                            "Xavier Bertrand": 63,
+                            "Éric Zemmour": 73,
+                            "Marine Le Pen": 83
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 26,
+                    "intentions_exprimees": 1942,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 2,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 9,
+                        "Yannick Jadot": 7,
+                        "Arnaud Montebourg": 2.5,
+                        "Anne Hidalgo": 4,
+                        "Emmanuel Macron": 26.5,
+                        "Valérie Pécresse": 8.5,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Éric Zemmour": 16.5,
+                        "Marine Le Pen": 18.5
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 62,
+                            "Anne Hidalgo": 39,
+                            "Yannick Jadot": 44,
+                            "Emmanuel Macron": 73,
+                            "Valérie Pécresse": 53,
+                            "Éric Zemmour": 68,
+                            "Marine Le Pen": 81
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Soutien d'Anne Hidalgo et Arnaud Montebourg à Yannick Jadot",
+                    "base": "I",
+                    "nspp": 18,
+                    "intentions_exprimees": 1917,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 2,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 8.5,
+                        "Yannick Jadot": 11,
+                        "Emmanuel Macron": 26,
+                        "Xavier Bertrand": 13,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Éric Zemmour": 16,
+                        "Marine Le Pen": 18
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 68,
+                            "Arnaud Montebourg": 44,
+                            "Anne Hidalgo": 23,
+                            "Yannick Jadot": 54,
+                            "Emmanuel Macron": 77,
+                            "Xavier Bertrand": 48,
+                            "Nicolas Dupont-Aignan": 46,
+                            "Éric Zemmour": 67,
+                            "Marine Le Pen": 84
+                        }
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 25,
+                    "intentions_exprimees": 1864,
+                    "intentions": {
+                        "Éric Zemmour": 38,
+                        "Emmanuel Macron": 62
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Emmanuel Macron": 78,
+                            "Éric Zemmour": 70
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 23,
+                    "intentions_exprimees": 1919,
+                    "intentions": {
+                        "Marine Le Pen": 42,
+                        "Emmanuel Macron": 58
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Emmanuel Macron": 80,
+                            "Éric Zemmour": 74
+                        }
+                    }
+                }
+            ]
+        },
+
         "20211011_BVA":
         {
             "institut": "BVA",
