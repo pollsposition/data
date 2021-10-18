@@ -1,6 +1,221 @@
 {
     "sondages": {
 
+        "20211011_BVA":
+        {
+            "institut": "BVA",
+            "commanditaires": ["Orange", "RTL"],
+            "source": "https://www.commission-des-sondages.fr/notices/medias/fichiers/add/1151",
+            "date_debut": "2021-10-08",
+            "date_fin": "2021-10-11",
+            "methode": "internet",
+            "interroges": 1051,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 16,
+                    "intentions_exprimees": 885,
+                    "intentions": {
+                        "Nathalie Arthaud": 1.5,
+                        "Philippe Poutou": 0.5,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 1.5,
+                        "Arnaud Montebourg": 4,
+                        "Anne Hidalgo": 4,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 26,
+                        "Xavier Bertrand": 12,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Éric Zemmour": 14,
+                        "Marine Le Pen": 16,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 78,
+                            "Arnaud Montebourg": 37,
+                            "Anne Hidalgo": 23,
+                            "Yannick Jadot": 58,
+                            "Emmanuel Macron": 81,
+                            "Xavier Bertrand": 57,
+                            "Éric Zemmour": 67,
+                            "Marine Le Pen": 84
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 17,
+                    "intentions_exprimees": 876,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 1.5,
+                        "Arnaud Montebourg": 4,
+                        "Anne Hidalgo": 4,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 27,
+                        "Valérie Pécresse": 10,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Éric Zemmour": 14,
+                        "Marine Le Pen": 17,
+                        "François Asselineau": 0.5,
+                        "Jean Lassalle": 1.5
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 76,
+                            "Arnaud Montebourg": 45,
+                            "Anne Hidalgo": 29,
+                            "Yannick Jadot": 55,
+                            "Emmanuel Macron": 73,
+                            "Valérie Pécresse": 58,
+                            "Éric Zemmour": 63,
+                            "Marine Le Pen": 84
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 17,
+                    "intentions_exprimees": 879,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Jean-Luc Mélenchon": 8.5,
+                        "Fabien Roussel": 1.5,
+                        "Arnaud Montebourg": 4,
+                        "Anne Hidalgo": 4,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 28,
+                        "Michel Barnier": 8.5,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Éric Zemmour": 13,
+                        "Marine Le Pen": 17,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1.5
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 68,
+                            "Arnaud Montebourg": 44,
+                            "Anne Hidalgo": 23,
+                            "Yannick Jadot": 54,
+                            "Emmanuel Macron": 77,
+                            "Xavier Bertrand": 48,
+                            "Nicolas Dupont-Aignan": 46,
+                            "Éric Zemmour": 67,
+                            "Marine Le Pen": 84
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite",
+                    "base": "I",
+                    "nspp": 19,
+                    "intentions_exprimees": 854,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 0.5,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 1,
+                        "Arnaud Montebourg": 4,
+                        "Anne Hidalgo": 4,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 28,
+                        "Xavier Bertrand": 15,
+                        "Nicolas Dupont-Aignan": 3.5,
+                        "Marine Le Pen": 24,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 2
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 71,
+                            "Arnaud Montebourg": 43,
+                            "Anne Hidalgo": 33,
+                            "Yannick Jadot": 58,
+                            "Emmanuel Macron": 76,
+                            "Xavier Bertrand": 48,
+                            "Nicolas Dupont-Aignan": 54,
+                            "Marine Le Pen": 77
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite",
+                    "base": "I",
+                    "nspp": 19,
+                    "intentions_exprimees": 852,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 1.5,
+                        "Arnaud Montebourg": 4,
+                        "Anne Hidalgo": 4,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 29,
+                        "Valérie Pécresse": 12,
+                        "Nicolas Dupont-Aignan": 3.5,
+                        "Marine Le Pen": 25,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 2
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 71,
+                            "Arnaud Montebourg": 46,
+                            "Anne Hidalgo": 24,
+                            "Yannick Jadot": 56,
+                            "Emmanuel Macron": 72,
+                            "Valérie Pécresse": 53,
+                            "Nicolas Dupont-Aignan": 43,
+                            "Marine Le Pen": 75
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat de la droite",
+                    "base": "I",
+                    "nspp": 19,
+                    "intentions_exprimees": 859,
+                    "intentions": {
+                        "Nathalie Arthaud": 1.5,
+                        "Philippe Poutou": 1,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 1.5,
+                        "Arnaud Montebourg": 4,
+                        "Anne Hidalgo": 4,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 30,
+                        "Michel Barnier": 10,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Marine Le Pen": 25,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 2
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 64,
+                            "Arnaud Montebourg": 43,
+                            "Anne Hidalgo": 27,
+                            "Yannick Jadot": 53,
+                            "Emmanuel Macron": 74,
+                            "Valérie Pécresse": 49,
+                            "Nicolas Dupont-Aignan": 44,
+                            "Marine Le Pen": 78
+                        }
+                    }
+                }
+            ]
+        },
+
         "20211011_harris":
         {
             "institut": "Harris interactive",
