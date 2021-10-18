@@ -1,6 +1,82 @@
 {
     "sondages": {
 
+        "20211013_ifop":
+        {
+            "institut": "Ifop",
+            "commanditaires": ["LCI", "Le Figaro"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9224-p-ifop-le-figaro.pdf",
+            "date_debut": "2021-10-09",
+            "date_fin": "2021-10-13",
+            "methode": "internet",
+            "interroges": 4503,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 23.8,
+                    "intentions_exprimees": 3432,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 0.5,
+                        "Fabien Roussel": 1.5,
+                        "Jean-Luc Mélenchon": 8,
+                        "Anne Hidalgo": 5,
+                        "Arnaud Montebourg": 1.5,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 25,
+                        "Xavier Bertrand": 15,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 16,
+                        "Jean Lassalle": 0.5
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 23.8,
+                    "intentions_exprimees": 3430,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 0.5,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 8,
+                        "Arnaud Montebourg": 2,
+                        "Anne Hidalgo": 5.5,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 26,
+                        "Valérie Pécresse": 10,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Éric Zemmour": 17,
+                        "Marine Le Pen": 18,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 23.9,
+                    "intentions_exprimees": 3429,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 0.5,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 8,
+                        "Anne Hidalgo": 5.5,
+                        "Arnaud Montebourg": 2,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 27,
+                        "Michel Barnier": 8,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Éric Zemmour": 17,
+                        "Marine Le Pen": 18.5,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ]
+        },
+
         "20211011_Odoxa":
         {
             "institut": "Odoxa",
