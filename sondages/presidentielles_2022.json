@@ -1,6 +1,190 @@
 {
     "sondages": {
 
+        "20211027_elabe":
+        {
+            "institut": "Elabe",
+            "commanditaires": ["BFM TV", "SFR"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9230-p-elabe-bfm-l-express.pdf",
+            "date_debut": "2021-10-25",
+            "date_fin": "2021-10-27",
+            "methode": "internet",
+            "interroges": 1200,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite",
+                    "base": "SV",
+                    "nspp": 12,
+                    "intentions_exprimees": 834,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 7,
+                        "Anne Hidalgo": 5,
+                        "Arnaud Montebourg": 3,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 23,
+                        "Jean-Christophe Lagarde": 0,
+                        "Xavier Bertrand": 13,
+                        "Jean Lassalle": 1,
+                        "François Asselineau": 0,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Jean-Frédéric Poisson": 0,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 19,
+                        "Éric Zemmour": 15
+                    },
+                    "certitude": {
+                        "ensemble": 60,
+                        "detail": {
+                            "Jean-Luc Mélenchon": 60,
+                            "Anne Hidalgo": 49,
+                            "Yannick Jadot": 53,
+                            "Emmanuel Macron": 69,
+                            "Xavier Bertrand": 58,
+                            "Nicolas Dupont-Aignan": 54,
+                            "Marine Le Pen": 77,
+                            "Éric Zemmour": 70,
+                            "Non exprimés": 35
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite",
+                    "base": "SV",
+                    "nspp": 13,
+                    "intentions_exprimees": 824,
+                    "intentions": {
+                        "Philippe Poutou": 2,
+                        "Nathalie Arthaud": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 6,
+                        "Anne Hidalgo": 5,
+                        "Arnaud Montebourg": 3,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 24,
+                        "Jean-Christophe Lagarde": 0,
+                        "Valérie Pécresse": 10,
+                        "Jean Lassalle": 2,
+                        "François Asselineau": 0,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Jean-Frédéric Poisson": 0,
+                        "Florian Philippot": 0,
+                        "Marine Le Pen": 19,
+                        "Éric Zemmour": 16
+                    },
+                    "certitude": {
+                        "ensemble": 59,
+                        "detail": {
+                            "Jean-Luc Mélenchon": 67,
+                            "Anne Hidalgo": 49,
+                            "Yannick Jadot": 42,
+                            "Emmanuel Macron": 71,
+                            "Valérie Pécresse": 47,
+                            "Nicolas Dupont-Aignan": 57,
+                            "Marine Le Pen": 76,
+                            "Éric Zemmour": 63,
+                            "Non exprimés": 39
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat de la droite",
+                    "base": "SV",
+                    "nspp": 13,
+                    "intentions_exprimees": 824,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 7,
+                        "Anne Hidalgo": 5,
+                        "Arnaud Montebourg": 3,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 26,
+                        "Jean-Christophe Lagarde": 1,
+                        "Michel Barnier": 8,
+                        "Jean Lassalle": 2,
+                        "François Asselineau": 0,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Jean-Frédéric Poisson": 1,
+                        "Florian Philippot": 0,
+                        "Marine Le Pen": 19,
+                        "Éric Zemmour": 15
+                    },
+                    "certitude": {
+                        "ensemble": 59,
+                        "detail": {
+                            "Jean-Luc Mélenchon": 61,
+                            "Anne Hidalgo": 45,
+                            "Yannick Jadot": 47,
+                            "Emmanuel Macron": 68,
+                            "Michel Barnier": 57,
+                            "Nicolas Dupont-Aignan": 39,
+                            "Marine Le Pen": 78,
+                            "Éric Zemmour": 69,
+                            "Non exprimés": 40
+                        }
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 24,
+                    "intentions_exprimees": 720,
+                    "intentions": {
+                        "Marine Le Pen": 45,
+                        "Emmanuel Macron": 55
+                    }
+                },
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 30,
+                    "intentions_exprimees": 663,
+                    "intentions": {
+                        "Éric Zemmour": 39,
+                        "Emmanuel Macron": 61
+                    }
+                }
+            ],
+            "reports": [
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Nicolas Dupont-Aignan", "Marine Le Pen", "Éric Zemmour", "Non exprimés"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Marine Le Pen", "Non exprimés"],
+                    "reports": [
+                        [35, 24, 41],
+                        [49, 8, 43],
+                        [62, 9, 29],
+                        [97, 2, 1],
+                        [49, 15, 36],
+                        [13, 61, 26],
+                        [1, 97, 2],
+                        [16, 65, 19],
+                        [31, 13, 56]
+                    ]
+                },
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Nicolas Dupont-Aignan", "Marine Le Pen", "Éric Zemmour", "Non exprimés"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Éric Zemmour", "Non exprimés"],
+                    "reports": [
+                        [34, 19, 47],
+                        [50, 3, 47],
+                        [60, 8, 32],
+                        [98, 1, 1],
+                        [44, 21, 35],
+                        [18, 28, 54],
+                        [12, 47, 41],
+                        [5, 94, 1],
+                        [32, 5, 63]
+                    ]
+                }
+            ]
+        },
+
         "20211030_harris":
         {
             "institut": "Harris interactive",
