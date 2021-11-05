@@ -1,6 +1,141 @@
 {
     "sondages": {
 
+        "20211013_ipsos": {
+            "institut": "Ipsos",
+            "commanditaires": ["Le Monde", "Cevipof", "Fondation Jean Jaurès"],
+            "source": "https://www.commission-des-sondages.fr/notices/medias/fichiers/add/1155",
+            "date_debut": "2021-10-07",
+            "date_fin": "2021-10-13",
+            "methode": "internet",
+            "interroges": 16228,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat LR/UDI et Éric Zemmour candidat",
+                    "base": "SV",
+                    "nspp": 8,
+                    "intentions_exprimees": 8808,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 2,
+                        "Arnaud Montebourg": 2,
+                        "Yannick Jadot": 9,
+                        "Anne Hidalgo": 5,
+                        "Emmanuel Macron": 24,
+                        "Xavier Bertrand": 13,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Marine Le Pen": 15,
+                        "Éric Zemmour": 16
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate LR/UDI et Éric Zemmour candidat",
+                    "base": "SV",
+                    "nspp": 8.5,
+                    "intentions_exprimees": 8760,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 2,
+                        "Arnaud Montebourg": 2,
+                        "Yannick Jadot": 9.5,
+                        "Anne Hidalgo": 5,
+                        "Emmanuel Macron": 25.5,
+                        "Valérie Pécresse": 10,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 16
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat LR/UDI et Éric Zemmour candidat",
+                    "base": "SV",
+                    "nspp": 9,
+                    "intentions_exprimees": 8712,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 2,
+                        "Arnaud Montebourg": 2,
+                        "Yannick Jadot": 9.5,
+                        "Anne Hidalgo": 5,
+                        "Emmanuel Macron": 26,
+                        "Michel Barnier": 9,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 16.5
+                    }
+                },
+                {
+                    "hypothese": "Xavier Bertrand candidat LR/UDI",
+                    "base": "SV",
+                    "nspp": 10.5,
+                    "intentions_exprimees": 8712,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 2,
+                        "Arnaud Montebourg": 2,
+                        "Yannick Jadot": 9.5,
+                        "Anne Hidalgo": 5,
+                        "Emmanuel Macron": 26,
+                        "Xavier Bertrand": 16,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 4.5,
+                        "Marine Le Pen": 24
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate LR/UDI",
+                    "base": "SV",
+                    "nspp": 11.5,
+                    "intentions_exprimees": 8473,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 2,
+                        "Arnaud Montebourg": 2,
+                        "Yannick Jadot": 10,
+                        "Anne Hidalgo": 5,
+                        "Emmanuel Macron": 27,
+                        "Valérie Pécresse": 13,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Marine Le Pen": 25
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat LR/UDI",
+                    "base": "SV",
+                    "nspp": 11.5,
+                    "intentions_exprimees": 8473,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 2,
+                        "Arnaud Montebourg": 2,
+                        "Yannick Jadot": 10,
+                        "Anne Hidalgo": 5,
+                        "Emmanuel Macron": 28,
+                        "Michel Barnier": 12,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 5,
+                        "Marine Le Pen": 25
+                    }
+                }
+            ]
+        },
+
         "20211020_opinionway":
         {
             "institut": "Opinionway",
