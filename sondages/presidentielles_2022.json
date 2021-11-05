@@ -1,6 +1,225 @@
 {
     "sondages": {
 
+        "20211018_harris":
+        {
+            "institut": "Harris interactive",
+            "commanditaires": ["Challenges"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9225-p-hi-challenges-v18.pdf",
+            "date_debut": "2021-10-15",
+            "date_fin": "2021-10-18",
+            "methode": "internet",
+            "interroges": 2006,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 14,
+                    "intentions_exprimees": 1725,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 10,
+                        "Arnaud Montebourg": 3,
+                        "Anne Hidalgo": 4,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 23,
+                        "Jean-Christophe Lagarde": 0,
+                        "Xavier Bertrand": 14,
+                        "Nicolas Dupont-Aignan": 1,
+                        "Florian Philippot": 0,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 17,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    },
+                    "certitude": {
+                        "ensemble": 73,
+                        "detail": {
+                            "Marine Le Pen": 83,
+                            "Jean-Luc Mélenchon": 79,
+                            "Éric Zemmour": 79,
+                            "Emmanuel Macron": 77,
+                            "Anne Hidalgo": 63,
+                            "Xavier Bertrand": 63,
+                            "Yannick Jadot": 61
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 16,
+                    "intentions_exprimees": 1685,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 10,
+                        "Arnaud Montebourg": 3,
+                        "Anne Hidalgo": 4,
+                        "Yannick Jadot": 9,
+                        "Emmanuel Macron": 25,
+                        "Jean-Christophe Lagarde": 0,
+                        "Valérie Pécresse": 10,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Florian Philippot": 0,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 17,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat de la droite avec Éric Zemmour",
+                    "base": "I",
+                    "nspp": 15,
+                    "intentions_exprimees": 1705,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 10,
+                        "Arnaud Montebourg": 3,
+                        "Anne Hidalgo": 5,
+                        "Yannick Jadot": 9,
+                        "Emmanuel Macron": 25,
+                        "Jean-Christophe Lagarde": 0,
+                        "Michel Barnier": 8,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Florian Philippot": 0,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 18,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 33,
+                    "intentions_exprimees": 1344,
+                    "intentions": {
+                        "Éric Zemmour": 43,
+                        "Emmanuel Macron": 57
+                    },
+                    "certitude": {
+                        "ensemble": 87
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 33,
+                    "intentions_exprimees": 1344,
+                    "intentions": {
+                        "Marine Le Pen": 46,
+                        "Emmanuel Macron": 54
+                    }
+                },
+                {
+                    "hypothese": "Xavier Bertrand vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 40,
+                    "intentions_exprimees": 1203,
+                    "intentions": {
+                        "Xavier Bertrand": 47,
+                        "Emmanuel Macron": 53
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 42,
+                    "intentions_exprimees": 1163,
+                    "intentions": {
+                        "Valérie Pécresse": 43,
+                        "Emmanuel Macron": 57
+                    }
+                },
+                {
+                    "hypothese": "Jean-Luc Mélenchon vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 39,
+                    "intentions_exprimees": 1223,
+                    "intentions": {
+                        "Jean-Luc Mélenchon": 38,
+                        "Emmanuel Macron": 62
+                    }
+                }
+            ],
+            "reports": [
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen", "Éric Zemmour"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Éric Zemmour", "Non exprimés"],
+                    "reports": [
+                        [33, 10, 57],
+                        [45, 13, 42],
+                        [51, 7, 42],
+                        [96, 2, 2],
+                        [40, 23, 37],
+                        [10, 50, 40],
+                        [4, 96, 0]
+                    ]
+                },
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen", "Éric Zemmour"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Marine Le Pen", "Non exprimés"],
+                    "reports": [
+                        [28, 20, 52],
+                        [46, 14, 40],
+                        [54, 7, 39],
+                        [95, 3, 2],
+                        [37, 20, 43],
+                        [2, 93, 5],
+                        [10, 70, 20]
+                    ]
+                },
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen", "Éric Zemmour"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Xavier Bertrand", "Non exprimés"],
+                    "reports": [
+                        [23, 15, 62],
+                        [41, 16, 43],
+                        [45, 11, 44],
+                        [94, 3, 3],
+                        [3, 93, 4],
+                        [8, 30, 62],
+                        [13, 42, 45]
+                    ]
+                },
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Valérie Pécresse", "Marine Le Pen", "Éric Zemmour"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Valérie Pécresse", "Non exprimés"],
+                    "reports": [
+                        [23, 14, 63],
+                        [38, 17, 45],
+                        [43, 15, 42],
+                        [92, 5, 3],
+                        [3, 96, 1],
+                        [13, 28, 59],
+                        [11, 44, 45]
+                    ]
+                },
+                {
+                    "candidats_1er_tour": ["Jean-Luc Mélenchon", "Anne Hidalgo", "Yannick Jadot", "Emmanuel Macron", "Xavier Bertrand", "Marine Le Pen", "Éric Zemmour"],
+                    "candidats_2nd_tour": ["Emmanuel Macron", "Jean-Luc Mélenchon", "Non exprimés"],
+                    "reports": [
+                        [91, 4, 5],
+                        [30, 43, 27],
+                        [39, 36, 25],
+                        [4, 94, 2],
+                        [9, 44, 47],
+                        [26, 14, 60],
+                        [12, 28, 60]
+                    ]
+                }
+            ]
+        },
+
         "20211013_ifop":
         {
             "institut": "Ifop",
