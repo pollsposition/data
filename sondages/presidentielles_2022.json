@@ -1,6 +1,82 @@
 {
     "sondages": {
 
+        "20211108_Odoxa":
+        {
+            "institut": "Odoxa",
+            "commanditaires": ["Saegus", "L'Obs"],
+            "source": "http://www.odoxa.fr/sondage/les-francais-et-le-big-three-nadal-le-prefere-federer-le-meilleur/",
+            "date_debut": "2021-11-05",
+            "date_fin": "2021-11-08",
+            "methode": "internet",
+            "interroges": 2756,
+            "premier_tour": [
+                {
+                    "hypothese": "Xavier Bertrand candidat de la droite avec Éric Zemmour",
+                    "base": "SV",
+                    "nspp": 25,
+                    "intentions_exprimees": 1946,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 2,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 8.5,
+                        "Yannick Jadot": 6.5,
+                        "Arnaud Montebourg": 2,
+                        "Anne Hidalgo": 4.5,
+                        "Emmanuel Macron": 25,
+                        "Jean Lassalle": 1.5,
+                        "Xavier Bertrand": 12,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Marine Le Pen": 18,
+                        "Éric Zemmour": 14
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite avec Éric Zemmour",
+                    "base": "SV",
+                    "nspp": 26,
+                    "intentions_exprimees": 1917,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 2.5,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 8.5,
+                        "Yannick Jadot": 6.5,
+                        "Arnaud Montebourg": 2,
+                        "Anne Hidalgo": 5,
+                        "Emmanuel Macron": 25,
+                        "Jean Lassalle": 1.5,
+                        "Valérie Pécresse": 9,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Marine Le Pen": 18.5,
+                        "Éric Zemmour": 14.5
+                    }
+                },
+                {
+                    "hypothese": "Michel Barnier candidat de la droite avec Éric Zemmour",
+                    "base": "SV",
+                    "nspp": 25,
+                    "intentions_exprimees": 1932,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 2,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 9,
+                        "Yannick Jadot": 7,
+                        "Arnaud Montebourg": 2.5,
+                        "Anne Hidalgo": 5,
+                        "Emmanuel Macron": 25,
+                        "Jean Lassalle": 1,
+                        "Michel Barnier": 9,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Marine Le Pen": 19,
+                        "Éric Zemmour": 14.5
+                    }
+                }
+            ]
+        },
+
         "20211105_ifop":
         {
             "institut": "Ifop",
