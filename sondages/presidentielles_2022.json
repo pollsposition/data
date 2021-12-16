@@ -1,6 +1,60 @@
 {
     "sondages": {
 
+        "2021207_elabe":
+        {
+            "institut": "Elabe",
+            "commanditaires": ["L'Express", "BFM TV", "SFR"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9255-p-elabe-bfm.pdf",
+            "date_debut": "2021-12-07",
+            "date_fin": "2021-12-09",
+            "methode": "internet",
+            "interroges": 1354,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 13,
+                    "intentions_exprimees": 965,
+                    "intentions": {
+                        "Philippe Poutou": 2,
+                        "Nathalie Arthaud": 1,
+                        "Fabien Roussel": 1,
+                        "Jean-Luc Mélenchon": 8,
+                        "Anne Hidalgo": 3,
+                        "Arnaud Montebourg": 2,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 23,
+                        "Valérie Pécresse": 20,
+                        "Jean Lassalle": 2,
+                        "François Asselineau": 0,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Florian Philippot": 0,
+                        "Marine Le Pen": 15,
+                        "Éric Zemmour": 14,
+                        "Hélène Thouy": 0
+                    },
+                    "certitude": {
+                        "ensemble": 56
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese" : "Emmanuel Macron vs Valérie Pécresse",
+                    "base": "SV",
+                    "nspp": 32,
+                    "intentions_exprimees": 755,
+                    "intentions": {
+                        "Emmanuel Macron": 48,
+                        "Valérie Pécresse": 52
+                    },
+                    "certitude": {
+                        "ensemble": 56
+                    }
+                }
+            ]
+        },
+
         "20211124_elabe":
         {
             "institut": "Elabe",
@@ -6804,6 +6858,7 @@
         "Florian Philippot",
         "François Asselineau",
         "Éric Zemmour",
-        "Marine Le Pen"
+        "Marine Le Pen",
+        "Hélène Thouy"
     ]
 }
