@@ -233,6 +233,52 @@
             ]
         },
 
+        "20211206ifop":
+        {
+            "institut": "Ifop",
+            "commanditaires": ["LCI", "Le Figaor"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9254-p-ifop-le-figaro-v7.pdf",
+            "date_debut": "2021-12-04",
+            "date_fin": "2021-12-06",
+            "methode": "internet",
+            "interroges": 1341,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 24.2,
+                    "intentions_exprimees": 1016,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 0.5,
+                        "Fabien Roussel": 2.5,
+                        "Jean-Luc Mélenchon": 9,
+                        "Anne Hidalgo": 5,
+                        "Arnaud Montebourg": 1.5,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 25,
+                        "Valérie Pécresse": 17,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 13,
+                        "Jean Lassalle": 0.5
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 32.2,
+                    "intentions_exprimees": 909,
+                    "intentions": {
+                        "Marine Le Pen": 46,
+                        "Emmanuel Macron": 54
+                    }
+                }
+            ]
+        },
+
+
         "20211206_harris":
         {
             "institut": "Harris interactive",
