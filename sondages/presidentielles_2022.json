@@ -507,6 +507,53 @@
             ]
         },
 
+        "20211020_opinionway":
+        {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "C News",
+                "Radio classique"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/novembre/9243-presi-track-3-ow-les-echos.pdf",
+            "date_debut": "2021-11-15",
+            "date_fin": "2021-11-17",
+            "methode": "internet",
+            "interroges": 1454,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 18,
+                    "intentions_exprimees": 1192,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 9,
+                        "Arnaud Montebourg": 3,
+                        "Anne Hidalgo": 6,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 11,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Éric Zemmour": 12,
+                        "Marine Le Pen": 20
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 31,
+                    "intentions_exprimees": 1003,
+                    "intentions": {
+                        "Marine Le Pen": 44,
+                        "Emmanuel Macron": 56
+                    }
+                }
+            ]
+        },
 
         "20211115_harris":
         {
