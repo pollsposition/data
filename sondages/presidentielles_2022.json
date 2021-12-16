@@ -66,6 +66,50 @@
             ]
         },
 
+        "20211208_bva":
+        {
+            "institut": "BVA",
+            "commanditaires": ["Orange", "RTL"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9259-p-bva-rtl.pdf",
+            "date_debut": "2021-12-06",
+            "date_fin": "2021-12-08",
+            "methode": "internet",
+            "interroges": 1500,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 17,
+                    "intentions_exprimees": 894,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1.5,
+                        "Jean-Luc Mélenchon": 9,
+                        "Fabien Roussel": 2.5,
+                        "Arnaud Montebourg": 1,
+                        "Anne Hidalgo": 5,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 17,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Éric Zemmour": 13,
+                        "Marine Le Pen": 16,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 1
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 75,
+                            "Anne Hidalgo": 51,
+                            "Yannick Jadot": 48,
+                            "Emmanuel Macron": 73,
+                            "Valérie Pécresse": 60,
+                            "Éric Zemmour": 65,
+                            "Marine Le Pen": 74
+                        }
+                    }
+                }
+            ]
+        },
 
         "2021207_elabe":
         {
