@@ -1,6 +1,74 @@
 {
     "sondages": {
 
+        "20211213_harris":
+        {
+            "institut": "Harris interactive",
+            "commanditaires": ["Challenges"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9263-phi-challenges-v26.pdf",
+            "date_debut": "2021-12-10",
+            "date_fin": "2021-12-13",
+            "methode": "internet",
+            "interroges": 2159,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 12,
+                    "intentions_exprimees": 1899,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 11,
+                        "Arnaud Montebourg": 1,
+                        "Anne Hidalgo": 4,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 17,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Florian Philippot": 0,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 15,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 31,
+                    "intentions_exprimees": 1489,
+                    "intentions": {
+                        "Éric Zemmour": 38,
+                        "Emmanuel Macron": 62
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 29,
+                    "intentions_exprimees": 1532,
+                    "intentions": {
+                        "Marine Le Pen": 44,
+                        "Emmanuel Macron": 56
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 35,
+                    "intentions_exprimees": 1403,
+                    "intentions": {
+                        "Valérie Pécresse": 49,
+                        "Emmanuel Macron": 51
+                    }
+                }
+            ]
+        },
+
+
         "2021210_Odoxa":
         {
             "institut": "Odoxa",
