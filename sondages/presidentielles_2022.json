@@ -1,6 +1,59 @@
 {
     "sondages": {
 
+        "20211124_elabe":
+        {
+            "institut": "Elabe",
+            "commanditaires": ["L'Express", "BFM TV", "SFR"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/novembre/9247-p-elabe-bfmtv.pdf",
+            "date_debut": "2021-11-23",
+            "date_fin": "2021-11-24",
+            "methode": "internet",
+            "interroges": 1350,
+            "premier_tour": [
+                {
+                    "hypothese": "Valérie Pécresse candidate de la droite",
+                    "base": "SV",
+                    "nspp": 13,
+                    "intentions_exprimees": 927,
+                    "intentions": {
+                        "Philippe Poutou": 2,
+                        "Nathalie Arthaud": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 9,
+                        "Anne Hidalgo": 4,
+                        "Arnaud Montebourg": 2,
+                        "Yannick Jadot": 8,
+                        "Emmanuel Macron": 25,
+                        "Valérie Pécresse": 9,
+                        "Jean Lassalle": 1,
+                        "François Asselineau": 1,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Jean-Frédéric Poisson": 0,
+                        "Florian Philippot": 0,
+                        "Marine Le Pen": 20,
+                        "Éric Zemmour": 13
+                    },
+                    "certitude": {
+                        "ensemble": 66
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese" : "Emmanuel Macron vs Marine Le Pen",
+                    "base": "SV",
+                    "nspp": 26,
+                    "intentions_exprimees": 789,
+                    "intentions": {
+                        "Emmanuel Macron": 55,
+                        "Marine Le Pen": 45
+                    }
+                }
+            ]
+        },
+
+
         "20211111_elabe":
         {
             "institut": "Elabe",
