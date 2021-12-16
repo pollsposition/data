@@ -1,6 +1,72 @@
 {
     "sondages": {
 
+        "2021210_Odoxa":
+        {
+            "institut": "Odoxa",
+            "commanditaires": ["Mascaret", "L'Obs"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9260-p-odoxa-l-obs.pdf",
+            "date_debut": "2021-12-07",
+            "date_fin": "2021-12-09",
+            "methode": "internet",
+            "interroges": 1815,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 19,
+                    "intentions_exprimees": 1391,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1.5,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 10,
+                        "Yannick Jadot": 6,
+                        "Arnaud Montebourg": 1,
+                        "Anne Hidalgo": 3,
+                        "Emmanuel Macron": 24,
+                        "Jean Lassalle": 1,
+                        "Valérie Pécresse": 19,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 12
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 37,
+                    "intentions_exprimees": 1225,
+                    "intentions": {
+                        "Emmanuel Macron": 51,
+                        "Valérie Pécresse": 49
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Emmanuel Macron": 83,
+                            "Valérie Pécresse": 82
+                        }
+                    }
+                },
+                {
+                    "base": "SV",
+                    "nspp": 27,
+                    "intentions_exprimees": 1090,
+                    "intentions": {
+                        "Emmanuel Macron": 58,
+                        "Marine Le Pen": 42
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Emmanuel Macron": 92,
+                            "Valérie Pécresse": 91
+                        }
+                    }
+                }
+            ]
+        },
+
+
         "2021207_elabe":
         {
             "institut": "Elabe",
