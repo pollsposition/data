@@ -377,6 +377,50 @@
             ]
         },
 
+        "20211125_ifop":
+        {
+            "institut": "Ifop",
+            "commanditaires": ["Jdd", "Sud Radio"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/novembre/9249-p-ifop-jdd.pdf",
+            "date_debut": "2021-11-23",
+            "date_fin": "2021-11-25",
+            "methode": "internet",
+            "interroges": 1351,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 25.7,
+                    "intentions_exprimees": 1003,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 8.5,
+                        "Anne Hidalgo": 6,
+                        "Arnaud Montebourg": 2,
+                        "Yannick Jadot": 6.5,
+                        "Emmanuel Macron": 25,
+                        "Valérie Pécresse": 10,
+                        "Nicolas Dupont-Aignan": 4,
+                        "Marine Le Pen": 19.5,
+                        "Éric Zemmour": 15,
+                        "Jean Lassalle": 0
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 32.1,
+                    "intentions_exprimees": 917,
+                    "intentions": {
+                        "Marine Le Pen": 46,
+                        "Emmanuel Macron": 54
+                    }
+                }
+            ]
+        },
 
         "20211124_elabe":
         {
