@@ -134,6 +134,38 @@
             ]
         },
 
+        "20211208_ipsos": {
+            "institut": "Ipsos",
+            "commanditaires": ["Le Parisien", "France Info"],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9256-p-ipsos-le-parisien-8-12.pdf",
+            "date_debut": "2021-12-04",
+            "date_fin": "2021-12-06",
+            "methode": "internet",
+            "interroges": 1500,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 6,
+                    "intentions_exprimees": 746,
+                    "intentions": {
+                        "Philippe Poutou": 1.5,
+                        "Nathalie Arthaud": 0.5,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 2,
+                        "Arnaud Montebourg": 2.5,
+                        "Yannick Jadot": 7,
+                        "Anne Hidalgo": 5,
+                        "Emmanuel Macron": 25,
+                        "Valérie Pécresse": 16,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 14
+                    }
+                }
+            ]
+        },
+
         "20211208_bva":
         {
             "institut": "BVA",
@@ -277,7 +309,6 @@
                 }
             ]
         },
-
 
         "20211206_harris":
         {
