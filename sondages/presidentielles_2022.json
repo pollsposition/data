@@ -3,6 +3,7 @@
 
         "20220112_harris": {
             "institut": "Harris interactive",
+            "commanditaires": ["Challenges"],
             "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9288-harris-interactive-challenges-v28.pdf",
             "date_debut": "2022-01-07",
             "date_fin": "2022-01-10",
@@ -92,6 +93,7 @@
                         "Yannick Jadot": 7,
                         "Emmanuel Macron": 25,
                         "Valérie Pécresse": 16,
+                        "Jean Lassalle": 2,
                         "Nicolas Dupont-Aignan": 2,
                         "Éric Zemmour": 12,
                         "Marine Le Pen": 18
@@ -151,7 +153,8 @@
                         "Nicolas Dupont-Aignan": 2,
                         "Marine Le Pen": 16.5,
                         "Éric Zemmour": 13.5,
-                        "Jean Lassalle": 1
+                        "Jean Lassalle": 1,
+                        "Hélène Thouy": 0.5
                     }
                 },
                 {
@@ -201,8 +204,8 @@
             ]
         },
 
-        "20220112_Odoxa": {
-            "institut": "Odoxa",
+        "20220112_elabe": {
+            "institut": "Elabe",
             "commanditaires": [
                 "BFMTV",
                 "L’Express",
@@ -232,7 +235,9 @@
                         "Valérie Pécresse": 17,
                         "Nicolas Dupont-Aignan": 1.5,
                         "Marine Le Pen": 17,
-                        "Éric Zemmour": 13
+                        "Éric Zemmour": 13,
+                        "Florian Philippot": 1,
+                        "Hélène Thouy": 0.5
                     }
                 },
                 {
@@ -254,7 +259,9 @@
                         "Valérie Pécresse": 16,
                         "Nicolas Dupont-Aignan": 2,
                         "Marine Le Pen": 16.5,
-                        "Éric Zemmour": 12.5
+                        "Éric Zemmour": 13,
+                        "Florian Philippot": 1,
+                        "Hélène Thouy": 0.5
                     }
                 }
             ],
@@ -316,6 +323,7 @@
                         "Emmanuel Macron": 25,
                         "Valérie Pécresse": 16,
                         "Nicolas Dupont-Aignan": 2,
+                        "Jean Lassalle": 2,
                         "Éric Zemmour": 12,
                         "Marine Le Pen": 17
                     }
@@ -371,6 +379,7 @@
                         "Yannick Jadot": 7,
                         "Emmanuel Macron": 25,
                         "Valérie Pécresse": 17,
+                        "Jean Lassalle": 1,
                         "Nicolas Dupont-Aignan": 2,
                         "Éric Zemmour": 12,
                         "Marine Le Pen": 17
@@ -432,7 +441,8 @@
                         "Nicolas Dupont-Aignan": 2,
                         "Marine Le Pen": 17.5,
                         "Éric Zemmour": 12.5,
-                        "Jean Lassalle": 1
+                        "Jean Lassalle": 1,
+                        "Hélène Thouy": 0.5
                     }
                 },
                 {
@@ -454,7 +464,8 @@
                         "Nicolas Dupont-Aignan": 2,
                         "Marine Le Pen": 17,
                         "Éric Zemmour": 12.5,
-                        "Jean Lassalle": 1
+                        "Jean Lassalle": 1,
+                        "Hélène Thouy": 0.5
                     }
                 }
             ],
@@ -629,15 +640,17 @@
                         "Philippe Poutou": 1.5,
                         "Fabien Roussel": 2,
                         "Jean-Luc Mélenchon": 12.5,
-                        "Anne Hidalgo": 2,
                         "Arnaud Montebourg": 0.5,
+                        "Anne Hidalgo": 2,
                         "Christiane Taubira": 5.5,
                         "Yannick Jadot": 4.5,
                         "Emmanuel Macron": 23,
                         "Valérie Pécresse": 14,
+                        "Florian Philippot": 1.5,
                         "Nicolas Dupont-Aignan": 2,
                         "Marine Le Pen": 15,
                         "Éric Zemmour": 13.5,
+                        "François Asselineau": 1,
                         "Jean Lassalle": 1
                     }
                 }
@@ -8191,6 +8204,7 @@
         "François Asselineau",
         "Éric Zemmour",
         "Marine Le Pen",
-        "Hélène Thouy"
+        "Hélène Thouy",
+        "Christiane Taubira"
     ]
 }
