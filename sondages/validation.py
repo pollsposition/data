@@ -6,7 +6,10 @@ from typing import Dict, List, Optional, Union
 from pydantic import BaseModel, PositiveInt, ValidationError, confloat, validator
 
 
-POLLS_FILES = ["sondages/presidentielles_2022.json", "sondages/presidentielles_2017.json"]
+POLLS_FILES = [
+    "sondages/presidentielles_2022.json",
+    "sondages/presidentielles_2017.json",
+]
 
 
 class Method(str, Enum):
@@ -23,6 +26,7 @@ class Pollster(str, Enum):
     kantar = "Kantar"
     odoxa = "Odoxa"
     opinionway = "Opinionway"
+    cluter17 = "Cluster 17"
 
 
 class Base(str, Enum):
