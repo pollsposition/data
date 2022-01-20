@@ -38,6 +38,13 @@ Pour contribuer:
 
 Ne pas hésitez à commenter dans l'issue relative aux spécifications si quelque chose n'est pas clair ou s'il y a un problème.
 
+Le dépôt contient des scripts de validations qui sont exécutés chaque fois qu'une PR est ouverte. Pour valider les données localement exécutez:
+
+``` python
+pip install -r requirements.txt
+pre-commit run --all
+```
+
 ## Nous contacter
 
 Vous pouvez nous contacter sur [Twitter](https://twitter.com/pollsposition).
