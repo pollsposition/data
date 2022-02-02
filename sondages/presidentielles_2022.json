@@ -1,6 +1,1274 @@
 {
     "sondages": {
 
+        "20220202_elabe": {
+            "institut": "Elabe",
+            "commanditaires": [
+                "BFMTV",
+                "L’Express",
+                "SFR"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/fevrier/9331-p-elabe-bfm-2-fevrier.pdf",
+            "date_debut": "2022-01-31",
+            "date_fin": "2022-02-02",
+            "methode": "internet",
+            "interroges": 1357,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 10,
+                    "intentions_exprimees": 1001,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 0.5,
+                        "Fabien Roussel": 2.5,
+                        "Jean-Luc Mélenchon": 9.5,
+                        "Yannick Jadot": 4.5,
+                        "Christiane Taubira": 6,
+                        "Anne Hidalgo": 2,
+                        "Emmanuel Macron": 25,
+                        "Jean Lassalle": 1,
+                        "Valérie Pécresse": 16,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Marine Le Pen": 16.5,
+                        "Éric Zemmour": 12.5,
+                        "Florian Philippot": 0.5,
+                        "Hélène Thouy": 0.5
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 34,
+                    "intentions_exprimees": 734,
+                    "intentions": {
+                        "Emmanuel Macron": 55.5,
+                        "Valérie Pécresse": 44.5
+                    }
+                },
+                {
+                    "base": "SV",
+                    "nspp": 22,
+                    "intentions_exprimees": 868,
+                    "intentions": {
+                        "Emmanuel Macron": 56,
+                        "Marine Le Pen": 44
+                    }
+                },
+                {
+                    "base": "SV",
+                    "nspp": 29,
+                    "intentions_exprimees": 647,
+                    "intentions": {
+                        "Emmanuel Macron": 64.5,
+                        "Eric Zemmour": 35.5
+                    }
+                }
+            ]
+        },
+
+        "20220201_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "Radio classique"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/fevrier/9327-ow-les-echos-le-1er-fevrier.pdf",
+            "date_debut": "2022-01-29",
+            "date_fin": "2022-02-01",
+            "methode": "internet",
+            "interroges": 1666,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 14,
+                    "intentions_exprimees": 1433,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 0,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 10,
+                        "Christiane Taubira": 5,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 16,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Éric Zemmour": 14,
+                        "Marine Le Pen": 17
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 30,
+                    "intentions_exprimees": 1666,
+                    "intentions": {
+                        "Marine Le Pen": 44,
+                        "Emmanuel Macron": 56
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 39,
+                    "intentions_exprimees": 1016,
+                    "intentions": {
+                        "Valérie Pécresse": 48,
+                        "Emmanuel Macron": 52
+                    }
+                }
+            ]
+        },
+
+        "20220131_harris": {
+            "institut": "Harris interactive",
+            "commanditaires": [
+                "Challenges"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/fevrier/9329-hi-challenges-v31.pdf",
+            "date_debut": "2022-01-28",
+            "date_fin": "2022-01-31",
+            "methode": "internet",
+            "interroges": 2141,
+            "premier_tour": [
+                {
+                    "hypothese": "Avec Taubira",
+                    "base": "I",
+                    "nspp": 13,
+                    "intentions_exprimees": 1863,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 11,
+                        "Christiane Taubira": 5,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 15,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Florian Philippot": 0,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 14,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 32,
+                    "intentions_exprimees": 1456,
+                    "intentions": {
+                        "Éric Zemmour": 38,
+                        "Emmanuel Macron": 62
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 26,
+                    "intentions_exprimees": 1585,
+                    "intentions": {
+                        "Marine Le Pen": 45,
+                        "Emmanuel Macron": 55
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 37,
+                    "intentions_exprimees": 1349,
+                    "intentions": {
+                        "Valérie Pécresse": 46,
+                        "Emmanuel Macron": 54
+                    }
+                }
+            ]
+        },
+
+        "20220131_ifop": {
+            "institut": "Ifop",
+            "commanditaires": [
+                "Paris Match",
+                "LCI",
+                "Sud Radio"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9326-rdp-ifop-pm-31-janvier.pdf",
+            "date_debut": "2022-01-28",
+            "date_fin": "2022-01-31",
+            "methode": "internet",
+            "interroges": 1342,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 27,
+                    "intentions_exprimees": 979,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 0.5,
+                        "Fabien Roussel": 3.5,
+                        "Jean-Luc Mélenchon": 9.5,
+                        "Anne Hidalgo": 3.5,
+                        "Christiane Taubira": 4,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 16.5,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 17.5,
+                        "Éric Zemmour": 13.5,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 45,
+                    "intentions_exprimees": 739,
+                    "intentions": {
+                        "Emmanuel Macron": 54,
+                        "Valérie Pécresse": 46
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 35,
+                    "intentions_exprimees": 885,
+                    "intentions": {
+                        "Emmanuel Macron": 55,
+                        "Marine Le Pen": 45
+                    }
+                }
+            ]
+        },
+
+        "20220127_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Cnews"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9324-p-opinionway-cnews-vague-2.pdf",
+            "date_debut": "2022-01-26",
+            "date_fin": "2022-01-27",
+            "methode": "internet",
+            "interroges": 988,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 16,
+                    "intentions_exprimees": 830,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 9,
+                        "Christiane Taubira": 5,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 18,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 1,
+                        "Éric Zemmour": 13,
+                        "Marine Le Pen": 17
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 30,
+                    "intentions_exprimees": 692,
+                    "intentions": {
+                        "Marine Le Pen": 43,
+                        "Emmanuel Macron": 57
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 39,
+                    "intentions_exprimees": 603,
+                    "intentions": {
+                        "Valérie Pécresse": 48,
+                        "Emmanuel Macron": 52
+                    }
+                }
+            ]
+        },
+
+        "20220129_cluster17": {
+            "institut": "Cluster 17",
+            "commanditaires": [
+                "Marianne"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/fevrier/9330-p-cluster-17-marianne.pdf",
+            "date_debut": "2022-01-25",
+            "date_fin": "2022-01-29",
+            "methode": "internet",
+            "interroges": 2055,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 3,
+                    "intentions_exprimees": 1997,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 13,
+                        "Anne Hidalgo": 2,
+                        "Christiane Taubira": 6,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 22.5,
+                        "Valérie Pécresse": 14,
+                        "Florian Philippot": 1.5,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 14.5,
+                        "Éric Zemmour": 14.5,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ]
+        },
+
+        "20220128_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "Radio classique"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9323-ow-kea-les-echos-radio-classique-28-janv.pdf",
+            "date_debut": "2022-01-25",
+            "date_fin": "2022-01-28",
+            "methode": "internet",
+            "interroges": 1568,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 14,
+                    "intentions_exprimees": 1348,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 9,
+                        "Christiane Taubira": 5,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 17,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Éric Zemmour": 13,
+                        "Marine Le Pen": 17
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 29,
+                    "intentions_exprimees": 1113,
+                    "intentions": {
+                        "Marine Le Pen": 44,
+                        "Emmanuel Macron": 56
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 38,
+                    "intentions_exprimees": 972,
+                    "intentions": {
+                        "Valérie Pécresse": 47,
+                        "Emmanuel Macron": 53
+                    }
+                }
+            ]
+        },
+
+        "20220126_bva": {
+            "institut": "BVA",
+            "commanditaires": [
+                "Orange",
+                "RTL"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9321-p-bva-orange.pdf",
+            "date_debut": "2022-01-24",
+            "date_fin": "2022-01-26",
+            "methode": "internet",
+            "interroges": 1503,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 14,
+                    "intentions_exprimees": 910,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 0.5,
+                        "Jean-Luc Mélenchon": 10,
+                        "Fabien Roussel": 3,
+                        "Christiane Taubira": 4,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 16,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Éric Zemmour": 12.5,
+                        "Marine Le Pen": 18,
+                        "François Asselineau": 0.5,
+                        "Jean Lassalle": 0.5
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 65,
+                            "Yannick Jadot": 44,
+                            "Emmanuel Macron": 78,
+                            "Valérie Pécresse": 57,
+                            "Éric Zemmour": 77,
+                            "Marine Le Pen": 77
+                        }
+                    }
+                }
+            ]
+        },
+
+        "20220126_elabe": {
+            "institut": "Elabe",
+            "commanditaires": [
+                "BFMTV",
+                "L’Express",
+                "SFR"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9316-p-elabe-bfm.pdf",
+            "date_debut": "2022-01-24",
+            "date_fin": "2022-01-26",
+            "methode": "internet",
+            "interroges": 1397,
+            "premier_tour": [
+                {
+                    "hypothese": "Sans Taubira",
+                    "base": "SV",
+                    "nspp": 12,
+                    "intentions_exprimees": 1008,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 0,
+                        "Fabien Roussel": 2.5,
+                        "Jean-Luc Mélenchon": 9,
+                        "Yannick Jadot": 7,
+                        "Anne Hidalgo": 2.5,
+                        "Emmanuel Macron": 23,
+                        "Jean Lassalle": 2,
+                        "Valérie Pécresse": 17,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 13,
+                        "Florian Philippot": 1,
+                        "Hélène Thouy": 0.5
+                    }
+                },
+                {
+                    "hypothese": "Avec Taubira",
+                    "base": "SV",
+                    "nspp": 11,
+                    "intentions_exprimees": 1019,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2.5,
+                        "Jean-Luc Mélenchon": 9,
+                        "Yannick Jadot": 5.5,
+                        "Christiane Taubira": 5,
+                        "Anne Hidalgo": 2.5,
+                        "Emmanuel Macron": 24,
+                        "Jean Lassalle": 2,
+                        "Valérie Pécresse": 17,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 16.5,
+                        "Éric Zemmour": 11.5,
+                        "Florian Philippot": 0.5,
+                        "Hélène Thouy": 0.5
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 33,
+                    "intentions_exprimees": 768,
+                    "intentions": {
+                        "Emmanuel Macron": 52,
+                        "Valérie Pécresse": 48
+                    }
+                },
+                {
+                    "base": "SV",
+                    "nspp": 24,
+                    "intentions_exprimees": 871,
+                    "intentions": {
+                        "Emmanuel Macron": 54.5,
+                        "Marine Le Pen": 45.5
+                    }
+                }
+            ]
+        },
+
+        "20220126_ifop": {
+            "institut": "Ifop",
+            "commanditaires": [
+                "Paris Match",
+                "LCI",
+                "Sud Radio"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9314-rdp-ifop-pm-lci-sud-radio.pdf",
+            "date_debut": "2022-01-22",
+            "date_fin": "2022-01-26",
+            "methode": "internet",
+            "interroges": 1358,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 24,
+                    "intentions_exprimees": 1034,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 0.5,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 9,
+                        "Anne Hidalgo": 3,
+                        "Christiane Taubira": 3.5,
+                        "Yannick Jadot": 5.5,
+                        "Emmanuel Macron": 24.5,
+                        "Valérie Pécresse": 16,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 18.5,
+                        "Éric Zemmour": 13,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 44,
+                    "intentions_exprimees": 770,
+                    "intentions": {
+                        "Emmanuel Macron": 54.5,
+                        "Valérie Pécresse": 45.5
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 33,
+                    "intentions_exprimees": 909,
+                    "intentions": {
+                        "Emmanuel Macron": 56.5,
+                        "Marine Le Pen": 43.5
+                    }
+                }
+            ]
+        },
+
+        "20220124_harris": {
+            "institut": "Harris interactive",
+            "commanditaires": [
+                "Challenges"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9312-hi-p-challenges-v30.pdf",
+            "date_debut": "2022-01-21",
+            "date_fin": "2022-01-24",
+            "methode": "internet",
+            "interroges": 2037,
+            "premier_tour": [
+                {
+                    "hypothese": "Sans Taubira",
+                    "base": "I",
+                    "nspp": 14,
+                    "intentions_exprimees": 1752,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 4,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 25,
+                        "Valérie Pécresse": 15,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 14,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 1
+                    }
+                },
+                {
+                    "hypothese": "Avec Taubira",
+                    "base": "I",
+                    "nspp": 14,
+                    "intentions_exprimees": 1752,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 10,
+                        "Christiane Taubira": 5,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 15,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 14,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 32,
+                    "intentions_exprimees": 1385,
+                    "intentions": {
+                        "Éric Zemmour": 37,
+                        "Emmanuel Macron": 63
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 26,
+                    "intentions_exprimees": 1507,
+                    "intentions": {
+                        "Marine Le Pen": 46,
+                        "Emmanuel Macron": 54
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 37,
+                    "intentions_exprimees": 1283,
+                    "intentions": {
+                        "Valérie Pécresse": 46,
+                        "Emmanuel Macron": 54
+                    }
+                }
+            ]
+        },
+
+        "20220124_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "Radio classique"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9311-rpw-opinionway-kea-les-echos-24janv.pdf",
+            "date_debut": "2022-01-21",
+            "date_fin": "2022-01-24",
+            "methode": "internet",
+            "interroges": 1650,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 15,
+                    "intentions_exprimees": 1402,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 9,
+                        "Christiane Taubira": 5,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 25,
+                        "Valérie Pécresse": 18,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 1,
+                        "Éric Zemmour": 16,
+                        "Marine Le Pen": 17
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 28,
+                    "intentions_exprimees": 1188,
+                    "intentions": {
+                        "Marine Le Pen": 43,
+                        "Emmanuel Macron": 57
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 37,
+                    "intentions_exprimees": 1039,
+                    "intentions": {
+                        "Valérie Pécresse": 46,
+                        "Emmanuel Macron": 54
+                    }
+                }
+            ]
+        },
+
+        "20220121_ifop": {
+            "institut": "Ifop",
+            "commanditaires": [
+                "Paris Match",
+                "LCI",
+                "Sud Radio"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9306-rdp-ifop-pm.pdf",
+            "date_debut": "2022-01-18",
+            "date_fin": "2022-01-21",
+            "methode": "internet",
+            "interroges": 1386,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 20.3,
+                    "intentions_exprimees": 1104,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 0.5,
+                        "Fabien Roussel": 2.5,
+                        "Jean-Luc Mélenchon": 10,
+                        "Anne Hidalgo": 3,
+                        "Christiane Taubira": 3,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 25.5,
+                        "Valérie Pécresse": 16.5,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 17.5,
+                        "Éric Zemmour": 12,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 38.1,
+                    "intentions_exprimees": 858,
+                    "intentions": {
+                        "Emmanuel Macron": 55,
+                        "Valérie Pécresse": 45
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 26.6,
+                    "intentions_exprimees": 1018,
+                    "intentions": {
+                        "Emmanuel Macron": 55.5,
+                        "Marine Le Pen": 44.5
+                    }
+                }
+            ]
+        },
+
+        "20220121_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Cnews"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9307-p-ow-cnews.pdf",
+            "date_debut": "2022-01-19",
+            "date_fin": "2022-01-20",
+            "methode": "internet",
+            "interroges": 1011,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 14,
+                    "intentions_exprimees": 869,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 9,
+                        "Christiane Taubira": 5,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 18,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 1,
+                        "Éric Zemmour": 13,
+                        "Marine Le Pen": 18
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 29,
+                    "intentions_exprimees": 718,
+                    "intentions": {
+                        "Marine Le Pen": 44,
+                        "Emmanuel Macron": 56
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 40,
+                    "intentions_exprimees": 607,
+                    "intentions": {
+                        "Valérie Pécresse": 47,
+                        "Emmanuel Macron": 53
+                    }
+                }
+            ]
+        },
+
+        "20220122_cluster17": {
+            "institut": "Cluster 17",
+            "commanditaires": [
+                "Marianne"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9318-p-cluster-17-marianne.pdf",
+            "date_debut": "2022-01-18",
+            "date_fin": "2022-01-22",
+            "methode": "internet",
+            "interroges": 2634,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 3.5,
+                    "intentions_exprimees": 2548,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 13,
+                        "Arnaud Montebourg": 0.5,
+                        "Anne Hidalgo": 2,
+                        "Christiane Taubira": 6,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 22,
+                        "Valérie Pécresse": 14,
+                        "Florian Philippot": 1.5,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 15,
+                        "Éric Zemmour": 14,
+                        "François Asselineau": 1.5,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ]
+        },
+
+        "20220120_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "Radio classique"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9305-rpw-opinionway-kea-partners-radio-classique-20-janvier.pdf",
+            "date_debut": "2022-01-17",
+            "date_fin": "2022-01-20",
+            "methode": "internet",
+            "interroges": 1603,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 14,
+                    "intentions_exprimees": 1379,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 9,
+                        "Christiane Taubira": 6,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 18,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 1,
+                        "Éric Zemmour": 13,
+                        "Marine Le Pen": 17
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 27,
+                    "intentions_exprimees": 1170,
+                    "intentions": {
+                        "Marine Le Pen": 43,
+                        "Emmanuel Macron": 57
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 38,
+                    "intentions_exprimees": 994,
+                    "intentions": {
+                        "Valérie Pécresse": 47,
+                        "Emmanuel Macron": 53
+                    }
+                }
+            ]
+        },
+
+        "20220117_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "Radio classique"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9297-rpw-opinionway-kea-les-echos-radio-classique-17-janvier.pdf",
+            "date_debut": "2022-01-15",
+            "date_fin": "2022-01-17",
+            "methode": "internet",
+            "interroges": 1093,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 15,
+                    "intentions_exprimees": 929,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 10,
+                        "Christiane Taubira": 4,
+                        "Arnaud Montebourg": 1,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 18,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 1,
+                        "Éric Zemmour": 11,
+                        "Marine Le Pen": 18
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 29,
+                    "intentions_exprimees": 776,
+                    "intentions": {
+                        "Marine Le Pen": 44,
+                        "Emmanuel Macron": 56
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 39,
+                    "intentions_exprimees": 666,
+                    "intentions": {
+                        "Valérie Pécresse": 46,
+                        "Emmanuel Macron": 54
+                    }
+                }
+            ]
+        },
+
+        "20220117_harris": {
+            "institut": "Harris interactive",
+            "commanditaires": [
+                "Challenges"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9298-p-hi-challenges.pdf",
+            "date_debut": "2022-01-14",
+            "date_fin": "2022-01-17",
+            "methode": "internet",
+            "interroges": 2131,
+            "premier_tour": [
+                {
+                    "hypothese": "Sans Taubira",
+                    "base": "I",
+                    "nspp": 14,
+                    "intentions_exprimees": 1832,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 11,
+                        "Arnaud Montebourg": 1,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 7,
+                        "Emmanuel Macron": 26,
+                        "Valérie Pécresse": 16,
+                        "Nicolas Dupont-Aignan": 1,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 14,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    }
+                },
+                {
+                    "hypothese": "Avec Taubira",
+                    "base": "I",
+                    "nspp": 15,
+                    "intentions_exprimees": 1811,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 0,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 10,
+                        "Christiane Taubira": 4,
+                        "Arnaud Montebourg": 1,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 26,
+                        "Valérie Pécresse": 16,
+                        "Nicolas Dupont-Aignan": 1,
+                        "Florian Philippot": 1,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 14,
+                        "François Asselineau": 0,
+                        "Jean Lassalle": 0
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 32,
+                    "intentions_exprimees": 1449,
+                    "intentions": {
+                        "Éric Zemmour": 37,
+                        "Emmanuel Macron": 63
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 29,
+                    "intentions_exprimees": 1513,
+                    "intentions": {
+                        "Marine Le Pen": 45,
+                        "Emmanuel Macron": 55
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 37,
+                    "intentions_exprimees": 1342,
+                    "intentions": {
+                        "Valérie Pécresse": 46,
+                        "Emmanuel Macron": 54
+                    }
+                }
+            ]
+        },
+
+        "20220117_ipsos": {
+            "institut": "Ipsos",
+            "commanditaires": [
+                "Le Monde",
+                "Cevipof",
+                "Fondation Jean Jaurès"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9303-p-ipsos-le-monde-fjj-cevipof-janvier-2022.pdf",
+            "date_debut": "2022-01-14",
+            "date_fin": "2022-01-17",
+            "methode": "internet",
+            "interroges": 12542,
+            "premier_tour": [
+                {
+                    "hypothese": "Sans Taubira",
+                    "base": "SV",
+                    "nspp": 5,
+                    "intentions_exprimees": 7903,
+                    "intentions": {
+                        "Philippe Poutou": 1.5,
+                        "Nathalie Arthaud": 0.5,
+                        "Jean-Luc Mélenchon": 8.5,
+                        "Fabien Roussel": 2.5,
+                        "Arnaud Montebourg": 1.5,
+                        "Yannick Jadot": 8.5,
+                        "Anne Hidalgo": 4.5,
+                        "Emmanuel Macron": 25.5,
+                        "Valérie Pécresse": 15.5,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 15.5,
+                        "Éric Zemmour": 13
+                    }
+                },
+                {
+                    "hypothese": "Avec Taubira",
+                    "base": "SV",
+                    "nspp": 4,
+                    "intentions_exprimees": 7880,
+                    "intentions": {
+                        "Philippe Poutou": 1.5,
+                        "Nathalie Arthaud": 0.5,
+                        "Jean-Luc Mélenchon": 8,
+                        "Fabien Roussel": 2.5,
+                        "Yannick Jadot": 7,
+                        "Anne Hidalgo": 3.5,
+                        "Christiane Taubira": 5,
+                        "Emmanuel Macron": 25,
+                        "Valérie Pécresse": 15.5,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 15.5,
+                        "Éric Zemmour": 13
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 32,
+                    "intentions_exprimees": 5849,
+                    "intentions": {
+                        "Emmanuel Macron": 54,
+                        "Valérie Pécresse": 46
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 20,
+                    "intentions_exprimees": 6585,
+                    "intentions": {
+                        "Emmanuel Macron": 57,
+                        "Marine Le Pen": 43
+                    }
+                }
+            ]
+        },
+
+        "20220117_ifop": {
+            "institut": "Ifop",
+            "commanditaires": [
+                "Paris Match",
+                "LCI",
+                "Sud Radio"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9296-rdp-ifop-pm.pdf",
+            "date_debut": "2022-01-13",
+            "date_fin": "2022-01-17",
+            "methode": "internet",
+            "interroges": 1394,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 25.4,
+                    "intentions_exprimees": 1040,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 9,
+                        "Anne Hidalgo": 3,
+                        "Arnaud Montebourg": 1,
+                        "Christiane Taubira": 4,
+                        "Yannick Jadot": 5.5,
+                        "Emmanuel Macron": 24.5,
+                        "Valérie Pécresse": 16.5,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 12.5,
+                        "Jean Lassalle": 1.5
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 41.5,
+                    "intentions_exprimees": 816,
+                    "intentions": {
+                        "Emmanuel Macron": 53,
+                        "Valérie Pécresse": 47
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 31.4,
+                    "intentions_exprimees": 955,
+                    "intentions": {
+                        "Emmanuel Macron": 55.5,
+                        "Marine Le Pen": 44.5
+                    }
+                }
+            ]
+        },
+
+        "20220115_cluster17": {
+            "institut": "Cluster 17",
+            "commanditaires": [
+                "Marianne"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9299-p-cluster-marianne.pdf",
+            "date_debut": "2022-01-11",
+            "date_fin": "2022-01-15",
+            "methode": "internet",
+            "interroges": 2646,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 3.5,
+                    "intentions_exprimees": 2558,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1.5,
+                        "Fabien Roussel": 2,
+                        "Jean-Luc Mélenchon": 12.5,
+                        "Arnaud Montebourg": 1,
+                        "Anne Hidalgo": 2,
+                        "Christiane Taubira": 5.5,
+                        "Yannick Jadot": 4.5,
+                        "Emmanuel Macron": 22.5,
+                        "Valérie Pécresse": 13,
+                        "Florian Philippot": 1.5,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Marine Le Pen": 14.5,
+                        "Éric Zemmour": 14,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1.5
+                    }
+                }
+            ]
+        },
+
         "20220112_harris": {
             "institut": "Harris interactive",
             "commanditaires": ["Challenges"],
@@ -540,7 +1808,7 @@
             ]
         },
 
-        "20211206_ipsos": {
+        "20220106_ipsos": {
             "institut": "Ipsos",
             "commanditaires": [
                 "Le Parisien",
