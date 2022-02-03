@@ -62,7 +62,7 @@
                     "intentions_exprimees": 647,
                     "intentions": {
                         "Emmanuel Macron": 64.5,
-                        "Eric Zemmour": 35.5
+                        "Éric Zemmour": 35.5
                     }
                 }
             ]
@@ -324,7 +324,7 @@
                     "nspp": 3,
                     "intentions_exprimees": 1997,
                     "intentions": {
-                        "Nathalie Arthaud": 0,
+                        "Nathalie Arthaud": 0.5,
                         "Philippe Poutou": 1,
                         "Fabien Roussel": 2,
                         "Jean-Luc Mélenchon": 13,
@@ -466,18 +466,18 @@
                     "nspp": 12,
                     "intentions_exprimees": 1008,
                     "intentions": {
-                        "Nathalie Arthaud": 1,
-                        "Philippe Poutou": 0,
-                        "Fabien Roussel": 2.5,
-                        "Jean-Luc Mélenchon": 9,
-                        "Yannick Jadot": 7,
-                        "Anne Hidalgo": 2.5,
-                        "Emmanuel Macron": 23,
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1.5,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 10,
+                        "Yannick Jadot": 6.5,
+                        "Anne Hidalgo": 3,
+                        "Emmanuel Macron": 25,
                         "Jean Lassalle": 2,
                         "Valérie Pécresse": 17,
                         "Nicolas Dupont-Aignan": 1.5,
                         "Marine Le Pen": 17,
-                        "Éric Zemmour": 13,
+                        "Éric Zemmour": 11.5,
                         "Florian Philippot": 1,
                         "Hélène Thouy": 0.5
                     }
@@ -705,8 +705,8 @@
                         "Valérie Pécresse": 18,
                         "Jean Lassalle": 1,
                         "Nicolas Dupont-Aignan": 1,
-                        "Éric Zemmour": 16,
-                        "Marine Le Pen": 17
+                        "Éric Zemmour": 13,
+                        "Marine Le Pen": 16
                     }
                 }
             ],
@@ -764,7 +764,8 @@
                         "Nicolas Dupont-Aignan": 1.5,
                         "Marine Le Pen": 17.5,
                         "Éric Zemmour": 12,
-                        "Jean Lassalle": 1
+                        "Jean Lassalle": 1,
+                        "Hélène Thouy": 0.5
                     }
                 }
             ],
@@ -1048,7 +1049,7 @@
                         "Arnaud Montebourg": 1,
                         "Anne Hidalgo": 3,
                         "Yannick Jadot": 6,
-                        "Emmanuel Macron": 26,
+                        "Emmanuel Macron": 25,
                         "Valérie Pécresse": 16,
                         "Nicolas Dupont-Aignan": 1,
                         "Florian Philippot": 1,
@@ -1204,7 +1205,8 @@
                         "Nicolas Dupont-Aignan": 1.5,
                         "Marine Le Pen": 17,
                         "Éric Zemmour": 12.5,
-                        "Jean Lassalle": 1.5
+                        "Jean Lassalle": 1.5,
+                        "Hélène Thouy": 0.5
                     }
                 }
             ],
