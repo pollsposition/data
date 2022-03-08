@@ -1,6 +1,144 @@
 {
     "sondages": {
 
+        "20220208_elabe": {
+            "institut": "Elabe",
+            "commanditaires": [
+                "BFMTV",
+                "L’Express",
+                "SFR"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/fevrier/9346-p-elabe-bfmtv-9-fevrier.pdf",
+            "date_debut": "2022-02-07",
+            "date_fin": "2022-02-08",
+            "methode": "internet",
+            "interroges": 1370,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 10,
+                    "intentions_exprimees": 999,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 4,
+                        "Jean-Luc Mélenchon": 10,
+                        "Yannick Jadot": 4.5,
+                        "Christiane Taubira": 3.5,
+                        "Anne Hidalgo": 1.5,
+                        "Emmanuel Macron": 26,
+                        "Jean Lassalle": 1,
+                        "Valérie Pécresse": 15,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 15.5,
+                        "Éric Zemmour": 13,
+                        "Florian Philippot": 1.5,
+                        "Hélène Thouy": 0,
+                        "François Asselineau": 0.5
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 34,
+                    "intentions_exprimees": 732,
+                    "intentions": {
+                        "Emmanuel Macron": 54,
+                        "Valérie Pécresse": 46
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 22,
+                    "intentions_exprimees": 866,
+                    "intentions": {
+                        "Emmanuel Macron": 56,
+                        "Marine Le Pen": 44
+                    }
+                },
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 28,
+                    "intentions_exprimees": 799,
+                    "intentions": {
+                        "Emmanuel Macron": 64,
+                        "Éric Zemmour": 36
+                    }
+                }
+            ]
+        },
+
+        "20220210_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "Radio classique"
+            ],
+            "source": "www.commission-des-sondages.fr/notices/files/notices/2022/fevrier/9353-rpw-opinionway-kea-les-echos-10-fev.pdf",
+            "date_debut": "2022-02-07",
+            "date_fin": "2022-02-10",
+            "methode": "internet",
+            "interroges": 1648,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 14,
+                    "intentions_exprimees": 1417,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 4,
+                        "Jean-Luc Mélenchon": 9,
+                        "Christiane Taubira": 4,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 4,
+                        "Emmanuel Macron": 23,
+                        "Valérie Pécresse": 16,
+                        "Jean Lassalle": 2,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Éric Zemmour": 15,
+                        "Marine Le Pen": 17
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 29,
+                    "intentions_exprimees": 1170,
+                    "intentions": {
+                        "Marine Le Pen": 45,
+                        "Emmanuel Macron": 55
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 39,
+                    "intentions_exprimees": 1005,
+                    "intentions": {
+                        "Valérie Pécresse": 47,
+                        "Emmanuel Macron": 53
+                    }
+                },
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 33,
+                    "intentions_exprimees": 1104,
+                    "intentions": {
+                        "Éric Zemmour": 38,
+                        "Emmanuel Macron": 62
+                    }
+                }
+            ]
+        },
+
         "20220204_ifop": {
             "institut": "Ifop",
             "commanditaires": [
@@ -54,6 +192,142 @@
                     "intentions": {
                         "Emmanuel Macron": 55,
                         "Marine Le Pen": 45
+                    }
+                }
+            ]
+        },
+
+        "20220207_harris": {
+            "institut": "Harris interactive",
+            "commanditaires": [
+                "Challenges"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/fevrier/9348-p-hi-challenges-9-02.pdf",
+            "date_debut": "2022-02-04",
+            "date_fin": "2022-02-07",
+            "methode": "internet",
+            "interroges": 2023,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 15,
+                    "intentions_exprimees": 1720,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 0,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 10,
+                        "Christiane Taubira": 5,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 15,
+                        "Nicolas Dupont-Aignan": 1,
+                        "Florian Philippot": 0,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 14.5,
+                        "François Asselineau": 0.5,
+                        "Jean Lassalle": 1
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 33,
+                    "intentions_exprimees": 1355,
+                    "intentions": {
+                        "Éric Zemmour": 37,
+                        "Emmanuel Macron": 63
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 27,
+                    "intentions_exprimees": 1477,
+                    "intentions": {
+                        "Marine Le Pen": 44,
+                        "Emmanuel Macron": 56
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 40,
+                    "intentions_exprimees": 1214,
+                    "intentions": {
+                        "Valérie Pécresse": 45,
+                        "Emmanuel Macron": 55
+                    }
+                }
+            ]
+        },
+
+        "20220207_ipsos": {
+            "institut": "Ipsos",
+            "commanditaires": [
+                "Le Monde",
+                "Cevipof",
+                "Fondation Jean Jaurès"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/fevrier/9351-p-ipsos-le-monde-fjj-cevipof-vague-5-fevrier-2022.pdf",
+            "date_debut": "2022-02-03",
+            "date_fin": "2022-02-07",
+            "methode": "internet",
+            "interroges": 12499,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 5,
+                    "intentions_exprimees": 7741,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 0.5,
+                        "Jean-Luc Mélenchon": 9,
+                        "Fabien Roussel": 3.5,
+                        "Yannick Jadot": 7,
+                        "Anne Hidalgo": 2.5,
+                        "Christiane Taubira": 5,
+                        "Emmanuel Macron": 24,
+                        "Valérie Pécresse": 15.5,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 15,
+                        "Éric Zemmour": 14.5
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 33,
+                    "intentions_exprimees": 5704,
+                    "intentions": {
+                        "Emmanuel Macron": 54,
+                        "Valérie Pécresse": 46
+                    }
+                },
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 21,
+                    "intentions_exprimees": 6396,
+                    "intentions": {
+                        "Emmanuel Macron": 57,
+                        "Marine Le Pen": 43
+                    }
+                },
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 24,
+                    "intentions_exprimees": 6396,
+                    "intentions": {
+                        "Emmanuel Macron": 62,
+                        "Éric Zemmour": 38
                     }
                 }
             ]
