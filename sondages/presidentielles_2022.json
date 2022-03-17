@@ -1,6 +1,76 @@
 {
     "sondages": {
 
+        "20220308_elabe": {
+            "institut": "Elabe",
+            "commanditaires": [
+                "BFMTV",
+                "L’Express",
+                "SFR"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9433-p-elabe-bfmtv.pdf",
+            "date_debut": "2022-03-07",
+            "date_fin": "2022-03-08",
+            "methode": "internet",
+            "interroges": 1448,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 9,
+                    "intentions_exprimees": 1317,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 1,
+                        "Fabien Roussel": 3.5,
+                        "Jean-Luc Mélenchon": 13,
+                        "Anne Hidalgo": 1.5,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 33.5,
+                        "Jean Lassalle": 2.5,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Valérie Pécresse": 10.5,
+                        "Marine Le Pen": 15,
+                        "Éric Zemmour": 11
+                    },
+                    "certitude": {
+                        "ensemble": 70
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 21,
+                    "intentions_exprimees": 1143,
+                    "intentions": {
+                        "Emmanuel Macron": 61,
+                        "Marine Le Pen": 39
+                    }
+                },
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 26,
+                    "intentions_exprimees": 1071,
+                    "intentions": {
+                        "Emmanuel Macron": 69.5,
+                        "Éric Zemmour": 30.5
+                    }
+                },
+                {
+                    "hypothese": "Jean-Luc Mélenchon vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 27,
+                    "intentions_exprimees": 1057,
+                    "intentions": {
+                        "Emmanuel Macron": 68.5,
+                        "Éric Zemmour": 31.5
+                    }
+                }
+            ]
+        },
+
         "20220306_cluster17": {
             "institut": "Cluster 17",
             "commanditaires": [
