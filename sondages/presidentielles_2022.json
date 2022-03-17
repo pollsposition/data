@@ -105,6 +105,69 @@
             ]
         },
 
+        "20220228_elabe": {
+            "institut": "Elabe",
+            "commanditaires": [
+                "BFMTV",
+                "L’Express",
+                "SFR"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9404-p-elabe-bfmtv-ukraine-mlp.pdf",
+            "date_debut": "2022-02-27",
+            "date_fin": "2022-02-28",
+            "methode": "internet",
+            "interroges": 1330,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 10,
+                    "intentions_exprimees": 1197,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 0.5,
+                        "Fabien Roussel": 4,
+                        "Jean-Luc Mélenchon": 12.5,
+                        "Christiane Taubira": 1.5,
+                        "Anne Hidalgo": 1.5,
+                        "Yannick Jadot": 6.5,
+                        "Emmanuel Macron": 25,
+                        "Jean Lassalle": 2,
+                        "Valérie Pécresse": 12,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 14,
+                        "Hélène Thouy": 0,
+                        "François Asselineau": 0.5
+                    },
+                    "certitude": {
+                        "ensemble": 65
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 21,
+                    "intentions_exprimees": 1050,
+                    "intentions": {
+                        "Emmanuel Macron": 57.5,
+                        "Marine Le Pen": 42.5
+                    }
+                },
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 28,
+                    "intentions_exprimees": 957,
+                    "intentions": {
+                        "Emmanuel Macron": 65.5,
+                        "Éric Zemmour": 34.5
+                    }
+                }
+            ]
+        },
+
         "20220228_harris": {
             "institut": "Harris interactive",
             "commanditaires": [
