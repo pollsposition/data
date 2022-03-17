@@ -1,6 +1,73 @@
 {
     "sondages": {
 
+        "20220312_ipsos": {
+            "institut": "Ipsos",
+            "commanditaires": [
+                "Le Parisien",
+                "France info"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9448-ipsos-le-parisien-aujourd-hui-en-france-france-info-vague-1-12-mars-pd-f.pdf",
+            "date_debut": "2022-03-09",
+            "date_fin": "2022-03-12",
+            "methode": "internet",
+            "interroges": 1653,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 5,
+                    "intentions_exprimees": 878,
+                    "intentions": {
+                        "Philippe Poutou": 1.5,
+                        "Nathalie Arthaud": 0.5,
+                        "Jean-Luc Mélenchon": 12,
+                        "Fabien Roussel": 3,
+                        "Yannick Jadot": 6.5,
+                        "Anne Hidalgo": 2.5,
+                        "Emmanuel Macron": 30.5,
+                        "Valérie Pécresse": 11,
+                        "Jean Lassalle": 1.5,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 13.5
+                    },
+                    "certitude": {
+                        "ensemble": 62,
+                        "detail": {
+                            "Jean-Luc Mélenchon": 56,
+                            "Yannick Jadot": 42,
+                            "Emmanuel Macron": 74,
+                            "Valérie Pécresse": 56,
+                            "Marine Le Pen": 72,
+                            "Éric Zemmour": 78
+                        }
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 17,
+                    "intentions_exprimees": 776,
+                    "intentions": {
+                        "Emmanuel Macron": 60,
+                        "Marine Le Pen": 40
+                    }
+                },
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 24,
+                    "intentions_exprimees": 731,
+                    "intentions": {
+                        "Emmanuel Macron": 66,
+                        "Éric Zemmour": 34
+                    }
+                }
+            ]
+        },
+
         "20220308_elabe": {
             "institut": "Elabe",
             "commanditaires": [
@@ -384,6 +451,7 @@
                 }
             ]
         },
+
 
         "20220223_kantar": {
             "institut": "Kantar",
