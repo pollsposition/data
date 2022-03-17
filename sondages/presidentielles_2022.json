@@ -1,6 +1,60 @@
 {
     "sondages": {
 
+        "20220301_cluster17": {
+            "institut": "Cluster 17",
+            "commanditaires": [
+                "Marianne"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9415-cluster17-le-3-mars.pdf",
+            "date_debut": "2022-02-27",
+            "date_fin": "2022-03-01",
+            "methode": "internet",
+            "interroges": 2195,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 5,
+                    "intentions_exprimees": 2095,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 0.5,
+                        "Fabien Roussel": 4,
+                        "Jean-Luc Mélenchon": 13.5,
+                        "Anne Hidalgo": 1.5,
+                        "Christiane Taubira": 1.5,
+                        "Yannick Jadot": 4.5,
+                        "Emmanuel Macron": 25.5,
+                        "Valérie Pécresse": 12.5,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 16,
+                        "François Asselineau": 1,
+                        "Jean Lassalle": 1
+                    },
+                    "certitude": {
+                        "ensemble": 70,
+                        "detail": {
+                            "Nathalie Arthaud": 52,
+                            "Philippe Poutou": 63,
+                            "Fabien Roussel": 63,
+                            "Jean-Luc Mélenchon": 71,
+                            "Anne Hidalgo": 38,
+                            "Christiane Taubira": 30,
+                            "Yannick Jadot": 43,
+                            "Emmanuel Macron": 81,
+                            "Valérie Pécresse": 65,
+                            "Nicolas Dupont-Aignan": 72,
+                            "Marine Le Pen": 73,
+                            "Éric Zemmour": 80,
+                            "François Asselineau": 80,
+                            "Jean Lassalle": 39
+                        }
+                    }
+                }
+            ]
+        },
+
         "20220228_harris": {
             "institut": "Harris interactive",
             "commanditaires": [
