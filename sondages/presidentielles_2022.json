@@ -210,6 +210,43 @@
             ]
         },
 
+        "20220309_kantar": {
+            "institut": "Kantar",
+            "commanditaires": [
+                "Epoka"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9438-p-kantar-v2-le-10-mars.pdf",
+            "date_debut": "2022-03-07",
+            "date_fin": "2022-03-09",
+            "methode": "internet",
+            "interroges": 1394,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 7.7,
+                    "intentions_exprimees": 1020,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 2,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 1.5,
+                        "Yannick Jadot": 4,
+                        "Emmanuel Macron": 31,
+                        "Valérie Pécresse": 12,
+                        "Jean Lassalle": 2,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Marine Le Pen": 17,
+                        "Éric Zemmour": 13
+                    },
+                    "certitude": {
+                        "ensemble": 60.7
+                    }
+                }
+            ]
+        },
+
+
         "20220309_bva": {
             "institut": "BVA",
             "commanditaires": [
@@ -4046,7 +4083,7 @@
         },
 
 
-        "2021210_Odoxa":
+        "20211209_Odoxa":
         {
             "institut": "Odoxa",
             "commanditaires": ["Mascaret", "L'Obs"],
