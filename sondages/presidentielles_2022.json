@@ -1,6 +1,53 @@
 {
     "sondages": {
 
+        "20220316_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "Radio classique",
+                "Kea Partners"
+            ],
+            "source": "",
+            "date_debut": "2022-03-13",
+            "date_fin": "2022-03-16",
+            "methode": "internet",
+            "interroges": 1597,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 11,
+                    "intentions_exprimees": 1421,
+                    "intentions": {
+                        "Nathalie Arthaud": 0,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 4,
+                        "Jean-Luc Mélenchon": 12,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 29,
+                        "Valérie Pécresse": 11,
+                        "Jean Lassalle": 3,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Éric Zemmour": 12,
+                        "Marine Le Pen": 17
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 25,
+                    "intentions_exprimees": 1197,
+                    "intentions": {
+                        "Marine Le Pen": 42,
+                        "Emmanuel Macron": 58
+                    }
+                }
+            ]
+        },
+
         "20220316_ipsos": {
             "institut": "Ipsos",
             "commanditaires": [
