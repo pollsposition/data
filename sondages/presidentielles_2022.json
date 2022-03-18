@@ -68,6 +68,81 @@
             ]
         },
 
+        "20220314_harris": {
+            "institut": "Harris interactive",
+            "commanditaires": [
+                "Challenges"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9458-harris-interactive-baro-challenges-v37-le-16-mars.pdf",
+            "date_debut": "2022-03-11",
+            "date_fin": "2022-03-14",
+            "methode": "internet",
+            "interroges": 2089,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 13,
+                    "intentions_exprimees": 1817,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 13.5,
+                        "Anne Hidalgo": 2.5,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 30,
+                        "Valérie Pécresse": 10.5,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 19.5,
+                        "Éric Zemmour": 11,
+                        "Jean Lassalle": 2
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 25,
+                    "intentions_exprimees": 1556,
+                    "intentions": {
+                        "Marine Le Pen": 42,
+                        "Emmanuel Macron": 58
+                    }
+                },
+                {
+                    "hypothese": "Jean-Luc Mélenchon vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 33,
+                    "intentions_exprimees": 1399,
+                    "intentions": {
+                        "Jean-Luc Mélenchon": 36,
+                        "Emmanuel Macron": 64
+                    }
+                },
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 31,
+                    "intentions_exprimees": 1441,
+                    "intentions": {
+                        "Éric Zemmour": 31,
+                        "Emmanuel Macron": 69
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 38,
+                    "intentions_exprimees": 1295,
+                    "intentions": {
+                        "Valérie Pécresse": 32,
+                        "Emmanuel Macron": 68
+                    }
+                }
+            ]
+        },
+
         "20220312_ipsos": {
             "institut": "Ipsos",
             "commanditaires": [
