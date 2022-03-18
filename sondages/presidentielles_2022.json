@@ -210,6 +210,68 @@
             ]
         },
 
+        "20220311_Odoxa":
+        {
+            "institut": "Odoxa",
+            "commanditaires": ["FTI Consulting", "L'Obs"],
+            "source": "http://www.odoxa.fr/sondage/macron-renforce-encore-son-statut-de-favori-tandis-que-m-le-pen-distance-ses-rivaux-pour-la-qualification-au-second-tour/",
+            "date_debut": "2022-03-09",
+            "date_fin": "2022-03-11",
+            "methode": "internet",
+            "interroges": 1877,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 16,
+                    "intentions_exprimees": 1461,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 2,
+                        "Fabien Roussel": 3.5,
+                        "Jean-Luc Mélenchon": 11.5,
+                        "Yannick Jadot": 4.5,
+                        "Anne Hidalgo": 1.5,
+                        "Emmanuel Macron": 29.5,
+                        "Jean Lassalle": 3,
+                        "Valérie Pécresse": 11,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 19.5,
+                        "Éric Zemmour": 11
+                    },
+                    "certitude": {
+                        "detail" : {
+                            "Fabien Roussel": 64,
+                            "Jean-Luc Mélenchon": 71,
+                            "Yannick Jadot": 41,
+                            "Emmanuel Macron": 82,
+                            "Jean Lassalle": 56,
+                            "Valérie Pécresse": 69,
+                            "Marine Le Pen": 79,
+                            "Éric Zemmour": 74
+                        }
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 26,
+                    "intentions_exprimees": 1283,
+                    "intentions": {
+                        "Emmanuel Macron": 58,
+                        "Marine Le Pen": 42
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Emmanuel Macron": 85,
+                            "Valérie Pécresse": 90
+                        }
+                    }
+                }
+            ]
+        },
+
+
         "20220309_kantar": {
             "institut": "Kantar",
             "commanditaires": [
