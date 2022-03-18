@@ -388,6 +388,52 @@
             ]
         },
 
+        "20220309_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "Radio classique",
+                "Kea Partners"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9435-opinionway-les-echos-radio-classique-9-mars.pdf",
+            "date_debut": "2022-03-06",
+            "date_fin": "2022-03-09",
+            "methode": "internet",
+            "interroges": 1661,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 13,
+                    "intentions_exprimees": 1445,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 4,
+                        "Jean-Luc Mélenchon": 11,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 30,
+                        "Valérie Pécresse": 12,
+                        "Jean Lassalle": 2,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Éric Zemmour": 11,
+                        "Marine Le Pen": 18
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 27,
+                    "intentions_exprimees": 1212,
+                    "intentions": {
+                        "Marine Le Pen": 41,
+                        "Emmanuel Macron": 59
+                    }
+                }
+            ]
+        },
 
         "20220309_bva": {
             "institut": "BVA",
@@ -464,6 +510,7 @@
                 }
             ]
         },
+
         "20220308_elabe": {
             "institut": "Elabe",
             "commanditaires": [
