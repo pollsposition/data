@@ -1143,6 +1143,98 @@
             ]
         },
 
+        "20220216_Odoxa":
+        {
+            "institut": "Odoxa",
+            "commanditaires": ["mascaret", "L'Obs"],
+            "source": "http://www.odoxa.fr/sondage/intentions-de-vote-le-meeting-rate-de-valerie-pecresse-lui-coute-cher/",
+            "date_debut": "2022-02-15",
+            "date_fin": "2022-02-16",
+            "methode": "internet",
+            "interroges": 1799,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 19,
+                    "intentions_exprimees": 1357,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1.5,
+                        "Fabien Roussel": 4.5,
+                        "Jean-Luc Mélenchon": 11,
+                        "Yannick Jadot": 5,
+                        "Anne Hidalgo": 2,
+                        "Christiane Taubira": 3,
+                        "Emmanuel Macron": 24.5,
+                        "Jean Lassalle": 2,
+                        "Valérie Pécresse": 12,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 18,
+                        "Éric Zemmour": 14
+                    },
+                    "certitude": {
+                        "detail" : {
+                            "Fabien Roussel": 59,
+                            "Jean-Luc Mélenchon": 74,
+                            "Yannick Jadot": 48,
+                            "Christiane Taubira": 55,
+                            "Emmanuel Macron": 77,
+                            "Valérie Pécresse": 65,
+                            "Marine Le Pen": 81,
+                            "Éric Zemmour": 71
+                        }
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 27,
+                    "intentions_exprimees": 1103,
+                    "intentions": {
+                        "Emmanuel Macron": 56,
+                        "Marine Le Pen": 44
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Emmanuel Macron": 94,
+                            "Marine Le Pen": 89
+                        }
+                    }
+                },
+                {
+                    "base": "SV",
+                    "nspp": 34,
+                    "intentions_exprimees": 1157,
+                    "intentions": {
+                        "Emmanuel Macron": 66,
+                        "Éric Zemmour": 34
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Emmanuel Macron": 93,
+                            "Éric Zemmour": 91
+                        }
+                    }
+                },
+                {
+                    "base": "SV",
+                    "nspp": 41,
+                    "intentions_exprimees": 995,
+                    "intentions": {
+                        "Emmanuel Macron": 59,
+                        "Valérie Pécresse": 41
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Emmanuel Macron": 87,
+                            "Valérie Pécresse": 81
+                        }
+                    }
+                }
+            ]
+        },
+
         "20220216_bva": {
             "institut": "BVA",
             "commanditaires": [
