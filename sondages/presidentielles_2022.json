@@ -736,6 +736,74 @@
             ]
         },
 
+        "20220302_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "Radio classique",
+                "Kea Partners"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9411-rpw-opinionway-kea-partners-les-echos-radio-classique-2-mars.pdf",
+            "date_debut": "2022-02-27",
+            "date_fin": "2022-03-02",
+            "methode": "internet",
+            "interroges": 1642,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 12,
+                    "intentions_exprimees": 1444,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 4,
+                        "Jean-Luc Mélenchon": 10,
+                        "Christiane Taubira": 2,
+                        "Anne Hidalgo": 3,
+                        "Yannick Jadot": 4,
+                        "Emmanuel Macron": 26,
+                        "Valérie Pécresse": 15,
+                        "Jean Lassalle": 1,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Éric Zemmour": 12,
+                        "Marine Le Pen": 19
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 27,
+                    "intentions_exprimees": 1198,
+                    "intentions": {
+                        "Marine Le Pen": 45,
+                        "Emmanuel Macron": 55
+                    }
+                },
+                {
+                    "hypothese": "Valérie Pécresse vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 39,
+                    "intentions_exprimees": 1001,
+                    "intentions": {
+                        "Valérie Pécresse": 43,
+                        "Emmanuel Macron": 57
+                    }
+                },
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 33,
+                    "intentions_exprimees": 1100,
+                    "intentions": {
+                        "Éric Zemmour": 37,
+                        "Emmanuel Macron": 63
+                    }
+                }
+            ]
+        },
+
         "20220301_cluster17": {
             "institut": "Cluster 17",
             "commanditaires": [
@@ -1097,7 +1165,7 @@
             ]
         },
 
-        "20220220_opinionway": {
+        "20220223_opinionway": {
             "institut": "Opinionway",
             "commanditaires": [
                 "Les Echos",
