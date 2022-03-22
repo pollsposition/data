@@ -1,6 +1,85 @@
 {
     "sondages": {
 
+        "20220316_bva": {
+            "institut": "BVA",
+            "commanditaires": [
+                "Orange",
+                "RTL"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9471-p-bva-orange-et-rtl-le-18-mars.pdf",
+            "date_debut": "2022-03-15",
+            "date_fin": "2022-03-16",
+            "methode": "internet",
+            "interroges": 1505,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 13,
+                    "intentions_exprimees": 933,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 0.5,
+                        "Jean-Luc Mélenchon": 13,
+                        "Fabien Roussel": 3.5,
+                        "Anne Hidalgo": 2.5,
+                        "Yannick Jadot": 5.5,
+                        "Emmanuel Macron": 30,
+                        "Valérie Pécresse": 10,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Éric Zemmour": 13,
+                        "Marine Le Pen": 18,
+                        "Jean Lassalle": 1.5
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 62,
+                            "Fabien Roussel": 46,
+                            "Anne Hidalgo": 60,
+                            "Yannick Jadot": 50,
+                            "Emmanuel Macron": 85,
+                            "Valérie Pécresse": 58,
+                            "Nicolas Dupont-Aignan": 51,
+                            "Éric Zemmour": 75,
+                            "Marine Le Pen": 79
+                        }
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 17,
+                    "intentions_exprimees": 895,
+                    "intentions": {
+                        "Emmanuel Macron": 58,
+                        "Marine Le Pen": 42
+                    }
+                },
+                {
+                    "hypothese": "Éric Zemmour vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 25,
+                    "intentions_exprimees": 805,
+                    "intentions": {
+                        "Emmanuel Macron": 66,
+                        "Éric Zemmour": 34
+                    }
+                },
+                {
+                    "hypothese": "Jean-Luc Mélenchon vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 28,
+                    "intentions_exprimees": 781,
+                    "intentions": {
+                        "Emmanuel Macron": 65,
+                        "Jean-Luc Mélenchon": 35
+                    }
+                }
+            ]
+        },
+
         "20220316_elabe": {
             "institut": "Elabe",
             "commanditaires": [
