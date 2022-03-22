@@ -1,6 +1,66 @@
 {
     "sondages": {
 
+        "20220316_elabe": {
+            "institut": "Elabe",
+            "commanditaires": [
+                "BFMTV",
+                "L’Express",
+                "SFR"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9465-elabe-bfm-le-16-mars.pdf",
+            "date_debut": "2022-03-15",
+            "date_fin": "2022-03-16",
+            "methode": "internet",
+            "interroges": 1469,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 10,
+                    "intentions_exprimees": 1322,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 0.5,
+                        "Fabien Roussel": 3.5,
+                        "Jean-Luc Mélenchon": 14,
+                        "Anne Hidalgo": 1.5,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 31,
+                        "Jean Lassalle": 2,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Valérie Pécresse": 11.5,
+                        "Marine Le Pen": 18,
+                        "Éric Zemmour": 10.5
+                    },
+                    "certitude": {
+                        "ensemble": 70
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 22,
+                    "intentions_exprimees": 1145,
+                    "intentions": {
+                        "Emmanuel Macron": 59.5,
+                        "Marine Le Pen": 40.5
+                    }
+                },
+                {
+                    "hypothese": "Jean-Luc Mélenchon vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 29,
+                    "intentions_exprimees": 1042,
+                    "intentions": {
+                        "Emmanuel Macron": 66.5,
+                        "Éric Zemmour": 33.5
+                    }
+                }
+            ]
+        },
+
         "20220316_opinionway": {
             "institut": "Opinionway",
             "commanditaires": [
