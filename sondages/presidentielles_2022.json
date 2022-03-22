@@ -1,6 +1,7 @@
 {
     "sondages": {
 
+
         "20220316_bva": {
             "institut": "BVA",
             "commanditaires": [
@@ -249,6 +250,53 @@
                     "intentions": {
                         "Emmanuel Macron": 68,
                         "Éric Zemmour": 32
+                    }
+                }
+            ]
+        },
+
+        "20220214_ipsos": {
+            "institut": "Ipsos",
+            "commanditaires": [
+                "Le Monde",
+                "Cevipof",
+                "Fondation Jean Jaurès"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9466-p-ipsos-le-monde-fjj-cevipof-panel-elec-toral-v7.pdf",
+            "date_debut": "2022-03-10",
+            "date_fin": "2022-03-14",
+            "methode": "internet",
+            "interroges": 13749,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 5,
+                    "intentions_exprimees": 8790,
+                    "intentions": {
+                        "Philippe Poutou": 1.5,
+                        "Nathalie Arthaud": 0.5,
+                        "Jean-Luc Mélenchon": 12,
+                        "Fabien Roussel": 4,
+                        "Yannick Jadot": 7,
+                        "Anne Hidalgo": 2.5,
+                        "Emmanuel Macron": 29,
+                        "Valérie Pécresse": 10.5,
+                        "Jean Lassalle": 2,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 16,
+                        "Éric Zemmour": 13
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 19,
+                    "intentions_exprimees": 7411,
+                    "intentions": {
+                        "Emmanuel Macron": 59,
+                        "Marine Le Pen": 41
                     }
                 }
             ]
