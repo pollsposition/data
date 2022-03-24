@@ -81,6 +81,56 @@
             ]
         },
 
+        "20220321_elabe": {
+            "institut": "Elabe",
+            "commanditaires": [
+                "BFMTV",
+                "L’Express",
+                "SFR"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9483-elabe-bfmtv-le-22-mars.pdf",
+            "date_debut": "2022-03-20",
+            "date_fin": "2022-03-21",
+            "methode": "internet",
+            "interroges": 1450,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 10,
+                    "intentions_exprimees": 1305,
+                    "intentions": {
+                        "Philippe Poutou": 1.5,
+                        "Nathalie Arthaud": 0.5,
+                        "Fabien Roussel": 3.5,
+                        "Jean-Luc Mélenchon": 15,
+                        "Anne Hidalgo": 1.5,
+                        "Yannick Jadot": 4.5,
+                        "Emmanuel Macron": 27.5,
+                        "Jean Lassalle": 3,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Valérie Pécresse": 10,
+                        "Marine Le Pen": 20,
+                        "Éric Zemmour": 10
+                    },
+                    "certitude": {
+                        "ensemble": 69
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 21,
+                    "intentions_exprimees": 1145,
+                    "intentions": {
+                        "Emmanuel Macron": 56,
+                        "Marine Le Pen": 44
+                    }
+                }
+            ]
+        },
+
         "20220316_bva": {
             "institut": "BVA",
             "commanditaires": [
