@@ -1,6 +1,88 @@
 {
     "sondages": {
 
+        "20220323_bva": {
+            "institut": "BVA",
+            "commanditaires": [
+                "Orange",
+                "RTL"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9500-bva-orange-rtl-vague-11-25-mars.pdf",
+            "date_debut": "2022-03-22",
+            "date_fin": "2022-03-23",
+            "methode": "internet",
+            "interroges": 2500,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 14,
+                    "intentions_exprimees": 958,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1.5,
+                        "Jean-Luc Mélenchon": 14.5,
+                        "Fabien Roussel": 3,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 28,
+                        "Valérie Pécresse": 10.5,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Éric Zemmour": 11,
+                        "Marine Le Pen": 19,
+                        "Jean Lassalle": 2.5
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Jean-Luc Mélenchon": 74,
+                            "Fabien Roussel": 59,
+                            "Anne Hidalgo": 64,
+                            "Yannick Jadot": 46,
+                            "Emmanuel Macron": 82,
+                            "Valérie Pécresse": 64,
+                            "Nicolas Dupont-Aignan": 51,
+                            "Éric Zemmour": 70,
+                            "Marine Le Pen": 74,
+                            "Jean Lassalle": 54
+                        }
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 22,
+                    "intentions_exprimees": 843,
+                    "intentions": {
+                        "Emmanuel Macron": 56,
+                        "Marine Le Pen": 44
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Emmanuel Macron": 89,
+                            "Marine Le Pen": 84
+                        }
+                    }
+                },
+                {
+                    "hypothese": "Jean-Luc Mélenchon vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 31,
+                    "intentions_exprimees": 753,
+                    "intentions": {
+                        "Emmanuel Macron": 64,
+                        "Jean-Luc Mélenchon": 36
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Emmanuel Macron": 88,
+                            "Jean-Luc Mélenchon": 79
+                        }
+                    }
+                }
+            ]
+        },
+
         "20220323_kantar": {
             "institut": "Kantar",
             "commanditaires": [
