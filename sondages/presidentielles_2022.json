@@ -1,6 +1,52 @@
 {
     "sondages": {
 
+        "20220323_kantar": {
+            "institut": "Kantar",
+            "commanditaires": [
+                "Epoka"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9495-kantar-public-epoka-vague-3-le-24-mars.pdf",
+            "date_debut": "2022-03-21",
+            "date_fin": "2022-03-23",
+            "methode": "internet",
+            "interroges": 1388,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 27,
+                    "intentions_exprimees": 1013,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 14,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 4.5,
+                        "Emmanuel Macron": 29,
+                        "Valérie Pécresse": 10,
+                        "Jean Lassalle": 2,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Marine Le Pen": 20,
+                        "Éric Zemmour": 11
+                    },
+                    "certitude": {
+                        "ensemble": 62,
+                        "detail": {
+                            "Fabien Roussel": 36,
+                            "Jean-Luc Mélenchon": 57,
+                            "Anne Hidalgo": 40,
+                            "Yannick Jadot": 43,
+                            "Emmanuel Macron": 72,
+                            "Valérie Pécresse": 57,
+                            "Marine Le Pen": 73,
+                            "Éric Zemmour": 66
+                        }
+                    }
+                }
+            ]
+        },
+
         "20220323_opinionway": {
             "institut": "Opinionway",
             "commanditaires": [
