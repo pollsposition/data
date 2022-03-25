@@ -1,6 +1,63 @@
 {
     "sondages": {
 
+        "20220323_ipsos": {
+            "institut": "Ipsos",
+            "commanditaires": [
+                "Le Parisien",
+                "France info"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9492-ipsos-le-parisien-aujourd-hui-en-france-france-info-vague-10-23-mars.pdf",
+            "date_debut": "2022-03-20",
+            "date_fin": "2022-03-23",
+            "methode": "internet",
+            "interroges": 1721,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 7,
+                    "intentions_exprimees": 891,
+                    "intentions": {
+                        "Philippe Poutou": 1,
+                        "Nathalie Arthaud": 1,
+                        "Jean-Luc Mélenchon": 12.5,
+                        "Fabien Roussel": 4,
+                        "Yannick Jadot": 7,
+                        "Anne Hidalgo": 2,
+                        "Emmanuel Macron": 29.5,
+                        "Valérie Pécresse": 9.5,
+                        "Jean Lassalle": 2.5,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 18.5,
+                        "Éric Zemmour": 11
+                    },
+                    "certitude": {
+                        "ensemble": 63,
+                        "detail": {
+                            "Jean-Luc Mélenchon": 70,
+                            "Yannick Jadot": 30,
+                            "Emmanuel Macron": 80,
+                            "Valérie Pécresse": 50,
+                            "Marine Le Pen": 78,
+                            "Éric Zemmour": 69
+                        }
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 20,
+                    "intentions_exprimees": 750,
+                    "intentions": {
+                        "Emmanuel Macron": 59,
+                        "Marine Le Pen": 41
+                    }
+                }
+            ]
+        },
+
         "20220322_ifop": {
             "institut": "Ifop",
             "commanditaires": [
