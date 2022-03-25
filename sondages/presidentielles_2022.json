@@ -1,6 +1,53 @@
 {
     "sondages": {
 
+        "20220323_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "Radio classique",
+                "Kea Partners"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9491-opinionway-kea-partners-les-echos-radio-classique-23-mars.pdf",
+            "date_debut": "2022-03-20",
+            "date_fin": "2022-03-23",
+            "methode": "internet",
+            "interroges": 1614,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 12,
+                    "intentions_exprimees": 1420,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 2,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 14,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 6,
+                        "Emmanuel Macron": 28,
+                        "Valérie Pécresse": 11,
+                        "Jean Lassalle": 2,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Éric Zemmour": 9,
+                        "Marine Le Pen": 20
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 25,
+                    "intentions_exprimees": 1210,
+                    "intentions": {
+                        "Marine Le Pen": 44,
+                        "Emmanuel Macron": 56
+                    }
+                }
+            ]
+        },
+
         "20220323_ipsos": {
             "institut": "Ipsos",
             "commanditaires": [
