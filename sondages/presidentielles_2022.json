@@ -506,6 +506,66 @@
             ]
         },
 
+        "20220331_ifop": {
+            "institut": "Ifop",
+            "commanditaires": [
+                "Paris Match",
+                "LCI",
+                "Sud Radio"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9524-rdp-ifop-pm-31-mars.pdf",
+            "date_debut": "2022-03-28",
+            "date_fin": "2022-03-31",
+            "methode": "internet",
+            "interroges": 2775,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 18.7,
+                    "intentions_exprimees": 2256,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 0.5,
+                        "Fabien Roussel": 4,
+                        "Jean-Luc Mélenchon": 15.5,
+                        "Anne Hidalgo": 1.5,
+                        "Yannick Jadot": 4.5,
+                        "Emmanuel Macron": 28,
+                        "Valérie Pécresse": 10,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 21,
+                        "Éric Zemmour": 11,
+                        "Jean Lassalle": 2
+                    },
+                    "certitude": {
+                        "ensemble": 76.8
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 26.4,
+                    "intentions_exprimees": 2042,
+                    "intentions": {
+                        "Emmanuel Macron": 54,
+                        "Marine Le Pen": 46
+                    }
+                },
+                {
+                    "hypothese": "Jean-Luc Mélenchon vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 34.2,
+                    "intentions_exprimees": 1825,
+                    "intentions": {
+                        "Jean-Luc Mélenchon": 40,
+                        "Emmanuel Macron": 60
+                    }
+                }
+            ]
+        },
+
         "20220331_cluster17": {
             "institut": "Cluster 17",
             "commanditaires": [
