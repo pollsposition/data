@@ -261,6 +261,56 @@
             ]
         },
 
+        "20220331_cluster17": {
+            "institut": "Cluster 17",
+            "commanditaires": [
+                "Marianne"
+            ],
+            "source": "https://cluster17.com/barometre-hebdomadaire-s13-presidentielle-2022/",
+            "date_debut": "2022-03-29",
+            "date_fin": "2022-03-31",
+            "methode": "internet",
+            "interroges": 2688,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 6.4,
+                    "intentions_exprimees": 2515,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 16,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 27,
+                        "Valérie Pécresse": 10,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Marine Le Pen": 18,
+                        "Éric Zemmour": 12,
+                        "Jean Lassalle": 2.5
+                    },
+                    "certitude": {
+                        "ensemble": 75,
+                        "detail": {
+                            "Nathalie Arthaud": 53,
+                            "Philippe Poutou": 56,
+                            "Fabien Roussel": 60,
+                            "Jean-Luc Mélenchon": 74,
+                            "Anne Hidalgo": 59,
+                            "Yannick Jadot": 53,
+                            "Emmanuel Macron": 81,
+                            "Valérie Pécresse": 68,
+                            "Nicolas Dupont-Aignan": 65,
+                            "Marine Le Pen": 85,
+                            "Éric Zemmour": 85,
+                            "Jean Lassalle": 75
+                        }
+                    }
+                }
+            ]
+        },
+
         "20220323_bva": {
             "institut": "BVA",
             "commanditaires": [
