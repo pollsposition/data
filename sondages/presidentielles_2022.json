@@ -814,6 +814,61 @@
             ]
         },
 
+        "20220321harris": {
+            "institut": "Harris interactive",
+            "commanditaires": [
+                "Challenges"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9488-harris-interactive-challenges-v38-le-23-mars.pdf",
+            "date_debut": "2022-03-18",
+            "date_fin": "2022-03-21",
+            "methode": "internet",
+            "interroges": 1997,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 13,
+                    "intentions_exprimees": 1737,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 14,
+                        "Anne Hidalgo": 2.5,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 29.5,
+                        "Valérie Pécresse": 10,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 19.5,
+                        "Éric Zemmour": 11,
+                        "Jean Lassalle": 2
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 23,
+                    "intentions_exprimees": 1537,
+                    "intentions": {
+                        "Marine Le Pen": 43,
+                        "Emmanuel Macron": 57
+                    }
+                },
+                {
+                    "hypothese": "Jean-Luc Mélenchon vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 30,
+                    "intentions_exprimees": 1397,
+                    "intentions": {
+                        "Jean-Luc Mélenchon": 37,
+                        "Emmanuel Macron": 63
+                    }
+                }
+            ]
+        },
+
         "20220321_cluster17": {
             "institut": "Cluster 17",
             "commanditaires": [
