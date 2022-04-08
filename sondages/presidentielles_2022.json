@@ -557,6 +557,51 @@
             ]
         },
 
+        "20220329_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "CNews"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9515-opinionway-pour-cnews-vague-29-le-30-mars.pdf",
+            "date_debut": "2022-03-28",
+            "date_fin": "2022-03-29",
+            "methode": "internet",
+            "interroges": 1035,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 11,
+                    "intentions_exprimees": 921,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 15,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 28,
+                        "Valérie Pécresse": 11,
+                        "Jean Lassalle": 2,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Éric Zemmour": 10,
+                        "Marine Le Pen": 20
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 26,
+                    "intentions_exprimees": 765,
+                    "intentions": {
+                        "Marine Le Pen": 45,
+                        "Emmanuel Macron": 55
+                    }
+                }
+            ]
+        },
+
         "20220328_harris": {
             "institut": "Harris interactive",
             "commanditaires": [
