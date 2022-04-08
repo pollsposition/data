@@ -308,6 +308,61 @@
             ]
         },
 
+        "20220404_harris": {
+            "institut": "Harris interactive",
+            "commanditaires": [
+                "Challenges"
+            ],
+            "source": "http://harris-interactive.fr/wp-content/uploads/sites/6/2022/04/FH7UQ71JHDQQ9.pdf",
+            "date_debut": "2022-04-01",
+            "date_fin": "2022-04-04",
+            "methode": "internet",
+            "interroges": 2200,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 12,
+                    "intentions_exprimees": 1936,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2.5,
+                        "Jean-Luc Mélenchon": 17,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 26.5,
+                        "Valérie Pécresse": 9.5,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 23,
+                        "Éric Zemmour": 9.5,
+                        "Jean Lassalle": 2
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 22,
+                    "intentions_exprimees": 1716,
+                    "intentions": {
+                        "Marine Le Pen": 48.5,
+                        "Emmanuel Macron": 51.5
+                    }
+                },
+                {
+                    "hypothese": "Jean-Luc Mélenchon vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 30,
+                    "intentions_exprimees": 1540,
+                    "intentions": {
+                        "Jean-Luc Mélenchon": 42,
+                        "Emmanuel Macron": 58
+                    }
+                }
+            ]
+        },
+
         "20220404_cluster17": {
             "institut": "Cluster 17",
             "commanditaires": [
@@ -556,6 +611,7 @@
                 }
             ]
         },
+
         "20220323_bva": {
             "institut": "BVA",
             "commanditaires": [
