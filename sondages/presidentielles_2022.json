@@ -261,6 +261,56 @@
             ]
         },
 
+        "20220404_cluster17": {
+            "institut": "Cluster 17",
+            "commanditaires": [
+                "Marianne"
+            ],
+            "source": "https://cluster17.com/barometre-hebdomadaire-s14-1-presidentielle-2022/",
+            "date_debut": "2022-04-02",
+            "date_fin": "2022-04-04",
+            "methode": "internet",
+            "interroges": 2961,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 5.6,
+                    "intentions_exprimees": 2793,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2.5,
+                        "Jean-Luc Mélenchon": 17,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 4,
+                        "Emmanuel Macron": 26,
+                        "Valérie Pécresse": 10,
+                        "Nicolas Dupont-Aignan": 3,
+                        "Marine Le Pen": 20,
+                        "Éric Zemmour": 11,
+                        "Jean Lassalle": 3
+                    },
+                    "certitude": {
+                        "ensemble": 76,
+                        "detail": {
+                            "Nathalie Arthaud": 53,
+                            "Philippe Poutou": 45,
+                            "Fabien Roussel": 56,
+                            "Jean-Luc Mélenchon": 81,
+                            "Anne Hidalgo": 67,
+                            "Yannick Jadot": 48,
+                            "Emmanuel Macron": 80,
+                            "Valérie Pécresse": 72,
+                            "Nicolas Dupont-Aignan": 58,
+                            "Marine Le Pen": 84,
+                            "Éric Zemmour": 89,
+                            "Jean Lassalle": 54
+                        }
+                    }
+                }
+            ]
+        },
+
         "20220331_cluster17": {
             "institut": "Cluster 17",
             "commanditaires": [
