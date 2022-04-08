@@ -1,6 +1,52 @@
 {
     "sondages": {
 
+        "20220407_opinionway": {
+            "institut": "Opinionway",
+            "commanditaires": [
+                "Les Echos",
+                "Radio Classique"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9555-opinionway-kea-partners-les-echos-radio-classique-notice-a-la-commission-7-avril.pdf",
+            "date_debut": "2022-04-04",
+            "date_fin": "2022-04-07",
+            "methode": "internet",
+            "interroges": 2043,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 10,
+                    "intentions_exprimees": 1838,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 17,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 26,
+                        "Valérie Pécresse": 9,
+                        "Jean Lassalle": 3,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Éric Zemmour": 9,
+                        "Marine Le Pen": 22
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 23,
+                    "intentions_exprimees": 1573,
+                    "intentions": {
+                        "Marine Le Pen": 47,
+                        "Emmanuel Macron": 53
+                    }
+                }
+            ]
+        },
+
         "20220407_bva": {
             "institut": "BVA",
             "commanditaires": [
