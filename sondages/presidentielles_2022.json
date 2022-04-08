@@ -225,6 +225,53 @@
             ]
         },
 
+        "20220405_elabe": {
+            "institut": "Elabe",
+            "commanditaires": [
+                "BFMTV",
+                "L’Express",
+                "SFR"
+            ],
+            "source": "https://elabe.fr/wp-content/uploads/2022/04/les-francais-et-lelection-presidentielle-2022-.pdf",
+            "date_debut": "2022-04-04",
+            "date_fin": "2022-04-05",
+            "methode": "internet",
+            "interroges": 1538,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 7,
+                    "intentions_exprimees": 1072,
+                    "intentions": {
+                        "Philippe Poutou": 1.5,
+                        "Nathalie Arthaud": 0.5,
+                        "Fabien Roussel": 2.5,
+                        "Jean-Luc Mélenchon": 15.5,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 28,
+                        "Valérie Pécresse": 8,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 23,
+                        "Éric Zemmour": 9,
+                        "Jean Lassalle": 3
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "SV",
+                    "nspp": 18,
+                    "intentions_exprimees": 945,
+                    "intentions": {
+                        "Emmanuel Macron": 53,
+                        "Marine Le Pen": 47
+                    }
+                }
+            ]
+        },
+
         "20220405_kantar": {
             "institut": "Kantar",
             "commanditaires": [
