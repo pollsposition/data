@@ -502,6 +502,60 @@
             ]
         },
 
+        "20220328_harris": {
+            "institut": "Harris interactive",
+            "commanditaires": [
+                "Challenges"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9513-harris-interactive-challenges-v39-le-30-mars.pdf",
+            "date_debut": "2022-03-25",
+            "date_fin": "2022-03-28",
+            "methode": "internet",
+            "interroges": 2035,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 12,
+                    "intentions_exprimees": 1790,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 15,
+                        "Anne Hidalgo": 2.5,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 28.5,
+                        "Valérie Pécresse": 9.5,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 21,
+                        "Éric Zemmour": 10,
+                        "Jean Lassalle": 2
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 22,
+                    "intentions_exprimees": 1587,
+                    "intentions": {
+                        "Marine Le Pen": 46,
+                        "Emmanuel Macron": 54
+                    }
+                },
+                {
+                    "hypothese": "Jean-Luc Mélenchon vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 30,
+                    "intentions_exprimees": 1424,
+                    "intentions": {
+                        "Jean-Luc Mélenchon": 39,
+                        "Emmanuel Macron": 61
+                    }
+                }
+            ]
+        },
         "20220323_bva": {
             "institut": "BVA",
             "commanditaires": [
