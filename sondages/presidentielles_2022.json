@@ -573,6 +573,56 @@
             ]
         },
 
+        "20220321_cluster17": {
+            "institut": "Cluster 17",
+            "commanditaires": [
+                "Marianne"
+            ],
+            "source": "",
+            "date_debut": "2022-03-18",
+            "date_fin": "2022-03-21",
+            "methode": "internet",
+            "interroges": 2527,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 5.7,
+                    "intentions_exprimees": 2382,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1.5,
+                        "Fabien Roussel": 3.5,
+                        "Jean-Luc Mélenchon": 14.5,
+                        "Anne Hidalgo": 1.5,
+                        "Yannick Jadot": 5.5,
+                        "Emmanuel Macron": 28,
+                        "Valérie Pécresse": 10.5,
+                        "Nicolas Dupont-Aignan": 2.5,
+                        "Marine Le Pen": 16.5,
+                        "Éric Zemmour": 12.5,
+                        "Jean Lassalle": 3
+                    },
+                    "certitude": {
+                        "ensemble": 72,
+                        "detail": {
+                            "Nathalie Arthaud": 46,
+                            "Philippe Poutou": 35,
+                            "Fabien Roussel": 52,
+                            "Jean-Luc Mélenchon": 73,
+                            "Anne Hidalgo": 44,
+                            "Yannick Jadot": 50,
+                            "Emmanuel Macron": 80,
+                            "Valérie Pécresse": 63,
+                            "Nicolas Dupont-Aignan": 55,
+                            "Marine Le Pen": 79,
+                            "Éric Zemmour": 82,
+                            "Jean Lassalle": 59
+                        }
+                    }
+                }
+            ]
+        },
+
         "20220321_elabe": {
             "institut": "Elabe",
             "commanditaires": [
