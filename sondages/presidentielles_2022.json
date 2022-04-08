@@ -1,6 +1,66 @@
 {
     "sondages": {
 
+        "20220407_ifop": {
+            "institut": "Ifop",
+            "commanditaires": [
+                "Paris Match",
+                "LCI",
+                "Sud Radio"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9556-rdp-ifop-pm-lci-sud-radio-7-avril.pdf",
+            "date_debut": "2022-04-04",
+            "date_fin": "2022-04-07",
+            "methode": "internet",
+            "interroges": 2802,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 18.2,
+                    "intentions_exprimees": 2292,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 2.5,
+                        "Jean-Luc Mélenchon": 17.5,
+                        "Anne Hidalgo": 2,
+                        "Yannick Jadot": 4.5,
+                        "Emmanuel Macron": 26.5,
+                        "Valérie Pécresse": 9,
+                        "Nicolas Dupont-Aignan": 1.5,
+                        "Marine Le Pen": 24,
+                        "Éric Zemmour": 8.5,
+                        "Jean Lassalle": 2.5
+                    },
+                    "certitude": {
+                        "ensemble": 74.5
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "hypothese": "Marine Le Pen vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 25.7,
+                    "intentions_exprimees": 2081,
+                    "intentions": {
+                        "Emmanuel Macron": 52,
+                        "Marine Le Pen": 48
+                    }
+                },
+                {
+                    "hypothese": "Jean-Luc Mélenchon vs Emmanuel Macron",
+                    "base": "I",
+                    "nspp": 31.8,
+                    "intentions_exprimees": 1910,
+                    "intentions": {
+                        "Jean-Luc Mélenchon": 42,
+                        "Emmanuel Macron": 58
+                    }
+                }
+            ]
+        },
+
         "20220407_opinionway": {
             "institut": "Opinionway",
             "commanditaires": [
