@@ -225,6 +225,42 @@
             ]
         },
 
+        "20220405_kantar": {
+            "institut": "Kantar",
+            "commanditaires": [
+                "Epoka"
+            ],
+            "source": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9550-kantar-vague-4-le-6-avril.pdf",
+            "date_debut": "2022-04-04",
+            "date_fin": "2022-04-05",
+            "methode": "internet",
+            "interroges": 1394,
+            "premier_tour": [
+                {
+                    "base": "I",
+                    "nspp": 6.1,
+                    "intentions_exprimees": 1308,
+                    "intentions": {
+                        "Nathalie Arthaud": 0.5,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 16,
+                        "Anne Hidalgo": 2.5,
+                        "Yannick Jadot": 5,
+                        "Emmanuel Macron": 25,
+                        "Valérie Pécresse": 8,
+                        "Jean Lassalle": 3,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 23,
+                        "Éric Zemmour": 11
+                    },
+                    "certitude": {
+                        "ensemble": 63
+                    }
+                }
+            ]
+        },
+
         "20220323_bva": {
             "institut": "BVA",
             "commanditaires": [
