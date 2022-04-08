@@ -83,6 +83,66 @@
             ]
         },
 
+        "20220406_Odoxa":
+        {
+            "institut": "Odoxa",
+            "commanditaires": ["mascaret", "L'Obs"],
+            "source": "",
+            "date_debut": "2022-04-05",
+            "date_fin": "2022-04-06",
+            "methode": "internet",
+            "interroges": 1897,
+            "premier_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 16,
+                    "intentions_exprimees": 1593,
+                    "intentions": {
+                        "Nathalie Arthaud": 1,
+                        "Philippe Poutou": 1,
+                        "Fabien Roussel": 3,
+                        "Jean-Luc Mélenchon": 16,
+                        "Yannick Jadot": 5,
+                        "Anne Hidalgo": 2,
+                        "Emmanuel Macron": 28,
+                        "Jean Lassalle": 3,
+                        "Valérie Pécresse": 7,
+                        "Nicolas Dupont-Aignan": 2,
+                        "Marine Le Pen": 24,
+                        "Éric Zemmour": 8
+                    },
+                    "certitude": {
+                        "detail" : {
+                            "Fabien Roussel": 67,
+                            "Jean-Luc Mélenchon": 80,
+                            "Yannick Jadot": 48,
+                            "Emmanuel Macron": 83,
+                            "Jean Lassalle": 51,
+                            "Valérie Pécresse": 68,
+                            "Marine Le Pen": 81,
+                            "Éric Zemmour": 84
+                        }
+                    }
+                }
+            ],
+            "second_tour": [
+                {
+                    "base": "SV",
+                    "nspp": 25,
+                    "intentions_exprimees": 1422,
+                    "intentions": {
+                        "Emmanuel Macron": 55,
+                        "Marine Le Pen": 45
+                    },
+                    "certitude": {
+                        "detail": {
+                            "Emmanuel Macron": 89,
+                            "Marine Le Pen": 88
+                        }
+                    }
+                }
+            ]
+        },
         "20220331_bva": {
             "institut": "BVA",
             "commanditaires": [
@@ -1103,7 +1163,7 @@
                     "certitude": {
                         "detail": {
                             "Emmanuel Macron": 85,
-                            "Valérie Pécresse": 90
+                            "Marine Le Pen": 90
                         }
                     }
                 }
