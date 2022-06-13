@@ -1,0 +1,3801 @@
+tour,code_departement,departement,nuance,voix
+1,1,AIN,Centre Démocrate-Union des Républicains de Progrès,16860.0
+1,1,AIN,Centre Démocratie et Progrès,1797.0
+1,1,AIN,Divers Union des Républicains de Progrès,0.0
+1,1,AIN,Divers droite,6335.0
+1,1,AIN,Divers gauche,0.0
+1,1,AIN,Divers gaullistes,0.0
+1,1,AIN,Divers réformateurs,5045.0
+1,1,AIN,Extrême droite,692.0
+1,1,AIN,Ligue Communiste Révolutionaire,0.0
+1,1,AIN,Lutte Ouvrière,0.0
+1,1,AIN,Mouvement des Radicaux de Gauche,10634.0
+1,1,AIN,Organisation Communiste Révolutionaire,0.0
+1,1,AIN,Parti Socialiste,18040.0
+1,1,AIN,Parti Socialiste Unifié,5538.0
+1,1,AIN,Parti communiste,26223.0
+1,1,AIN,Radicaux réformateurs,13360.0
+1,1,AIN,Républicains Indépendants,0.0
+1,1,AIN,Républicains Indépendants-Union des Républicains de Progrès,45559.0
+1,1,AIN,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+1,1,AIN,Union des Démocrates pour la Vème République,8493.0
+1,1,AIN,abstentions,50273.0
+1,1,AIN,blancs_nuls,3008.0
+1,2,AISNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,2,AISNE,Centre Démocratie et Progrès,0.0
+1,2,AISNE,Divers Union des Républicains de Progrès,0.0
+1,2,AISNE,Divers droite,14356.0
+1,2,AISNE,Divers gauche,0.0
+1,2,AISNE,Divers gaullistes,1939.0
+1,2,AISNE,Divers réformateurs,46801.0
+1,2,AISNE,Extrême droite,0.0
+1,2,AISNE,Ligue Communiste Révolutionaire,0.0
+1,2,AISNE,Lutte Ouvrière,0.0
+1,2,AISNE,Mouvement des Radicaux de Gauche,0.0
+1,2,AISNE,Organisation Communiste Révolutionaire,0.0
+1,2,AISNE,Parti Socialiste,56298.0
+1,2,AISNE,Parti Socialiste Unifié,2974.0
+1,2,AISNE,Parti communiste,69265.0
+1,2,AISNE,Radicaux réformateurs,0.0
+1,2,AISNE,Républicains Indépendants,0.0
+1,2,AISNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,2,AISNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,62445.0
+1,2,AISNE,Union des Démocrates pour la Vème République,0.0
+1,2,AISNE,abstentions,45043.0
+1,2,AISNE,blancs_nuls,5383.0
+1,3,ALLIER,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,3,ALLIER,Centre Démocratie et Progrès,0.0
+1,3,ALLIER,Divers Union des Républicains de Progrès,0.0
+1,3,ALLIER,Divers droite,23562.0
+1,3,ALLIER,Divers gauche,0.0
+1,3,ALLIER,Divers gaullistes,0.0
+1,3,ALLIER,Divers réformateurs,0.0
+1,3,ALLIER,Extrême droite,0.0
+1,3,ALLIER,Ligue Communiste Révolutionaire,0.0
+1,3,ALLIER,Lutte Ouvrière,3719.0
+1,3,ALLIER,Mouvement des Radicaux de Gauche,0.0
+1,3,ALLIER,Organisation Communiste Révolutionaire,0.0
+1,3,ALLIER,Parti Socialiste,31456.0
+1,3,ALLIER,Parti Socialiste Unifié,0.0
+1,3,ALLIER,Parti communiste,58338.0
+1,3,ALLIER,Radicaux réformateurs,27488.0
+1,3,ALLIER,Républicains Indépendants,0.0
+1,3,ALLIER,Républicains Indépendants-Union des Républicains de Progrès,6613.0
+1,3,ALLIER,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,41206.0
+1,3,ALLIER,Union des Démocrates pour la Vème République,0.0
+1,3,ALLIER,abstentions,47086.0
+1,3,ALLIER,blancs_nuls,4181.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Centre Démocratie et Progrès,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Divers Union des Républicains de Progrès,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Divers droite,732.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Divers gauche,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Divers gaullistes,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Divers réformateurs,4325.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Extrême droite,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Ligue Communiste Révolutionaire,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Lutte Ouvrière,614.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Mouvement des Radicaux de Gauche,8049.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Organisation Communiste Révolutionaire,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Parti Socialiste,8677.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Parti Socialiste Unifié,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Parti communiste,15164.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Radicaux réformateurs,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Républicains Indépendants,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,18037.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Union des Démocrates pour la Vème République,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,abstentions,12708.0
+1,4,ALPES-DE-HAUTE-PROVENCE,blancs_nuls,1294.0
+1,5,HAUTES-ALPES,Centre Démocrate-Union des Républicains de Progrès,11983.0
+1,5,HAUTES-ALPES,Centre Démocratie et Progrès,0.0
+1,5,HAUTES-ALPES,Divers Union des Républicains de Progrès,0.0
+1,5,HAUTES-ALPES,Divers droite,0.0
+1,5,HAUTES-ALPES,Divers gauche,0.0
+1,5,HAUTES-ALPES,Divers gaullistes,0.0
+1,5,HAUTES-ALPES,Divers réformateurs,5775.0
+1,5,HAUTES-ALPES,Extrême droite,0.0
+1,5,HAUTES-ALPES,Ligue Communiste Révolutionaire,0.0
+1,5,HAUTES-ALPES,Lutte Ouvrière,533.0
+1,5,HAUTES-ALPES,Mouvement des Radicaux de Gauche,6984.0
+1,5,HAUTES-ALPES,Organisation Communiste Révolutionaire,0.0
+1,5,HAUTES-ALPES,Parti Socialiste,2938.0
+1,5,HAUTES-ALPES,Parti Socialiste Unifié,0.0
+1,5,HAUTES-ALPES,Parti communiste,10319.0
+1,5,HAUTES-ALPES,Radicaux réformateurs,0.0
+1,5,HAUTES-ALPES,Républicains Indépendants,0.0
+1,5,HAUTES-ALPES,Républicains Indépendants-Union des Républicains de Progrès,9675.0
+1,5,HAUTES-ALPES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+1,5,HAUTES-ALPES,Union des Démocrates pour la Vème République,0.0
+1,5,HAUTES-ALPES,abstentions,12750.0
+1,5,HAUTES-ALPES,blancs_nuls,1159.0
+1,6,ALPES-MARITIMES,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,6,ALPES-MARITIMES,Centre Démocratie et Progrès,13279.0
+1,6,ALPES-MARITIMES,Divers Union des Républicains de Progrès,0.0
+1,6,ALPES-MARITIMES,Divers droite,5633.0
+1,6,ALPES-MARITIMES,Divers gauche,20548.0
+1,6,ALPES-MARITIMES,Divers gaullistes,1251.0
+1,6,ALPES-MARITIMES,Divers réformateurs,62535.0
+1,6,ALPES-MARITIMES,Extrême droite,7845.0
+1,6,ALPES-MARITIMES,Ligue Communiste Révolutionaire,1620.0
+1,6,ALPES-MARITIMES,Lutte Ouvrière,539.0
+1,6,ALPES-MARITIMES,Mouvement des Radicaux de Gauche,0.0
+1,6,ALPES-MARITIMES,Organisation Communiste Révolutionaire,0.0
+1,6,ALPES-MARITIMES,Parti Socialiste,39951.0
+1,6,ALPES-MARITIMES,Parti Socialiste Unifié,3120.0
+1,6,ALPES-MARITIMES,Parti communiste,94199.0
+1,6,ALPES-MARITIMES,Radicaux réformateurs,6348.0
+1,6,ALPES-MARITIMES,Républicains Indépendants,5415.0
+1,6,ALPES-MARITIMES,Républicains Indépendants-Union des Républicains de Progrès,36145.0
+1,6,ALPES-MARITIMES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,68350.0
+1,6,ALPES-MARITIMES,Union des Démocrates pour la Vème République,0.0
+1,6,ALPES-MARITIMES,abstentions,86371.0
+1,6,ALPES-MARITIMES,blancs_nuls,8861.0
+1,7,ARDECHE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,7,ARDECHE,Centre Démocratie et Progrès,8933.0
+1,7,ARDECHE,Divers Union des Républicains de Progrès,0.0
+1,7,ARDECHE,Divers droite,1527.0
+1,7,ARDECHE,Divers gauche,0.0
+1,7,ARDECHE,Divers gaullistes,0.0
+1,7,ARDECHE,Divers réformateurs,8731.0
+1,7,ARDECHE,Extrême droite,580.0
+1,7,ARDECHE,Ligue Communiste Révolutionaire,0.0
+1,7,ARDECHE,Lutte Ouvrière,0.0
+1,7,ARDECHE,Mouvement des Radicaux de Gauche,0.0
+1,7,ARDECHE,Organisation Communiste Révolutionaire,0.0
+1,7,ARDECHE,Parti Socialiste,26795.0
+1,7,ARDECHE,Parti Socialiste Unifié,1419.0
+1,7,ARDECHE,Parti communiste,27867.0
+1,7,ARDECHE,Radicaux réformateurs,4039.0
+1,7,ARDECHE,Républicains Indépendants,0.0
+1,7,ARDECHE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,7,ARDECHE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,54162.0
+1,7,ARDECHE,Union des Démocrates pour la Vème République,0.0
+1,7,ARDECHE,abstentions,33278.0
+1,7,ARDECHE,blancs_nuls,2536.0
+1,8,ARDENNES,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,8,ARDENNES,Centre Démocratie et Progrès,0.0
+1,8,ARDENNES,Divers Union des Républicains de Progrès,0.0
+1,8,ARDENNES,Divers droite,4397.0
+1,8,ARDENNES,Divers gauche,0.0
+1,8,ARDENNES,Divers gaullistes,0.0
+1,8,ARDENNES,Divers réformateurs,14092.0
+1,8,ARDENNES,Extrême droite,0.0
+1,8,ARDENNES,Ligue Communiste Révolutionaire,2409.0
+1,8,ARDENNES,Lutte Ouvrière,0.0
+1,8,ARDENNES,Mouvement des Radicaux de Gauche,0.0
+1,8,ARDENNES,Organisation Communiste Révolutionaire,0.0
+1,8,ARDENNES,Parti Socialiste,32622.0
+1,8,ARDENNES,Parti Socialiste Unifié,1430.0
+1,8,ARDENNES,Parti communiste,31021.0
+1,8,ARDENNES,Radicaux réformateurs,0.0
+1,8,ARDENNES,Républicains Indépendants,0.0
+1,8,ARDENNES,Républicains Indépendants-Union des Républicains de Progrès,6005.0
+1,8,ARDENNES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,41256.0
+1,8,ARDENNES,Union des Démocrates pour la Vème République,0.0
+1,8,ARDENNES,abstentions,32030.0
+1,8,ARDENNES,blancs_nuls,2874.0
+1,9,ARIEGE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,9,ARIEGE,Centre Démocratie et Progrès,0.0
+1,9,ARIEGE,Divers Union des Républicains de Progrès,0.0
+1,9,ARIEGE,Divers droite,1489.0
+1,9,ARIEGE,Divers gauche,0.0
+1,9,ARIEGE,Divers gaullistes,0.0
+1,9,ARIEGE,Divers réformateurs,0.0
+1,9,ARIEGE,Extrême droite,0.0
+1,9,ARIEGE,Ligue Communiste Révolutionaire,0.0
+1,9,ARIEGE,Lutte Ouvrière,913.0
+1,9,ARIEGE,Mouvement des Radicaux de Gauche,0.0
+1,9,ARIEGE,Organisation Communiste Révolutionaire,0.0
+1,9,ARIEGE,Parti Socialiste,31571.0
+1,9,ARIEGE,Parti Socialiste Unifié,0.0
+1,9,ARIEGE,Parti communiste,15899.0
+1,9,ARIEGE,Radicaux réformateurs,4874.0
+1,9,ARIEGE,Républicains Indépendants,1151.0
+1,9,ARIEGE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,9,ARIEGE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,18450.0
+1,9,ARIEGE,Union des Démocrates pour la Vème République,0.0
+1,9,ARIEGE,abstentions,20283.0
+1,9,ARIEGE,blancs_nuls,1742.0
+1,10,AUBE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,10,AUBE,Centre Démocratie et Progrès,0.0
+1,10,AUBE,Divers Union des Républicains de Progrès,0.0
+1,10,AUBE,Divers droite,9600.0
+1,10,AUBE,Divers gauche,0.0
+1,10,AUBE,Divers gaullistes,0.0
+1,10,AUBE,Divers réformateurs,4961.0
+1,10,AUBE,Extrême droite,0.0
+1,10,AUBE,Ligue Communiste Révolutionaire,1411.0
+1,10,AUBE,Lutte Ouvrière,2388.0
+1,10,AUBE,Mouvement des Radicaux de Gauche,0.0
+1,10,AUBE,Organisation Communiste Révolutionaire,0.0
+1,10,AUBE,Parti Socialiste,32243.0
+1,10,AUBE,Parti Socialiste Unifié,0.0
+1,10,AUBE,Parti communiste,25163.0
+1,10,AUBE,Radicaux réformateurs,3695.0
+1,10,AUBE,Républicains Indépendants,0.0
+1,10,AUBE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,10,AUBE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,50009.0
+1,10,AUBE,Union des Démocrates pour la Vème République,0.0
+1,10,AUBE,abstentions,28741.0
+1,10,AUBE,blancs_nuls,2724.0
+1,11,AUDE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,11,AUDE,Centre Démocratie et Progrès,0.0
+1,11,AUDE,Divers Union des Républicains de Progrès,0.0
+1,11,AUDE,Divers droite,0.0
+1,11,AUDE,Divers gauche,0.0
+1,11,AUDE,Divers gaullistes,0.0
+1,11,AUDE,Divers réformateurs,5609.0
+1,11,AUDE,Extrême droite,0.0
+1,11,AUDE,Ligue Communiste Révolutionaire,1613.0
+1,11,AUDE,Lutte Ouvrière,0.0
+1,11,AUDE,Mouvement des Radicaux de Gauche,0.0
+1,11,AUDE,Organisation Communiste Révolutionaire,0.0
+1,11,AUDE,Parti Socialiste,52559.0
+1,11,AUDE,Parti Socialiste Unifié,1188.0
+1,11,AUDE,Parti communiste,35994.0
+1,11,AUDE,Radicaux réformateurs,0.0
+1,11,AUDE,Républicains Indépendants,3283.0
+1,11,AUDE,Républicains Indépendants-Union des Républicains de Progrès,12904.0
+1,11,AUDE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,33587.0
+1,11,AUDE,Union des Démocrates pour la Vème République,0.0
+1,11,AUDE,abstentions,30203.0
+1,11,AUDE,blancs_nuls,3917.0
+1,12,AVEYRON,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,12,AVEYRON,Centre Démocratie et Progrès,0.0
+1,12,AVEYRON,Divers Union des Républicains de Progrès,0.0
+1,12,AVEYRON,Divers droite,8490.0
+1,12,AVEYRON,Divers gauche,0.0
+1,12,AVEYRON,Divers gaullistes,0.0
+1,12,AVEYRON,Divers réformateurs,32992.0
+1,12,AVEYRON,Extrême droite,0.0
+1,12,AVEYRON,Ligue Communiste Révolutionaire,0.0
+1,12,AVEYRON,Lutte Ouvrière,0.0
+1,12,AVEYRON,Mouvement des Radicaux de Gauche,20874.0
+1,12,AVEYRON,Organisation Communiste Révolutionaire,0.0
+1,12,AVEYRON,Parti Socialiste,18593.0
+1,12,AVEYRON,Parti Socialiste Unifié,0.0
+1,12,AVEYRON,Parti communiste,15006.0
+1,12,AVEYRON,Radicaux réformateurs,1966.0
+1,12,AVEYRON,Républicains Indépendants,16261.0
+1,12,AVEYRON,Républicains Indépendants-Union des Républicains de Progrès,17588.0
+1,12,AVEYRON,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,20659.0
+1,12,AVEYRON,Union des Démocrates pour la Vème République,0.0
+1,12,AVEYRON,abstentions,33231.0
+1,12,AVEYRON,blancs_nuls,4023.0
+1,13,BOUCHES-DU-RHONE,Centre Démocrate-Union des Républicains de Progrès,15267.0
+1,13,BOUCHES-DU-RHONE,Centre Démocratie et Progrès,0.0
+1,13,BOUCHES-DU-RHONE,Divers Union des Républicains de Progrès,33908.0
+1,13,BOUCHES-DU-RHONE,Divers droite,13049.0
+1,13,BOUCHES-DU-RHONE,Divers gauche,0.0
+1,13,BOUCHES-DU-RHONE,Divers gaullistes,12711.0
+1,13,BOUCHES-DU-RHONE,Divers réformateurs,38347.0
+1,13,BOUCHES-DU-RHONE,Extrême droite,12215.0
+1,13,BOUCHES-DU-RHONE,Ligue Communiste Révolutionaire,2864.0
+1,13,BOUCHES-DU-RHONE,Lutte Ouvrière,2486.0
+1,13,BOUCHES-DU-RHONE,Mouvement des Radicaux de Gauche,7881.0
+1,13,BOUCHES-DU-RHONE,Organisation Communiste Révolutionaire,0.0
+1,13,BOUCHES-DU-RHONE,Parti Socialiste,158840.0
+1,13,BOUCHES-DU-RHONE,Parti Socialiste Unifié,0.0
+1,13,BOUCHES-DU-RHONE,Parti communiste,200955.0
+1,13,BOUCHES-DU-RHONE,Radicaux réformateurs,23712.0
+1,13,BOUCHES-DU-RHONE,Républicains Indépendants,0.0
+1,13,BOUCHES-DU-RHONE,Républicains Indépendants-Union des Républicains de Progrès,20873.0
+1,13,BOUCHES-DU-RHONE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,70058.0
+1,13,BOUCHES-DU-RHONE,Union des Démocrates pour la Vème République,0.0
+1,13,BOUCHES-DU-RHONE,abstentions,199310.0
+1,13,BOUCHES-DU-RHONE,blancs_nuls,13305.0
+1,14,CALVADOS,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,14,CALVADOS,Centre Démocratie et Progrès,0.0
+1,14,CALVADOS,Divers Union des Républicains de Progrès,0.0
+1,14,CALVADOS,Divers droite,9664.0
+1,14,CALVADOS,Divers gauche,0.0
+1,14,CALVADOS,Divers gaullistes,0.0
+1,14,CALVADOS,Divers réformateurs,22059.0
+1,14,CALVADOS,Extrême droite,2440.0
+1,14,CALVADOS,Ligue Communiste Révolutionaire,2806.0
+1,14,CALVADOS,Lutte Ouvrière,0.0
+1,14,CALVADOS,Mouvement des Radicaux de Gauche,0.0
+1,14,CALVADOS,Organisation Communiste Révolutionaire,0.0
+1,14,CALVADOS,Parti Socialiste,46310.0
+1,14,CALVADOS,Parti Socialiste Unifié,4593.0
+1,14,CALVADOS,Parti communiste,39595.0
+1,14,CALVADOS,Radicaux réformateurs,12908.0
+1,14,CALVADOS,Républicains Indépendants,0.0
+1,14,CALVADOS,Républicains Indépendants-Union des Républicains de Progrès,22412.0
+1,14,CALVADOS,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,88955.0
+1,14,CALVADOS,Union des Démocrates pour la Vème République,0.0
+1,14,CALVADOS,abstentions,56101.0
+1,14,CALVADOS,blancs_nuls,5306.0
+1,15,CANTAL,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,15,CANTAL,Centre Démocratie et Progrès,0.0
+1,15,CANTAL,Divers Union des Républicains de Progrès,0.0
+1,15,CANTAL,Divers droite,2699.0
+1,15,CANTAL,Divers gauche,0.0
+1,15,CANTAL,Divers gaullistes,0.0
+1,15,CANTAL,Divers réformateurs,6307.0
+1,15,CANTAL,Extrême droite,0.0
+1,15,CANTAL,Ligue Communiste Révolutionaire,0.0
+1,15,CANTAL,Lutte Ouvrière,0.0
+1,15,CANTAL,Mouvement des Radicaux de Gauche,0.0
+1,15,CANTAL,Organisation Communiste Révolutionaire,0.0
+1,15,CANTAL,Parti Socialiste,12965.0
+1,15,CANTAL,Parti Socialiste Unifié,0.0
+1,15,CANTAL,Parti communiste,15244.0
+1,15,CANTAL,Radicaux réformateurs,0.0
+1,15,CANTAL,Républicains Indépendants,0.0
+1,15,CANTAL,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,15,CANTAL,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,45912.0
+1,15,CANTAL,Union des Démocrates pour la Vème République,0.0
+1,15,CANTAL,abstentions,26582.0
+1,15,CANTAL,blancs_nuls,2294.0
+1,16,CHARENTE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,16,CHARENTE,Centre Démocratie et Progrès,0.0
+1,16,CHARENTE,Divers Union des Républicains de Progrès,0.0
+1,16,CHARENTE,Divers droite,4309.0
+1,16,CHARENTE,Divers gauche,0.0
+1,16,CHARENTE,Divers gaullistes,18435.0
+1,16,CHARENTE,Divers réformateurs,9104.0
+1,16,CHARENTE,Extrême droite,592.0
+1,16,CHARENTE,Ligue Communiste Révolutionaire,0.0
+1,16,CHARENTE,Lutte Ouvrière,1799.0
+1,16,CHARENTE,Mouvement des Radicaux de Gauche,6316.0
+1,16,CHARENTE,Organisation Communiste Révolutionaire,0.0
+1,16,CHARENTE,Parti Socialiste,22373.0
+1,16,CHARENTE,Parti Socialiste Unifié,3009.0
+1,16,CHARENTE,Parti communiste,36160.0
+1,16,CHARENTE,Radicaux réformateurs,10918.0
+1,16,CHARENTE,Républicains Indépendants,0.0
+1,16,CHARENTE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,16,CHARENTE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,50314.0
+1,16,CHARENTE,Union des Démocrates pour la Vème République,0.0
+1,16,CHARENTE,abstentions,41561.0
+1,16,CHARENTE,blancs_nuls,4548.0
+1,17,CHARENTE-MARITIME,Centre Démocrate-Union des Républicains de Progrès,30150.0
+1,17,CHARENTE-MARITIME,Centre Démocratie et Progrès,0.0
+1,17,CHARENTE-MARITIME,Divers Union des Républicains de Progrès,0.0
+1,17,CHARENTE-MARITIME,Divers droite,10793.0
+1,17,CHARENTE-MARITIME,Divers gauche,11497.0
+1,17,CHARENTE-MARITIME,Divers gaullistes,0.0
+1,17,CHARENTE-MARITIME,Divers réformateurs,20783.0
+1,17,CHARENTE-MARITIME,Extrême droite,0.0
+1,17,CHARENTE-MARITIME,Ligue Communiste Révolutionaire,775.0
+1,17,CHARENTE-MARITIME,Lutte Ouvrière,1207.0
+1,17,CHARENTE-MARITIME,Mouvement des Radicaux de Gauche,21008.0
+1,17,CHARENTE-MARITIME,Organisation Communiste Révolutionaire,0.0
+1,17,CHARENTE-MARITIME,Parti Socialiste,23579.0
+1,17,CHARENTE-MARITIME,Parti Socialiste Unifié,2676.0
+1,17,CHARENTE-MARITIME,Parti communiste,44831.0
+1,17,CHARENTE-MARITIME,Radicaux réformateurs,6306.0
+1,17,CHARENTE-MARITIME,Républicains Indépendants,0.0
+1,17,CHARENTE-MARITIME,Républicains Indépendants-Union des Républicains de Progrès,20334.0
+1,17,CHARENTE-MARITIME,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,36363.0
+1,17,CHARENTE-MARITIME,Union des Démocrates pour la Vème République,0.0
+1,17,CHARENTE-MARITIME,abstentions,71408.0
+1,17,CHARENTE-MARITIME,blancs_nuls,5858.0
+1,18,CHER,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,18,CHER,Centre Démocratie et Progrès,0.0
+1,18,CHER,Divers Union des Républicains de Progrès,0.0
+1,18,CHER,Divers droite,12453.0
+1,18,CHER,Divers gauche,0.0
+1,18,CHER,Divers gaullistes,1050.0
+1,18,CHER,Divers réformateurs,16339.0
+1,18,CHER,Extrême droite,0.0
+1,18,CHER,Ligue Communiste Révolutionaire,0.0
+1,18,CHER,Lutte Ouvrière,4936.0
+1,18,CHER,Mouvement des Radicaux de Gauche,0.0
+1,18,CHER,Organisation Communiste Révolutionaire,0.0
+1,18,CHER,Parti Socialiste,15192.0
+1,18,CHER,Parti Socialiste Unifié,1594.0
+1,18,CHER,Parti communiste,48332.0
+1,18,CHER,Radicaux réformateurs,0.0
+1,18,CHER,Républicains Indépendants,0.0
+1,18,CHER,Républicains Indépendants-Union des Républicains de Progrès,18351.0
+1,18,CHER,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,34714.0
+1,18,CHER,Union des Démocrates pour la Vème République,0.0
+1,18,CHER,abstentions,34049.0
+1,18,CHER,blancs_nuls,4311.0
+1,19,CORREZE,Centre Démocrate-Union des Républicains de Progrès,10249.0
+1,19,CORREZE,Centre Démocratie et Progrès,0.0
+1,19,CORREZE,Divers Union des Républicains de Progrès,0.0
+1,19,CORREZE,Divers droite,398.0
+1,19,CORREZE,Divers gauche,0.0
+1,19,CORREZE,Divers gaullistes,0.0
+1,19,CORREZE,Divers réformateurs,13541.0
+1,19,CORREZE,Extrême droite,0.0
+1,19,CORREZE,Ligue Communiste Révolutionaire,0.0
+1,19,CORREZE,Lutte Ouvrière,1587.0
+1,19,CORREZE,Mouvement des Radicaux de Gauche,0.0
+1,19,CORREZE,Organisation Communiste Révolutionaire,0.0
+1,19,CORREZE,Parti Socialiste,23500.0
+1,19,CORREZE,Parti Socialiste Unifié,1397.0
+1,19,CORREZE,Parti communiste,38097.0
+1,19,CORREZE,Radicaux réformateurs,3815.0
+1,19,CORREZE,Républicains Indépendants,0.0
+1,19,CORREZE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,19,CORREZE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,45707.0
+1,19,CORREZE,Union des Démocrates pour la Vème République,0.0
+1,19,CORREZE,abstentions,25000.0
+1,19,CORREZE,blancs_nuls,2325.0
+1,20,CORSE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,20,CORSE,Centre Démocratie et Progrès,0.0
+1,20,CORSE,Divers Union des Républicains de Progrès,0.0
+1,20,CORSE,Divers droite,4641.0
+1,20,CORSE,Divers gauche,0.0
+1,20,CORSE,Divers gaullistes,0.0
+1,20,CORSE,Divers réformateurs,0.0
+1,20,CORSE,Extrême droite,0.0
+1,20,CORSE,Ligue Communiste Révolutionaire,238.0
+1,20,CORSE,Lutte Ouvrière,0.0
+1,20,CORSE,Mouvement des Radicaux de Gauche,21195.0
+1,20,CORSE,Organisation Communiste Révolutionaire,0.0
+1,20,CORSE,Parti Socialiste,11321.0
+1,20,CORSE,Parti Socialiste Unifié,0.0
+1,20,CORSE,Parti communiste,17097.0
+1,20,CORSE,Radicaux réformateurs,13344.0
+1,20,CORSE,Républicains Indépendants,0.0
+1,20,CORSE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,20,CORSE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,50226.0
+1,20,CORSE,Union des Démocrates pour la Vème République,0.0
+1,20,CORSE,abstentions,62719.0
+1,20,CORSE,blancs_nuls,1382.0
+1,21,COTE-D'OR,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,21,COTE-D'OR,Centre Démocratie et Progrès,0.0
+1,21,COTE-D'OR,Divers Union des Républicains de Progrès,0.0
+1,21,COTE-D'OR,Divers droite,0.0
+1,21,COTE-D'OR,Divers gauche,0.0
+1,21,COTE-D'OR,Divers gaullistes,0.0
+1,21,COTE-D'OR,Divers réformateurs,16354.0
+1,21,COTE-D'OR,Extrême droite,0.0
+1,21,COTE-D'OR,Ligue Communiste Révolutionaire,1018.0
+1,21,COTE-D'OR,Lutte Ouvrière,624.0
+1,21,COTE-D'OR,Mouvement des Radicaux de Gauche,16135.0
+1,21,COTE-D'OR,Organisation Communiste Révolutionaire,1588.0
+1,21,COTE-D'OR,Parti Socialiste,27134.0
+1,21,COTE-D'OR,Parti Socialiste Unifié,2789.0
+1,21,COTE-D'OR,Parti communiste,32180.0
+1,21,COTE-D'OR,Radicaux réformateurs,7097.0
+1,21,COTE-D'OR,Républicains Indépendants,0.0
+1,21,COTE-D'OR,Républicains Indépendants-Union des Républicains de Progrès,19021.0
+1,21,COTE-D'OR,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,68955.0
+1,21,COTE-D'OR,Union des Démocrates pour la Vème République,0.0
+1,21,COTE-D'OR,abstentions,51910.0
+1,21,COTE-D'OR,blancs_nuls,3534.0
+1,22,COTES-D'ARMOR,Centre Démocrate-Union des Républicains de Progrès,73323.0
+1,22,COTES-D'ARMOR,Centre Démocratie et Progrès,0.0
+1,22,COTES-D'ARMOR,Divers Union des Républicains de Progrès,30741.0
+1,22,COTES-D'ARMOR,Divers droite,4436.0
+1,22,COTES-D'ARMOR,Divers gauche,0.0
+1,22,COTES-D'ARMOR,Divers gaullistes,0.0
+1,22,COTES-D'ARMOR,Divers réformateurs,6329.0
+1,22,COTES-D'ARMOR,Extrême droite,0.0
+1,22,COTES-D'ARMOR,Ligue Communiste Révolutionaire,465.0
+1,22,COTES-D'ARMOR,Lutte Ouvrière,1450.0
+1,22,COTES-D'ARMOR,Mouvement des Radicaux de Gauche,0.0
+1,22,COTES-D'ARMOR,Organisation Communiste Révolutionaire,0.0
+1,22,COTES-D'ARMOR,Parti Socialiste,36291.0
+1,22,COTES-D'ARMOR,Parti Socialiste Unifié,30602.0
+1,22,COTES-D'ARMOR,Parti communiste,69590.0
+1,22,COTES-D'ARMOR,Radicaux réformateurs,4801.0
+1,22,COTES-D'ARMOR,Républicains Indépendants,0.0
+1,22,COTES-D'ARMOR,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,22,COTES-D'ARMOR,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,24970.0
+1,22,COTES-D'ARMOR,Union des Démocrates pour la Vème République,0.0
+1,22,COTES-D'ARMOR,abstentions,52764.0
+1,22,COTES-D'ARMOR,blancs_nuls,5352.0
+1,23,CREUSE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,23,CREUSE,Centre Démocratie et Progrès,0.0
+1,23,CREUSE,Divers Union des Républicains de Progrès,0.0
+1,23,CREUSE,Divers droite,1043.0
+1,23,CREUSE,Divers gauche,0.0
+1,23,CREUSE,Divers gaullistes,0.0
+1,23,CREUSE,Divers réformateurs,3825.0
+1,23,CREUSE,Extrême droite,1930.0
+1,23,CREUSE,Ligue Communiste Révolutionaire,0.0
+1,23,CREUSE,Lutte Ouvrière,0.0
+1,23,CREUSE,Mouvement des Radicaux de Gauche,0.0
+1,23,CREUSE,Organisation Communiste Révolutionaire,0.0
+1,23,CREUSE,Parti Socialiste,25765.0
+1,23,CREUSE,Parti Socialiste Unifié,0.0
+1,23,CREUSE,Parti communiste,21184.0
+1,23,CREUSE,Radicaux réformateurs,0.0
+1,23,CREUSE,Républicains Indépendants,0.0
+1,23,CREUSE,Républicains Indépendants-Union des Républicains de Progrès,10721.0
+1,23,CREUSE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,15496.0
+1,23,CREUSE,Union des Démocrates pour la Vème République,0.0
+1,23,CREUSE,abstentions,27691.0
+1,23,CREUSE,blancs_nuls,1580.0
+1,24,DORDOGNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,24,DORDOGNE,Centre Démocratie et Progrès,0.0
+1,24,DORDOGNE,Divers Union des Républicains de Progrès,0.0
+1,24,DORDOGNE,Divers droite,2972.0
+1,24,DORDOGNE,Divers gauche,0.0
+1,24,DORDOGNE,Divers gaullistes,1202.0
+1,24,DORDOGNE,Divers réformateurs,3903.0
+1,24,DORDOGNE,Extrême droite,0.0
+1,24,DORDOGNE,Ligue Communiste Révolutionaire,0.0
+1,24,DORDOGNE,Lutte Ouvrière,1049.0
+1,24,DORDOGNE,Mouvement des Radicaux de Gauche,27990.0
+1,24,DORDOGNE,Organisation Communiste Révolutionaire,0.0
+1,24,DORDOGNE,Parti Socialiste,27180.0
+1,24,DORDOGNE,Parti Socialiste Unifié,2662.0
+1,24,DORDOGNE,Parti communiste,52574.0
+1,24,DORDOGNE,Radicaux réformateurs,17098.0
+1,24,DORDOGNE,Républicains Indépendants,9129.0
+1,24,DORDOGNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,24,DORDOGNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,69180.0
+1,24,DORDOGNE,Union des Démocrates pour la Vème République,0.0
+1,24,DORDOGNE,abstentions,40194.0
+1,24,DORDOGNE,blancs_nuls,5087.0
+1,25,DOUBS,Centre Démocrate-Union des Républicains de Progrès,24598.0
+1,25,DOUBS,Centre Démocratie et Progrès,0.0
+1,25,DOUBS,Divers Union des Républicains de Progrès,0.0
+1,25,DOUBS,Divers droite,1496.0
+1,25,DOUBS,Divers gauche,0.0
+1,25,DOUBS,Divers gaullistes,0.0
+1,25,DOUBS,Divers réformateurs,15975.0
+1,25,DOUBS,Extrême droite,0.0
+1,25,DOUBS,Ligue Communiste Révolutionaire,0.0
+1,25,DOUBS,Lutte Ouvrière,3657.0
+1,25,DOUBS,Mouvement des Radicaux de Gauche,0.0
+1,25,DOUBS,Organisation Communiste Révolutionaire,0.0
+1,25,DOUBS,Parti Socialiste,55979.0
+1,25,DOUBS,Parti Socialiste Unifié,6197.0
+1,25,DOUBS,Parti communiste,26795.0
+1,25,DOUBS,Radicaux réformateurs,0.0
+1,25,DOUBS,Républicains Indépendants,0.0
+1,25,DOUBS,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,25,DOUBS,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,55109.0
+1,25,DOUBS,Union des Démocrates pour la Vème République,0.0
+1,25,DOUBS,abstentions,47391.0
+1,25,DOUBS,blancs_nuls,4419.0
+1,26,DROME,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,26,DROME,Centre Démocratie et Progrès,3258.0
+1,26,DROME,Divers Union des Républicains de Progrès,0.0
+1,26,DROME,Divers droite,0.0
+1,26,DROME,Divers gauche,10.0
+1,26,DROME,Divers gaullistes,9352.0
+1,26,DROME,Divers réformateurs,14337.0
+1,26,DROME,Extrême droite,0.0
+1,26,DROME,Ligue Communiste Révolutionaire,0.0
+1,26,DROME,Lutte Ouvrière,1437.0
+1,26,DROME,Mouvement des Radicaux de Gauche,0.0
+1,26,DROME,Organisation Communiste Révolutionaire,0.0
+1,26,DROME,Parti Socialiste,48770.0
+1,26,DROME,Parti Socialiste Unifié,1396.0
+1,26,DROME,Parti communiste,31359.0
+1,26,DROME,Radicaux réformateurs,6202.0
+1,26,DROME,Républicains Indépendants,3489.0
+1,26,DROME,Républicains Indépendants-Union des Républicains de Progrès,14138.0
+1,26,DROME,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,31459.0
+1,26,DROME,Union des Démocrates pour la Vème République,0.0
+1,26,DROME,abstentions,36094.0
+1,26,DROME,blancs_nuls,10384.0
+1,27,EURE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,27,EURE,Centre Démocratie et Progrès,0.0
+1,27,EURE,Divers Union des Républicains de Progrès,0.0
+1,27,EURE,Divers droite,1887.0
+1,27,EURE,Divers gauche,0.0
+1,27,EURE,Divers gaullistes,5.0
+1,27,EURE,Divers réformateurs,35305.0
+1,27,EURE,Extrême droite,763.0
+1,27,EURE,Ligue Communiste Révolutionaire,1179.0
+1,27,EURE,Lutte Ouvrière,2117.0
+1,27,EURE,Mouvement des Radicaux de Gauche,0.0
+1,27,EURE,Organisation Communiste Révolutionaire,0.0
+1,27,EURE,Parti Socialiste,32877.0
+1,27,EURE,Parti Socialiste Unifié,5920.0
+1,27,EURE,Parti communiste,37958.0
+1,27,EURE,Radicaux réformateurs,0.0
+1,27,EURE,Républicains Indépendants,10874.0
+1,27,EURE,Républicains Indépendants-Union des Républicains de Progrès,23566.0
+1,27,EURE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,42203.0
+1,27,EURE,Union des Démocrates pour la Vème République,0.0
+1,27,EURE,abstentions,38174.0
+1,27,EURE,blancs_nuls,4854.0
+1,28,EURE-ET-LOIR,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,28,EURE-ET-LOIR,Centre Démocratie et Progrès,0.0
+1,28,EURE-ET-LOIR,Divers Union des Républicains de Progrès,0.0
+1,28,EURE-ET-LOIR,Divers droite,4362.0
+1,28,EURE-ET-LOIR,Divers gauche,10865.0
+1,28,EURE-ET-LOIR,Divers gaullistes,0.0
+1,28,EURE-ET-LOIR,Divers réformateurs,13361.0
+1,28,EURE-ET-LOIR,Extrême droite,0.0
+1,28,EURE-ET-LOIR,Ligue Communiste Révolutionaire,897.0
+1,28,EURE-ET-LOIR,Lutte Ouvrière,2202.0
+1,28,EURE-ET-LOIR,Mouvement des Radicaux de Gauche,7622.0
+1,28,EURE-ET-LOIR,Organisation Communiste Révolutionaire,0.0
+1,28,EURE-ET-LOIR,Parti Socialiste,23654.0
+1,28,EURE-ET-LOIR,Parti Socialiste Unifié,0.0
+1,28,EURE-ET-LOIR,Parti communiste,25525.0
+1,28,EURE-ET-LOIR,Radicaux réformateurs,13491.0
+1,28,EURE-ET-LOIR,Républicains Indépendants,0.0
+1,28,EURE-ET-LOIR,Républicains Indépendants-Union des Républicains de Progrès,20419.0
+1,28,EURE-ET-LOIR,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,33225.0
+1,28,EURE-ET-LOIR,Union des Démocrates pour la Vème République,0.0
+1,28,EURE-ET-LOIR,abstentions,32305.0
+1,28,EURE-ET-LOIR,blancs_nuls,4190.0
+1,29,FINISTERE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,29,FINISTERE,Centre Démocratie et Progrès,6.0
+1,29,FINISTERE,Divers Union des Républicains de Progrès,0.0
+1,29,FINISTERE,Divers droite,14654.0
+1,29,FINISTERE,Divers gauche,3390.0
+1,29,FINISTERE,Divers gaullistes,0.0
+1,29,FINISTERE,Divers réformateurs,61455.0
+1,29,FINISTERE,Extrême droite,2265.0
+1,29,FINISTERE,Ligue Communiste Révolutionaire,355.0
+1,29,FINISTERE,Lutte Ouvrière,984.0
+1,29,FINISTERE,Mouvement des Radicaux de Gauche,0.0
+1,29,FINISTERE,Organisation Communiste Révolutionaire,0.0
+1,29,FINISTERE,Parti Socialiste,82906.0
+1,29,FINISTERE,Parti Socialiste Unifié,9619.0
+1,29,FINISTERE,Parti communiste,66125.0
+1,29,FINISTERE,Radicaux réformateurs,0.0
+1,29,FINISTERE,Républicains Indépendants,5873.0
+1,29,FINISTERE,Républicains Indépendants-Union des Républicains de Progrès,15610.0
+1,29,FINISTERE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,153976.0
+1,29,FINISTERE,Union des Démocrates pour la Vème République,0.0
+1,29,FINISTERE,abstentions,92421.0
+1,29,FINISTERE,blancs_nuls,5039.0
+1,30,GARD,Centre Démocrate-Union des Républicains de Progrès,32149.0
+1,30,GARD,Centre Démocratie et Progrès,0.0
+1,30,GARD,Divers Union des Républicains de Progrès,0.0
+1,30,GARD,Divers droite,1878.0
+1,30,GARD,Divers gauche,0.0
+1,30,GARD,Divers gaullistes,0.0
+1,30,GARD,Divers réformateurs,12058.0
+1,30,GARD,Extrême droite,1067.0
+1,30,GARD,Ligue Communiste Révolutionaire,0.0
+1,30,GARD,Lutte Ouvrière,1013.0
+1,30,GARD,Mouvement des Radicaux de Gauche,0.0
+1,30,GARD,Organisation Communiste Révolutionaire,0.0
+1,30,GARD,Parti Socialiste,51796.0
+1,30,GARD,Parti Socialiste Unifié,1376.0
+1,30,GARD,Parti communiste,82191.0
+1,30,GARD,Radicaux réformateurs,7789.0
+1,30,GARD,Républicains Indépendants,0.0
+1,30,GARD,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,30,GARD,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,44486.0
+1,30,GARD,Union des Démocrates pour la Vème République,0.0
+1,30,GARD,abstentions,59467.0
+1,30,GARD,blancs_nuls,5077.0
+1,31,HAUTE-GARONNE,Centre Démocrate-Union des Républicains de Progrès,44424.0
+1,31,HAUTE-GARONNE,Centre Démocratie et Progrès,0.0
+1,31,HAUTE-GARONNE,Divers Union des Républicains de Progrès,0.0
+1,31,HAUTE-GARONNE,Divers droite,14777.0
+1,31,HAUTE-GARONNE,Divers gauche,0.0
+1,31,HAUTE-GARONNE,Divers gaullistes,0.0
+1,31,HAUTE-GARONNE,Divers réformateurs,14333.0
+1,31,HAUTE-GARONNE,Extrême droite,3574.0
+1,31,HAUTE-GARONNE,Ligue Communiste Révolutionaire,2263.0
+1,31,HAUTE-GARONNE,Lutte Ouvrière,5504.0
+1,31,HAUTE-GARONNE,Mouvement des Radicaux de Gauche,0.0
+1,31,HAUTE-GARONNE,Organisation Communiste Révolutionaire,538.0
+1,31,HAUTE-GARONNE,Parti Socialiste,104106.0
+1,31,HAUTE-GARONNE,Parti Socialiste Unifié,5029.0
+1,31,HAUTE-GARONNE,Parti communiste,58970.0
+1,31,HAUTE-GARONNE,Radicaux réformateurs,10900.0
+1,31,HAUTE-GARONNE,Républicains Indépendants,0.0
+1,31,HAUTE-GARONNE,Républicains Indépendants-Union des Républicains de Progrès,36834.0
+1,31,HAUTE-GARONNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,33952.0
+1,31,HAUTE-GARONNE,Union des Démocrates pour la Vème République,0.0
+1,31,HAUTE-GARONNE,abstentions,80997.0
+1,31,HAUTE-GARONNE,blancs_nuls,8486.0
+1,32,GERS,Centre Démocrate-Union des Républicains de Progrès,21423.0
+1,32,GERS,Centre Démocratie et Progrès,0.0
+1,32,GERS,Divers Union des Républicains de Progrès,19794.0
+1,32,GERS,Divers droite,3066.0
+1,32,GERS,Divers gauche,0.0
+1,32,GERS,Divers gaullistes,0.0
+1,32,GERS,Divers réformateurs,3312.0
+1,32,GERS,Extrême droite,0.0
+1,32,GERS,Ligue Communiste Révolutionaire,0.0
+1,32,GERS,Lutte Ouvrière,0.0
+1,32,GERS,Mouvement des Radicaux de Gauche,0.0
+1,32,GERS,Organisation Communiste Révolutionaire,0.0
+1,32,GERS,Parti Socialiste,28264.0
+1,32,GERS,Parti Socialiste Unifié,0.0
+1,32,GERS,Parti communiste,15153.0
+1,32,GERS,Radicaux réformateurs,1355.0
+1,32,GERS,Républicains Indépendants,0.0
+1,32,GERS,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,32,GERS,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+1,32,GERS,Union des Démocrates pour la Vème République,0.0
+1,32,GERS,abstentions,23035.0
+1,32,GERS,blancs_nuls,2314.0
+1,33,GIRONDE,Centre Démocrate-Union des Républicains de Progrès,17562.0
+1,33,GIRONDE,Centre Démocratie et Progrès,0.0
+1,33,GIRONDE,Divers Union des Républicains de Progrès,23704.0
+1,33,GIRONDE,Divers droite,16798.0
+1,33,GIRONDE,Divers gauche,0.0
+1,33,GIRONDE,Divers gaullistes,0.0
+1,33,GIRONDE,Divers réformateurs,42371.0
+1,33,GIRONDE,Extrême droite,2864.0
+1,33,GIRONDE,Ligue Communiste Révolutionaire,859.0
+1,33,GIRONDE,Lutte Ouvrière,5342.0
+1,33,GIRONDE,Mouvement des Radicaux de Gauche,23432.0
+1,33,GIRONDE,Organisation Communiste Révolutionaire,0.0
+1,33,GIRONDE,Parti Socialiste,116191.0
+1,33,GIRONDE,Parti Socialiste Unifié,4781.0
+1,33,GIRONDE,Parti communiste,78913.0
+1,33,GIRONDE,Radicaux réformateurs,7367.0
+1,33,GIRONDE,Républicains Indépendants,6915.0
+1,33,GIRONDE,Républicains Indépendants-Union des Républicains de Progrès,14679.0
+1,33,GIRONDE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,116733.0
+1,33,GIRONDE,Union des Démocrates pour la Vème République,0.0
+1,33,GIRONDE,abstentions,126138.0
+1,33,GIRONDE,blancs_nuls,9587.0
+1,34,HERAULT,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,34,HERAULT,Centre Démocratie et Progrès,3740.0
+1,34,HERAULT,Divers Union des Républicains de Progrès,0.0
+1,34,HERAULT,Divers droite,1195.0
+1,34,HERAULT,Divers gauche,0.0
+1,34,HERAULT,Divers gaullistes,0.0
+1,34,HERAULT,Divers réformateurs,17098.0
+1,34,HERAULT,Extrême droite,3142.0
+1,34,HERAULT,Ligue Communiste Révolutionaire,5158.0
+1,34,HERAULT,Lutte Ouvrière,1032.0
+1,34,HERAULT,Mouvement des Radicaux de Gauche,0.0
+1,34,HERAULT,Organisation Communiste Révolutionaire,519.0
+1,34,HERAULT,Parti Socialiste,80331.0
+1,34,HERAULT,Parti Socialiste Unifié,0.0
+1,34,HERAULT,Parti communiste,70994.0
+1,34,HERAULT,Radicaux réformateurs,14068.0
+1,34,HERAULT,Républicains Indépendants,0.0
+1,34,HERAULT,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,34,HERAULT,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,81737.0
+1,34,HERAULT,Union des Démocrates pour la Vème République,0.0
+1,34,HERAULT,abstentions,75952.0
+1,34,HERAULT,blancs_nuls,5849.0
+1,35,ILLE-ET-VILAINE,Centre Démocrate-Union des Républicains de Progrès,20829.0
+1,35,ILLE-ET-VILAINE,Centre Démocratie et Progrès,0.0
+1,35,ILLE-ET-VILAINE,Divers Union des Républicains de Progrès,0.0
+1,35,ILLE-ET-VILAINE,Divers droite,16641.0
+1,35,ILLE-ET-VILAINE,Divers gauche,845.0
+1,35,ILLE-ET-VILAINE,Divers gaullistes,0.0
+1,35,ILLE-ET-VILAINE,Divers réformateurs,44132.0
+1,35,ILLE-ET-VILAINE,Extrême droite,696.0
+1,35,ILLE-ET-VILAINE,Ligue Communiste Révolutionaire,691.0
+1,35,ILLE-ET-VILAINE,Lutte Ouvrière,3472.0
+1,35,ILLE-ET-VILAINE,Mouvement des Radicaux de Gauche,0.0
+1,35,ILLE-ET-VILAINE,Organisation Communiste Révolutionaire,0.0
+1,35,ILLE-ET-VILAINE,Parti Socialiste,54484.0
+1,35,ILLE-ET-VILAINE,Parti Socialiste Unifié,7214.0
+1,35,ILLE-ET-VILAINE,Parti communiste,35596.0
+1,35,ILLE-ET-VILAINE,Radicaux réformateurs,0.0
+1,35,ILLE-ET-VILAINE,Républicains Indépendants,0.0
+1,35,ILLE-ET-VILAINE,Républicains Indépendants-Union des Républicains de Progrès,18419.0
+1,35,ILLE-ET-VILAINE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,126999.0
+1,35,ILLE-ET-VILAINE,Union des Démocrates pour la Vème République,0.0
+1,35,ILLE-ET-VILAINE,abstentions,74075.0
+1,35,ILLE-ET-VILAINE,blancs_nuls,6980.0
+1,36,INDRE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,36,INDRE,Centre Démocratie et Progrès,0.0
+1,36,INDRE,Divers Union des Républicains de Progrès,0.0
+1,36,INDRE,Divers droite,0.0
+1,36,INDRE,Divers gauche,0.0
+1,36,INDRE,Divers gaullistes,0.0
+1,36,INDRE,Divers réformateurs,21651.0
+1,36,INDRE,Extrême droite,0.0
+1,36,INDRE,Ligue Communiste Révolutionaire,0.0
+1,36,INDRE,Lutte Ouvrière,2939.0
+1,36,INDRE,Mouvement des Radicaux de Gauche,6572.0
+1,36,INDRE,Organisation Communiste Révolutionaire,0.0
+1,36,INDRE,Parti Socialiste,15013.0
+1,36,INDRE,Parti Socialiste Unifié,0.0
+1,36,INDRE,Parti communiste,38142.0
+1,36,INDRE,Radicaux réformateurs,0.0
+1,36,INDRE,Républicains Indépendants,0.0
+1,36,INDRE,Républicains Indépendants-Union des Républicains de Progrès,16215.0
+1,36,INDRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,29758.0
+1,36,INDRE,Union des Démocrates pour la Vème République,0.0
+1,36,INDRE,abstentions,30438.0
+1,36,INDRE,blancs_nuls,3311.0
+1,37,INDRE-ET-LOIRE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,37,INDRE-ET-LOIRE,Centre Démocratie et Progrès,0.0
+1,37,INDRE-ET-LOIRE,Divers Union des Républicains de Progrès,27655.0
+1,37,INDRE-ET-LOIRE,Divers droite,8392.0
+1,37,INDRE-ET-LOIRE,Divers gauche,0.0
+1,37,INDRE-ET-LOIRE,Divers gaullistes,0.0
+1,37,INDRE-ET-LOIRE,Divers réformateurs,4340.0
+1,37,INDRE-ET-LOIRE,Extrême droite,0.0
+1,37,INDRE-ET-LOIRE,Ligue Communiste Révolutionaire,3105.0
+1,37,INDRE-ET-LOIRE,Lutte Ouvrière,1377.0
+1,37,INDRE-ET-LOIRE,Mouvement des Radicaux de Gauche,16602.0
+1,37,INDRE-ET-LOIRE,Organisation Communiste Révolutionaire,0.0
+1,37,INDRE-ET-LOIRE,Parti Socialiste,36927.0
+1,37,INDRE-ET-LOIRE,Parti Socialiste Unifié,0.0
+1,37,INDRE-ET-LOIRE,Parti communiste,30334.0
+1,37,INDRE-ET-LOIRE,Radicaux réformateurs,20146.0
+1,37,INDRE-ET-LOIRE,Républicains Indépendants,0.0
+1,37,INDRE-ET-LOIRE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,37,INDRE-ET-LOIRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,59445.0
+1,37,INDRE-ET-LOIRE,Union des Démocrates pour la Vème République,0.0
+1,37,INDRE-ET-LOIRE,abstentions,51472.0
+1,37,INDRE-ET-LOIRE,blancs_nuls,6737.0
+1,38,ISERE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,38,ISERE,Centre Démocratie et Progrès,5138.0
+1,38,ISERE,Divers Union des Républicains de Progrès,0.0
+1,38,ISERE,Divers droite,3448.0
+1,38,ISERE,Divers gauche,0.0
+1,38,ISERE,Divers gaullistes,3434.0
+1,38,ISERE,Divers réformateurs,9437.0
+1,38,ISERE,Extrême droite,344.0
+1,38,ISERE,Ligue Communiste Révolutionaire,975.0
+1,38,ISERE,Lutte Ouvrière,3866.0
+1,38,ISERE,Mouvement des Radicaux de Gauche,0.0
+1,38,ISERE,Organisation Communiste Révolutionaire,753.0
+1,38,ISERE,Parti Socialiste,82296.0
+1,38,ISERE,Parti Socialiste Unifié,7859.0
+1,38,ISERE,Parti communiste,80380.0
+1,38,ISERE,Radicaux réformateurs,34366.0
+1,38,ISERE,Républicains Indépendants,0.0
+1,38,ISERE,Républicains Indépendants-Union des Républicains de Progrès,65620.0
+1,38,ISERE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,44897.0
+1,38,ISERE,Union des Démocrates pour la Vème République,0.0
+1,38,ISERE,abstentions,95397.0
+1,38,ISERE,blancs_nuls,6893.0
+1,39,JURA,Centre Démocrate-Union des Républicains de Progrès,29597.0
+1,39,JURA,Centre Démocratie et Progrès,0.0
+1,39,JURA,Divers Union des Républicains de Progrès,0.0
+1,39,JURA,Divers droite,9737.0
+1,39,JURA,Divers gauche,0.0
+1,39,JURA,Divers gaullistes,0.0
+1,39,JURA,Divers réformateurs,12499.0
+1,39,JURA,Extrême droite,0.0
+1,39,JURA,Ligue Communiste Révolutionaire,0.0
+1,39,JURA,Lutte Ouvrière,1533.0
+1,39,JURA,Mouvement des Radicaux de Gauche,0.0
+1,39,JURA,Organisation Communiste Révolutionaire,0.0
+1,39,JURA,Parti Socialiste,21124.0
+1,39,JURA,Parti Socialiste Unifié,2119.0
+1,39,JURA,Parti communiste,18263.0
+1,39,JURA,Radicaux réformateurs,3808.0
+1,39,JURA,Républicains Indépendants,0.0
+1,39,JURA,Républicains Indépendants-Union des Républicains de Progrès,17473.0
+1,39,JURA,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+1,39,JURA,Union des Démocrates pour la Vème République,0.0
+1,39,JURA,abstentions,29166.0
+1,39,JURA,blancs_nuls,2275.0
+1,40,LANDES,Centre Démocrate-Union des Républicains de Progrès,22618.0
+1,40,LANDES,Centre Démocratie et Progrès,0.0
+1,40,LANDES,Divers Union des Républicains de Progrès,16700.0
+1,40,LANDES,Divers droite,693.0
+1,40,LANDES,Divers gauche,19267.0
+1,40,LANDES,Divers gaullistes,0.0
+1,40,LANDES,Divers réformateurs,6455.0
+1,40,LANDES,Extrême droite,0.0
+1,40,LANDES,Ligue Communiste Révolutionaire,0.0
+1,40,LANDES,Lutte Ouvrière,1314.0
+1,40,LANDES,Mouvement des Radicaux de Gauche,0.0
+1,40,LANDES,Organisation Communiste Révolutionaire,0.0
+1,40,LANDES,Parti Socialiste,40190.0
+1,40,LANDES,Parti Socialiste Unifié,0.0
+1,40,LANDES,Parti communiste,25552.0
+1,40,LANDES,Radicaux réformateurs,3932.0
+1,40,LANDES,Républicains Indépendants,0.0
+1,40,LANDES,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,40,LANDES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,18716.0
+1,40,LANDES,Union des Démocrates pour la Vème République,0.0
+1,40,LANDES,abstentions,28973.0
+1,40,LANDES,blancs_nuls,3680.0
+1,41,LOIR-ET-CHER,Centre Démocrate-Union des Républicains de Progrès,13150.0
+1,41,LOIR-ET-CHER,Centre Démocratie et Progrès,0.0
+1,41,LOIR-ET-CHER,Divers Union des Républicains de Progrès,0.0
+1,41,LOIR-ET-CHER,Divers droite,4099.0
+1,41,LOIR-ET-CHER,Divers gauche,0.0
+1,41,LOIR-ET-CHER,Divers gaullistes,0.0
+1,41,LOIR-ET-CHER,Divers réformateurs,36791.0
+1,41,LOIR-ET-CHER,Extrême droite,0.0
+1,41,LOIR-ET-CHER,Ligue Communiste Révolutionaire,989.0
+1,41,LOIR-ET-CHER,Lutte Ouvrière,1633.0
+1,41,LOIR-ET-CHER,Mouvement des Radicaux de Gauche,0.0
+1,41,LOIR-ET-CHER,Organisation Communiste Révolutionaire,0.0
+1,41,LOIR-ET-CHER,Parti Socialiste,30379.0
+1,41,LOIR-ET-CHER,Parti Socialiste Unifié,2012.0
+1,41,LOIR-ET-CHER,Parti communiste,25640.0
+1,41,LOIR-ET-CHER,Radicaux réformateurs,5780.0
+1,41,LOIR-ET-CHER,Républicains Indépendants,0.0
+1,41,LOIR-ET-CHER,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,41,LOIR-ET-CHER,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,18517.0
+1,41,LOIR-ET-CHER,Union des Démocrates pour la Vème République,0.0
+1,41,LOIR-ET-CHER,abstentions,30460.0
+1,41,LOIR-ET-CHER,blancs_nuls,3711.0
+1,42,LOIRE,Centre Démocrate-Union des Républicains de Progrès,11713.0
+1,42,LOIRE,Centre Démocratie et Progrès,0.0
+1,42,LOIRE,Divers Union des Républicains de Progrès,0.0
+1,42,LOIRE,Divers droite,31210.0
+1,42,LOIRE,Divers gauche,0.0
+1,42,LOIRE,Divers gaullistes,0.0
+1,42,LOIRE,Divers réformateurs,29516.0
+1,42,LOIRE,Extrême droite,6483.0
+1,42,LOIRE,Ligue Communiste Révolutionaire,563.0
+1,42,LOIRE,Lutte Ouvrière,3901.0
+1,42,LOIRE,Mouvement des Radicaux de Gauche,8237.0
+1,42,LOIRE,Organisation Communiste Révolutionaire,345.0
+1,42,LOIRE,Parti Socialiste,45848.0
+1,42,LOIRE,Parti Socialiste Unifié,11697.0
+1,42,LOIRE,Parti communiste,64818.0
+1,42,LOIRE,Radicaux réformateurs,16715.0
+1,42,LOIRE,Républicains Indépendants,0.0
+1,42,LOIRE,Républicains Indépendants-Union des Républicains de Progrès,20819.0
+1,42,LOIRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,64622.0
+1,42,LOIRE,Union des Démocrates pour la Vème République,0.0
+1,42,LOIRE,abstentions,98053.0
+1,42,LOIRE,blancs_nuls,7559.0
+1,43,HAUTE-LOIRE,Centre Démocrate-Union des Républicains de Progrès,36431.0
+1,43,HAUTE-LOIRE,Centre Démocratie et Progrès,0.0
+1,43,HAUTE-LOIRE,Divers Union des Républicains de Progrès,0.0
+1,43,HAUTE-LOIRE,Divers droite,0.0
+1,43,HAUTE-LOIRE,Divers gauche,0.0
+1,43,HAUTE-LOIRE,Divers gaullistes,0.0
+1,43,HAUTE-LOIRE,Divers réformateurs,0.0
+1,43,HAUTE-LOIRE,Extrême droite,2699.0
+1,43,HAUTE-LOIRE,Ligue Communiste Révolutionaire,0.0
+1,43,HAUTE-LOIRE,Lutte Ouvrière,0.0
+1,43,HAUTE-LOIRE,Mouvement des Radicaux de Gauche,0.0
+1,43,HAUTE-LOIRE,Organisation Communiste Révolutionaire,0.0
+1,43,HAUTE-LOIRE,Parti Socialiste,31287.0
+1,43,HAUTE-LOIRE,Parti Socialiste Unifié,0.0
+1,43,HAUTE-LOIRE,Parti communiste,9081.0
+1,43,HAUTE-LOIRE,Radicaux réformateurs,2143.0
+1,43,HAUTE-LOIRE,Républicains Indépendants,0.0
+1,43,HAUTE-LOIRE,Républicains Indépendants-Union des Républicains de Progrès,15790.0
+1,43,HAUTE-LOIRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,8523.0
+1,43,HAUTE-LOIRE,Union des Démocrates pour la Vème République,0.0
+1,43,HAUTE-LOIRE,abstentions,30024.0
+1,43,HAUTE-LOIRE,blancs_nuls,2123.0
+1,44,LOIRE-ATLANTIQUE,Centre Démocrate-Union des Républicains de Progrès,16317.0
+1,44,LOIRE-ATLANTIQUE,Centre Démocratie et Progrès,0.0
+1,44,LOIRE-ATLANTIQUE,Divers Union des Républicains de Progrès,26351.0
+1,44,LOIRE-ATLANTIQUE,Divers droite,18070.0
+1,44,LOIRE-ATLANTIQUE,Divers gauche,427.0
+1,44,LOIRE-ATLANTIQUE,Divers gaullistes,0.0
+1,44,LOIRE-ATLANTIQUE,Divers réformateurs,25928.0
+1,44,LOIRE-ATLANTIQUE,Extrême droite,2170.0
+1,44,LOIRE-ATLANTIQUE,Ligue Communiste Révolutionaire,1695.0
+1,44,LOIRE-ATLANTIQUE,Lutte Ouvrière,2019.0
+1,44,LOIRE-ATLANTIQUE,Mouvement des Radicaux de Gauche,0.0
+1,44,LOIRE-ATLANTIQUE,Organisation Communiste Révolutionaire,626.0
+1,44,LOIRE-ATLANTIQUE,Parti Socialiste,94144.0
+1,44,LOIRE-ATLANTIQUE,Parti Socialiste Unifié,11961.0
+1,44,LOIRE-ATLANTIQUE,Parti communiste,46727.0
+1,44,LOIRE-ATLANTIQUE,Radicaux réformateurs,27446.0
+1,44,LOIRE-ATLANTIQUE,Républicains Indépendants,0.0
+1,44,LOIRE-ATLANTIQUE,Républicains Indépendants-Union des Républicains de Progrès,38999.0
+1,44,LOIRE-ATLANTIQUE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,113055.0
+1,44,LOIRE-ATLANTIQUE,Union des Démocrates pour la Vème République,0.0
+1,44,LOIRE-ATLANTIQUE,abstentions,97696.0
+1,44,LOIRE-ATLANTIQUE,blancs_nuls,8404.0
+1,45,LOIRET,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,45,LOIRET,Centre Démocratie et Progrès,0.0
+1,45,LOIRET,Divers Union des Républicains de Progrès,0.0
+1,45,LOIRET,Divers droite,0.0
+1,45,LOIRET,Divers gauche,0.0
+1,45,LOIRET,Divers gaullistes,0.0
+1,45,LOIRET,Divers réformateurs,27203.0
+1,45,LOIRET,Extrême droite,3176.0
+1,45,LOIRET,Ligue Communiste Révolutionaire,1529.0
+1,45,LOIRET,Lutte Ouvrière,1616.0
+1,45,LOIRET,Mouvement des Radicaux de Gauche,26025.0
+1,45,LOIRET,Organisation Communiste Révolutionaire,0.0
+1,45,LOIRET,Parti Socialiste,9530.0
+1,45,LOIRET,Parti Socialiste Unifié,10024.0
+1,45,LOIRET,Parti communiste,46380.0
+1,45,LOIRET,Radicaux réformateurs,0.0
+1,45,LOIRET,Républicains Indépendants,0.0
+1,45,LOIRET,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,45,LOIRET,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,92903.0
+1,45,LOIRET,Union des Démocrates pour la Vème République,0.0
+1,45,LOIRET,abstentions,45521.0
+1,45,LOIRET,blancs_nuls,6016.0
+1,46,LOT,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,46,LOT,Centre Démocratie et Progrès,0.0
+1,46,LOT,Divers Union des Républicains de Progrès,0.0
+1,46,LOT,Divers droite,0.0
+1,46,LOT,Divers gauche,0.0
+1,46,LOT,Divers gaullistes,0.0
+1,46,LOT,Divers réformateurs,4771.0
+1,46,LOT,Extrême droite,0.0
+1,46,LOT,Ligue Communiste Révolutionaire,0.0
+1,46,LOT,Lutte Ouvrière,879.0
+1,46,LOT,Mouvement des Radicaux de Gauche,17012.0
+1,46,LOT,Organisation Communiste Révolutionaire,0.0
+1,46,LOT,Parti Socialiste,12897.0
+1,46,LOT,Parti Socialiste Unifié,2421.0
+1,46,LOT,Parti communiste,14333.0
+1,46,LOT,Radicaux réformateurs,0.0
+1,46,LOT,Républicains Indépendants,0.0
+1,46,LOT,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,46,LOT,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,32988.0
+1,46,LOT,Union des Démocrates pour la Vème République,0.0
+1,46,LOT,abstentions,16111.0
+1,46,LOT,blancs_nuls,1769.0
+1,47,LOT-ET-GARONNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,47,LOT-ET-GARONNE,Centre Démocratie et Progrès,0.0
+1,47,LOT-ET-GARONNE,Divers Union des Républicains de Progrès,0.0
+1,47,LOT-ET-GARONNE,Divers droite,5159.0
+1,47,LOT-ET-GARONNE,Divers gauche,0.0
+1,47,LOT-ET-GARONNE,Divers gaullistes,0.0
+1,47,LOT-ET-GARONNE,Divers réformateurs,6330.0
+1,47,LOT-ET-GARONNE,Extrême droite,893.0
+1,47,LOT-ET-GARONNE,Ligue Communiste Révolutionaire,0.0
+1,47,LOT-ET-GARONNE,Lutte Ouvrière,912.0
+1,47,LOT-ET-GARONNE,Mouvement des Radicaux de Gauche,0.0
+1,47,LOT-ET-GARONNE,Organisation Communiste Révolutionaire,0.0
+1,47,LOT-ET-GARONNE,Parti Socialiste,31945.0
+1,47,LOT-ET-GARONNE,Parti Socialiste Unifié,1251.0
+1,47,LOT-ET-GARONNE,Parti communiste,36701.0
+1,47,LOT-ET-GARONNE,Radicaux réformateurs,18577.0
+1,47,LOT-ET-GARONNE,Républicains Indépendants,1946.0
+1,47,LOT-ET-GARONNE,Républicains Indépendants-Union des Républicains de Progrès,19969.0
+1,47,LOT-ET-GARONNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,25227.0
+1,47,LOT-ET-GARONNE,Union des Démocrates pour la Vème République,0.0
+1,47,LOT-ET-GARONNE,abstentions,32286.0
+1,47,LOT-ET-GARONNE,blancs_nuls,3861.0
+1,48,LOZERE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,48,LOZERE,Centre Démocratie et Progrès,4163.0
+1,48,LOZERE,Divers Union des Républicains de Progrès,0.0
+1,48,LOZERE,Divers droite,5892.0
+1,48,LOZERE,Divers gauche,0.0
+1,48,LOZERE,Divers gaullistes,0.0
+1,48,LOZERE,Divers réformateurs,0.0
+1,48,LOZERE,Extrême droite,0.0
+1,48,LOZERE,Ligue Communiste Révolutionaire,0.0
+1,48,LOZERE,Lutte Ouvrière,0.0
+1,48,LOZERE,Mouvement des Radicaux de Gauche,0.0
+1,48,LOZERE,Organisation Communiste Révolutionaire,0.0
+1,48,LOZERE,Parti Socialiste,5585.0
+1,48,LOZERE,Parti Socialiste Unifié,0.0
+1,48,LOZERE,Parti communiste,3776.0
+1,48,LOZERE,Radicaux réformateurs,0.0
+1,48,LOZERE,Républicains Indépendants,0.0
+1,48,LOZERE,Républicains Indépendants-Union des Républicains de Progrès,17407.0
+1,48,LOZERE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+1,48,LOZERE,Union des Démocrates pour la Vème République,3496.0
+1,48,LOZERE,abstentions,11786.0
+1,48,LOZERE,blancs_nuls,792.0
+1,49,MAINE-ET-LOIRE,Centre Démocrate-Union des Républicains de Progrès,6026.0
+1,49,MAINE-ET-LOIRE,Centre Démocratie et Progrès,0.0
+1,49,MAINE-ET-LOIRE,Divers Union des Républicains de Progrès,0.0
+1,49,MAINE-ET-LOIRE,Divers droite,37973.0
+1,49,MAINE-ET-LOIRE,Divers gauche,0.0
+1,49,MAINE-ET-LOIRE,Divers gaullistes,9319.0
+1,49,MAINE-ET-LOIRE,Divers réformateurs,16738.0
+1,49,MAINE-ET-LOIRE,Extrême droite,545.0
+1,49,MAINE-ET-LOIRE,Ligue Communiste Révolutionaire,0.0
+1,49,MAINE-ET-LOIRE,Lutte Ouvrière,3972.0
+1,49,MAINE-ET-LOIRE,Mouvement des Radicaux de Gauche,0.0
+1,49,MAINE-ET-LOIRE,Organisation Communiste Révolutionaire,0.0
+1,49,MAINE-ET-LOIRE,Parti Socialiste,47775.0
+1,49,MAINE-ET-LOIRE,Parti Socialiste Unifié,0.0
+1,49,MAINE-ET-LOIRE,Parti communiste,28108.0
+1,49,MAINE-ET-LOIRE,Radicaux réformateurs,18797.0
+1,49,MAINE-ET-LOIRE,Républicains Indépendants,7548.0
+1,49,MAINE-ET-LOIRE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,49,MAINE-ET-LOIRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,106302.0
+1,49,MAINE-ET-LOIRE,Union des Démocrates pour la Vème République,0.0
+1,49,MAINE-ET-LOIRE,abstentions,62188.0
+1,49,MAINE-ET-LOIRE,blancs_nuls,7101.0
+1,50,MANCHE,Centre Démocrate-Union des Républicains de Progrès,15452.0
+1,50,MANCHE,Centre Démocratie et Progrès,0.0
+1,50,MANCHE,Divers Union des Républicains de Progrès,0.0
+1,50,MANCHE,Divers droite,8691.0
+1,50,MANCHE,Divers gauche,0.0
+1,50,MANCHE,Divers gaullistes,0.0
+1,50,MANCHE,Divers réformateurs,29636.0
+1,50,MANCHE,Extrême droite,0.0
+1,50,MANCHE,Ligue Communiste Révolutionaire,790.0
+1,50,MANCHE,Lutte Ouvrière,0.0
+1,50,MANCHE,Mouvement des Radicaux de Gauche,0.0
+1,50,MANCHE,Organisation Communiste Révolutionaire,0.0
+1,50,MANCHE,Parti Socialiste,38742.0
+1,50,MANCHE,Parti Socialiste Unifié,5236.0
+1,50,MANCHE,Parti communiste,18174.0
+1,50,MANCHE,Radicaux réformateurs,0.0
+1,50,MANCHE,Républicains Indépendants,29263.0
+1,50,MANCHE,Républicains Indépendants-Union des Républicains de Progrès,19877.0
+1,50,MANCHE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,54026.0
+1,50,MANCHE,Union des Démocrates pour la Vème République,0.0
+1,50,MANCHE,abstentions,51051.0
+1,50,MANCHE,blancs_nuls,5647.0
+1,51,MARNE,Centre Démocrate-Union des Républicains de Progrès,26114.0
+1,51,MARNE,Centre Démocratie et Progrès,0.0
+1,51,MARNE,Divers Union des Républicains de Progrès,0.0
+1,51,MARNE,Divers droite,8394.0
+1,51,MARNE,Divers gauche,0.0
+1,51,MARNE,Divers gaullistes,0.0
+1,51,MARNE,Divers réformateurs,5904.0
+1,51,MARNE,Extrême droite,0.0
+1,51,MARNE,Ligue Communiste Révolutionaire,1338.0
+1,51,MARNE,Lutte Ouvrière,3178.0
+1,51,MARNE,Mouvement des Radicaux de Gauche,0.0
+1,51,MARNE,Organisation Communiste Révolutionaire,0.0
+1,51,MARNE,Parti Socialiste,40776.0
+1,51,MARNE,Parti Socialiste Unifié,0.0
+1,51,MARNE,Parti communiste,55022.0
+1,51,MARNE,Radicaux réformateurs,12998.0
+1,51,MARNE,Républicains Indépendants,0.0
+1,51,MARNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,51,MARNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,68304.0
+1,51,MARNE,Union des Démocrates pour la Vème République,0.0
+1,51,MARNE,abstentions,54625.0
+1,51,MARNE,blancs_nuls,5469.0
+1,52,HAUTE-MARNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,52,HAUTE-MARNE,Centre Démocratie et Progrès,0.0
+1,52,HAUTE-MARNE,Divers Union des Républicains de Progrès,0.0
+1,52,HAUTE-MARNE,Divers droite,0.0
+1,52,HAUTE-MARNE,Divers gauche,0.0
+1,52,HAUTE-MARNE,Divers gaullistes,0.0
+1,52,HAUTE-MARNE,Divers réformateurs,19534.0
+1,52,HAUTE-MARNE,Extrême droite,0.0
+1,52,HAUTE-MARNE,Ligue Communiste Révolutionaire,0.0
+1,52,HAUTE-MARNE,Lutte Ouvrière,1076.0
+1,52,HAUTE-MARNE,Mouvement des Radicaux de Gauche,8531.0
+1,52,HAUTE-MARNE,Organisation Communiste Révolutionaire,0.0
+1,52,HAUTE-MARNE,Parti Socialiste,6231.0
+1,52,HAUTE-MARNE,Parti Socialiste Unifié,4597.0
+1,52,HAUTE-MARNE,Parti communiste,19790.0
+1,52,HAUTE-MARNE,Radicaux réformateurs,0.0
+1,52,HAUTE-MARNE,Républicains Indépendants,0.0
+1,52,HAUTE-MARNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,52,HAUTE-MARNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,38563.0
+1,52,HAUTE-MARNE,Union des Démocrates pour la Vème République,0.0
+1,52,HAUTE-MARNE,abstentions,23921.0
+1,52,HAUTE-MARNE,blancs_nuls,2741.0
+1,53,MAYENNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,53,MAYENNE,Centre Démocratie et Progrès,0.0
+1,53,MAYENNE,Divers Union des Républicains de Progrès,0.0
+1,53,MAYENNE,Divers droite,1680.0
+1,53,MAYENNE,Divers gauche,0.0
+1,53,MAYENNE,Divers gaullistes,0.0
+1,53,MAYENNE,Divers réformateurs,23437.0
+1,53,MAYENNE,Extrême droite,0.0
+1,53,MAYENNE,Ligue Communiste Révolutionaire,0.0
+1,53,MAYENNE,Lutte Ouvrière,0.0
+1,53,MAYENNE,Mouvement des Radicaux de Gauche,0.0
+1,53,MAYENNE,Organisation Communiste Révolutionaire,0.0
+1,53,MAYENNE,Parti Socialiste,30256.0
+1,53,MAYENNE,Parti Socialiste Unifié,0.0
+1,53,MAYENNE,Parti communiste,8526.0
+1,53,MAYENNE,Radicaux réformateurs,0.0
+1,53,MAYENNE,Républicains Indépendants,0.0
+1,53,MAYENNE,Républicains Indépendants-Union des Républicains de Progrès,25929.0
+1,53,MAYENNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,43054.0
+1,53,MAYENNE,Union des Démocrates pour la Vème République,0.0
+1,53,MAYENNE,abstentions,22625.0
+1,53,MAYENNE,blancs_nuls,4156.0
+1,54,MEURTHE-ET-MOSELLE,Centre Démocrate-Union des Républicains de Progrès,6505.0
+1,54,MEURTHE-ET-MOSELLE,Centre Démocratie et Progrès,3730.0
+1,54,MEURTHE-ET-MOSELLE,Divers Union des Républicains de Progrès,11489.0
+1,54,MEURTHE-ET-MOSELLE,Divers droite,12884.0
+1,54,MEURTHE-ET-MOSELLE,Divers gauche,558.0
+1,54,MEURTHE-ET-MOSELLE,Divers gaullistes,16195.0
+1,54,MEURTHE-ET-MOSELLE,Divers réformateurs,0.0
+1,54,MEURTHE-ET-MOSELLE,Extrême droite,727.0
+1,54,MEURTHE-ET-MOSELLE,Ligue Communiste Révolutionaire,593.0
+1,54,MEURTHE-ET-MOSELLE,Lutte Ouvrière,2841.0
+1,54,MEURTHE-ET-MOSELLE,Mouvement des Radicaux de Gauche,5056.0
+1,54,MEURTHE-ET-MOSELLE,Organisation Communiste Révolutionaire,0.0
+1,54,MEURTHE-ET-MOSELLE,Parti Socialiste,40910.0
+1,54,MEURTHE-ET-MOSELLE,Parti Socialiste Unifié,9727.0
+1,54,MEURTHE-ET-MOSELLE,Parti communiste,71671.0
+1,54,MEURTHE-ET-MOSELLE,Radicaux réformateurs,49407.0
+1,54,MEURTHE-ET-MOSELLE,Républicains Indépendants,7321.0
+1,54,MEURTHE-ET-MOSELLE,Républicains Indépendants-Union des Républicains de Progrès,43965.0
+1,54,MEURTHE-ET-MOSELLE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,14284.0
+1,54,MEURTHE-ET-MOSELLE,Union des Démocrates pour la Vème République,9572.0
+1,54,MEURTHE-ET-MOSELLE,abstentions,78045.0
+1,54,MEURTHE-ET-MOSELLE,blancs_nuls,7950.0
+1,55,MEUSE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,55,MEUSE,Centre Démocratie et Progrès,0.0
+1,55,MEUSE,Divers Union des Républicains de Progrès,0.0
+1,55,MEUSE,Divers droite,3526.0
+1,55,MEUSE,Divers gauche,0.0
+1,55,MEUSE,Divers gaullistes,0.0
+1,55,MEUSE,Divers réformateurs,4458.0
+1,55,MEUSE,Extrême droite,0.0
+1,55,MEUSE,Ligue Communiste Révolutionaire,0.0
+1,55,MEUSE,Lutte Ouvrière,0.0
+1,55,MEUSE,Mouvement des Radicaux de Gauche,0.0
+1,55,MEUSE,Organisation Communiste Révolutionaire,0.0
+1,55,MEUSE,Parti Socialiste,26348.0
+1,55,MEUSE,Parti Socialiste Unifié,1587.0
+1,55,MEUSE,Parti communiste,13122.0
+1,55,MEUSE,Radicaux réformateurs,8655.0
+1,55,MEUSE,Républicains Indépendants,0.0
+1,55,MEUSE,Républicains Indépendants-Union des Républicains de Progrès,21496.0
+1,55,MEUSE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,19604.0
+1,55,MEUSE,Union des Démocrates pour la Vème République,0.0
+1,55,MEUSE,abstentions,22082.0
+1,55,MEUSE,blancs_nuls,2653.0
+1,56,MORBIHAN,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,56,MORBIHAN,Centre Démocratie et Progrès,0.0
+1,56,MORBIHAN,Divers Union des Républicains de Progrès,0.0
+1,56,MORBIHAN,Divers droite,18030.0
+1,56,MORBIHAN,Divers gauche,1400.0
+1,56,MORBIHAN,Divers gaullistes,0.0
+1,56,MORBIHAN,Divers réformateurs,37765.0
+1,56,MORBIHAN,Extrême droite,0.0
+1,56,MORBIHAN,Ligue Communiste Révolutionaire,0.0
+1,56,MORBIHAN,Lutte Ouvrière,724.0
+1,56,MORBIHAN,Mouvement des Radicaux de Gauche,0.0
+1,56,MORBIHAN,Organisation Communiste Révolutionaire,0.0
+1,56,MORBIHAN,Parti Socialiste,51569.0
+1,56,MORBIHAN,Parti Socialiste Unifié,2842.0
+1,56,MORBIHAN,Parti communiste,38891.0
+1,56,MORBIHAN,Radicaux réformateurs,8672.0
+1,56,MORBIHAN,Républicains Indépendants,0.0
+1,56,MORBIHAN,Républicains Indépendants-Union des Républicains de Progrès,96909.0
+1,56,MORBIHAN,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,28749.0
+1,56,MORBIHAN,Union des Démocrates pour la Vème République,0.0
+1,56,MORBIHAN,abstentions,59884.0
+1,56,MORBIHAN,blancs_nuls,3975.0
+1,57,MOSELLE,Centre Démocrate-Union des Républicains de Progrès,16207.0
+1,57,MOSELLE,Centre Démocratie et Progrès,23074.0
+1,57,MOSELLE,Divers Union des Républicains de Progrès,0.0
+1,57,MOSELLE,Divers droite,8591.0
+1,57,MOSELLE,Divers gauche,0.0
+1,57,MOSELLE,Divers gaullistes,0.0
+1,57,MOSELLE,Divers réformateurs,26450.0
+1,57,MOSELLE,Extrême droite,804.0
+1,57,MOSELLE,Ligue Communiste Révolutionaire,1693.0
+1,57,MOSELLE,Lutte Ouvrière,3382.0
+1,57,MOSELLE,Mouvement des Radicaux de Gauche,0.0
+1,57,MOSELLE,Organisation Communiste Révolutionaire,0.0
+1,57,MOSELLE,Parti Socialiste,65897.0
+1,57,MOSELLE,Parti Socialiste Unifié,5446.0
+1,57,MOSELLE,Parti communiste,60102.0
+1,57,MOSELLE,Radicaux réformateurs,59400.0
+1,57,MOSELLE,Républicains Indépendants,0.0
+1,57,MOSELLE,Républicains Indépendants-Union des Républicains de Progrès,47861.0
+1,57,MOSELLE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,91967.0
+1,57,MOSELLE,Union des Démocrates pour la Vème République,0.0
+1,57,MOSELLE,abstentions,99247.0
+1,57,MOSELLE,blancs_nuls,11404.0
+1,58,NIEVRE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,58,NIEVRE,Centre Démocratie et Progrès,0.0
+1,58,NIEVRE,Divers Union des Républicains de Progrès,0.0
+1,58,NIEVRE,Divers droite,0.0
+1,58,NIEVRE,Divers gauche,0.0
+1,58,NIEVRE,Divers gaullistes,0.0
+1,58,NIEVRE,Divers réformateurs,4652.0
+1,58,NIEVRE,Extrême droite,0.0
+1,58,NIEVRE,Ligue Communiste Révolutionaire,0.0
+1,58,NIEVRE,Lutte Ouvrière,1415.0
+1,58,NIEVRE,Mouvement des Radicaux de Gauche,0.0
+1,58,NIEVRE,Organisation Communiste Révolutionaire,0.0
+1,58,NIEVRE,Parti Socialiste,46666.0
+1,58,NIEVRE,Parti Socialiste Unifié,2548.0
+1,58,NIEVRE,Parti communiste,24521.0
+1,58,NIEVRE,Radicaux réformateurs,10072.0
+1,58,NIEVRE,Républicains Indépendants,0.0
+1,58,NIEVRE,Républicains Indépendants-Union des Républicains de Progrès,11719.0
+1,58,NIEVRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,22574.0
+1,58,NIEVRE,Union des Démocrates pour la Vème République,0.0
+1,58,NIEVRE,abstentions,32221.0
+1,58,NIEVRE,blancs_nuls,2832.0
+1,59,NORD,Centre Démocrate-Union des Républicains de Progrès,5856.0
+1,59,NORD,Centre Démocratie et Progrès,0.0
+1,59,NORD,Divers Union des Républicains de Progrès,40664.0
+1,59,NORD,Divers droite,79425.0
+1,59,NORD,Divers gauche,0.0
+1,59,NORD,Divers gaullistes,0.0
+1,59,NORD,Divers réformateurs,88449.0
+1,59,NORD,Extrême droite,2747.0
+1,59,NORD,Ligue Communiste Révolutionaire,483.0
+1,59,NORD,Lutte Ouvrière,17349.0
+1,59,NORD,Mouvement des Radicaux de Gauche,0.0
+1,59,NORD,Organisation Communiste Révolutionaire,541.0
+1,59,NORD,Parti Socialiste,285088.0
+1,59,NORD,Parti Socialiste Unifié,9357.0
+1,59,NORD,Parti communiste,296126.0
+1,59,NORD,Radicaux réformateurs,26089.0
+1,59,NORD,Républicains Indépendants,0.0
+1,59,NORD,Républicains Indépendants-Union des Républicains de Progrès,29845.0
+1,59,NORD,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,274533.0
+1,59,NORD,Union des Démocrates pour la Vème République,0.0
+1,59,NORD,abstentions,195690.0
+1,59,NORD,blancs_nuls,25222.0
+1,60,OISE,Centre Démocrate-Union des Républicains de Progrès,23907.0
+1,60,OISE,Centre Démocratie et Progrès,0.0
+1,60,OISE,Divers Union des Républicains de Progrès,0.0
+1,60,OISE,Divers droite,17118.0
+1,60,OISE,Divers gauche,0.0
+1,60,OISE,Divers gaullistes,0.0
+1,60,OISE,Divers réformateurs,12698.0
+1,60,OISE,Extrême droite,2715.0
+1,60,OISE,Ligue Communiste Révolutionaire,0.0
+1,60,OISE,Lutte Ouvrière,1838.0
+1,60,OISE,Mouvement des Radicaux de Gauche,8670.0
+1,60,OISE,Organisation Communiste Révolutionaire,0.0
+1,60,OISE,Parti Socialiste,47974.0
+1,60,OISE,Parti Socialiste Unifié,0.0
+1,60,OISE,Parti communiste,60460.0
+1,60,OISE,Radicaux réformateurs,11920.0
+1,60,OISE,Républicains Indépendants,0.0
+1,60,OISE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,60,OISE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,74770.0
+1,60,OISE,Union des Démocrates pour la Vème République,0.0
+1,60,OISE,abstentions,47609.0
+1,60,OISE,blancs_nuls,6321.0
+1,61,ORNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,61,ORNE,Centre Démocratie et Progrès,10143.0
+1,61,ORNE,Divers Union des Républicains de Progrès,12991.0
+1,61,ORNE,Divers droite,0.0
+1,61,ORNE,Divers gauche,0.0
+1,61,ORNE,Divers gaullistes,0.0
+1,61,ORNE,Divers réformateurs,41166.0
+1,61,ORNE,Extrême droite,0.0
+1,61,ORNE,Ligue Communiste Révolutionaire,0.0
+1,61,ORNE,Lutte Ouvrière,0.0
+1,61,ORNE,Mouvement des Radicaux de Gauche,0.0
+1,61,ORNE,Organisation Communiste Révolutionaire,0.0
+1,61,ORNE,Parti Socialiste,23067.0
+1,61,ORNE,Parti Socialiste Unifié,2228.0
+1,61,ORNE,Parti communiste,14029.0
+1,61,ORNE,Radicaux réformateurs,0.0
+1,61,ORNE,Républicains Indépendants,0.0
+1,61,ORNE,Républicains Indépendants-Union des Républicains de Progrès,10950.0
+1,61,ORNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,25316.0
+1,61,ORNE,Union des Démocrates pour la Vème République,0.0
+1,61,ORNE,abstentions,30746.0
+1,61,ORNE,blancs_nuls,3869.0
+1,62,PAS-DE-CALAIS,Centre Démocrate-Union des Républicains de Progrès,3506.0
+1,62,PAS-DE-CALAIS,Centre Démocratie et Progrès,0.0
+1,62,PAS-DE-CALAIS,Divers Union des Républicains de Progrès,0.0
+1,62,PAS-DE-CALAIS,Divers droite,30382.0
+1,62,PAS-DE-CALAIS,Divers gauche,0.0
+1,62,PAS-DE-CALAIS,Divers gaullistes,0.0
+1,62,PAS-DE-CALAIS,Divers réformateurs,42244.0
+1,62,PAS-DE-CALAIS,Extrême droite,4224.0
+1,62,PAS-DE-CALAIS,Ligue Communiste Révolutionaire,0.0
+1,62,PAS-DE-CALAIS,Lutte Ouvrière,5869.0
+1,62,PAS-DE-CALAIS,Mouvement des Radicaux de Gauche,11262.0
+1,62,PAS-DE-CALAIS,Organisation Communiste Révolutionaire,0.0
+1,62,PAS-DE-CALAIS,Parti Socialiste,191713.0
+1,62,PAS-DE-CALAIS,Parti Socialiste Unifié,3149.0
+1,62,PAS-DE-CALAIS,Parti communiste,198698.0
+1,62,PAS-DE-CALAIS,Radicaux réformateurs,14947.0
+1,62,PAS-DE-CALAIS,Républicains Indépendants,0.0
+1,62,PAS-DE-CALAIS,Républicains Indépendants-Union des Républicains de Progrès,22848.0
+1,62,PAS-DE-CALAIS,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,150468.0
+1,62,PAS-DE-CALAIS,Union des Démocrates pour la Vème République,0.0
+1,62,PAS-DE-CALAIS,abstentions,105469.0
+1,62,PAS-DE-CALAIS,blancs_nuls,14053.0
+1,63,PUY-DE-DOME,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,63,PUY-DE-DOME,Centre Démocratie et Progrès,0.0
+1,63,PUY-DE-DOME,Divers Union des Républicains de Progrès,14084.0
+1,63,PUY-DE-DOME,Divers droite,0.0
+1,63,PUY-DE-DOME,Divers gauche,0.0
+1,63,PUY-DE-DOME,Divers gaullistes,0.0
+1,63,PUY-DE-DOME,Divers réformateurs,10695.0
+1,63,PUY-DE-DOME,Extrême droite,0.0
+1,63,PUY-DE-DOME,Ligue Communiste Révolutionaire,798.0
+1,63,PUY-DE-DOME,Lutte Ouvrière,5755.0
+1,63,PUY-DE-DOME,Mouvement des Radicaux de Gauche,0.0
+1,63,PUY-DE-DOME,Organisation Communiste Révolutionaire,619.0
+1,63,PUY-DE-DOME,Parti Socialiste,80388.0
+1,63,PUY-DE-DOME,Parti Socialiste Unifié,5193.0
+1,63,PUY-DE-DOME,Parti communiste,46820.0
+1,63,PUY-DE-DOME,Radicaux réformateurs,14957.0
+1,63,PUY-DE-DOME,Républicains Indépendants,0.0
+1,63,PUY-DE-DOME,Républicains Indépendants-Union des Républicains de Progrès,62132.0
+1,63,PUY-DE-DOME,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,18227.0
+1,63,PUY-DE-DOME,Union des Démocrates pour la Vème République,0.0
+1,63,PUY-DE-DOME,abstentions,68403.0
+1,63,PUY-DE-DOME,blancs_nuls,5105.0
+1,64,PYRENEES-ATLANTIQUES,Centre Démocrate-Union des Républicains de Progrès,34595.0
+1,64,PYRENEES-ATLANTIQUES,Centre Démocratie et Progrès,0.0
+1,64,PYRENEES-ATLANTIQUES,Divers Union des Républicains de Progrès,0.0
+1,64,PYRENEES-ATLANTIQUES,Divers droite,970.0
+1,64,PYRENEES-ATLANTIQUES,Divers gauche,0.0
+1,64,PYRENEES-ATLANTIQUES,Divers gaullistes,0.0
+1,64,PYRENEES-ATLANTIQUES,Divers réformateurs,27871.0
+1,64,PYRENEES-ATLANTIQUES,Extrême droite,2047.0
+1,64,PYRENEES-ATLANTIQUES,Ligue Communiste Révolutionaire,1614.0
+1,64,PYRENEES-ATLANTIQUES,Lutte Ouvrière,0.0
+1,64,PYRENEES-ATLANTIQUES,Mouvement des Radicaux de Gauche,0.0
+1,64,PYRENEES-ATLANTIQUES,Organisation Communiste Révolutionaire,0.0
+1,64,PYRENEES-ATLANTIQUES,Parti Socialiste,66091.0
+1,64,PYRENEES-ATLANTIQUES,Parti Socialiste Unifié,2348.0
+1,64,PYRENEES-ATLANTIQUES,Parti communiste,27671.0
+1,64,PYRENEES-ATLANTIQUES,Radicaux réformateurs,25532.0
+1,64,PYRENEES-ATLANTIQUES,Républicains Indépendants,0.0
+1,64,PYRENEES-ATLANTIQUES,Républicains Indépendants-Union des Républicains de Progrès,7122.0
+1,64,PYRENEES-ATLANTIQUES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,68118.0
+1,64,PYRENEES-ATLANTIQUES,Union des Démocrates pour la Vème République,0.0
+1,64,PYRENEES-ATLANTIQUES,abstentions,60380.0
+1,64,PYRENEES-ATLANTIQUES,blancs_nuls,4580.0
+1,65,HAUTES-PYRENEES,Centre Démocrate-Union des Républicains de Progrès,21442.0
+1,65,HAUTES-PYRENEES,Centre Démocratie et Progrès,0.0
+1,65,HAUTES-PYRENEES,Divers Union des Républicains de Progrès,0.0
+1,65,HAUTES-PYRENEES,Divers droite,1895.0
+1,65,HAUTES-PYRENEES,Divers gauche,0.0
+1,65,HAUTES-PYRENEES,Divers gaullistes,0.0
+1,65,HAUTES-PYRENEES,Divers réformateurs,3067.0
+1,65,HAUTES-PYRENEES,Extrême droite,0.0
+1,65,HAUTES-PYRENEES,Ligue Communiste Révolutionaire,1670.0
+1,65,HAUTES-PYRENEES,Lutte Ouvrière,0.0
+1,65,HAUTES-PYRENEES,Mouvement des Radicaux de Gauche,20382.0
+1,65,HAUTES-PYRENEES,Organisation Communiste Révolutionaire,0.0
+1,65,HAUTES-PYRENEES,Parti Socialiste,14485.0
+1,65,HAUTES-PYRENEES,Parti Socialiste Unifié,1381.0
+1,65,HAUTES-PYRENEES,Parti communiste,23136.0
+1,65,HAUTES-PYRENEES,Radicaux réformateurs,7684.0
+1,65,HAUTES-PYRENEES,Républicains Indépendants,0.0
+1,65,HAUTES-PYRENEES,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,65,HAUTES-PYRENEES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,18593.0
+1,65,HAUTES-PYRENEES,Union des Démocrates pour la Vème République,0.0
+1,65,HAUTES-PYRENEES,abstentions,29476.0
+1,65,HAUTES-PYRENEES,blancs_nuls,2213.0
+1,66,PYRENEES-ORIENTALES,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,66,PYRENEES-ORIENTALES,Centre Démocratie et Progrès,0.0
+1,66,PYRENEES-ORIENTALES,Divers Union des Républicains de Progrès,14853.0
+1,66,PYRENEES-ORIENTALES,Divers droite,1583.0
+1,66,PYRENEES-ORIENTALES,Divers gauche,731.0
+1,66,PYRENEES-ORIENTALES,Divers gaullistes,1437.0
+1,66,PYRENEES-ORIENTALES,Divers réformateurs,8329.0
+1,66,PYRENEES-ORIENTALES,Extrême droite,2561.0
+1,66,PYRENEES-ORIENTALES,Ligue Communiste Révolutionaire,1824.0
+1,66,PYRENEES-ORIENTALES,Lutte Ouvrière,513.0
+1,66,PYRENEES-ORIENTALES,Mouvement des Radicaux de Gauche,0.0
+1,66,PYRENEES-ORIENTALES,Organisation Communiste Révolutionaire,0.0
+1,66,PYRENEES-ORIENTALES,Parti Socialiste,35535.0
+1,66,PYRENEES-ORIENTALES,Parti Socialiste Unifié,913.0
+1,66,PYRENEES-ORIENTALES,Parti communiste,43438.0
+1,66,PYRENEES-ORIENTALES,Radicaux réformateurs,9132.0
+1,66,PYRENEES-ORIENTALES,Républicains Indépendants,0.0
+1,66,PYRENEES-ORIENTALES,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,66,PYRENEES-ORIENTALES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,14624.0
+1,66,PYRENEES-ORIENTALES,Union des Démocrates pour la Vème République,0.0
+1,66,PYRENEES-ORIENTALES,abstentions,42899.0
+1,66,PYRENEES-ORIENTALES,blancs_nuls,3889.0
+1,67,BAS-RHIN,Centre Démocrate-Union des Républicains de Progrès,16897.0
+1,67,BAS-RHIN,Centre Démocratie et Progrès,0.0
+1,67,BAS-RHIN,Divers Union des Républicains de Progrès,0.0
+1,67,BAS-RHIN,Divers droite,4036.0
+1,67,BAS-RHIN,Divers gauche,1124.0
+1,67,BAS-RHIN,Divers gaullistes,0.0
+1,67,BAS-RHIN,Divers réformateurs,87798.0
+1,67,BAS-RHIN,Extrême droite,0.0
+1,67,BAS-RHIN,Ligue Communiste Révolutionaire,1759.0
+1,67,BAS-RHIN,Lutte Ouvrière,1064.0
+1,67,BAS-RHIN,Mouvement des Radicaux de Gauche,0.0
+1,67,BAS-RHIN,Organisation Communiste Révolutionaire,0.0
+1,67,BAS-RHIN,Parti Socialiste,45280.0
+1,67,BAS-RHIN,Parti Socialiste Unifié,3500.0
+1,67,BAS-RHIN,Parti communiste,28283.0
+1,67,BAS-RHIN,Radicaux réformateurs,0.0
+1,67,BAS-RHIN,Républicains Indépendants,0.0
+1,67,BAS-RHIN,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,67,BAS-RHIN,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,180523.0
+1,67,BAS-RHIN,Union des Démocrates pour la Vème République,0.0
+1,67,BAS-RHIN,abstentions,105437.0
+1,67,BAS-RHIN,blancs_nuls,12146.0
+1,68,HAUT-RHIN,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,68,HAUT-RHIN,Centre Démocratie et Progrès,0.0
+1,68,HAUT-RHIN,Divers Union des Républicains de Progrès,0.0
+1,68,HAUT-RHIN,Divers droite,17248.0
+1,68,HAUT-RHIN,Divers gauche,0.0
+1,68,HAUT-RHIN,Divers gaullistes,0.0
+1,68,HAUT-RHIN,Divers réformateurs,70427.0
+1,68,HAUT-RHIN,Extrême droite,713.0
+1,68,HAUT-RHIN,Ligue Communiste Révolutionaire,811.0
+1,68,HAUT-RHIN,Lutte Ouvrière,0.0
+1,68,HAUT-RHIN,Mouvement des Radicaux de Gauche,0.0
+1,68,HAUT-RHIN,Organisation Communiste Révolutionaire,0.0
+1,68,HAUT-RHIN,Parti Socialiste,34294.0
+1,68,HAUT-RHIN,Parti Socialiste Unifié,4219.0
+1,68,HAUT-RHIN,Parti communiste,22469.0
+1,68,HAUT-RHIN,Radicaux réformateurs,6358.0
+1,68,HAUT-RHIN,Républicains Indépendants,0.0
+1,68,HAUT-RHIN,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,68,HAUT-RHIN,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,116086.0
+1,68,HAUT-RHIN,Union des Démocrates pour la Vème République,0.0
+1,68,HAUT-RHIN,abstentions,72120.0
+1,68,HAUT-RHIN,blancs_nuls,10830.0
+1,69,RHONE,Centre Démocrate-Union des Républicains de Progrès,18683.0
+1,69,RHONE,Centre Démocratie et Progrès,0.0
+1,69,RHONE,Divers Union des Républicains de Progrès,0.0
+1,69,RHONE,Divers droite,31193.0
+1,69,RHONE,Divers gauche,0.0
+1,69,RHONE,Divers gaullistes,4846.0
+1,69,RHONE,Divers réformateurs,65379.0
+1,69,RHONE,Extrême droite,2269.0
+1,69,RHONE,Ligue Communiste Révolutionaire,1629.0
+1,69,RHONE,Lutte Ouvrière,8383.0
+1,69,RHONE,Mouvement des Radicaux de Gauche,5921.0
+1,69,RHONE,Organisation Communiste Révolutionaire,312.0
+1,69,RHONE,Parti Socialiste,105523.0
+1,69,RHONE,Parti Socialiste Unifié,19644.0
+1,69,RHONE,Parti communiste,106790.0
+1,69,RHONE,Radicaux réformateurs,31524.0
+1,69,RHONE,Républicains Indépendants,0.0
+1,69,RHONE,Républicains Indépendants-Union des Républicains de Progrès,42238.0
+1,69,RHONE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,107619.0
+1,69,RHONE,Union des Démocrates pour la Vème République,0.0
+1,69,RHONE,abstentions,156229.0
+1,69,RHONE,blancs_nuls,10454.0
+1,70,HAUTE-SAONE,Centre Démocrate-Union des Républicains de Progrès,28247.0
+1,70,HAUTE-SAONE,Centre Démocratie et Progrès,0.0
+1,70,HAUTE-SAONE,Divers Union des Républicains de Progrès,0.0
+1,70,HAUTE-SAONE,Divers droite,0.0
+1,70,HAUTE-SAONE,Divers gauche,0.0
+1,70,HAUTE-SAONE,Divers gaullistes,0.0
+1,70,HAUTE-SAONE,Divers réformateurs,13250.0
+1,70,HAUTE-SAONE,Extrême droite,0.0
+1,70,HAUTE-SAONE,Ligue Communiste Révolutionaire,0.0
+1,70,HAUTE-SAONE,Lutte Ouvrière,1515.0
+1,70,HAUTE-SAONE,Mouvement des Radicaux de Gauche,19402.0
+1,70,HAUTE-SAONE,Organisation Communiste Révolutionaire,0.0
+1,70,HAUTE-SAONE,Parti Socialiste,12664.0
+1,70,HAUTE-SAONE,Parti Socialiste Unifié,1510.0
+1,70,HAUTE-SAONE,Parti communiste,14342.0
+1,70,HAUTE-SAONE,Radicaux réformateurs,0.0
+1,70,HAUTE-SAONE,Républicains Indépendants,0.0
+1,70,HAUTE-SAONE,Républicains Indépendants-Union des Républicains de Progrès,19976.0
+1,70,HAUTE-SAONE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+1,70,HAUTE-SAONE,Union des Démocrates pour la Vème République,0.0
+1,70,HAUTE-SAONE,abstentions,22778.0
+1,70,HAUTE-SAONE,blancs_nuls,3002.0
+1,71,SAONE-ET-LOIRE,Centre Démocrate-Union des Républicains de Progrès,8385.0
+1,71,SAONE-ET-LOIRE,Centre Démocratie et Progrès,0.0
+1,71,SAONE-ET-LOIRE,Divers Union des Républicains de Progrès,0.0
+1,71,SAONE-ET-LOIRE,Divers droite,1839.0
+1,71,SAONE-ET-LOIRE,Divers gauche,0.0
+1,71,SAONE-ET-LOIRE,Divers gaullistes,0.0
+1,71,SAONE-ET-LOIRE,Divers réformateurs,2618.0
+1,71,SAONE-ET-LOIRE,Extrême droite,0.0
+1,71,SAONE-ET-LOIRE,Ligue Communiste Révolutionaire,1076.0
+1,71,SAONE-ET-LOIRE,Lutte Ouvrière,3594.0
+1,71,SAONE-ET-LOIRE,Mouvement des Radicaux de Gauche,26725.0
+1,71,SAONE-ET-LOIRE,Organisation Communiste Révolutionaire,0.0
+1,71,SAONE-ET-LOIRE,Parti Socialiste,44750.0
+1,71,SAONE-ET-LOIRE,Parti Socialiste Unifié,1687.0
+1,71,SAONE-ET-LOIRE,Parti communiste,49718.0
+1,71,SAONE-ET-LOIRE,Radicaux réformateurs,10547.0
+1,71,SAONE-ET-LOIRE,Républicains Indépendants,7125.0
+1,71,SAONE-ET-LOIRE,Républicains Indépendants-Union des Républicains de Progrès,27390.0
+1,71,SAONE-ET-LOIRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,72645.0
+1,71,SAONE-ET-LOIRE,Union des Démocrates pour la Vème République,0.0
+1,71,SAONE-ET-LOIRE,abstentions,77045.0
+1,71,SAONE-ET-LOIRE,blancs_nuls,6368.0
+1,72,SARTHE,Centre Démocrate-Union des Républicains de Progrès,13740.0
+1,72,SARTHE,Centre Démocratie et Progrès,0.0
+1,72,SARTHE,Divers Union des Républicains de Progrès,0.0
+1,72,SARTHE,Divers droite,2665.0
+1,72,SARTHE,Divers gauche,0.0
+1,72,SARTHE,Divers gaullistes,0.0
+1,72,SARTHE,Divers réformateurs,8097.0
+1,72,SARTHE,Extrême droite,1001.0
+1,72,SARTHE,Ligue Communiste Révolutionaire,652.0
+1,72,SARTHE,Lutte Ouvrière,884.0
+1,72,SARTHE,Mouvement des Radicaux de Gauche,0.0
+1,72,SARTHE,Organisation Communiste Révolutionaire,0.0
+1,72,SARTHE,Parti Socialiste,44425.0
+1,72,SARTHE,Parti Socialiste Unifié,3139.0
+1,72,SARTHE,Parti communiste,50239.0
+1,72,SARTHE,Radicaux réformateurs,12064.0
+1,72,SARTHE,Républicains Indépendants,0.0
+1,72,SARTHE,Républicains Indépendants-Union des Républicains de Progrès,20173.0
+1,72,SARTHE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,64071.0
+1,72,SARTHE,Union des Démocrates pour la Vème République,8866.0
+1,72,SARTHE,abstentions,49432.0
+1,72,SARTHE,blancs_nuls,5872.0
+1,73,SAVOIE,Centre Démocrate-Union des Républicains de Progrès,14925.0
+1,73,SAVOIE,Centre Démocratie et Progrès,0.0
+1,73,SAVOIE,Divers Union des Républicains de Progrès,0.0
+1,73,SAVOIE,Divers droite,2193.0
+1,73,SAVOIE,Divers gauche,9325.0
+1,73,SAVOIE,Divers gaullistes,0.0
+1,73,SAVOIE,Divers réformateurs,13141.0
+1,73,SAVOIE,Extrême droite,0.0
+1,73,SAVOIE,Ligue Communiste Révolutionaire,0.0
+1,73,SAVOIE,Lutte Ouvrière,0.0
+1,73,SAVOIE,Mouvement des Radicaux de Gauche,0.0
+1,73,SAVOIE,Organisation Communiste Révolutionaire,0.0
+1,73,SAVOIE,Parti Socialiste,31162.0
+1,73,SAVOIE,Parti Socialiste Unifié,1640.0
+1,73,SAVOIE,Parti communiste,22914.0
+1,73,SAVOIE,Radicaux réformateurs,0.0
+1,73,SAVOIE,Républicains Indépendants,0.0
+1,73,SAVOIE,Républicains Indépendants-Union des Républicains de Progrès,18528.0
+1,73,SAVOIE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,20051.0
+1,73,SAVOIE,Union des Démocrates pour la Vème République,0.0
+1,73,SAVOIE,abstentions,38728.0
+1,73,SAVOIE,blancs_nuls,2042.0
+1,74,HAUTE-SAVOIE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,74,HAUTE-SAVOIE,Centre Démocratie et Progrès,0.0
+1,74,HAUTE-SAVOIE,Divers Union des Républicains de Progrès,0.0
+1,74,HAUTE-SAVOIE,Divers droite,1722.0
+1,74,HAUTE-SAVOIE,Divers gauche,431.0
+1,74,HAUTE-SAVOIE,Divers gaullistes,0.0
+1,74,HAUTE-SAVOIE,Divers réformateurs,32657.0
+1,74,HAUTE-SAVOIE,Extrême droite,0.0
+1,74,HAUTE-SAVOIE,Ligue Communiste Révolutionaire,0.0
+1,74,HAUTE-SAVOIE,Lutte Ouvrière,0.0
+1,74,HAUTE-SAVOIE,Mouvement des Radicaux de Gauche,0.0
+1,74,HAUTE-SAVOIE,Organisation Communiste Révolutionaire,0.0
+1,74,HAUTE-SAVOIE,Parti Socialiste,28264.0
+1,74,HAUTE-SAVOIE,Parti Socialiste Unifié,8865.0
+1,74,HAUTE-SAVOIE,Parti communiste,27459.0
+1,74,HAUTE-SAVOIE,Radicaux réformateurs,0.0
+1,74,HAUTE-SAVOIE,Républicains Indépendants,0.0
+1,74,HAUTE-SAVOIE,Républicains Indépendants-Union des Républicains de Progrès,51050.0
+1,74,HAUTE-SAVOIE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,21426.0
+1,74,HAUTE-SAVOIE,Union des Démocrates pour la Vème République,0.0
+1,74,HAUTE-SAVOIE,abstentions,52971.0
+1,74,HAUTE-SAVOIE,blancs_nuls,4976.0
+1,75,PARIS,Centre Démocrate-Union des Républicains de Progrès,11109.0
+1,75,PARIS,Centre Démocratie et Progrès,0.0
+1,75,PARIS,Divers Union des Républicains de Progrès,0.0
+1,75,PARIS,Divers droite,45370.0
+1,75,PARIS,Divers gauche,0.0
+1,75,PARIS,Divers gaullistes,6864.0
+1,75,PARIS,Divers réformateurs,158336.0
+1,75,PARIS,Extrême droite,29492.0
+1,75,PARIS,Ligue Communiste Révolutionaire,5831.0
+1,75,PARIS,Lutte Ouvrière,10571.0
+1,75,PARIS,Mouvement des Radicaux de Gauche,15047.0
+1,75,PARIS,Organisation Communiste Révolutionaire,353.0
+1,75,PARIS,Parti Socialiste,144915.0
+1,75,PARIS,Parti Socialiste Unifié,42807.0
+1,75,PARIS,Parti communiste,184060.0
+1,75,PARIS,Radicaux réformateurs,16142.0
+1,75,PARIS,Républicains Indépendants,0.0
+1,75,PARIS,Républicains Indépendants-Union des Républicains de Progrès,37890.0
+1,75,PARIS,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,319756.0
+1,75,PARIS,Union des Démocrates pour la Vème République,0.0
+1,75,PARIS,abstentions,281671.0
+1,75,PARIS,blancs_nuls,16078.0
+1,76,SEINE-MARITIME,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,76,SEINE-MARITIME,Centre Démocratie et Progrès,0.0
+1,76,SEINE-MARITIME,Divers Union des Républicains de Progrès,0.0
+1,76,SEINE-MARITIME,Divers droite,10777.0
+1,76,SEINE-MARITIME,Divers gauche,0.0
+1,76,SEINE-MARITIME,Divers gaullistes,862.0
+1,76,SEINE-MARITIME,Divers réformateurs,42852.0
+1,76,SEINE-MARITIME,Extrême droite,2185.0
+1,76,SEINE-MARITIME,Ligue Communiste Révolutionaire,4376.0
+1,76,SEINE-MARITIME,Lutte Ouvrière,2792.0
+1,76,SEINE-MARITIME,Mouvement des Radicaux de Gauche,9717.0
+1,76,SEINE-MARITIME,Organisation Communiste Révolutionaire,510.0
+1,76,SEINE-MARITIME,Parti Socialiste,80163.0
+1,76,SEINE-MARITIME,Parti Socialiste Unifié,15366.0
+1,76,SEINE-MARITIME,Parti communiste,149831.0
+1,76,SEINE-MARITIME,Radicaux réformateurs,48900.0
+1,76,SEINE-MARITIME,Républicains Indépendants,7270.0
+1,76,SEINE-MARITIME,Républicains Indépendants-Union des Républicains de Progrès,52857.0
+1,76,SEINE-MARITIME,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,106933.0
+1,76,SEINE-MARITIME,Union des Démocrates pour la Vème République,0.0
+1,76,SEINE-MARITIME,abstentions,112086.0
+1,76,SEINE-MARITIME,blancs_nuls,12405.0
+1,77,SEINE-ET-MARNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,77,SEINE-ET-MARNE,Centre Démocratie et Progrès,1594.0
+1,77,SEINE-ET-MARNE,Divers Union des Républicains de Progrès,0.0
+1,77,SEINE-ET-MARNE,Divers droite,3800.0
+1,77,SEINE-ET-MARNE,Divers gauche,0.0
+1,77,SEINE-ET-MARNE,Divers gaullistes,0.0
+1,77,SEINE-ET-MARNE,Divers réformateurs,23618.0
+1,77,SEINE-ET-MARNE,Extrême droite,0.0
+1,77,SEINE-ET-MARNE,Ligue Communiste Révolutionaire,3770.0
+1,77,SEINE-ET-MARNE,Lutte Ouvrière,3634.0
+1,77,SEINE-ET-MARNE,Mouvement des Radicaux de Gauche,0.0
+1,77,SEINE-ET-MARNE,Organisation Communiste Révolutionaire,0.0
+1,77,SEINE-ET-MARNE,Parti Socialiste,55511.0
+1,77,SEINE-ET-MARNE,Parti Socialiste Unifié,8145.0
+1,77,SEINE-ET-MARNE,Parti communiste,66367.0
+1,77,SEINE-ET-MARNE,Radicaux réformateurs,24184.0
+1,77,SEINE-ET-MARNE,Républicains Indépendants,5115.0
+1,77,SEINE-ET-MARNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,77,SEINE-ET-MARNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,115677.0
+1,77,SEINE-ET-MARNE,Union des Démocrates pour la Vème République,0.0
+1,77,SEINE-ET-MARNE,abstentions,67868.0
+1,77,SEINE-ET-MARNE,blancs_nuls,6413.0
+1,78,YVELINES,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,78,YVELINES,Centre Démocratie et Progrès,2584.0
+1,78,YVELINES,Divers Union des Républicains de Progrès,0.0
+1,78,YVELINES,Divers droite,8355.0
+1,78,YVELINES,Divers gauche,17438.0
+1,78,YVELINES,Divers gaullistes,0.0
+1,78,YVELINES,Divers réformateurs,25638.0
+1,78,YVELINES,Extrême droite,6702.0
+1,78,YVELINES,Ligue Communiste Révolutionaire,1762.0
+1,78,YVELINES,Lutte Ouvrière,6092.0
+1,78,YVELINES,Mouvement des Radicaux de Gauche,0.0
+1,78,YVELINES,Organisation Communiste Révolutionaire,580.0
+1,78,YVELINES,Parti Socialiste,53753.0
+1,78,YVELINES,Parti Socialiste Unifié,29422.0
+1,78,YVELINES,Parti communiste,92079.0
+1,78,YVELINES,Radicaux réformateurs,42576.0
+1,78,YVELINES,Républicains Indépendants,0.0
+1,78,YVELINES,Républicains Indépendants-Union des Républicains de Progrès,33546.0
+1,78,YVELINES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,98219.0
+1,78,YVELINES,Union des Démocrates pour la Vème République,8694.0
+1,78,YVELINES,abstentions,92331.0
+1,78,YVELINES,blancs_nuls,8173.0
+1,79,DEUX-SEVRES,Centre Démocrate-Union des Républicains de Progrès,49610.0
+1,79,DEUX-SEVRES,Centre Démocratie et Progrès,0.0
+1,79,DEUX-SEVRES,Divers Union des Républicains de Progrès,0.0
+1,79,DEUX-SEVRES,Divers droite,0.0
+1,79,DEUX-SEVRES,Divers gauche,0.0
+1,79,DEUX-SEVRES,Divers gaullistes,0.0
+1,79,DEUX-SEVRES,Divers réformateurs,16681.0
+1,79,DEUX-SEVRES,Extrême droite,0.0
+1,79,DEUX-SEVRES,Ligue Communiste Révolutionaire,0.0
+1,79,DEUX-SEVRES,Lutte Ouvrière,1694.0
+1,79,DEUX-SEVRES,Mouvement des Radicaux de Gauche,0.0
+1,79,DEUX-SEVRES,Organisation Communiste Révolutionaire,0.0
+1,79,DEUX-SEVRES,Parti Socialiste,42527.0
+1,79,DEUX-SEVRES,Parti Socialiste Unifié,1694.0
+1,79,DEUX-SEVRES,Parti communiste,15476.0
+1,79,DEUX-SEVRES,Radicaux réformateurs,15805.0
+1,79,DEUX-SEVRES,Républicains Indépendants,0.0
+1,79,DEUX-SEVRES,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,79,DEUX-SEVRES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,18334.0
+1,79,DEUX-SEVRES,Union des Démocrates pour la Vème République,0.0
+1,79,DEUX-SEVRES,abstentions,39869.0
+1,79,DEUX-SEVRES,blancs_nuls,5493.0
+1,80,SOMME,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,80,SOMME,Centre Démocratie et Progrès,0.0
+1,80,SOMME,Divers Union des Républicains de Progrès,0.0
+1,80,SOMME,Divers droite,23724.0
+1,80,SOMME,Divers gauche,0.0
+1,80,SOMME,Divers gaullistes,742.0
+1,80,SOMME,Divers réformateurs,33644.0
+1,80,SOMME,Extrême droite,0.0
+1,80,SOMME,Ligue Communiste Révolutionaire,373.0
+1,80,SOMME,Lutte Ouvrière,0.0
+1,80,SOMME,Mouvement des Radicaux de Gauche,0.0
+1,80,SOMME,Organisation Communiste Révolutionaire,0.0
+1,80,SOMME,Parti Socialiste,33012.0
+1,80,SOMME,Parti Socialiste Unifié,1559.0
+1,80,SOMME,Parti communiste,90328.0
+1,80,SOMME,Radicaux réformateurs,13759.0
+1,80,SOMME,Républicains Indépendants,0.0
+1,80,SOMME,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,80,SOMME,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,73296.0
+1,80,SOMME,Union des Démocrates pour la Vème République,0.0
+1,80,SOMME,abstentions,39887.0
+1,80,SOMME,blancs_nuls,6223.0
+1,81,TARN,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,81,TARN,Centre Démocratie et Progrès,9336.0
+1,81,TARN,Divers Union des Républicains de Progrès,0.0
+1,81,TARN,Divers droite,8333.0
+1,81,TARN,Divers gauche,0.0
+1,81,TARN,Divers gaullistes,0.0
+1,81,TARN,Divers réformateurs,7500.0
+1,81,TARN,Extrême droite,309.0
+1,81,TARN,Ligue Communiste Révolutionaire,1035.0
+1,81,TARN,Lutte Ouvrière,1461.0
+1,81,TARN,Mouvement des Radicaux de Gauche,13571.0
+1,81,TARN,Organisation Communiste Révolutionaire,0.0
+1,81,TARN,Parti Socialiste,42905.0
+1,81,TARN,Parti Socialiste Unifié,2145.0
+1,81,TARN,Parti communiste,28267.0
+1,81,TARN,Radicaux réformateurs,3917.0
+1,81,TARN,Républicains Indépendants,0.0
+1,81,TARN,Républicains Indépendants-Union des Républicains de Progrès,16770.0
+1,81,TARN,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,44164.0
+1,81,TARN,Union des Démocrates pour la Vème République,0.0
+1,81,TARN,abstentions,31204.0
+1,81,TARN,blancs_nuls,5605.0
+1,82,TARN-ET-GARONNE,Centre Démocrate-Union des Républicains de Progrès,12750.0
+1,82,TARN-ET-GARONNE,Centre Démocratie et Progrès,0.0
+1,82,TARN-ET-GARONNE,Divers Union des Républicains de Progrès,0.0
+1,82,TARN-ET-GARONNE,Divers droite,10917.0
+1,82,TARN-ET-GARONNE,Divers gauche,0.0
+1,82,TARN-ET-GARONNE,Divers gaullistes,0.0
+1,82,TARN-ET-GARONNE,Divers réformateurs,3940.0
+1,82,TARN-ET-GARONNE,Extrême droite,0.0
+1,82,TARN-ET-GARONNE,Ligue Communiste Révolutionaire,0.0
+1,82,TARN-ET-GARONNE,Lutte Ouvrière,759.0
+1,82,TARN-ET-GARONNE,Mouvement des Radicaux de Gauche,11882.0
+1,82,TARN-ET-GARONNE,Organisation Communiste Révolutionaire,0.0
+1,82,TARN-ET-GARONNE,Parti Socialiste,16852.0
+1,82,TARN-ET-GARONNE,Parti Socialiste Unifié,2189.0
+1,82,TARN-ET-GARONNE,Parti communiste,13246.0
+1,82,TARN-ET-GARONNE,Radicaux réformateurs,3909.0
+1,82,TARN-ET-GARONNE,Républicains Indépendants,0.0
+1,82,TARN-ET-GARONNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,82,TARN-ET-GARONNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,18218.0
+1,82,TARN-ET-GARONNE,Union des Démocrates pour la Vème République,0.0
+1,82,TARN-ET-GARONNE,abstentions,19843.0
+1,82,TARN-ET-GARONNE,blancs_nuls,2778.0
+1,83,VAR,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,83,VAR,Centre Démocratie et Progrès,0.0
+1,83,VAR,Divers Union des Républicains de Progrès,0.0
+1,83,VAR,Divers droite,9519.0
+1,83,VAR,Divers gauche,0.0
+1,83,VAR,Divers gaullistes,0.0
+1,83,VAR,Divers réformateurs,10139.0
+1,83,VAR,Extrême droite,2056.0
+1,83,VAR,Ligue Communiste Révolutionaire,1367.0
+1,83,VAR,Lutte Ouvrière,1510.0
+1,83,VAR,Mouvement des Radicaux de Gauche,0.0
+1,83,VAR,Organisation Communiste Révolutionaire,0.0
+1,83,VAR,Parti Socialiste,61882.0
+1,83,VAR,Parti Socialiste Unifié,1660.0
+1,83,VAR,Parti communiste,71255.0
+1,83,VAR,Radicaux réformateurs,32826.0
+1,83,VAR,Républicains Indépendants,0.0
+1,83,VAR,Républicains Indépendants-Union des Républicains de Progrès,10167.0
+1,83,VAR,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,75415.0
+1,83,VAR,Union des Démocrates pour la Vème République,0.0
+1,83,VAR,abstentions,75808.0
+1,83,VAR,blancs_nuls,6270.0
+1,84,VAUCLUSE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,84,VAUCLUSE,Centre Démocratie et Progrès,0.0
+1,84,VAUCLUSE,Divers Union des Républicains de Progrès,0.0
+1,84,VAUCLUSE,Divers droite,6052.0
+1,84,VAUCLUSE,Divers gauche,0.0
+1,84,VAUCLUSE,Divers gaullistes,0.0
+1,84,VAUCLUSE,Divers réformateurs,7671.0
+1,84,VAUCLUSE,Extrême droite,0.0
+1,84,VAUCLUSE,Ligue Communiste Révolutionaire,0.0
+1,84,VAUCLUSE,Lutte Ouvrière,1286.0
+1,84,VAUCLUSE,Mouvement des Radicaux de Gauche,0.0
+1,84,VAUCLUSE,Organisation Communiste Révolutionaire,882.0
+1,84,VAUCLUSE,Parti Socialiste,46892.0
+1,84,VAUCLUSE,Parti Socialiste Unifié,0.0
+1,84,VAUCLUSE,Parti communiste,41889.0
+1,84,VAUCLUSE,Radicaux réformateurs,10467.0
+1,84,VAUCLUSE,Républicains Indépendants,2319.0
+1,84,VAUCLUSE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,84,VAUCLUSE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,58035.0
+1,84,VAUCLUSE,Union des Démocrates pour la Vème République,0.0
+1,84,VAUCLUSE,abstentions,36678.0
+1,84,VAUCLUSE,blancs_nuls,5079.0
+1,85,VENDEE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,85,VENDEE,Centre Démocratie et Progrès,0.0
+1,85,VENDEE,Divers Union des Républicains de Progrès,0.0
+1,85,VENDEE,Divers droite,595.0
+1,85,VENDEE,Divers gauche,0.0
+1,85,VENDEE,Divers gaullistes,15976.0
+1,85,VENDEE,Divers réformateurs,27221.0
+1,85,VENDEE,Extrême droite,0.0
+1,85,VENDEE,Ligue Communiste Révolutionaire,0.0
+1,85,VENDEE,Lutte Ouvrière,0.0
+1,85,VENDEE,Mouvement des Radicaux de Gauche,0.0
+1,85,VENDEE,Organisation Communiste Révolutionaire,0.0
+1,85,VENDEE,Parti Socialiste,29947.0
+1,85,VENDEE,Parti Socialiste Unifié,7065.0
+1,85,VENDEE,Parti communiste,18753.0
+1,85,VENDEE,Radicaux réformateurs,0.0
+1,85,VENDEE,Républicains Indépendants,0.0
+1,85,VENDEE,Républicains Indépendants-Union des Républicains de Progrès,47497.0
+1,85,VENDEE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,79388.0
+1,85,VENDEE,Union des Démocrates pour la Vème République,0.0
+1,85,VENDEE,abstentions,40140.0
+1,85,VENDEE,blancs_nuls,6987.0
+1,86,VIENNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,86,VIENNE,Centre Démocratie et Progrès,0.0
+1,86,VIENNE,Divers Union des Républicains de Progrès,0.0
+1,86,VIENNE,Divers droite,0.0
+1,86,VIENNE,Divers gauche,0.0
+1,86,VIENNE,Divers gaullistes,0.0
+1,86,VIENNE,Divers réformateurs,27280.0
+1,86,VIENNE,Extrême droite,1211.0
+1,86,VIENNE,Ligue Communiste Révolutionaire,2164.0
+1,86,VIENNE,Lutte Ouvrière,0.0
+1,86,VIENNE,Mouvement des Radicaux de Gauche,0.0
+1,86,VIENNE,Organisation Communiste Révolutionaire,0.0
+1,86,VIENNE,Parti Socialiste,37553.0
+1,86,VIENNE,Parti Socialiste Unifié,0.0
+1,86,VIENNE,Parti communiste,34064.0
+1,86,VIENNE,Radicaux réformateurs,0.0
+1,86,VIENNE,Républicains Indépendants,0.0
+1,86,VIENNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,86,VIENNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,67310.0
+1,86,VIENNE,Union des Démocrates pour la Vème République,0.0
+1,86,VIENNE,abstentions,39949.0
+1,86,VIENNE,blancs_nuls,5510.0
+1,87,HAUTE-VIENNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,87,HAUTE-VIENNE,Centre Démocratie et Progrès,0.0
+1,87,HAUTE-VIENNE,Divers Union des Républicains de Progrès,0.0
+1,87,HAUTE-VIENNE,Divers droite,15093.0
+1,87,HAUTE-VIENNE,Divers gauche,0.0
+1,87,HAUTE-VIENNE,Divers gaullistes,0.0
+1,87,HAUTE-VIENNE,Divers réformateurs,6815.0
+1,87,HAUTE-VIENNE,Extrême droite,0.0
+1,87,HAUTE-VIENNE,Ligue Communiste Révolutionaire,0.0
+1,87,HAUTE-VIENNE,Lutte Ouvrière,3292.0
+1,87,HAUTE-VIENNE,Mouvement des Radicaux de Gauche,0.0
+1,87,HAUTE-VIENNE,Organisation Communiste Révolutionaire,654.0
+1,87,HAUTE-VIENNE,Parti Socialiste,52296.0
+1,87,HAUTE-VIENNE,Parti Socialiste Unifié,2249.0
+1,87,HAUTE-VIENNE,Parti communiste,60520.0
+1,87,HAUTE-VIENNE,Radicaux réformateurs,0.0
+1,87,HAUTE-VIENNE,Républicains Indépendants,0.0
+1,87,HAUTE-VIENNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,87,HAUTE-VIENNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,42074.0
+1,87,HAUTE-VIENNE,Union des Démocrates pour la Vème République,0.0
+1,87,HAUTE-VIENNE,abstentions,43753.0
+1,87,HAUTE-VIENNE,blancs_nuls,6051.0
+1,88,VOSGES,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,88,VOSGES,Centre Démocratie et Progrès,0.0
+1,88,VOSGES,Divers Union des Républicains de Progrès,0.0
+1,88,VOSGES,Divers droite,0.0
+1,88,VOSGES,Divers gauche,0.0
+1,88,VOSGES,Divers gaullistes,0.0
+1,88,VOSGES,Divers réformateurs,2865.0
+1,88,VOSGES,Extrême droite,0.0
+1,88,VOSGES,Ligue Communiste Révolutionaire,0.0
+1,88,VOSGES,Lutte Ouvrière,0.0
+1,88,VOSGES,Mouvement des Radicaux de Gauche,0.0
+1,88,VOSGES,Organisation Communiste Révolutionaire,0.0
+1,88,VOSGES,Parti Socialiste,47940.0
+1,88,VOSGES,Parti Socialiste Unifié,2310.0
+1,88,VOSGES,Parti communiste,25461.0
+1,88,VOSGES,Radicaux réformateurs,13487.0
+1,88,VOSGES,Républicains Indépendants,0.0
+1,88,VOSGES,Républicains Indépendants-Union des Républicains de Progrès,24995.0
+1,88,VOSGES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,72496.0
+1,88,VOSGES,Union des Démocrates pour la Vème République,0.0
+1,88,VOSGES,abstentions,41978.0
+1,88,VOSGES,blancs_nuls,6606.0
+1,89,YONNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,89,YONNE,Centre Démocratie et Progrès,0.0
+1,89,YONNE,Divers Union des Républicains de Progrès,0.0
+1,89,YONNE,Divers droite,1209.0
+1,89,YONNE,Divers gauche,0.0
+1,89,YONNE,Divers gaullistes,0.0
+1,89,YONNE,Divers réformateurs,12855.0
+1,89,YONNE,Extrême droite,0.0
+1,89,YONNE,Ligue Communiste Révolutionaire,1105.0
+1,89,YONNE,Lutte Ouvrière,0.0
+1,89,YONNE,Mouvement des Radicaux de Gauche,0.0
+1,89,YONNE,Organisation Communiste Révolutionaire,0.0
+1,89,YONNE,Parti Socialiste,25901.0
+1,89,YONNE,Parti Socialiste Unifié,0.0
+1,89,YONNE,Parti communiste,32453.0
+1,89,YONNE,Radicaux réformateurs,3496.0
+1,89,YONNE,Républicains Indépendants,0.0
+1,89,YONNE,Républicains Indépendants-Union des Républicains de Progrès,49546.0
+1,89,YONNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,19234.0
+1,89,YONNE,Union des Démocrates pour la Vème République,0.0
+1,89,YONNE,abstentions,34428.0
+1,89,YONNE,blancs_nuls,3789.0
+1,90,TERRITOIRE DE BELFORT,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,90,TERRITOIRE DE BELFORT,Centre Démocratie et Progrès,0.0
+1,90,TERRITOIRE DE BELFORT,Divers Union des Républicains de Progrès,0.0
+1,90,TERRITOIRE DE BELFORT,Divers droite,1587.0
+1,90,TERRITOIRE DE BELFORT,Divers gauche,0.0
+1,90,TERRITOIRE DE BELFORT,Divers gaullistes,0.0
+1,90,TERRITOIRE DE BELFORT,Divers réformateurs,2403.0
+1,90,TERRITOIRE DE BELFORT,Extrême droite,564.0
+1,90,TERRITOIRE DE BELFORT,Ligue Communiste Révolutionaire,0.0
+1,90,TERRITOIRE DE BELFORT,Lutte Ouvrière,1485.0
+1,90,TERRITOIRE DE BELFORT,Mouvement des Radicaux de Gauche,0.0
+1,90,TERRITOIRE DE BELFORT,Organisation Communiste Révolutionaire,0.0
+1,90,TERRITOIRE DE BELFORT,Parti Socialiste,19640.0
+1,90,TERRITOIRE DE BELFORT,Parti Socialiste Unifié,0.0
+1,90,TERRITOIRE DE BELFORT,Parti communiste,6404.0
+1,90,TERRITOIRE DE BELFORT,Radicaux réformateurs,2485.0
+1,90,TERRITOIRE DE BELFORT,Républicains Indépendants,0.0
+1,90,TERRITOIRE DE BELFORT,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,90,TERRITOIRE DE BELFORT,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,18970.0
+1,90,TERRITOIRE DE BELFORT,Union des Démocrates pour la Vème République,0.0
+1,90,TERRITOIRE DE BELFORT,abstentions,12919.0
+1,90,TERRITOIRE DE BELFORT,blancs_nuls,1312.0
+1,91,ESSONNE,Centre Démocrate-Union des Républicains de Progrès,29848.0
+1,91,ESSONNE,Centre Démocratie et Progrès,0.0
+1,91,ESSONNE,Divers Union des Républicains de Progrès,0.0
+1,91,ESSONNE,Divers droite,9490.0
+1,91,ESSONNE,Divers gauche,0.0
+1,91,ESSONNE,Divers gaullistes,0.0
+1,91,ESSONNE,Divers réformateurs,55347.0
+1,91,ESSONNE,Extrême droite,6160.0
+1,91,ESSONNE,Ligue Communiste Révolutionaire,2258.0
+1,91,ESSONNE,Lutte Ouvrière,4216.0
+1,91,ESSONNE,Mouvement des Radicaux de Gauche,0.0
+1,91,ESSONNE,Organisation Communiste Révolutionaire,654.0
+1,91,ESSONNE,Parti Socialiste,47555.0
+1,91,ESSONNE,Parti Socialiste Unifié,14614.0
+1,91,ESSONNE,Parti communiste,111366.0
+1,91,ESSONNE,Radicaux réformateurs,0.0
+1,91,ESSONNE,Républicains Indépendants,0.0
+1,91,ESSONNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+1,91,ESSONNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,72793.0
+1,91,ESSONNE,Union des Démocrates pour la Vème République,0.0
+1,91,ESSONNE,abstentions,69977.0
+1,91,ESSONNE,blancs_nuls,7162.0
+1,92,HAUTS-DE-SEINE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,92,HAUTS-DE-SEINE,Centre Démocratie et Progrès,0.0
+1,92,HAUTS-DE-SEINE,Divers Union des Républicains de Progrès,17056.0
+1,92,HAUTS-DE-SEINE,Divers droite,6616.0
+1,92,HAUTS-DE-SEINE,Divers gauche,0.0
+1,92,HAUTS-DE-SEINE,Divers gaullistes,0.0
+1,92,HAUTS-DE-SEINE,Divers réformateurs,93380.0
+1,92,HAUTS-DE-SEINE,Extrême droite,11170.0
+1,92,HAUTS-DE-SEINE,Ligue Communiste Révolutionaire,3812.0
+1,92,HAUTS-DE-SEINE,Lutte Ouvrière,8021.0
+1,92,HAUTS-DE-SEINE,Mouvement des Radicaux de Gauche,0.0
+1,92,HAUTS-DE-SEINE,Organisation Communiste Révolutionaire,204.0
+1,92,HAUTS-DE-SEINE,Parti Socialiste,91617.0
+1,92,HAUTS-DE-SEINE,Parti Socialiste Unifié,26534.0
+1,92,HAUTS-DE-SEINE,Parti communiste,180801.0
+1,92,HAUTS-DE-SEINE,Radicaux réformateurs,6241.0
+1,92,HAUTS-DE-SEINE,Républicains Indépendants,4655.0
+1,92,HAUTS-DE-SEINE,Républicains Indépendants-Union des Républicains de Progrès,43927.0
+1,92,HAUTS-DE-SEINE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,149072.0
+1,92,HAUTS-DE-SEINE,Union des Démocrates pour la Vème République,0.0
+1,92,HAUTS-DE-SEINE,abstentions,144070.0
+1,92,HAUTS-DE-SEINE,blancs_nuls,10427.0
+1,93,SEINE-SAINT-DENIS,Centre Démocrate-Union des Républicains de Progrès,11175.0
+1,93,SEINE-SAINT-DENIS,Centre Démocratie et Progrès,0.0
+1,93,SEINE-SAINT-DENIS,Divers Union des Républicains de Progrès,0.0
+1,93,SEINE-SAINT-DENIS,Divers droite,10131.0
+1,93,SEINE-SAINT-DENIS,Divers gauche,0.0
+1,93,SEINE-SAINT-DENIS,Divers gaullistes,0.0
+1,93,SEINE-SAINT-DENIS,Divers réformateurs,27179.0
+1,93,SEINE-SAINT-DENIS,Extrême droite,3084.0
+1,93,SEINE-SAINT-DENIS,Ligue Communiste Révolutionaire,3130.0
+1,93,SEINE-SAINT-DENIS,Lutte Ouvrière,6345.0
+1,93,SEINE-SAINT-DENIS,Mouvement des Radicaux de Gauche,0.0
+1,93,SEINE-SAINT-DENIS,Organisation Communiste Révolutionaire,500.0
+1,93,SEINE-SAINT-DENIS,Parti Socialiste,80105.0
+1,93,SEINE-SAINT-DENIS,Parti Socialiste Unifié,17522.0
+1,93,SEINE-SAINT-DENIS,Parti communiste,213494.0
+1,93,SEINE-SAINT-DENIS,Radicaux réformateurs,21434.0
+1,93,SEINE-SAINT-DENIS,Républicains Indépendants,0.0
+1,93,SEINE-SAINT-DENIS,Républicains Indépendants-Union des Républicains de Progrès,13426.0
+1,93,SEINE-SAINT-DENIS,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,106725.0
+1,93,SEINE-SAINT-DENIS,Union des Démocrates pour la Vème République,0.0
+1,93,SEINE-SAINT-DENIS,abstentions,117742.0
+1,93,SEINE-SAINT-DENIS,blancs_nuls,14532.0
+1,94,VAL-DE-MARNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,94,VAL-DE-MARNE,Centre Démocratie et Progrès,0.0
+1,94,VAL-DE-MARNE,Divers Union des Républicains de Progrès,0.0
+1,94,VAL-DE-MARNE,Divers droite,19617.0
+1,94,VAL-DE-MARNE,Divers gauche,475.0
+1,94,VAL-DE-MARNE,Divers gaullistes,0.0
+1,94,VAL-DE-MARNE,Divers réformateurs,65733.0
+1,94,VAL-DE-MARNE,Extrême droite,5797.0
+1,94,VAL-DE-MARNE,Ligue Communiste Révolutionaire,4520.0
+1,94,VAL-DE-MARNE,Lutte Ouvrière,3558.0
+1,94,VAL-DE-MARNE,Mouvement des Radicaux de Gauche,0.0
+1,94,VAL-DE-MARNE,Organisation Communiste Révolutionaire,351.0
+1,94,VAL-DE-MARNE,Parti Socialiste,72122.0
+1,94,VAL-DE-MARNE,Parti Socialiste Unifié,18382.0
+1,94,VAL-DE-MARNE,Parti communiste,166764.0
+1,94,VAL-DE-MARNE,Radicaux réformateurs,0.0
+1,94,VAL-DE-MARNE,Républicains Indépendants,0.0
+1,94,VAL-DE-MARNE,Républicains Indépendants-Union des Républicains de Progrès,22925.0
+1,94,VAL-DE-MARNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,129602.0
+1,94,VAL-DE-MARNE,Union des Démocrates pour la Vème République,0.0
+1,94,VAL-DE-MARNE,abstentions,106735.0
+1,94,VAL-DE-MARNE,blancs_nuls,8206.0
+1,95,VAL-D'OISE,Centre Démocrate-Union des Républicains de Progrès,0.0
+1,95,VAL-D'OISE,Centre Démocratie et Progrès,0.0
+1,95,VAL-D'OISE,Divers Union des Républicains de Progrès,0.0
+1,95,VAL-D'OISE,Divers droite,20821.0
+1,95,VAL-D'OISE,Divers gauche,0.0
+1,95,VAL-D'OISE,Divers gaullistes,1480.0
+1,95,VAL-D'OISE,Divers réformateurs,29918.0
+1,95,VAL-D'OISE,Extrême droite,1770.0
+1,95,VAL-D'OISE,Ligue Communiste Révolutionaire,1505.0
+1,95,VAL-D'OISE,Lutte Ouvrière,2024.0
+1,95,VAL-D'OISE,Mouvement des Radicaux de Gauche,0.0
+1,95,VAL-D'OISE,Organisation Communiste Révolutionaire,264.0
+1,95,VAL-D'OISE,Parti Socialiste,49671.0
+1,95,VAL-D'OISE,Parti Socialiste Unifié,13251.0
+1,95,VAL-D'OISE,Parti communiste,101956.0
+1,95,VAL-D'OISE,Radicaux réformateurs,10991.0
+1,95,VAL-D'OISE,Républicains Indépendants,3915.0
+1,95,VAL-D'OISE,Républicains Indépendants-Union des Républicains de Progrès,26227.0
+1,95,VAL-D'OISE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,68672.0
+1,95,VAL-D'OISE,Union des Démocrates pour la Vème République,0.0
+1,95,VAL-D'OISE,abstentions,69583.0
+1,95,VAL-D'OISE,blancs_nuls,6026.0
+2,1,AIN,Centre Démocrate-Union des Républicains de Progrès,30065.0
+2,1,AIN,Centre Démocratie et Progrès,0.0
+2,1,AIN,Divers Union des Républicains de Progrès,0.0
+2,1,AIN,Divers droite,0.0
+2,1,AIN,Divers gauche,0.0
+2,1,AIN,Divers gaullistes,0.0
+2,1,AIN,Divers réformateurs,0.0
+2,1,AIN,Mouvement des Radicaux de Gauche,24083.0
+2,1,AIN,Parti Socialiste,22711.0
+2,1,AIN,Parti Socialiste Unifié,0.0
+2,1,AIN,Parti communiste,22035.0
+2,1,AIN,Radicaux réformateurs,0.0
+2,1,AIN,Républicains Indépendants,0.0
+2,1,AIN,Républicains Indépendants-Union des Républicains de Progrès,58981.0
+2,1,AIN,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+2,1,AIN,Union des Démocrates pour la Vème République,0.0
+2,1,AIN,abstentions,48560.0
+2,1,AIN,blancs_nuls,5371.0
+2,2,AISNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,2,AISNE,Centre Démocratie et Progrès,0.0
+2,2,AISNE,Divers Union des Républicains de Progrès,0.0
+2,2,AISNE,Divers droite,0.0
+2,2,AISNE,Divers gauche,0.0
+2,2,AISNE,Divers gaullistes,0.0
+2,2,AISNE,Divers réformateurs,34193.0
+2,2,AISNE,Mouvement des Radicaux de Gauche,0.0
+2,2,AISNE,Parti Socialiste,50128.0
+2,2,AISNE,Parti Socialiste Unifié,0.0
+2,2,AISNE,Parti communiste,81167.0
+2,2,AISNE,Radicaux réformateurs,0.0
+2,2,AISNE,Républicains Indépendants,0.0
+2,2,AISNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,2,AISNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,88356.0
+2,2,AISNE,Union des Démocrates pour la Vème République,0.0
+2,2,AISNE,abstentions,42476.0
+2,2,AISNE,blancs_nuls,8093.0
+2,3,ALLIER,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,3,ALLIER,Centre Démocratie et Progrès,0.0
+2,3,ALLIER,Divers Union des Républicains de Progrès,0.0
+2,3,ALLIER,Divers droite,27080.0
+2,3,ALLIER,Divers gauche,0.0
+2,3,ALLIER,Divers gaullistes,0.0
+2,3,ALLIER,Divers réformateurs,0.0
+2,3,ALLIER,Mouvement des Radicaux de Gauche,0.0
+2,3,ALLIER,Parti Socialiste,0.0
+2,3,ALLIER,Parti Socialiste Unifié,0.0
+2,3,ALLIER,Parti communiste,87848.0
+2,3,ALLIER,Radicaux réformateurs,27577.0
+2,3,ALLIER,Républicains Indépendants,0.0
+2,3,ALLIER,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,3,ALLIER,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,51573.0
+2,3,ALLIER,Union des Démocrates pour la Vème République,0.0
+2,3,ALLIER,abstentions,43508.0
+2,3,ALLIER,blancs_nuls,6043.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Centre Démocratie et Progrès,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Divers Union des Républicains de Progrès,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Divers droite,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Divers gauche,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Divers gaullistes,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Divers réformateurs,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Mouvement des Radicaux de Gauche,14775.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Parti Socialiste,16969.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Parti Socialiste Unifié,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Parti communiste,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Radicaux réformateurs,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Républicains Indépendants,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,24844.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Union des Démocrates pour la Vème République,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,abstentions,11384.0
+2,4,ALPES-DE-HAUTE-PROVENCE,blancs_nuls,1611.0
+2,5,HAUTES-ALPES,Centre Démocrate-Union des Républicains de Progrès,15243.0
+2,5,HAUTES-ALPES,Centre Démocratie et Progrès,0.0
+2,5,HAUTES-ALPES,Divers Union des Républicains de Progrès,0.0
+2,5,HAUTES-ALPES,Divers droite,0.0
+2,5,HAUTES-ALPES,Divers gauche,0.0
+2,5,HAUTES-ALPES,Divers gaullistes,0.0
+2,5,HAUTES-ALPES,Divers réformateurs,2391.0
+2,5,HAUTES-ALPES,Mouvement des Radicaux de Gauche,13955.0
+2,5,HAUTES-ALPES,Parti Socialiste,0.0
+2,5,HAUTES-ALPES,Parti Socialiste Unifié,0.0
+2,5,HAUTES-ALPES,Parti communiste,7711.0
+2,5,HAUTES-ALPES,Radicaux réformateurs,0.0
+2,5,HAUTES-ALPES,Républicains Indépendants,0.0
+2,5,HAUTES-ALPES,Républicains Indépendants-Union des Républicains de Progrès,11389.0
+2,5,HAUTES-ALPES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+2,5,HAUTES-ALPES,Union des Démocrates pour la Vème République,0.0
+2,5,HAUTES-ALPES,abstentions,10492.0
+2,5,HAUTES-ALPES,blancs_nuls,994.0
+2,6,ALPES-MARITIMES,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,6,ALPES-MARITIMES,Centre Démocratie et Progrès,0.0
+2,6,ALPES-MARITIMES,Divers Union des Républicains de Progrès,0.0
+2,6,ALPES-MARITIMES,Divers droite,0.0
+2,6,ALPES-MARITIMES,Divers gauche,33471.0
+2,6,ALPES-MARITIMES,Divers gaullistes,0.0
+2,6,ALPES-MARITIMES,Divers réformateurs,39818.0
+2,6,ALPES-MARITIMES,Mouvement des Radicaux de Gauche,0.0
+2,6,ALPES-MARITIMES,Parti Socialiste,0.0
+2,6,ALPES-MARITIMES,Parti Socialiste Unifié,0.0
+2,6,ALPES-MARITIMES,Parti communiste,137739.0
+2,6,ALPES-MARITIMES,Radicaux réformateurs,0.0
+2,6,ALPES-MARITIMES,Républicains Indépendants,0.0
+2,6,ALPES-MARITIMES,Républicains Indépendants-Union des Républicains de Progrès,30882.0
+2,6,ALPES-MARITIMES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,119044.0
+2,6,ALPES-MARITIMES,Union des Démocrates pour la Vème République,0.0
+2,6,ALPES-MARITIMES,abstentions,83918.0
+2,6,ALPES-MARITIMES,blancs_nuls,17121.0
+2,7,ARDECHE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,7,ARDECHE,Centre Démocratie et Progrès,0.0
+2,7,ARDECHE,Divers Union des Républicains de Progrès,0.0
+2,7,ARDECHE,Divers droite,0.0
+2,7,ARDECHE,Divers gauche,0.0
+2,7,ARDECHE,Divers gaullistes,0.0
+2,7,ARDECHE,Divers réformateurs,0.0
+2,7,ARDECHE,Mouvement des Radicaux de Gauche,0.0
+2,7,ARDECHE,Parti Socialiste,19951.0
+2,7,ARDECHE,Parti Socialiste Unifié,0.0
+2,7,ARDECHE,Parti communiste,37822.0
+2,7,ARDECHE,Radicaux réformateurs,0.0
+2,7,ARDECHE,Républicains Indépendants,0.0
+2,7,ARDECHE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,7,ARDECHE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,76187.0
+2,7,ARDECHE,Union des Démocrates pour la Vème République,0.0
+2,7,ARDECHE,abstentions,30354.0
+2,7,ARDECHE,blancs_nuls,5528.0
+2,8,ARDENNES,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,8,ARDENNES,Centre Démocratie et Progrès,0.0
+2,8,ARDENNES,Divers Union des Républicains de Progrès,0.0
+2,8,ARDENNES,Divers droite,0.0
+2,8,ARDENNES,Divers gauche,0.0
+2,8,ARDENNES,Divers gaullistes,0.0
+2,8,ARDENNES,Divers réformateurs,0.0
+2,8,ARDENNES,Mouvement des Radicaux de Gauche,0.0
+2,8,ARDENNES,Parti Socialiste,48768.0
+2,8,ARDENNES,Parti Socialiste Unifié,0.0
+2,8,ARDENNES,Parti communiste,20757.0
+2,8,ARDENNES,Radicaux réformateurs,0.0
+2,8,ARDENNES,Républicains Indépendants,0.0
+2,8,ARDENNES,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,8,ARDENNES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,67005.0
+2,8,ARDENNES,Union des Démocrates pour la Vème République,0.0
+2,8,ARDENNES,abstentions,27206.0
+2,8,ARDENNES,blancs_nuls,4377.0
+2,9,ARIEGE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,9,ARIEGE,Centre Démocratie et Progrès,0.0
+2,9,ARIEGE,Divers Union des Républicains de Progrès,0.0
+2,9,ARIEGE,Divers droite,0.0
+2,9,ARIEGE,Divers gauche,0.0
+2,9,ARIEGE,Divers gaullistes,0.0
+2,9,ARIEGE,Divers réformateurs,0.0
+2,9,ARIEGE,Mouvement des Radicaux de Gauche,0.0
+2,9,ARIEGE,Parti Socialiste,49582.0
+2,9,ARIEGE,Parti Socialiste Unifié,0.0
+2,9,ARIEGE,Parti communiste,0.0
+2,9,ARIEGE,Radicaux réformateurs,0.0
+2,9,ARIEGE,Républicains Indépendants,0.0
+2,9,ARIEGE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,9,ARIEGE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,25291.0
+2,9,ARIEGE,Union des Démocrates pour la Vème République,0.0
+2,9,ARIEGE,abstentions,19416.0
+2,9,ARIEGE,blancs_nuls,2061.0
+2,10,AUBE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,10,AUBE,Centre Démocratie et Progrès,0.0
+2,10,AUBE,Divers Union des Républicains de Progrès,0.0
+2,10,AUBE,Divers droite,0.0
+2,10,AUBE,Divers gauche,0.0
+2,10,AUBE,Divers gaullistes,0.0
+2,10,AUBE,Divers réformateurs,0.0
+2,10,AUBE,Mouvement des Radicaux de Gauche,0.0
+2,10,AUBE,Parti Socialiste,40517.0
+2,10,AUBE,Parti Socialiste Unifié,0.0
+2,10,AUBE,Parti communiste,22653.0
+2,10,AUBE,Radicaux réformateurs,0.0
+2,10,AUBE,Républicains Indépendants,0.0
+2,10,AUBE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,10,AUBE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,67947.0
+2,10,AUBE,Union des Démocrates pour la Vème République,0.0
+2,10,AUBE,abstentions,25316.0
+2,10,AUBE,blancs_nuls,4474.0
+2,11,AUDE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,11,AUDE,Centre Démocratie et Progrès,0.0
+2,11,AUDE,Divers Union des Républicains de Progrès,0.0
+2,11,AUDE,Divers droite,0.0
+2,11,AUDE,Divers gauche,0.0
+2,11,AUDE,Divers gaullistes,0.0
+2,11,AUDE,Divers réformateurs,0.0
+2,11,AUDE,Mouvement des Radicaux de Gauche,0.0
+2,11,AUDE,Parti Socialiste,89860.0
+2,11,AUDE,Parti Socialiste Unifié,0.0
+2,11,AUDE,Parti communiste,0.0
+2,11,AUDE,Radicaux réformateurs,0.0
+2,11,AUDE,Républicains Indépendants,0.0
+2,11,AUDE,Républicains Indépendants-Union des Républicains de Progrès,18018.0
+2,11,AUDE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,41755.0
+2,11,AUDE,Union des Démocrates pour la Vème République,0.0
+2,11,AUDE,abstentions,26471.0
+2,11,AUDE,blancs_nuls,4686.0
+2,12,AVEYRON,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,12,AVEYRON,Centre Démocratie et Progrès,0.0
+2,12,AVEYRON,Divers Union des Républicains de Progrès,0.0
+2,12,AVEYRON,Divers droite,0.0
+2,12,AVEYRON,Divers gauche,0.0
+2,12,AVEYRON,Divers gaullistes,0.0
+2,12,AVEYRON,Divers réformateurs,36483.0
+2,12,AVEYRON,Mouvement des Radicaux de Gauche,27456.0
+2,12,AVEYRON,Parti Socialiste,28693.0
+2,12,AVEYRON,Parti Socialiste Unifié,0.0
+2,12,AVEYRON,Parti communiste,0.0
+2,12,AVEYRON,Radicaux réformateurs,0.0
+2,12,AVEYRON,Républicains Indépendants,20956.0
+2,12,AVEYRON,Républicains Indépendants-Union des Républicains de Progrès,22857.0
+2,12,AVEYRON,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,22717.0
+2,12,AVEYRON,Union des Démocrates pour la Vème République,0.0
+2,12,AVEYRON,abstentions,28222.0
+2,12,AVEYRON,blancs_nuls,2296.0
+2,13,BOUCHES-DU-RHONE,Centre Démocrate-Union des Républicains de Progrès,20583.0
+2,13,BOUCHES-DU-RHONE,Centre Démocratie et Progrès,0.0
+2,13,BOUCHES-DU-RHONE,Divers Union des Républicains de Progrès,68341.0
+2,13,BOUCHES-DU-RHONE,Divers droite,0.0
+2,13,BOUCHES-DU-RHONE,Divers gauche,0.0
+2,13,BOUCHES-DU-RHONE,Divers gaullistes,1004.0
+2,13,BOUCHES-DU-RHONE,Divers réformateurs,35.0
+2,13,BOUCHES-DU-RHONE,Mouvement des Radicaux de Gauche,0.0
+2,13,BOUCHES-DU-RHONE,Parti Socialiste,154386.0
+2,13,BOUCHES-DU-RHONE,Parti Socialiste Unifié,0.0
+2,13,BOUCHES-DU-RHONE,Parti communiste,165249.0
+2,13,BOUCHES-DU-RHONE,Radicaux réformateurs,11002.0
+2,13,BOUCHES-DU-RHONE,Républicains Indépendants,0.0
+2,13,BOUCHES-DU-RHONE,Républicains Indépendants-Union des Républicains de Progrès,39776.0
+2,13,BOUCHES-DU-RHONE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,103231.0
+2,13,BOUCHES-DU-RHONE,Union des Démocrates pour la Vème République,0.0
+2,13,BOUCHES-DU-RHONE,abstentions,171786.0
+2,13,BOUCHES-DU-RHONE,blancs_nuls,21490.0
+2,14,CALVADOS,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,14,CALVADOS,Centre Démocratie et Progrès,0.0
+2,14,CALVADOS,Divers Union des Républicains de Progrès,0.0
+2,14,CALVADOS,Divers droite,14877.0
+2,14,CALVADOS,Divers gauche,0.0
+2,14,CALVADOS,Divers gaullistes,0.0
+2,14,CALVADOS,Divers réformateurs,5064.0
+2,14,CALVADOS,Mouvement des Radicaux de Gauche,0.0
+2,14,CALVADOS,Parti Socialiste,68110.0
+2,14,CALVADOS,Parti Socialiste Unifié,0.0
+2,14,CALVADOS,Parti communiste,17835.0
+2,14,CALVADOS,Radicaux réformateurs,0.0
+2,14,CALVADOS,Républicains Indépendants,0.0
+2,14,CALVADOS,Républicains Indépendants-Union des Républicains de Progrès,25094.0
+2,14,CALVADOS,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,76153.0
+2,14,CALVADOS,Union des Démocrates pour la Vème République,0.0
+2,14,CALVADOS,abstentions,50916.0
+2,14,CALVADOS,blancs_nuls,5254.0
+2,15,CANTAL,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,15,CANTAL,Centre Démocratie et Progrès,0.0
+2,15,CANTAL,Divers Union des Républicains de Progrès,0.0
+2,15,CANTAL,Divers droite,0.0
+2,15,CANTAL,Divers gauche,0.0
+2,15,CANTAL,Divers gaullistes,0.0
+2,15,CANTAL,Divers réformateurs,5406.0
+2,15,CANTAL,Mouvement des Radicaux de Gauche,0.0
+2,15,CANTAL,Parti Socialiste,0.0
+2,15,CANTAL,Parti Socialiste Unifié,0.0
+2,15,CANTAL,Parti communiste,14795.0
+2,15,CANTAL,Radicaux réformateurs,0.0
+2,15,CANTAL,Républicains Indépendants,0.0
+2,15,CANTAL,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,15,CANTAL,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,24933.0
+2,15,CANTAL,Union des Démocrates pour la Vème République,0.0
+2,15,CANTAL,abstentions,13438.0
+2,15,CANTAL,blancs_nuls,794.0
+2,16,CHARENTE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,16,CHARENTE,Centre Démocratie et Progrès,0.0
+2,16,CHARENTE,Divers Union des Républicains de Progrès,0.0
+2,16,CHARENTE,Divers droite,0.0
+2,16,CHARENTE,Divers gauche,0.0
+2,16,CHARENTE,Divers gaullistes,35919.0
+2,16,CHARENTE,Divers réformateurs,0.0
+2,16,CHARENTE,Mouvement des Radicaux de Gauche,0.0
+2,16,CHARENTE,Parti Socialiste,30653.0
+2,16,CHARENTE,Parti Socialiste Unifié,0.0
+2,16,CHARENTE,Parti communiste,40809.0
+2,16,CHARENTE,Radicaux réformateurs,12065.0
+2,16,CHARENTE,Républicains Indépendants,0.0
+2,16,CHARENTE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,16,CHARENTE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,48263.0
+2,16,CHARENTE,Union des Démocrates pour la Vème République,0.0
+2,16,CHARENTE,abstentions,36985.0
+2,16,CHARENTE,blancs_nuls,4697.0
+2,17,CHARENTE-MARITIME,Centre Démocrate-Union des Républicains de Progrès,23773.0
+2,17,CHARENTE-MARITIME,Centre Démocratie et Progrès,0.0
+2,17,CHARENTE-MARITIME,Divers Union des Républicains de Progrès,0.0
+2,17,CHARENTE-MARITIME,Divers droite,0.0
+2,17,CHARENTE-MARITIME,Divers gauche,0.0
+2,17,CHARENTE-MARITIME,Divers gaullistes,0.0
+2,17,CHARENTE-MARITIME,Divers réformateurs,0.0
+2,17,CHARENTE-MARITIME,Mouvement des Radicaux de Gauche,34660.0
+2,17,CHARENTE-MARITIME,Parti Socialiste,0.0
+2,17,CHARENTE-MARITIME,Parti Socialiste Unifié,0.0
+2,17,CHARENTE-MARITIME,Parti communiste,56407.0
+2,17,CHARENTE-MARITIME,Radicaux réformateurs,0.0
+2,17,CHARENTE-MARITIME,Républicains Indépendants,0.0
+2,17,CHARENTE-MARITIME,Républicains Indépendants-Union des Républicains de Progrès,30597.0
+2,17,CHARENTE-MARITIME,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,49790.0
+2,17,CHARENTE-MARITIME,Union des Démocrates pour la Vème République,0.0
+2,17,CHARENTE-MARITIME,abstentions,57427.0
+2,17,CHARENTE-MARITIME,blancs_nuls,8266.0
+2,18,CHER,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,18,CHER,Centre Démocratie et Progrès,0.0
+2,18,CHER,Divers Union des Républicains de Progrès,0.0
+2,18,CHER,Divers droite,0.0
+2,18,CHER,Divers gauche,0.0
+2,18,CHER,Divers gaullistes,0.0
+2,18,CHER,Divers réformateurs,0.0
+2,18,CHER,Mouvement des Radicaux de Gauche,0.0
+2,18,CHER,Parti Socialiste,0.0
+2,18,CHER,Parti Socialiste Unifié,0.0
+2,18,CHER,Parti communiste,73190.0
+2,18,CHER,Radicaux réformateurs,0.0
+2,18,CHER,Républicains Indépendants,0.0
+2,18,CHER,Républicains Indépendants-Union des Républicains de Progrès,29097.0
+2,18,CHER,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,50822.0
+2,18,CHER,Union des Démocrates pour la Vème République,0.0
+2,18,CHER,abstentions,32581.0
+2,18,CHER,blancs_nuls,5536.0
+2,19,CORREZE,Centre Démocrate-Union des Républicains de Progrès,14835.0
+2,19,CORREZE,Centre Démocratie et Progrès,0.0
+2,19,CORREZE,Divers Union des Républicains de Progrès,0.0
+2,19,CORREZE,Divers droite,0.0
+2,19,CORREZE,Divers gauche,0.0
+2,19,CORREZE,Divers gaullistes,0.0
+2,19,CORREZE,Divers réformateurs,11436.0
+2,19,CORREZE,Mouvement des Radicaux de Gauche,0.0
+2,19,CORREZE,Parti Socialiste,0.0
+2,19,CORREZE,Parti Socialiste Unifié,0.0
+2,19,CORREZE,Parti communiste,44837.0
+2,19,CORREZE,Radicaux réformateurs,0.0
+2,19,CORREZE,Républicains Indépendants,0.0
+2,19,CORREZE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,19,CORREZE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,30392.0
+2,19,CORREZE,Union des Démocrates pour la Vème République,0.0
+2,19,CORREZE,abstentions,16249.0
+2,19,CORREZE,blancs_nuls,2848.0
+2,20,CORSE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,20,CORSE,Centre Démocratie et Progrès,0.0
+2,20,CORSE,Divers Union des Républicains de Progrès,0.0
+2,20,CORSE,Divers droite,0.0
+2,20,CORSE,Divers gauche,0.0
+2,20,CORSE,Divers gaullistes,0.0
+2,20,CORSE,Divers réformateurs,0.0
+2,20,CORSE,Mouvement des Radicaux de Gauche,41459.0
+2,20,CORSE,Parti Socialiste,0.0
+2,20,CORSE,Parti Socialiste Unifié,0.0
+2,20,CORSE,Parti communiste,0.0
+2,20,CORSE,Radicaux réformateurs,0.0
+2,20,CORSE,Républicains Indépendants,0.0
+2,20,CORSE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,20,CORSE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,35429.0
+2,20,CORSE,Union des Démocrates pour la Vème République,0.0
+2,20,CORSE,abstentions,39544.0
+2,20,CORSE,blancs_nuls,1472.0
+2,21,COTE-D'OR,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,21,COTE-D'OR,Centre Démocratie et Progrès,0.0
+2,21,COTE-D'OR,Divers Union des Républicains de Progrès,0.0
+2,21,COTE-D'OR,Divers droite,0.0
+2,21,COTE-D'OR,Divers gauche,0.0
+2,21,COTE-D'OR,Divers gaullistes,0.0
+2,21,COTE-D'OR,Divers réformateurs,0.0
+2,21,COTE-D'OR,Mouvement des Radicaux de Gauche,18319.0
+2,21,COTE-D'OR,Parti Socialiste,53677.0
+2,21,COTE-D'OR,Parti Socialiste Unifié,0.0
+2,21,COTE-D'OR,Parti communiste,15293.0
+2,21,COTE-D'OR,Radicaux réformateurs,0.0
+2,21,COTE-D'OR,Républicains Indépendants,0.0
+2,21,COTE-D'OR,Républicains Indépendants-Union des Républicains de Progrès,23383.0
+2,21,COTE-D'OR,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,83305.0
+2,21,COTE-D'OR,Union des Démocrates pour la Vème République,0.0
+2,21,COTE-D'OR,abstentions,48989.0
+2,21,COTE-D'OR,blancs_nuls,5323.0
+2,22,COTES-D'ARMOR,Centre Démocrate-Union des Républicains de Progrès,85653.0
+2,22,COTES-D'ARMOR,Centre Démocratie et Progrès,0.0
+2,22,COTES-D'ARMOR,Divers Union des Républicains de Progrès,36850.0
+2,22,COTES-D'ARMOR,Divers droite,0.0
+2,22,COTES-D'ARMOR,Divers gauche,0.0
+2,22,COTES-D'ARMOR,Divers gaullistes,0.0
+2,22,COTES-D'ARMOR,Divers réformateurs,0.0
+2,22,COTES-D'ARMOR,Mouvement des Radicaux de Gauche,0.0
+2,22,COTES-D'ARMOR,Parti Socialiste,26870.0
+2,22,COTES-D'ARMOR,Parti Socialiste Unifié,36917.0
+2,22,COTES-D'ARMOR,Parti communiste,52756.0
+2,22,COTES-D'ARMOR,Radicaux réformateurs,0.0
+2,22,COTES-D'ARMOR,Républicains Indépendants,0.0
+2,22,COTES-D'ARMOR,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,22,COTES-D'ARMOR,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+2,22,COTES-D'ARMOR,Union des Démocrates pour la Vème République,0.0
+2,22,COTES-D'ARMOR,abstentions,40092.0
+2,22,COTES-D'ARMOR,blancs_nuls,4507.0
+2,23,CREUSE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,23,CREUSE,Centre Démocratie et Progrès,0.0
+2,23,CREUSE,Divers Union des Républicains de Progrès,0.0
+2,23,CREUSE,Divers droite,0.0
+2,23,CREUSE,Divers gauche,0.0
+2,23,CREUSE,Divers gaullistes,0.0
+2,23,CREUSE,Divers réformateurs,0.0
+2,23,CREUSE,Mouvement des Radicaux de Gauche,0.0
+2,23,CREUSE,Parti Socialiste,47233.0
+2,23,CREUSE,Parti Socialiste Unifié,0.0
+2,23,CREUSE,Parti communiste,0.0
+2,23,CREUSE,Radicaux réformateurs,0.0
+2,23,CREUSE,Républicains Indépendants,0.0
+2,23,CREUSE,Républicains Indépendants-Union des Républicains de Progrès,15104.0
+2,23,CREUSE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,20396.0
+2,23,CREUSE,Union des Démocrates pour la Vème République,0.0
+2,23,CREUSE,abstentions,24816.0
+2,23,CREUSE,blancs_nuls,1675.0
+2,24,DORDOGNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,24,DORDOGNE,Centre Démocratie et Progrès,0.0
+2,24,DORDOGNE,Divers Union des Républicains de Progrès,0.0
+2,24,DORDOGNE,Divers droite,0.0
+2,24,DORDOGNE,Divers gauche,0.0
+2,24,DORDOGNE,Divers gaullistes,0.0
+2,24,DORDOGNE,Divers réformateurs,0.0
+2,24,DORDOGNE,Mouvement des Radicaux de Gauche,31834.0
+2,24,DORDOGNE,Parti Socialiste,27714.0
+2,24,DORDOGNE,Parti Socialiste Unifié,0.0
+2,24,DORDOGNE,Parti communiste,53848.0
+2,24,DORDOGNE,Radicaux réformateurs,0.0
+2,24,DORDOGNE,Républicains Indépendants,24762.0
+2,24,DORDOGNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,24,DORDOGNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,81290.0
+2,24,DORDOGNE,Union des Démocrates pour la Vème République,0.0
+2,24,DORDOGNE,abstentions,33402.0
+2,24,DORDOGNE,blancs_nuls,6990.0
+2,25,DOUBS,Centre Démocrate-Union des Républicains de Progrès,29182.0
+2,25,DOUBS,Centre Démocratie et Progrès,0.0
+2,25,DOUBS,Divers Union des Républicains de Progrès,0.0
+2,25,DOUBS,Divers droite,0.0
+2,25,DOUBS,Divers gauche,0.0
+2,25,DOUBS,Divers gaullistes,0.0
+2,25,DOUBS,Divers réformateurs,0.0
+2,25,DOUBS,Mouvement des Radicaux de Gauche,0.0
+2,25,DOUBS,Parti Socialiste,81090.0
+2,25,DOUBS,Parti Socialiste Unifié,0.0
+2,25,DOUBS,Parti communiste,0.0
+2,25,DOUBS,Radicaux réformateurs,0.0
+2,25,DOUBS,Républicains Indépendants,0.0
+2,25,DOUBS,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,25,DOUBS,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,36411.0
+2,25,DOUBS,Union des Démocrates pour la Vème République,0.0
+2,25,DOUBS,abstentions,34106.0
+2,25,DOUBS,blancs_nuls,3293.0
+2,26,DROME,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,26,DROME,Centre Démocratie et Progrès,0.0
+2,26,DROME,Divers Union des Républicains de Progrès,0.0
+2,26,DROME,Divers droite,0.0
+2,26,DROME,Divers gauche,0.0
+2,26,DROME,Divers gaullistes,0.0
+2,26,DROME,Divers réformateurs,0.0
+2,26,DROME,Mouvement des Radicaux de Gauche,0.0
+2,26,DROME,Parti Socialiste,59622.0
+2,26,DROME,Parti Socialiste Unifié,0.0
+2,26,DROME,Parti communiste,29610.0
+2,26,DROME,Radicaux réformateurs,0.0
+2,26,DROME,Républicains Indépendants,0.0
+2,26,DROME,Républicains Indépendants-Union des Républicains de Progrès,27705.0
+2,26,DROME,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,53266.0
+2,26,DROME,Union des Démocrates pour la Vème République,0.0
+2,26,DROME,abstentions,35933.0
+2,26,DROME,blancs_nuls,5487.0
+2,27,EURE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,27,EURE,Centre Démocratie et Progrès,0.0
+2,27,EURE,Divers Union des Républicains de Progrès,0.0
+2,27,EURE,Divers droite,0.0
+2,27,EURE,Divers gauche,0.0
+2,27,EURE,Divers gaullistes,0.0
+2,27,EURE,Divers réformateurs,42178.0
+2,27,EURE,Mouvement des Radicaux de Gauche,0.0
+2,27,EURE,Parti Socialiste,15160.0
+2,27,EURE,Parti Socialiste Unifié,0.0
+2,27,EURE,Parti communiste,61433.0
+2,27,EURE,Radicaux réformateurs,0.0
+2,27,EURE,Républicains Indépendants,0.0
+2,27,EURE,Républicains Indépendants-Union des Républicains de Progrès,31818.0
+2,27,EURE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,41564.0
+2,27,EURE,Union des Démocrates pour la Vème République,0.0
+2,27,EURE,abstentions,38801.0
+2,27,EURE,blancs_nuls,6513.0
+2,28,EURE-ET-LOIR,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,28,EURE-ET-LOIR,Centre Démocratie et Progrès,0.0
+2,28,EURE-ET-LOIR,Divers Union des Républicains de Progrès,0.0
+2,28,EURE-ET-LOIR,Divers droite,0.0
+2,28,EURE-ET-LOIR,Divers gauche,134.0
+2,28,EURE-ET-LOIR,Divers gaullistes,0.0
+2,28,EURE-ET-LOIR,Divers réformateurs,0.0
+2,28,EURE-ET-LOIR,Mouvement des Radicaux de Gauche,0.0
+2,28,EURE-ET-LOIR,Parti Socialiste,48492.0
+2,28,EURE-ET-LOIR,Parti Socialiste Unifié,0.0
+2,28,EURE-ET-LOIR,Parti communiste,19760.0
+2,28,EURE-ET-LOIR,Radicaux réformateurs,10295.0
+2,28,EURE-ET-LOIR,Républicains Indépendants,0.0
+2,28,EURE-ET-LOIR,Républicains Indépendants-Union des Républicains de Progrès,24059.0
+2,28,EURE-ET-LOIR,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,52673.0
+2,28,EURE-ET-LOIR,Union des Démocrates pour la Vème République,0.0
+2,28,EURE-ET-LOIR,abstentions,30875.0
+2,28,EURE-ET-LOIR,blancs_nuls,5823.0
+2,29,FINISTERE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,29,FINISTERE,Centre Démocratie et Progrès,0.0
+2,29,FINISTERE,Divers Union des Républicains de Progrès,0.0
+2,29,FINISTERE,Divers droite,0.0
+2,29,FINISTERE,Divers gauche,0.0
+2,29,FINISTERE,Divers gaullistes,0.0
+2,29,FINISTERE,Divers réformateurs,11473.0
+2,29,FINISTERE,Mouvement des Radicaux de Gauche,0.0
+2,29,FINISTERE,Parti Socialiste,97139.0
+2,29,FINISTERE,Parti Socialiste Unifié,0.0
+2,29,FINISTERE,Parti communiste,57930.0
+2,29,FINISTERE,Radicaux réformateurs,0.0
+2,29,FINISTERE,Républicains Indépendants,0.0
+2,29,FINISTERE,Républicains Indépendants-Union des Républicains de Progrès,22171.0
+2,29,FINISTERE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,173134.0
+2,29,FINISTERE,Union des Démocrates pour la Vème République,0.0
+2,29,FINISTERE,abstentions,79644.0
+2,29,FINISTERE,blancs_nuls,8729.0
+2,30,GARD,Centre Démocrate-Union des Républicains de Progrès,40666.0
+2,30,GARD,Centre Démocratie et Progrès,0.0
+2,30,GARD,Divers Union des Républicains de Progrès,0.0
+2,30,GARD,Divers droite,0.0
+2,30,GARD,Divers gauche,0.0
+2,30,GARD,Divers gaullistes,0.0
+2,30,GARD,Divers réformateurs,0.0
+2,30,GARD,Mouvement des Radicaux de Gauche,0.0
+2,30,GARD,Parti Socialiste,45342.0
+2,30,GARD,Parti Socialiste Unifié,0.0
+2,30,GARD,Parti communiste,84948.0
+2,30,GARD,Radicaux réformateurs,0.0
+2,30,GARD,Républicains Indépendants,0.0
+2,30,GARD,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,30,GARD,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,71111.0
+2,30,GARD,Union des Démocrates pour la Vème République,0.0
+2,30,GARD,abstentions,49558.0
+2,30,GARD,blancs_nuls,8564.0
+2,31,HAUTE-GARONNE,Centre Démocrate-Union des Républicains de Progrès,57508.0
+2,31,HAUTE-GARONNE,Centre Démocratie et Progrès,0.0
+2,31,HAUTE-GARONNE,Divers Union des Républicains de Progrès,0.0
+2,31,HAUTE-GARONNE,Divers droite,0.0
+2,31,HAUTE-GARONNE,Divers gauche,0.0
+2,31,HAUTE-GARONNE,Divers gaullistes,0.0
+2,31,HAUTE-GARONNE,Divers réformateurs,0.0
+2,31,HAUTE-GARONNE,Mouvement des Radicaux de Gauche,0.0
+2,31,HAUTE-GARONNE,Parti Socialiste,189488.0
+2,31,HAUTE-GARONNE,Parti Socialiste Unifié,0.0
+2,31,HAUTE-GARONNE,Parti communiste,0.0
+2,31,HAUTE-GARONNE,Radicaux réformateurs,0.0
+2,31,HAUTE-GARONNE,Républicains Indépendants,0.0
+2,31,HAUTE-GARONNE,Républicains Indépendants-Union des Républicains de Progrès,45797.0
+2,31,HAUTE-GARONNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,51060.0
+2,31,HAUTE-GARONNE,Union des Démocrates pour la Vème République,0.0
+2,31,HAUTE-GARONNE,abstentions,71378.0
+2,31,HAUTE-GARONNE,blancs_nuls,9408.0
+2,32,GERS,Centre Démocrate-Union des Républicains de Progrès,23996.0
+2,32,GERS,Centre Démocratie et Progrès,0.0
+2,32,GERS,Divers Union des Républicains de Progrès,25472.0
+2,32,GERS,Divers droite,0.0
+2,32,GERS,Divers gauche,0.0
+2,32,GERS,Divers gaullistes,0.0
+2,32,GERS,Divers réformateurs,0.0
+2,32,GERS,Mouvement des Radicaux de Gauche,0.0
+2,32,GERS,Parti Socialiste,48114.0
+2,32,GERS,Parti Socialiste Unifié,0.0
+2,32,GERS,Parti communiste,0.0
+2,32,GERS,Radicaux réformateurs,0.0
+2,32,GERS,Républicains Indépendants,0.0
+2,32,GERS,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,32,GERS,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+2,32,GERS,Union des Démocrates pour la Vème République,0.0
+2,32,GERS,abstentions,18481.0
+2,32,GERS,blancs_nuls,1633.0
+2,33,GIRONDE,Centre Démocrate-Union des Républicains de Progrès,26442.0
+2,33,GIRONDE,Centre Démocratie et Progrès,0.0
+2,33,GIRONDE,Divers Union des Républicains de Progrès,36646.0
+2,33,GIRONDE,Divers droite,0.0
+2,33,GIRONDE,Divers gauche,0.0
+2,33,GIRONDE,Divers gaullistes,0.0
+2,33,GIRONDE,Divers réformateurs,3081.0
+2,33,GIRONDE,Mouvement des Radicaux de Gauche,46790.0
+2,33,GIRONDE,Parti Socialiste,201519.0
+2,33,GIRONDE,Parti Socialiste Unifié,0.0
+2,33,GIRONDE,Parti communiste,0.0
+2,33,GIRONDE,Radicaux réformateurs,0.0
+2,33,GIRONDE,Républicains Indépendants,0.0
+2,33,GIRONDE,Républicains Indépendants-Union des Républicains de Progrès,31023.0
+2,33,GIRONDE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,131900.0
+2,33,GIRONDE,Union des Démocrates pour la Vème République,0.0
+2,33,GIRONDE,abstentions,124464.0
+2,33,GIRONDE,blancs_nuls,12535.0
+2,34,HERAULT,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,34,HERAULT,Centre Démocratie et Progrès,0.0
+2,34,HERAULT,Divers Union des Républicains de Progrès,0.0
+2,34,HERAULT,Divers droite,0.0
+2,34,HERAULT,Divers gauche,0.0
+2,34,HERAULT,Divers gaullistes,0.0
+2,34,HERAULT,Divers réformateurs,0.0
+2,34,HERAULT,Mouvement des Radicaux de Gauche,0.0
+2,34,HERAULT,Parti Socialiste,101515.0
+2,34,HERAULT,Parti Socialiste Unifié,0.0
+2,34,HERAULT,Parti communiste,59555.0
+2,34,HERAULT,Radicaux réformateurs,0.0
+2,34,HERAULT,Républicains Indépendants,0.0
+2,34,HERAULT,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,34,HERAULT,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,124514.0
+2,34,HERAULT,Union des Démocrates pour la Vème République,0.0
+2,34,HERAULT,abstentions,65317.0
+2,34,HERAULT,blancs_nuls,9778.0
+2,35,ILLE-ET-VILAINE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,35,ILLE-ET-VILAINE,Centre Démocratie et Progrès,0.0
+2,35,ILLE-ET-VILAINE,Divers Union des Républicains de Progrès,0.0
+2,35,ILLE-ET-VILAINE,Divers droite,11662.0
+2,35,ILLE-ET-VILAINE,Divers gauche,0.0
+2,35,ILLE-ET-VILAINE,Divers gaullistes,0.0
+2,35,ILLE-ET-VILAINE,Divers réformateurs,13445.0
+2,35,ILLE-ET-VILAINE,Mouvement des Radicaux de Gauche,0.0
+2,35,ILLE-ET-VILAINE,Parti Socialiste,60515.0
+2,35,ILLE-ET-VILAINE,Parti Socialiste Unifié,0.0
+2,35,ILLE-ET-VILAINE,Parti communiste,0.0
+2,35,ILLE-ET-VILAINE,Radicaux réformateurs,0.0
+2,35,ILLE-ET-VILAINE,Républicains Indépendants,0.0
+2,35,ILLE-ET-VILAINE,Républicains Indépendants-Union des Républicains de Progrès,20212.0
+2,35,ILLE-ET-VILAINE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,101805.0
+2,35,ILLE-ET-VILAINE,Union des Démocrates pour la Vème République,0.0
+2,35,ILLE-ET-VILAINE,abstentions,65030.0
+2,35,ILLE-ET-VILAINE,blancs_nuls,11073.0
+2,36,INDRE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,36,INDRE,Centre Démocratie et Progrès,0.0
+2,36,INDRE,Divers Union des Républicains de Progrès,0.0
+2,36,INDRE,Divers droite,0.0
+2,36,INDRE,Divers gauche,0.0
+2,36,INDRE,Divers gaullistes,0.0
+2,36,INDRE,Divers réformateurs,0.0
+2,36,INDRE,Mouvement des Radicaux de Gauche,0.0
+2,36,INDRE,Parti Socialiste,0.0
+2,36,INDRE,Parti Socialiste Unifié,0.0
+2,36,INDRE,Parti communiste,62566.0
+2,36,INDRE,Radicaux réformateurs,0.0
+2,36,INDRE,Républicains Indépendants,0.0
+2,36,INDRE,Républicains Indépendants-Union des Républicains de Progrès,23488.0
+2,36,INDRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,44521.0
+2,36,INDRE,Union des Démocrates pour la Vème République,0.0
+2,36,INDRE,abstentions,27714.0
+2,36,INDRE,blancs_nuls,5712.0
+2,37,INDRE-ET-LOIRE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,37,INDRE-ET-LOIRE,Centre Démocratie et Progrès,0.0
+2,37,INDRE-ET-LOIRE,Divers Union des Républicains de Progrès,0.0
+2,37,INDRE-ET-LOIRE,Divers droite,0.0
+2,37,INDRE-ET-LOIRE,Divers gauche,0.0
+2,37,INDRE-ET-LOIRE,Divers gaullistes,0.0
+2,37,INDRE-ET-LOIRE,Divers réformateurs,0.0
+2,37,INDRE-ET-LOIRE,Mouvement des Radicaux de Gauche,25775.0
+2,37,INDRE-ET-LOIRE,Parti Socialiste,48930.0
+2,37,INDRE-ET-LOIRE,Parti Socialiste Unifié,0.0
+2,37,INDRE-ET-LOIRE,Parti communiste,0.0
+2,37,INDRE-ET-LOIRE,Radicaux réformateurs,0.0
+2,37,INDRE-ET-LOIRE,Républicains Indépendants,0.0
+2,37,INDRE-ET-LOIRE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,37,INDRE-ET-LOIRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,79455.0
+2,37,INDRE-ET-LOIRE,Union des Démocrates pour la Vème République,0.0
+2,37,INDRE-ET-LOIRE,abstentions,36855.0
+2,37,INDRE-ET-LOIRE,blancs_nuls,4681.0
+2,38,ISERE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,38,ISERE,Centre Démocratie et Progrès,0.0
+2,38,ISERE,Divers Union des Républicains de Progrès,0.0
+2,38,ISERE,Divers droite,0.0
+2,38,ISERE,Divers gauche,0.0
+2,38,ISERE,Divers gaullistes,0.0
+2,38,ISERE,Divers réformateurs,0.0
+2,38,ISERE,Mouvement des Radicaux de Gauche,0.0
+2,38,ISERE,Parti Socialiste,113259.0
+2,38,ISERE,Parti Socialiste Unifié,0.0
+2,38,ISERE,Parti communiste,70487.0
+2,38,ISERE,Radicaux réformateurs,0.0
+2,38,ISERE,Républicains Indépendants,0.0
+2,38,ISERE,Républicains Indépendants-Union des Républicains de Progrès,90181.0
+2,38,ISERE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,75484.0
+2,38,ISERE,Union des Démocrates pour la Vème République,0.0
+2,38,ISERE,abstentions,84448.0
+2,38,ISERE,blancs_nuls,11244.0
+2,39,JURA,Centre Démocrate-Union des Républicains de Progrès,34927.0
+2,39,JURA,Centre Démocratie et Progrès,0.0
+2,39,JURA,Divers Union des Républicains de Progrès,0.0
+2,39,JURA,Divers droite,0.0
+2,39,JURA,Divers gauche,0.0
+2,39,JURA,Divers gaullistes,0.0
+2,39,JURA,Divers réformateurs,9913.0
+2,39,JURA,Mouvement des Radicaux de Gauche,0.0
+2,39,JURA,Parti Socialiste,49766.0
+2,39,JURA,Parti Socialiste Unifié,0.0
+2,39,JURA,Parti communiste,0.0
+2,39,JURA,Radicaux réformateurs,0.0
+2,39,JURA,Républicains Indépendants,0.0
+2,39,JURA,Républicains Indépendants-Union des Républicains de Progrès,24904.0
+2,39,JURA,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+2,39,JURA,Union des Démocrates pour la Vème République,0.0
+2,39,JURA,abstentions,25929.0
+2,39,JURA,blancs_nuls,2031.0
+2,40,LANDES,Centre Démocrate-Union des Républicains de Progrès,24426.0
+2,40,LANDES,Centre Démocratie et Progrès,0.0
+2,40,LANDES,Divers Union des Républicains de Progrès,23051.0
+2,40,LANDES,Divers droite,0.0
+2,40,LANDES,Divers gauche,22899.0
+2,40,LANDES,Divers gaullistes,0.0
+2,40,LANDES,Divers réformateurs,0.0
+2,40,LANDES,Mouvement des Radicaux de Gauche,0.0
+2,40,LANDES,Parti Socialiste,59660.0
+2,40,LANDES,Parti Socialiste Unifié,0.0
+2,40,LANDES,Parti communiste,0.0
+2,40,LANDES,Radicaux réformateurs,0.0
+2,40,LANDES,Républicains Indépendants,0.0
+2,40,LANDES,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,40,LANDES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,26180.0
+2,40,LANDES,Union des Démocrates pour la Vème République,0.0
+2,40,LANDES,abstentions,27969.0
+2,40,LANDES,blancs_nuls,3834.0
+2,41,LOIR-ET-CHER,Centre Démocrate-Union des Républicains de Progrès,21851.0
+2,41,LOIR-ET-CHER,Centre Démocratie et Progrès,0.0
+2,41,LOIR-ET-CHER,Divers Union des Républicains de Progrès,0.0
+2,41,LOIR-ET-CHER,Divers droite,0.0
+2,41,LOIR-ET-CHER,Divers gauche,0.0
+2,41,LOIR-ET-CHER,Divers gaullistes,0.0
+2,41,LOIR-ET-CHER,Divers réformateurs,0.0
+2,41,LOIR-ET-CHER,Mouvement des Radicaux de Gauche,0.0
+2,41,LOIR-ET-CHER,Parti Socialiste,42061.0
+2,41,LOIR-ET-CHER,Parti Socialiste Unifié,0.0
+2,41,LOIR-ET-CHER,Parti communiste,0.0
+2,41,LOIR-ET-CHER,Radicaux réformateurs,0.0
+2,41,LOIR-ET-CHER,Républicains Indépendants,0.0
+2,41,LOIR-ET-CHER,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,41,LOIR-ET-CHER,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,24469.0
+2,41,LOIR-ET-CHER,Union des Démocrates pour la Vème République,0.0
+2,41,LOIR-ET-CHER,abstentions,16874.0
+2,41,LOIR-ET-CHER,blancs_nuls,2202.0
+2,42,LOIRE,Centre Démocrate-Union des Républicains de Progrès,21269.0
+2,42,LOIRE,Centre Démocratie et Progrès,0.0
+2,42,LOIRE,Divers Union des Républicains de Progrès,0.0
+2,42,LOIRE,Divers droite,27153.0
+2,42,LOIRE,Divers gauche,0.0
+2,42,LOIRE,Divers gaullistes,0.0
+2,42,LOIRE,Divers réformateurs,0.0
+2,42,LOIRE,Mouvement des Radicaux de Gauche,22472.0
+2,42,LOIRE,Parti Socialiste,41173.0
+2,42,LOIRE,Parti Socialiste Unifié,0.0
+2,42,LOIRE,Parti communiste,78162.0
+2,42,LOIRE,Radicaux réformateurs,23266.0
+2,42,LOIRE,Républicains Indépendants,0.0
+2,42,LOIRE,Républicains Indépendants-Union des Républicains de Progrès,28142.0
+2,42,LOIRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,76074.0
+2,42,LOIRE,Union des Démocrates pour la Vème République,0.0
+2,42,LOIRE,abstentions,90920.0
+2,42,LOIRE,blancs_nuls,13441.0
+2,43,HAUTE-LOIRE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,43,HAUTE-LOIRE,Centre Démocratie et Progrès,0.0
+2,43,HAUTE-LOIRE,Divers Union des Républicains de Progrès,0.0
+2,43,HAUTE-LOIRE,Divers droite,0.0
+2,43,HAUTE-LOIRE,Divers gauche,0.0
+2,43,HAUTE-LOIRE,Divers gaullistes,0.0
+2,43,HAUTE-LOIRE,Divers réformateurs,0.0
+2,43,HAUTE-LOIRE,Mouvement des Radicaux de Gauche,0.0
+2,43,HAUTE-LOIRE,Parti Socialiste,27447.0
+2,43,HAUTE-LOIRE,Parti Socialiste Unifié,0.0
+2,43,HAUTE-LOIRE,Parti communiste,0.0
+2,43,HAUTE-LOIRE,Radicaux réformateurs,0.0
+2,43,HAUTE-LOIRE,Républicains Indépendants,0.0
+2,43,HAUTE-LOIRE,Républicains Indépendants-Union des Républicains de Progrès,28059.0
+2,43,HAUTE-LOIRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+2,43,HAUTE-LOIRE,Union des Démocrates pour la Vème République,0.0
+2,43,HAUTE-LOIRE,abstentions,11048.0
+2,43,HAUTE-LOIRE,blancs_nuls,652.0
+2,44,LOIRE-ATLANTIQUE,Centre Démocrate-Union des Républicains de Progrès,25562.0
+2,44,LOIRE-ATLANTIQUE,Centre Démocratie et Progrès,0.0
+2,44,LOIRE-ATLANTIQUE,Divers Union des Républicains de Progrès,0.0
+2,44,LOIRE-ATLANTIQUE,Divers droite,0.0
+2,44,LOIRE-ATLANTIQUE,Divers gauche,0.0
+2,44,LOIRE-ATLANTIQUE,Divers gaullistes,0.0
+2,44,LOIRE-ATLANTIQUE,Divers réformateurs,0.0
+2,44,LOIRE-ATLANTIQUE,Mouvement des Radicaux de Gauche,0.0
+2,44,LOIRE-ATLANTIQUE,Parti Socialiste,127080.0
+2,44,LOIRE-ATLANTIQUE,Parti Socialiste Unifié,0.0
+2,44,LOIRE-ATLANTIQUE,Parti communiste,0.0
+2,44,LOIRE-ATLANTIQUE,Radicaux réformateurs,20906.0
+2,44,LOIRE-ATLANTIQUE,Républicains Indépendants,0.0
+2,44,LOIRE-ATLANTIQUE,Républicains Indépendants-Union des Républicains de Progrès,34295.0
+2,44,LOIRE-ATLANTIQUE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,83815.0
+2,44,LOIRE-ATLANTIQUE,Union des Démocrates pour la Vème République,0.0
+2,44,LOIRE-ATLANTIQUE,abstentions,71894.0
+2,44,LOIRE-ATLANTIQUE,blancs_nuls,5429.0
+2,45,LOIRET,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,45,LOIRET,Centre Démocratie et Progrès,0.0
+2,45,LOIRET,Divers Union des Républicains de Progrès,0.0
+2,45,LOIRET,Divers droite,0.0
+2,45,LOIRET,Divers gauche,0.0
+2,45,LOIRET,Divers gaullistes,0.0
+2,45,LOIRET,Divers réformateurs,11583.0
+2,45,LOIRET,Mouvement des Radicaux de Gauche,26364.0
+2,45,LOIRET,Parti Socialiste,0.0
+2,45,LOIRET,Parti Socialiste Unifié,0.0
+2,45,LOIRET,Parti communiste,40013.0
+2,45,LOIRET,Radicaux réformateurs,0.0
+2,45,LOIRET,Républicains Indépendants,0.0
+2,45,LOIRET,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,45,LOIRET,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,85317.0
+2,45,LOIRET,Union des Démocrates pour la Vème République,0.0
+2,45,LOIRET,abstentions,35193.0
+2,45,LOIRET,blancs_nuls,5967.0
+2,46,LOT,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,46,LOT,Centre Démocratie et Progrès,0.0
+2,46,LOT,Divers Union des Républicains de Progrès,0.0
+2,46,LOT,Divers droite,0.0
+2,46,LOT,Divers gauche,0.0
+2,46,LOT,Divers gaullistes,0.0
+2,46,LOT,Divers réformateurs,0.0
+2,46,LOT,Mouvement des Radicaux de Gauche,25070.0
+2,46,LOT,Parti Socialiste,22099.0
+2,46,LOT,Parti Socialiste Unifié,0.0
+2,46,LOT,Parti communiste,0.0
+2,46,LOT,Radicaux réformateurs,0.0
+2,46,LOT,Républicains Indépendants,0.0
+2,46,LOT,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,46,LOT,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,40736.0
+2,46,LOT,Union des Démocrates pour la Vème République,0.0
+2,46,LOT,abstentions,13469.0
+2,46,LOT,blancs_nuls,1810.0
+2,47,LOT-ET-GARONNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,47,LOT-ET-GARONNE,Centre Démocratie et Progrès,0.0
+2,47,LOT-ET-GARONNE,Divers Union des Républicains de Progrès,0.0
+2,47,LOT-ET-GARONNE,Divers droite,0.0
+2,47,LOT-ET-GARONNE,Divers gauche,0.0
+2,47,LOT-ET-GARONNE,Divers gaullistes,0.0
+2,47,LOT-ET-GARONNE,Divers réformateurs,0.0
+2,47,LOT-ET-GARONNE,Mouvement des Radicaux de Gauche,0.0
+2,47,LOT-ET-GARONNE,Parti Socialiste,52699.0
+2,47,LOT-ET-GARONNE,Parti Socialiste Unifié,0.0
+2,47,LOT-ET-GARONNE,Parti communiste,23902.0
+2,47,LOT-ET-GARONNE,Radicaux réformateurs,25833.0
+2,47,LOT-ET-GARONNE,Républicains Indépendants,0.0
+2,47,LOT-ET-GARONNE,Républicains Indépendants-Union des Républicains de Progrès,27584.0
+2,47,LOT-ET-GARONNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,23128.0
+2,47,LOT-ET-GARONNE,Union des Démocrates pour la Vème République,0.0
+2,47,LOT-ET-GARONNE,abstentions,27171.0
+2,47,LOT-ET-GARONNE,blancs_nuls,4676.0
+2,48,LOZERE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,48,LOZERE,Centre Démocratie et Progrès,6046.0
+2,48,LOZERE,Divers Union des Républicains de Progrès,0.0
+2,48,LOZERE,Divers droite,0.0
+2,48,LOZERE,Divers gauche,0.0
+2,48,LOZERE,Divers gaullistes,0.0
+2,48,LOZERE,Divers réformateurs,0.0
+2,48,LOZERE,Mouvement des Radicaux de Gauche,0.0
+2,48,LOZERE,Parti Socialiste,6824.0
+2,48,LOZERE,Parti Socialiste Unifié,0.0
+2,48,LOZERE,Parti communiste,0.0
+2,48,LOZERE,Radicaux réformateurs,0.0
+2,48,LOZERE,Républicains Indépendants,0.0
+2,48,LOZERE,Républicains Indépendants-Union des Républicains de Progrès,9520.0
+2,48,LOZERE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+2,48,LOZERE,Union des Démocrates pour la Vème République,0.0
+2,48,LOZERE,abstentions,6332.0
+2,48,LOZERE,blancs_nuls,262.0
+2,49,MAINE-ET-LOIRE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,49,MAINE-ET-LOIRE,Centre Démocratie et Progrès,0.0
+2,49,MAINE-ET-LOIRE,Divers Union des Républicains de Progrès,0.0
+2,49,MAINE-ET-LOIRE,Divers droite,29264.0
+2,49,MAINE-ET-LOIRE,Divers gauche,0.0
+2,49,MAINE-ET-LOIRE,Divers gaullistes,21547.0
+2,49,MAINE-ET-LOIRE,Divers réformateurs,14859.0
+2,49,MAINE-ET-LOIRE,Mouvement des Radicaux de Gauche,0.0
+2,49,MAINE-ET-LOIRE,Parti Socialiste,72822.0
+2,49,MAINE-ET-LOIRE,Parti Socialiste Unifié,0.0
+2,49,MAINE-ET-LOIRE,Parti communiste,0.0
+2,49,MAINE-ET-LOIRE,Radicaux réformateurs,20248.0
+2,49,MAINE-ET-LOIRE,Républicains Indépendants,0.0
+2,49,MAINE-ET-LOIRE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,49,MAINE-ET-LOIRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,117683.0
+2,49,MAINE-ET-LOIRE,Union des Démocrates pour la Vème République,0.0
+2,49,MAINE-ET-LOIRE,abstentions,68912.0
+2,49,MAINE-ET-LOIRE,blancs_nuls,6951.0
+2,50,MANCHE,Centre Démocrate-Union des Républicains de Progrès,21200.0
+2,50,MANCHE,Centre Démocratie et Progrès,0.0
+2,50,MANCHE,Divers Union des Républicains de Progrès,0.0
+2,50,MANCHE,Divers droite,7068.0
+2,50,MANCHE,Divers gauche,0.0
+2,50,MANCHE,Divers gaullistes,0.0
+2,50,MANCHE,Divers réformateurs,36045.0
+2,50,MANCHE,Mouvement des Radicaux de Gauche,0.0
+2,50,MANCHE,Parti Socialiste,41156.0
+2,50,MANCHE,Parti Socialiste Unifié,0.0
+2,50,MANCHE,Parti communiste,0.0
+2,50,MANCHE,Radicaux réformateurs,0.0
+2,50,MANCHE,Républicains Indépendants,16040.0
+2,50,MANCHE,Républicains Indépendants-Union des Républicains de Progrès,20635.0
+2,50,MANCHE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,46795.0
+2,50,MANCHE,Union des Démocrates pour la Vème République,0.0
+2,50,MANCHE,abstentions,72883.0
+2,50,MANCHE,blancs_nuls,14688.0
+2,51,MARNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,51,MARNE,Centre Démocratie et Progrès,0.0
+2,51,MARNE,Divers Union des Républicains de Progrès,0.0
+2,51,MARNE,Divers droite,0.0
+2,51,MARNE,Divers gauche,0.0
+2,51,MARNE,Divers gaullistes,0.0
+2,51,MARNE,Divers réformateurs,0.0
+2,51,MARNE,Mouvement des Radicaux de Gauche,0.0
+2,51,MARNE,Parti Socialiste,0.0
+2,51,MARNE,Parti Socialiste Unifié,0.0
+2,51,MARNE,Parti communiste,74280.0
+2,51,MARNE,Radicaux réformateurs,0.0
+2,51,MARNE,Républicains Indépendants,0.0
+2,51,MARNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,51,MARNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,93894.0
+2,51,MARNE,Union des Démocrates pour la Vème République,0.0
+2,51,MARNE,abstentions,40044.0
+2,51,MARNE,blancs_nuls,7954.0
+2,52,HAUTE-MARNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,52,HAUTE-MARNE,Centre Démocratie et Progrès,0.0
+2,52,HAUTE-MARNE,Divers Union des Républicains de Progrès,0.0
+2,52,HAUTE-MARNE,Divers droite,0.0
+2,52,HAUTE-MARNE,Divers gauche,0.0
+2,52,HAUTE-MARNE,Divers gaullistes,0.0
+2,52,HAUTE-MARNE,Divers réformateurs,13723.0
+2,52,HAUTE-MARNE,Mouvement des Radicaux de Gauche,18201.0
+2,52,HAUTE-MARNE,Parti Socialiste,0.0
+2,52,HAUTE-MARNE,Parti Socialiste Unifié,0.0
+2,52,HAUTE-MARNE,Parti communiste,19507.0
+2,52,HAUTE-MARNE,Radicaux réformateurs,0.0
+2,52,HAUTE-MARNE,Républicains Indépendants,0.0
+2,52,HAUTE-MARNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,52,HAUTE-MARNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,49202.0
+2,52,HAUTE-MARNE,Union des Démocrates pour la Vème République,0.0
+2,52,HAUTE-MARNE,abstentions,21473.0
+2,52,HAUTE-MARNE,blancs_nuls,2876.0
+2,53,MAYENNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,53,MAYENNE,Centre Démocratie et Progrès,0.0
+2,53,MAYENNE,Divers Union des Républicains de Progrès,0.0
+2,53,MAYENNE,Divers droite,0.0
+2,53,MAYENNE,Divers gauche,0.0
+2,53,MAYENNE,Divers gaullistes,0.0
+2,53,MAYENNE,Divers réformateurs,0.0
+2,53,MAYENNE,Mouvement des Radicaux de Gauche,0.0
+2,53,MAYENNE,Parti Socialiste,23685.0
+2,53,MAYENNE,Parti Socialiste Unifié,0.0
+2,53,MAYENNE,Parti communiste,0.0
+2,53,MAYENNE,Radicaux réformateurs,0.0
+2,53,MAYENNE,Républicains Indépendants,0.0
+2,53,MAYENNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,53,MAYENNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,27678.0
+2,53,MAYENNE,Union des Démocrates pour la Vème République,0.0
+2,53,MAYENNE,abstentions,10166.0
+2,53,MAYENNE,blancs_nuls,1404.0
+2,54,MEURTHE-ET-MOSELLE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,54,MEURTHE-ET-MOSELLE,Centre Démocratie et Progrès,0.0
+2,54,MEURTHE-ET-MOSELLE,Divers Union des Républicains de Progrès,17356.0
+2,54,MEURTHE-ET-MOSELLE,Divers droite,0.0
+2,54,MEURTHE-ET-MOSELLE,Divers gauche,0.0
+2,54,MEURTHE-ET-MOSELLE,Divers gaullistes,14512.0
+2,54,MEURTHE-ET-MOSELLE,Divers réformateurs,0.0
+2,54,MEURTHE-ET-MOSELLE,Mouvement des Radicaux de Gauche,0.0
+2,54,MEURTHE-ET-MOSELLE,Parti Socialiste,41594.0
+2,54,MEURTHE-ET-MOSELLE,Parti Socialiste Unifié,0.0
+2,54,MEURTHE-ET-MOSELLE,Parti communiste,87812.0
+2,54,MEURTHE-ET-MOSELLE,Radicaux réformateurs,66088.0
+2,54,MEURTHE-ET-MOSELLE,Républicains Indépendants,16745.0
+2,54,MEURTHE-ET-MOSELLE,Républicains Indépendants-Union des Républicains de Progrès,66202.0
+2,54,MEURTHE-ET-MOSELLE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+2,54,MEURTHE-ET-MOSELLE,Union des Démocrates pour la Vème République,56.0
+2,54,MEURTHE-ET-MOSELLE,abstentions,74428.0
+2,54,MEURTHE-ET-MOSELLE,blancs_nuls,8575.0
+2,55,MEUSE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,55,MEUSE,Centre Démocratie et Progrès,0.0
+2,55,MEUSE,Divers Union des Républicains de Progrès,0.0
+2,55,MEUSE,Divers droite,0.0
+2,55,MEUSE,Divers gauche,0.0
+2,55,MEUSE,Divers gaullistes,0.0
+2,55,MEUSE,Divers réformateurs,0.0
+2,55,MEUSE,Mouvement des Radicaux de Gauche,0.0
+2,55,MEUSE,Parti Socialiste,48542.0
+2,55,MEUSE,Parti Socialiste Unifié,0.0
+2,55,MEUSE,Parti communiste,0.0
+2,55,MEUSE,Radicaux réformateurs,0.0
+2,55,MEUSE,Républicains Indépendants,0.0
+2,55,MEUSE,Républicains Indépendants-Union des Républicains de Progrès,23299.0
+2,55,MEUSE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,26216.0
+2,55,MEUSE,Union des Démocrates pour la Vème République,0.0
+2,55,MEUSE,abstentions,22268.0
+2,55,MEUSE,blancs_nuls,3201.0
+2,56,MORBIHAN,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,56,MORBIHAN,Centre Démocratie et Progrès,0.0
+2,56,MORBIHAN,Divers Union des Républicains de Progrès,0.0
+2,56,MORBIHAN,Divers droite,16740.0
+2,56,MORBIHAN,Divers gauche,0.0
+2,56,MORBIHAN,Divers gaullistes,0.0
+2,56,MORBIHAN,Divers réformateurs,52397.0
+2,56,MORBIHAN,Mouvement des Radicaux de Gauche,0.0
+2,56,MORBIHAN,Parti Socialiste,43386.0
+2,56,MORBIHAN,Parti Socialiste Unifié,0.0
+2,56,MORBIHAN,Parti communiste,17832.0
+2,56,MORBIHAN,Radicaux réformateurs,0.0
+2,56,MORBIHAN,Républicains Indépendants,0.0
+2,56,MORBIHAN,Républicains Indépendants-Union des Républicains de Progrès,25349.0
+2,56,MORBIHAN,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,23001.0
+2,56,MORBIHAN,Union des Démocrates pour la Vème République,0.0
+2,56,MORBIHAN,abstentions,40927.0
+2,56,MORBIHAN,blancs_nuls,3616.0
+2,57,MOSELLE,Centre Démocrate-Union des Républicains de Progrès,18053.0
+2,57,MOSELLE,Centre Démocratie et Progrès,25808.0
+2,57,MOSELLE,Divers Union des Républicains de Progrès,0.0
+2,57,MOSELLE,Divers droite,0.0
+2,57,MOSELLE,Divers gauche,0.0
+2,57,MOSELLE,Divers gaullistes,0.0
+2,57,MOSELLE,Divers réformateurs,4460.0
+2,57,MOSELLE,Mouvement des Radicaux de Gauche,0.0
+2,57,MOSELLE,Parti Socialiste,58743.0
+2,57,MOSELLE,Parti Socialiste Unifié,0.0
+2,57,MOSELLE,Parti communiste,50929.0
+2,57,MOSELLE,Radicaux réformateurs,79554.0
+2,57,MOSELLE,Républicains Indépendants,0.0
+2,57,MOSELLE,Républicains Indépendants-Union des Républicains de Progrès,52790.0
+2,57,MOSELLE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,73251.0
+2,57,MOSELLE,Union des Démocrates pour la Vème République,0.0
+2,57,MOSELLE,abstentions,88202.0
+2,57,MOSELLE,blancs_nuls,12926.0
+2,58,NIEVRE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,58,NIEVRE,Centre Démocratie et Progrès,0.0
+2,58,NIEVRE,Divers Union des Républicains de Progrès,0.0
+2,58,NIEVRE,Divers droite,0.0
+2,58,NIEVRE,Divers gauche,0.0
+2,58,NIEVRE,Divers gaullistes,0.0
+2,58,NIEVRE,Divers réformateurs,0.0
+2,58,NIEVRE,Mouvement des Radicaux de Gauche,0.0
+2,58,NIEVRE,Parti Socialiste,75634.0
+2,58,NIEVRE,Parti Socialiste Unifié,0.0
+2,58,NIEVRE,Parti communiste,0.0
+2,58,NIEVRE,Radicaux réformateurs,0.0
+2,58,NIEVRE,Républicains Indépendants,0.0
+2,58,NIEVRE,Républicains Indépendants-Union des Républicains de Progrès,17941.0
+2,58,NIEVRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,32585.0
+2,58,NIEVRE,Union des Démocrates pour la Vème République,0.0
+2,58,NIEVRE,abstentions,30050.0
+2,58,NIEVRE,blancs_nuls,3010.0
+2,59,NORD,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,59,NORD,Centre Démocratie et Progrès,0.0
+2,59,NORD,Divers Union des Républicains de Progrès,53657.0
+2,59,NORD,Divers droite,29557.0
+2,59,NORD,Divers gauche,0.0
+2,59,NORD,Divers gaullistes,0.0
+2,59,NORD,Divers réformateurs,44620.0
+2,59,NORD,Mouvement des Radicaux de Gauche,0.0
+2,59,NORD,Parti Socialiste,345771.0
+2,59,NORD,Parti Socialiste Unifié,0.0
+2,59,NORD,Parti communiste,244508.0
+2,59,NORD,Radicaux réformateurs,3680.0
+2,59,NORD,Républicains Indépendants,0.0
+2,59,NORD,Républicains Indépendants-Union des Républicains de Progrès,41912.0
+2,59,NORD,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,389976.0
+2,59,NORD,Union des Démocrates pour la Vème République,0.0
+2,59,NORD,abstentions,190509.0
+2,59,NORD,blancs_nuls,33268.0
+2,60,OISE,Centre Démocrate-Union des Républicains de Progrès,26534.0
+2,60,OISE,Centre Démocratie et Progrès,0.0
+2,60,OISE,Divers Union des Républicains de Progrès,0.0
+2,60,OISE,Divers droite,0.0
+2,60,OISE,Divers gauche,0.0
+2,60,OISE,Divers gaullistes,0.0
+2,60,OISE,Divers réformateurs,0.0
+2,60,OISE,Mouvement des Radicaux de Gauche,0.0
+2,60,OISE,Parti Socialiste,21457.0
+2,60,OISE,Parti Socialiste Unifié,0.0
+2,60,OISE,Parti communiste,96948.0
+2,60,OISE,Radicaux réformateurs,0.0
+2,60,OISE,Républicains Indépendants,0.0
+2,60,OISE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,60,OISE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,111522.0
+2,60,OISE,Union des Démocrates pour la Vème République,0.0
+2,60,OISE,abstentions,47651.0
+2,60,OISE,blancs_nuls,11727.0
+2,61,ORNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,61,ORNE,Centre Démocratie et Progrès,0.0
+2,61,ORNE,Divers Union des Républicains de Progrès,13770.0
+2,61,ORNE,Divers droite,0.0
+2,61,ORNE,Divers gauche,0.0
+2,61,ORNE,Divers gaullistes,0.0
+2,61,ORNE,Divers réformateurs,44223.0
+2,61,ORNE,Mouvement des Radicaux de Gauche,0.0
+2,61,ORNE,Parti Socialiste,38982.0
+2,61,ORNE,Parti Socialiste Unifié,0.0
+2,61,ORNE,Parti communiste,0.0
+2,61,ORNE,Radicaux réformateurs,0.0
+2,61,ORNE,Républicains Indépendants,0.0
+2,61,ORNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,61,ORNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,43406.0
+2,61,ORNE,Union des Démocrates pour la Vème République,0.0
+2,61,ORNE,abstentions,31829.0
+2,61,ORNE,blancs_nuls,2305.0
+2,62,PAS-DE-CALAIS,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,62,PAS-DE-CALAIS,Centre Démocratie et Progrès,0.0
+2,62,PAS-DE-CALAIS,Divers Union des Républicains de Progrès,0.0
+2,62,PAS-DE-CALAIS,Divers droite,0.0
+2,62,PAS-DE-CALAIS,Divers gauche,0.0
+2,62,PAS-DE-CALAIS,Divers gaullistes,0.0
+2,62,PAS-DE-CALAIS,Divers réformateurs,0.0
+2,62,PAS-DE-CALAIS,Mouvement des Radicaux de Gauche,23480.0
+2,62,PAS-DE-CALAIS,Parti Socialiste,151177.0
+2,62,PAS-DE-CALAIS,Parti Socialiste Unifié,0.0
+2,62,PAS-DE-CALAIS,Parti communiste,179637.0
+2,62,PAS-DE-CALAIS,Radicaux réformateurs,0.0
+2,62,PAS-DE-CALAIS,Républicains Indépendants,0.0
+2,62,PAS-DE-CALAIS,Républicains Indépendants-Union des Républicains de Progrès,21254.0
+2,62,PAS-DE-CALAIS,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,253216.0
+2,62,PAS-DE-CALAIS,Union des Démocrates pour la Vème République,0.0
+2,62,PAS-DE-CALAIS,abstentions,99713.0
+2,62,PAS-DE-CALAIS,blancs_nuls,22631.0
+2,63,PUY-DE-DOME,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,63,PUY-DE-DOME,Centre Démocratie et Progrès,0.0
+2,63,PUY-DE-DOME,Divers Union des Républicains de Progrès,19479.0
+2,63,PUY-DE-DOME,Divers droite,0.0
+2,63,PUY-DE-DOME,Divers gauche,0.0
+2,63,PUY-DE-DOME,Divers gaullistes,0.0
+2,63,PUY-DE-DOME,Divers réformateurs,0.0
+2,63,PUY-DE-DOME,Mouvement des Radicaux de Gauche,0.0
+2,63,PUY-DE-DOME,Parti Socialiste,120517.0
+2,63,PUY-DE-DOME,Parti Socialiste Unifié,0.0
+2,63,PUY-DE-DOME,Parti communiste,0.0
+2,63,PUY-DE-DOME,Radicaux réformateurs,0.0
+2,63,PUY-DE-DOME,Républicains Indépendants,0.0
+2,63,PUY-DE-DOME,Républicains Indépendants-Union des Républicains de Progrès,44088.0
+2,63,PUY-DE-DOME,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,25831.0
+2,63,PUY-DE-DOME,Union des Démocrates pour la Vème République,0.0
+2,63,PUY-DE-DOME,abstentions,49027.0
+2,63,PUY-DE-DOME,blancs_nuls,5017.0
+2,64,PYRENEES-ATLANTIQUES,Centre Démocrate-Union des Républicains de Progrès,44573.0
+2,64,PYRENEES-ATLANTIQUES,Centre Démocratie et Progrès,0.0
+2,64,PYRENEES-ATLANTIQUES,Divers Union des Républicains de Progrès,0.0
+2,64,PYRENEES-ATLANTIQUES,Divers droite,0.0
+2,64,PYRENEES-ATLANTIQUES,Divers gauche,0.0
+2,64,PYRENEES-ATLANTIQUES,Divers gaullistes,0.0
+2,64,PYRENEES-ATLANTIQUES,Divers réformateurs,12976.0
+2,64,PYRENEES-ATLANTIQUES,Mouvement des Radicaux de Gauche,0.0
+2,64,PYRENEES-ATLANTIQUES,Parti Socialiste,108010.0
+2,64,PYRENEES-ATLANTIQUES,Parti Socialiste Unifié,0.0
+2,64,PYRENEES-ATLANTIQUES,Parti communiste,0.0
+2,64,PYRENEES-ATLANTIQUES,Radicaux réformateurs,14640.0
+2,64,PYRENEES-ATLANTIQUES,Républicains Indépendants,0.0
+2,64,PYRENEES-ATLANTIQUES,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,64,PYRENEES-ATLANTIQUES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,88678.0
+2,64,PYRENEES-ATLANTIQUES,Union des Démocrates pour la Vème République,0.0
+2,64,PYRENEES-ATLANTIQUES,abstentions,55080.0
+2,64,PYRENEES-ATLANTIQUES,blancs_nuls,4943.0
+2,65,HAUTES-PYRENEES,Centre Démocrate-Union des Républicains de Progrès,27889.0
+2,65,HAUTES-PYRENEES,Centre Démocratie et Progrès,0.0
+2,65,HAUTES-PYRENEES,Divers Union des Républicains de Progrès,0.0
+2,65,HAUTES-PYRENEES,Divers droite,0.0
+2,65,HAUTES-PYRENEES,Divers gauche,0.0
+2,65,HAUTES-PYRENEES,Divers gaullistes,0.0
+2,65,HAUTES-PYRENEES,Divers réformateurs,0.0
+2,65,HAUTES-PYRENEES,Mouvement des Radicaux de Gauche,36301.0
+2,65,HAUTES-PYRENEES,Parti Socialiste,29139.0
+2,65,HAUTES-PYRENEES,Parti Socialiste Unifié,0.0
+2,65,HAUTES-PYRENEES,Parti communiste,0.0
+2,65,HAUTES-PYRENEES,Radicaux réformateurs,0.0
+2,65,HAUTES-PYRENEES,Républicains Indépendants,0.0
+2,65,HAUTES-PYRENEES,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,65,HAUTES-PYRENEES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,24627.0
+2,65,HAUTES-PYRENEES,Union des Démocrates pour la Vème République,0.0
+2,65,HAUTES-PYRENEES,abstentions,25075.0
+2,65,HAUTES-PYRENEES,blancs_nuls,2397.0
+2,66,PYRENEES-ORIENTALES,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,66,PYRENEES-ORIENTALES,Centre Démocratie et Progrès,0.0
+2,66,PYRENEES-ORIENTALES,Divers Union des Républicains de Progrès,27929.0
+2,66,PYRENEES-ORIENTALES,Divers droite,0.0
+2,66,PYRENEES-ORIENTALES,Divers gauche,0.0
+2,66,PYRENEES-ORIENTALES,Divers gaullistes,0.0
+2,66,PYRENEES-ORIENTALES,Divers réformateurs,0.0
+2,66,PYRENEES-ORIENTALES,Mouvement des Radicaux de Gauche,0.0
+2,66,PYRENEES-ORIENTALES,Parti Socialiste,47542.0
+2,66,PYRENEES-ORIENTALES,Parti Socialiste Unifié,0.0
+2,66,PYRENEES-ORIENTALES,Parti communiste,33616.0
+2,66,PYRENEES-ORIENTALES,Radicaux réformateurs,0.0
+2,66,PYRENEES-ORIENTALES,Républicains Indépendants,0.0
+2,66,PYRENEES-ORIENTALES,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,66,PYRENEES-ORIENTALES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,26498.0
+2,66,PYRENEES-ORIENTALES,Union des Démocrates pour la Vème République,0.0
+2,66,PYRENEES-ORIENTALES,abstentions,40288.0
+2,66,PYRENEES-ORIENTALES,blancs_nuls,6369.0
+2,67,BAS-RHIN,Centre Démocrate-Union des Républicains de Progrès,15047.0
+2,67,BAS-RHIN,Centre Démocratie et Progrès,0.0
+2,67,BAS-RHIN,Divers Union des Républicains de Progrès,0.0
+2,67,BAS-RHIN,Divers droite,0.0
+2,67,BAS-RHIN,Divers gauche,0.0
+2,67,BAS-RHIN,Divers gaullistes,0.0
+2,67,BAS-RHIN,Divers réformateurs,84795.0
+2,67,BAS-RHIN,Mouvement des Radicaux de Gauche,0.0
+2,67,BAS-RHIN,Parti Socialiste,41069.0
+2,67,BAS-RHIN,Parti Socialiste Unifié,0.0
+2,67,BAS-RHIN,Parti communiste,0.0
+2,67,BAS-RHIN,Radicaux réformateurs,0.0
+2,67,BAS-RHIN,Républicains Indépendants,0.0
+2,67,BAS-RHIN,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,67,BAS-RHIN,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,134904.0
+2,67,BAS-RHIN,Union des Démocrates pour la Vème République,0.0
+2,67,BAS-RHIN,abstentions,89727.0
+2,67,BAS-RHIN,blancs_nuls,9124.0
+2,68,HAUT-RHIN,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,68,HAUT-RHIN,Centre Démocratie et Progrès,0.0
+2,68,HAUT-RHIN,Divers Union des Républicains de Progrès,0.0
+2,68,HAUT-RHIN,Divers droite,0.0
+2,68,HAUT-RHIN,Divers gauche,0.0
+2,68,HAUT-RHIN,Divers gaullistes,0.0
+2,68,HAUT-RHIN,Divers réformateurs,97159.0
+2,68,HAUT-RHIN,Mouvement des Radicaux de Gauche,0.0
+2,68,HAUT-RHIN,Parti Socialiste,28234.0
+2,68,HAUT-RHIN,Parti Socialiste Unifié,0.0
+2,68,HAUT-RHIN,Parti communiste,0.0
+2,68,HAUT-RHIN,Radicaux réformateurs,0.0
+2,68,HAUT-RHIN,Républicains Indépendants,0.0
+2,68,HAUT-RHIN,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,68,HAUT-RHIN,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,131146.0
+2,68,HAUT-RHIN,Union des Démocrates pour la Vème République,0.0
+2,68,HAUT-RHIN,abstentions,83087.0
+2,68,HAUT-RHIN,blancs_nuls,15935.0
+2,69,RHONE,Centre Démocrate-Union des Républicains de Progrès,1467.0
+2,69,RHONE,Centre Démocratie et Progrès,0.0
+2,69,RHONE,Divers Union des Républicains de Progrès,0.0
+2,69,RHONE,Divers droite,17073.0
+2,69,RHONE,Divers gauche,0.0
+2,69,RHONE,Divers gaullistes,356.0
+2,69,RHONE,Divers réformateurs,69552.0
+2,69,RHONE,Mouvement des Radicaux de Gauche,12332.0
+2,69,RHONE,Parti Socialiste,147382.0
+2,69,RHONE,Parti Socialiste Unifié,0.0
+2,69,RHONE,Parti communiste,89142.0
+2,69,RHONE,Radicaux réformateurs,7415.0
+2,69,RHONE,Républicains Indépendants,0.0
+2,69,RHONE,Républicains Indépendants-Union des Républicains de Progrès,66436.0
+2,69,RHONE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,137469.0
+2,69,RHONE,Union des Démocrates pour la Vème République,0.0
+2,69,RHONE,abstentions,151561.0
+2,69,RHONE,blancs_nuls,17429.0
+2,70,HAUTE-SAONE,Centre Démocrate-Union des Républicains de Progrès,31331.0
+2,70,HAUTE-SAONE,Centre Démocratie et Progrès,0.0
+2,70,HAUTE-SAONE,Divers Union des Républicains de Progrès,0.0
+2,70,HAUTE-SAONE,Divers droite,0.0
+2,70,HAUTE-SAONE,Divers gauche,0.0
+2,70,HAUTE-SAONE,Divers gaullistes,0.0
+2,70,HAUTE-SAONE,Divers réformateurs,9762.0
+2,70,HAUTE-SAONE,Mouvement des Radicaux de Gauche,29768.0
+2,70,HAUTE-SAONE,Parti Socialiste,22158.0
+2,70,HAUTE-SAONE,Parti Socialiste Unifié,0.0
+2,70,HAUTE-SAONE,Parti communiste,0.0
+2,70,HAUTE-SAONE,Radicaux réformateurs,0.0
+2,70,HAUTE-SAONE,Républicains Indépendants,0.0
+2,70,HAUTE-SAONE,Républicains Indépendants-Union des Républicains de Progrès,24116.0
+2,70,HAUTE-SAONE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,0.0
+2,70,HAUTE-SAONE,Union des Démocrates pour la Vème République,0.0
+2,70,HAUTE-SAONE,abstentions,17774.0
+2,70,HAUTE-SAONE,blancs_nuls,1757.0
+2,71,SAONE-ET-LOIRE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,71,SAONE-ET-LOIRE,Centre Démocratie et Progrès,0.0
+2,71,SAONE-ET-LOIRE,Divers Union des Républicains de Progrès,0.0
+2,71,SAONE-ET-LOIRE,Divers droite,0.0
+2,71,SAONE-ET-LOIRE,Divers gauche,0.0
+2,71,SAONE-ET-LOIRE,Divers gaullistes,0.0
+2,71,SAONE-ET-LOIRE,Divers réformateurs,0.0
+2,71,SAONE-ET-LOIRE,Mouvement des Radicaux de Gauche,34270.0
+2,71,SAONE-ET-LOIRE,Parti Socialiste,27712.0
+2,71,SAONE-ET-LOIRE,Parti Socialiste Unifié,0.0
+2,71,SAONE-ET-LOIRE,Parti communiste,21748.0
+2,71,SAONE-ET-LOIRE,Radicaux réformateurs,0.0
+2,71,SAONE-ET-LOIRE,Républicains Indépendants,0.0
+2,71,SAONE-ET-LOIRE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,71,SAONE-ET-LOIRE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,73539.0
+2,71,SAONE-ET-LOIRE,Union des Démocrates pour la Vème République,0.0
+2,71,SAONE-ET-LOIRE,abstentions,43076.0
+2,71,SAONE-ET-LOIRE,blancs_nuls,4813.0
+2,72,SARTHE,Centre Démocrate-Union des Républicains de Progrès,22042.0
+2,72,SARTHE,Centre Démocratie et Progrès,0.0
+2,72,SARTHE,Divers Union des Républicains de Progrès,0.0
+2,72,SARTHE,Divers droite,0.0
+2,72,SARTHE,Divers gauche,0.0
+2,72,SARTHE,Divers gaullistes,0.0
+2,72,SARTHE,Divers réformateurs,0.0
+2,72,SARTHE,Mouvement des Radicaux de Gauche,0.0
+2,72,SARTHE,Parti Socialiste,41037.0
+2,72,SARTHE,Parti Socialiste Unifié,0.0
+2,72,SARTHE,Parti communiste,27719.0
+2,72,SARTHE,Radicaux réformateurs,0.0
+2,72,SARTHE,Républicains Indépendants,0.0
+2,72,SARTHE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,72,SARTHE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,53079.0
+2,72,SARTHE,Union des Démocrates pour la Vème République,0.0
+2,72,SARTHE,abstentions,30335.0
+2,72,SARTHE,blancs_nuls,3788.0
+2,73,SAVOIE,Centre Démocrate-Union des Républicains de Progrès,20538.0
+2,73,SAVOIE,Centre Démocratie et Progrès,0.0
+2,73,SAVOIE,Divers Union des Républicains de Progrès,0.0
+2,73,SAVOIE,Divers droite,0.0
+2,73,SAVOIE,Divers gauche,26231.0
+2,73,SAVOIE,Divers gaullistes,0.0
+2,73,SAVOIE,Divers réformateurs,0.0
+2,73,SAVOIE,Mouvement des Radicaux de Gauche,0.0
+2,73,SAVOIE,Parti Socialiste,26050.0
+2,73,SAVOIE,Parti Socialiste Unifié,0.0
+2,73,SAVOIE,Parti communiste,16457.0
+2,73,SAVOIE,Radicaux réformateurs,0.0
+2,73,SAVOIE,Républicains Indépendants,0.0
+2,73,SAVOIE,Républicains Indépendants-Union des Républicains de Progrès,24950.0
+2,73,SAVOIE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,23453.0
+2,73,SAVOIE,Union des Démocrates pour la Vème République,0.0
+2,73,SAVOIE,abstentions,33488.0
+2,73,SAVOIE,blancs_nuls,3460.0
+2,74,HAUTE-SAVOIE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,74,HAUTE-SAVOIE,Centre Démocratie et Progrès,0.0
+2,74,HAUTE-SAVOIE,Divers Union des Républicains de Progrès,0.0
+2,74,HAUTE-SAVOIE,Divers droite,0.0
+2,74,HAUTE-SAVOIE,Divers gauche,0.0
+2,74,HAUTE-SAVOIE,Divers gaullistes,0.0
+2,74,HAUTE-SAVOIE,Divers réformateurs,29670.0
+2,74,HAUTE-SAVOIE,Mouvement des Radicaux de Gauche,0.0
+2,74,HAUTE-SAVOIE,Parti Socialiste,25559.0
+2,74,HAUTE-SAVOIE,Parti Socialiste Unifié,0.0
+2,74,HAUTE-SAVOIE,Parti communiste,21891.0
+2,74,HAUTE-SAVOIE,Radicaux réformateurs,0.0
+2,74,HAUTE-SAVOIE,Républicains Indépendants,0.0
+2,74,HAUTE-SAVOIE,Républicains Indépendants-Union des Républicains de Progrès,33330.0
+2,74,HAUTE-SAVOIE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,28116.0
+2,74,HAUTE-SAVOIE,Union des Démocrates pour la Vème République,0.0
+2,74,HAUTE-SAVOIE,abstentions,35452.0
+2,74,HAUTE-SAVOIE,blancs_nuls,1929.0
+2,75,PARIS,Centre Démocrate-Union des Républicains de Progrès,21159.0
+2,75,PARIS,Centre Démocratie et Progrès,0.0
+2,75,PARIS,Divers Union des Républicains de Progrès,0.0
+2,75,PARIS,Divers droite,12.0
+2,75,PARIS,Divers gauche,0.0
+2,75,PARIS,Divers gaullistes,0.0
+2,75,PARIS,Divers réformateurs,95602.0
+2,75,PARIS,Mouvement des Radicaux de Gauche,0.0
+2,75,PARIS,Parti Socialiste,91463.0
+2,75,PARIS,Parti Socialiste Unifié,0.0
+2,75,PARIS,Parti communiste,267127.0
+2,75,PARIS,Radicaux réformateurs,21676.0
+2,75,PARIS,Républicains Indépendants,0.0
+2,75,PARIS,Républicains Indépendants-Union des Républicains de Progrès,55395.0
+2,75,PARIS,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,430235.0
+2,75,PARIS,Union des Démocrates pour la Vème République,0.0
+2,75,PARIS,abstentions,295444.0
+2,75,PARIS,blancs_nuls,48092.0
+2,76,SEINE-MARITIME,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,76,SEINE-MARITIME,Centre Démocratie et Progrès,0.0
+2,76,SEINE-MARITIME,Divers Union des Républicains de Progrès,0.0
+2,76,SEINE-MARITIME,Divers droite,0.0
+2,76,SEINE-MARITIME,Divers gauche,0.0
+2,76,SEINE-MARITIME,Divers gaullistes,0.0
+2,76,SEINE-MARITIME,Divers réformateurs,29904.0
+2,76,SEINE-MARITIME,Mouvement des Radicaux de Gauche,17462.0
+2,76,SEINE-MARITIME,Parti Socialiste,58237.0
+2,76,SEINE-MARITIME,Parti Socialiste Unifié,0.0
+2,76,SEINE-MARITIME,Parti communiste,146041.0
+2,76,SEINE-MARITIME,Radicaux réformateurs,32141.0
+2,76,SEINE-MARITIME,Républicains Indépendants,0.0
+2,76,SEINE-MARITIME,Républicains Indépendants-Union des Républicains de Progrès,55888.0
+2,76,SEINE-MARITIME,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,127328.0
+2,76,SEINE-MARITIME,Union des Démocrates pour la Vème République,0.0
+2,76,SEINE-MARITIME,abstentions,107416.0
+2,76,SEINE-MARITIME,blancs_nuls,19577.0
+2,77,SEINE-ET-MARNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,77,SEINE-ET-MARNE,Centre Démocratie et Progrès,0.0
+2,77,SEINE-ET-MARNE,Divers Union des Républicains de Progrès,0.0
+2,77,SEINE-ET-MARNE,Divers droite,0.0
+2,77,SEINE-ET-MARNE,Divers gauche,0.0
+2,77,SEINE-ET-MARNE,Divers gaullistes,0.0
+2,77,SEINE-ET-MARNE,Divers réformateurs,0.0
+2,77,SEINE-ET-MARNE,Mouvement des Radicaux de Gauche,0.0
+2,77,SEINE-ET-MARNE,Parti Socialiste,60227.0
+2,77,SEINE-ET-MARNE,Parti Socialiste Unifié,0.0
+2,77,SEINE-ET-MARNE,Parti communiste,78697.0
+2,77,SEINE-ET-MARNE,Radicaux réformateurs,11256.0
+2,77,SEINE-ET-MARNE,Républicains Indépendants,0.0
+2,77,SEINE-ET-MARNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,77,SEINE-ET-MARNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,157306.0
+2,77,SEINE-ET-MARNE,Union des Démocrates pour la Vème République,0.0
+2,77,SEINE-ET-MARNE,abstentions,66767.0
+2,77,SEINE-ET-MARNE,blancs_nuls,11269.0
+2,78,YVELINES,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,78,YVELINES,Centre Démocratie et Progrès,0.0
+2,78,YVELINES,Divers Union des Républicains de Progrès,0.0
+2,78,YVELINES,Divers droite,0.0
+2,78,YVELINES,Divers gauche,33489.0
+2,78,YVELINES,Divers gaullistes,0.0
+2,78,YVELINES,Divers réformateurs,5757.0
+2,78,YVELINES,Mouvement des Radicaux de Gauche,0.0
+2,78,YVELINES,Parti Socialiste,16304.0
+2,78,YVELINES,Parti Socialiste Unifié,22531.0
+2,78,YVELINES,Parti communiste,118887.0
+2,78,YVELINES,Radicaux réformateurs,12062.0
+2,78,YVELINES,Républicains Indépendants,0.0
+2,78,YVELINES,Républicains Indépendants-Union des Républicains de Progrès,76091.0
+2,78,YVELINES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,133936.0
+2,78,YVELINES,Union des Démocrates pour la Vème République,0.0
+2,78,YVELINES,abstentions,91812.0
+2,78,YVELINES,blancs_nuls,16817.0
+2,79,DEUX-SEVRES,Centre Démocrate-Union des Républicains de Progrès,31542.0
+2,79,DEUX-SEVRES,Centre Démocratie et Progrès,0.0
+2,79,DEUX-SEVRES,Divers Union des Républicains de Progrès,0.0
+2,79,DEUX-SEVRES,Divers droite,0.0
+2,79,DEUX-SEVRES,Divers gauche,0.0
+2,79,DEUX-SEVRES,Divers gaullistes,0.0
+2,79,DEUX-SEVRES,Divers réformateurs,19391.0
+2,79,DEUX-SEVRES,Mouvement des Radicaux de Gauche,0.0
+2,79,DEUX-SEVRES,Parti Socialiste,42688.0
+2,79,DEUX-SEVRES,Parti Socialiste Unifié,0.0
+2,79,DEUX-SEVRES,Parti communiste,0.0
+2,79,DEUX-SEVRES,Radicaux réformateurs,0.0
+2,79,DEUX-SEVRES,Républicains Indépendants,0.0
+2,79,DEUX-SEVRES,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,79,DEUX-SEVRES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,18580.0
+2,79,DEUX-SEVRES,Union des Démocrates pour la Vème République,0.0
+2,79,DEUX-SEVRES,abstentions,26251.0
+2,79,DEUX-SEVRES,blancs_nuls,2505.0
+2,80,SOMME,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,80,SOMME,Centre Démocratie et Progrès,0.0
+2,80,SOMME,Divers Union des Républicains de Progrès,0.0
+2,80,SOMME,Divers droite,29992.0
+2,80,SOMME,Divers gauche,0.0
+2,80,SOMME,Divers gaullistes,0.0
+2,80,SOMME,Divers réformateurs,30027.0
+2,80,SOMME,Mouvement des Radicaux de Gauche,0.0
+2,80,SOMME,Parti Socialiste,0.0
+2,80,SOMME,Parti Socialiste Unifié,0.0
+2,80,SOMME,Parti communiste,126436.0
+2,80,SOMME,Radicaux réformateurs,0.0
+2,80,SOMME,Républicains Indépendants,0.0
+2,80,SOMME,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,80,SOMME,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,80385.0
+2,80,SOMME,Union des Démocrates pour la Vème République,0.0
+2,80,SOMME,abstentions,37834.0
+2,80,SOMME,blancs_nuls,11735.0
+2,81,TARN,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,81,TARN,Centre Démocratie et Progrès,0.0
+2,81,TARN,Divers Union des Républicains de Progrès,0.0
+2,81,TARN,Divers droite,0.0
+2,81,TARN,Divers gauche,0.0
+2,81,TARN,Divers gaullistes,0.0
+2,81,TARN,Divers réformateurs,0.0
+2,81,TARN,Mouvement des Radicaux de Gauche,0.0
+2,81,TARN,Parti Socialiste,69183.0
+2,81,TARN,Parti Socialiste Unifié,0.0
+2,81,TARN,Parti communiste,0.0
+2,81,TARN,Radicaux réformateurs,0.0
+2,81,TARN,Républicains Indépendants,0.0
+2,81,TARN,Républicains Indépendants-Union des Républicains de Progrès,23779.0
+2,81,TARN,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,28854.0
+2,81,TARN,Union des Démocrates pour la Vème République,0.0
+2,81,TARN,abstentions,19372.0
+2,81,TARN,blancs_nuls,3203.0
+2,82,TARN-ET-GARONNE,Centre Démocrate-Union des Républicains de Progrès,21992.0
+2,82,TARN-ET-GARONNE,Centre Démocratie et Progrès,0.0
+2,82,TARN-ET-GARONNE,Divers Union des Républicains de Progrès,0.0
+2,82,TARN-ET-GARONNE,Divers droite,0.0
+2,82,TARN-ET-GARONNE,Divers gauche,0.0
+2,82,TARN-ET-GARONNE,Divers gaullistes,0.0
+2,82,TARN-ET-GARONNE,Divers réformateurs,0.0
+2,82,TARN-ET-GARONNE,Mouvement des Radicaux de Gauche,26619.0
+2,82,TARN-ET-GARONNE,Parti Socialiste,24096.0
+2,82,TARN-ET-GARONNE,Parti Socialiste Unifié,0.0
+2,82,TARN-ET-GARONNE,Parti communiste,0.0
+2,82,TARN-ET-GARONNE,Radicaux réformateurs,0.0
+2,82,TARN-ET-GARONNE,Républicains Indépendants,0.0
+2,82,TARN-ET-GARONNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,82,TARN-ET-GARONNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,24132.0
+2,82,TARN-ET-GARONNE,Union des Démocrates pour la Vème République,0.0
+2,82,TARN-ET-GARONNE,abstentions,17304.0
+2,82,TARN-ET-GARONNE,blancs_nuls,3081.0
+2,83,VAR,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,83,VAR,Centre Démocratie et Progrès,0.0
+2,83,VAR,Divers Union des Républicains de Progrès,0.0
+2,83,VAR,Divers droite,0.0
+2,83,VAR,Divers gauche,0.0
+2,83,VAR,Divers gaullistes,0.0
+2,83,VAR,Divers réformateurs,0.0
+2,83,VAR,Mouvement des Radicaux de Gauche,0.0
+2,83,VAR,Parti Socialiste,74372.0
+2,83,VAR,Parti Socialiste Unifié,0.0
+2,83,VAR,Parti communiste,68636.0
+2,83,VAR,Radicaux réformateurs,0.0
+2,83,VAR,Républicains Indépendants,0.0
+2,83,VAR,Républicains Indépendants-Union des Républicains de Progrès,24970.0
+2,83,VAR,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,109616.0
+2,83,VAR,Union des Démocrates pour la Vème République,0.0
+2,83,VAR,abstentions,70774.0
+2,83,VAR,blancs_nuls,11451.0
+2,84,VAUCLUSE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,84,VAUCLUSE,Centre Démocratie et Progrès,0.0
+2,84,VAUCLUSE,Divers Union des Républicains de Progrès,0.0
+2,84,VAUCLUSE,Divers droite,0.0
+2,84,VAUCLUSE,Divers gauche,0.0
+2,84,VAUCLUSE,Divers gaullistes,0.0
+2,84,VAUCLUSE,Divers réformateurs,0.0
+2,84,VAUCLUSE,Mouvement des Radicaux de Gauche,0.0
+2,84,VAUCLUSE,Parti Socialiste,66848.0
+2,84,VAUCLUSE,Parti Socialiste Unifié,0.0
+2,84,VAUCLUSE,Parti communiste,27420.0
+2,84,VAUCLUSE,Radicaux réformateurs,0.0
+2,84,VAUCLUSE,Républicains Indépendants,0.0
+2,84,VAUCLUSE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,84,VAUCLUSE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,84898.0
+2,84,VAUCLUSE,Union des Démocrates pour la Vème République,0.0
+2,84,VAUCLUSE,abstentions,30962.0
+2,84,VAUCLUSE,blancs_nuls,7012.0
+2,85,VENDEE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,85,VENDEE,Centre Démocratie et Progrès,0.0
+2,85,VENDEE,Divers Union des Républicains de Progrès,0.0
+2,85,VENDEE,Divers droite,0.0
+2,85,VENDEE,Divers gauche,0.0
+2,85,VENDEE,Divers gaullistes,30689.0
+2,85,VENDEE,Divers réformateurs,0.0
+2,85,VENDEE,Mouvement des Radicaux de Gauche,0.0
+2,85,VENDEE,Parti Socialiste,33319.0
+2,85,VENDEE,Parti Socialiste Unifié,0.0
+2,85,VENDEE,Parti communiste,0.0
+2,85,VENDEE,Radicaux réformateurs,0.0
+2,85,VENDEE,Républicains Indépendants,0.0
+2,85,VENDEE,Républicains Indépendants-Union des Républicains de Progrès,21163.0
+2,85,VENDEE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,25866.0
+2,85,VENDEE,Union des Démocrates pour la Vème République,0.0
+2,85,VENDEE,abstentions,26235.0
+2,85,VENDEE,blancs_nuls,2943.0
+2,86,VIENNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,86,VIENNE,Centre Démocratie et Progrès,0.0
+2,86,VIENNE,Divers Union des Républicains de Progrès,0.0
+2,86,VIENNE,Divers droite,0.0
+2,86,VIENNE,Divers gauche,0.0
+2,86,VIENNE,Divers gaullistes,0.0
+2,86,VIENNE,Divers réformateurs,35801.0
+2,86,VIENNE,Mouvement des Radicaux de Gauche,0.0
+2,86,VIENNE,Parti Socialiste,55152.0
+2,86,VIENNE,Parti Socialiste Unifié,0.0
+2,86,VIENNE,Parti communiste,19215.0
+2,86,VIENNE,Radicaux réformateurs,0.0
+2,86,VIENNE,Républicains Indépendants,0.0
+2,86,VIENNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,86,VIENNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,61171.0
+2,86,VIENNE,Union des Démocrates pour la Vème République,0.0
+2,86,VIENNE,abstentions,39227.0
+2,86,VIENNE,blancs_nuls,4464.0
+2,87,HAUTE-VIENNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,87,HAUTE-VIENNE,Centre Démocratie et Progrès,0.0
+2,87,HAUTE-VIENNE,Divers Union des Républicains de Progrès,0.0
+2,87,HAUTE-VIENNE,Divers droite,25635.0
+2,87,HAUTE-VIENNE,Divers gauche,0.0
+2,87,HAUTE-VIENNE,Divers gaullistes,0.0
+2,87,HAUTE-VIENNE,Divers réformateurs,0.0
+2,87,HAUTE-VIENNE,Mouvement des Radicaux de Gauche,0.0
+2,87,HAUTE-VIENNE,Parti Socialiste,45431.0
+2,87,HAUTE-VIENNE,Parti Socialiste Unifié,0.0
+2,87,HAUTE-VIENNE,Parti communiste,61983.0
+2,87,HAUTE-VIENNE,Radicaux réformateurs,0.0
+2,87,HAUTE-VIENNE,Républicains Indépendants,0.0
+2,87,HAUTE-VIENNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,87,HAUTE-VIENNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,51142.0
+2,87,HAUTE-VIENNE,Union des Démocrates pour la Vème République,0.0
+2,87,HAUTE-VIENNE,abstentions,40561.0
+2,87,HAUTE-VIENNE,blancs_nuls,8093.0
+2,88,VOSGES,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,88,VOSGES,Centre Démocratie et Progrès,0.0
+2,88,VOSGES,Divers Union des Républicains de Progrès,0.0
+2,88,VOSGES,Divers droite,0.0
+2,88,VOSGES,Divers gauche,0.0
+2,88,VOSGES,Divers gaullistes,0.0
+2,88,VOSGES,Divers réformateurs,0.0
+2,88,VOSGES,Mouvement des Radicaux de Gauche,0.0
+2,88,VOSGES,Parti Socialiste,49565.0
+2,88,VOSGES,Parti Socialiste Unifié,0.0
+2,88,VOSGES,Parti communiste,0.0
+2,88,VOSGES,Radicaux réformateurs,0.0
+2,88,VOSGES,Républicains Indépendants,0.0
+2,88,VOSGES,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,88,VOSGES,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,51209.0
+2,88,VOSGES,Union des Démocrates pour la Vème République,0.0
+2,88,VOSGES,abstentions,21829.0
+2,88,VOSGES,blancs_nuls,3321.0
+2,89,YONNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,89,YONNE,Centre Démocratie et Progrès,0.0
+2,89,YONNE,Divers Union des Républicains de Progrès,0.0
+2,89,YONNE,Divers droite,0.0
+2,89,YONNE,Divers gauche,0.0
+2,89,YONNE,Divers gaullistes,0.0
+2,89,YONNE,Divers réformateurs,0.0
+2,89,YONNE,Mouvement des Radicaux de Gauche,0.0
+2,89,YONNE,Parti Socialiste,0.0
+2,89,YONNE,Parti Socialiste Unifié,0.0
+2,89,YONNE,Parti communiste,24365.0
+2,89,YONNE,Radicaux réformateurs,0.0
+2,89,YONNE,Républicains Indépendants,0.0
+2,89,YONNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,89,YONNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,31767.0
+2,89,YONNE,Union des Démocrates pour la Vème République,0.0
+2,89,YONNE,abstentions,12705.0
+2,89,YONNE,blancs_nuls,2437.0
+2,90,TERRITOIRE DE BELFORT,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,90,TERRITOIRE DE BELFORT,Centre Démocratie et Progrès,0.0
+2,90,TERRITOIRE DE BELFORT,Divers Union des Républicains de Progrès,0.0
+2,90,TERRITOIRE DE BELFORT,Divers droite,0.0
+2,90,TERRITOIRE DE BELFORT,Divers gauche,0.0
+2,90,TERRITOIRE DE BELFORT,Divers gaullistes,0.0
+2,90,TERRITOIRE DE BELFORT,Divers réformateurs,0.0
+2,90,TERRITOIRE DE BELFORT,Mouvement des Radicaux de Gauche,0.0
+2,90,TERRITOIRE DE BELFORT,Parti Socialiste,31319.0
+2,90,TERRITOIRE DE BELFORT,Parti Socialiste Unifié,0.0
+2,90,TERRITOIRE DE BELFORT,Parti communiste,0.0
+2,90,TERRITOIRE DE BELFORT,Radicaux réformateurs,0.0
+2,90,TERRITOIRE DE BELFORT,Républicains Indépendants,0.0
+2,90,TERRITOIRE DE BELFORT,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,90,TERRITOIRE DE BELFORT,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,25798.0
+2,90,TERRITOIRE DE BELFORT,Union des Démocrates pour la Vème République,0.0
+2,90,TERRITOIRE DE BELFORT,abstentions,9152.0
+2,90,TERRITOIRE DE BELFORT,blancs_nuls,1470.0
+2,91,ESSONNE,Centre Démocrate-Union des Républicains de Progrès,55313.0
+2,91,ESSONNE,Centre Démocratie et Progrès,0.0
+2,91,ESSONNE,Divers Union des Républicains de Progrès,0.0
+2,91,ESSONNE,Divers droite,0.0
+2,91,ESSONNE,Divers gauche,0.0
+2,91,ESSONNE,Divers gaullistes,0.0
+2,91,ESSONNE,Divers réformateurs,0.0
+2,91,ESSONNE,Mouvement des Radicaux de Gauche,0.0
+2,91,ESSONNE,Parti Socialiste,0.0
+2,91,ESSONNE,Parti Socialiste Unifié,0.0
+2,91,ESSONNE,Parti communiste,179343.0
+2,91,ESSONNE,Radicaux réformateurs,0.0
+2,91,ESSONNE,Républicains Indépendants,0.0
+2,91,ESSONNE,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,91,ESSONNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,113089.0
+2,91,ESSONNE,Union des Démocrates pour la Vème République,0.0
+2,91,ESSONNE,abstentions,67402.0
+2,91,ESSONNE,blancs_nuls,15870.0
+2,92,HAUTS-DE-SEINE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,92,HAUTS-DE-SEINE,Centre Démocratie et Progrès,0.0
+2,92,HAUTS-DE-SEINE,Divers Union des Républicains de Progrès,23870.0
+2,92,HAUTS-DE-SEINE,Divers droite,0.0
+2,92,HAUTS-DE-SEINE,Divers gauche,0.0
+2,92,HAUTS-DE-SEINE,Divers gaullistes,0.0
+2,92,HAUTS-DE-SEINE,Divers réformateurs,47940.0
+2,92,HAUTS-DE-SEINE,Mouvement des Radicaux de Gauche,0.0
+2,92,HAUTS-DE-SEINE,Parti Socialiste,45364.0
+2,92,HAUTS-DE-SEINE,Parti Socialiste Unifié,0.0
+2,92,HAUTS-DE-SEINE,Parti communiste,237507.0
+2,92,HAUTS-DE-SEINE,Radicaux réformateurs,0.0
+2,92,HAUTS-DE-SEINE,Républicains Indépendants,0.0
+2,92,HAUTS-DE-SEINE,Républicains Indépendants-Union des Républicains de Progrès,61329.0
+2,92,HAUTS-DE-SEINE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,182357.0
+2,92,HAUTS-DE-SEINE,Union des Démocrates pour la Vème République,0.0
+2,92,HAUTS-DE-SEINE,abstentions,143457.0
+2,92,HAUTS-DE-SEINE,blancs_nuls,25474.0
+2,93,SEINE-SAINT-DENIS,Centre Démocrate-Union des Républicains de Progrès,14594.0
+2,93,SEINE-SAINT-DENIS,Centre Démocratie et Progrès,0.0
+2,93,SEINE-SAINT-DENIS,Divers Union des Républicains de Progrès,0.0
+2,93,SEINE-SAINT-DENIS,Divers droite,0.0
+2,93,SEINE-SAINT-DENIS,Divers gauche,0.0
+2,93,SEINE-SAINT-DENIS,Divers gaullistes,0.0
+2,93,SEINE-SAINT-DENIS,Divers réformateurs,6588.0
+2,93,SEINE-SAINT-DENIS,Mouvement des Radicaux de Gauche,0.0
+2,93,SEINE-SAINT-DENIS,Parti Socialiste,0.0
+2,93,SEINE-SAINT-DENIS,Parti Socialiste Unifié,0.0
+2,93,SEINE-SAINT-DENIS,Parti communiste,202748.0
+2,93,SEINE-SAINT-DENIS,Radicaux réformateurs,0.0
+2,93,SEINE-SAINT-DENIS,Républicains Indépendants,0.0
+2,93,SEINE-SAINT-DENIS,Républicains Indépendants-Union des Républicains de Progrès,0.0
+2,93,SEINE-SAINT-DENIS,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,137430.0
+2,93,SEINE-SAINT-DENIS,Union des Démocrates pour la Vème République,0.0
+2,93,SEINE-SAINT-DENIS,abstentions,94834.0
+2,93,SEINE-SAINT-DENIS,blancs_nuls,18513.0
+2,94,VAL-DE-MARNE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,94,VAL-DE-MARNE,Centre Démocratie et Progrès,0.0
+2,94,VAL-DE-MARNE,Divers Union des Républicains de Progrès,0.0
+2,94,VAL-DE-MARNE,Divers droite,569.0
+2,94,VAL-DE-MARNE,Divers gauche,0.0
+2,94,VAL-DE-MARNE,Divers gaullistes,0.0
+2,94,VAL-DE-MARNE,Divers réformateurs,23893.0
+2,94,VAL-DE-MARNE,Mouvement des Radicaux de Gauche,0.0
+2,94,VAL-DE-MARNE,Parti Socialiste,29147.0
+2,94,VAL-DE-MARNE,Parti Socialiste Unifié,0.0
+2,94,VAL-DE-MARNE,Parti communiste,189937.0
+2,94,VAL-DE-MARNE,Radicaux réformateurs,0.0
+2,94,VAL-DE-MARNE,Républicains Indépendants,0.0
+2,94,VAL-DE-MARNE,Républicains Indépendants-Union des Républicains de Progrès,28867.0
+2,94,VAL-DE-MARNE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,161091.0
+2,94,VAL-DE-MARNE,Union des Démocrates pour la Vème République,0.0
+2,94,VAL-DE-MARNE,abstentions,100346.0
+2,94,VAL-DE-MARNE,blancs_nuls,20218.0
+2,95,VAL-D'OISE,Centre Démocrate-Union des Républicains de Progrès,0.0
+2,95,VAL-D'OISE,Centre Démocratie et Progrès,0.0
+2,95,VAL-D'OISE,Divers Union des Républicains de Progrès,0.0
+2,95,VAL-D'OISE,Divers droite,0.0
+2,95,VAL-D'OISE,Divers gauche,0.0
+2,95,VAL-D'OISE,Divers gaullistes,0.0
+2,95,VAL-D'OISE,Divers réformateurs,0.0
+2,95,VAL-D'OISE,Mouvement des Radicaux de Gauche,0.0
+2,95,VAL-D'OISE,Parti Socialiste,0.0
+2,95,VAL-D'OISE,Parti Socialiste Unifié,0.0
+2,95,VAL-D'OISE,Parti communiste,130540.0
+2,95,VAL-D'OISE,Radicaux réformateurs,13292.0
+2,95,VAL-D'OISE,Républicains Indépendants,0.0
+2,95,VAL-D'OISE,Républicains Indépendants-Union des Républicains de Progrès,34293.0
+2,95,VAL-D'OISE,Union Des Démocrates pour la Vème République-Union des Républicains de Progrès,99264.0
+2,95,VAL-D'OISE,Union des Démocrates pour la Vème République,0.0
+2,95,VAL-D'OISE,abstentions,57964.0
+2,95,VAL-D'OISE,blancs_nuls,10904.0

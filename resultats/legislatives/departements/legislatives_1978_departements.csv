@@ -1,0 +1,1900 @@
+tour,code_departement,departement,nuance,voix
+1,01,AIN,Divers droite,5076.0
+1,01,AIN,Divers gauche,0.0
+1,01,AIN,Ecologistes,7902.0
+1,01,AIN,Extrême droite,0.0
+1,01,AIN,Extrême gauche,3504.0
+1,01,AIN,Front Autogestionnaire,3633.0
+1,01,AIN,Gaullistes d'opposition,1360.0
+1,01,AIN,Parti Socialiste-Mouvement des Radicaux de Gauche,47855.0
+1,01,AIN,Parti communiste,32695.0
+1,01,AIN,Rassemblement Pour la République,27043.0
+1,01,AIN,Union pour la Démocratie Française,68250.0
+1,01,AIN,abstentions,47291.0
+1,01,AIN,blancs_nuls,3491.0
+1,02,AISNE,Divers droite,1867.0
+1,02,AISNE,Divers gauche,1916.0
+1,02,AISNE,Ecologistes,0.0
+1,02,AISNE,Extrême droite,0.0
+1,02,AISNE,Extrême gauche,8907.0
+1,02,AISNE,Front Autogestionnaire,1374.0
+1,02,AISNE,Gaullistes d'opposition,0.0
+1,02,AISNE,Parti Socialiste-Mouvement des Radicaux de Gauche,72484.0
+1,02,AISNE,Parti communiste,86663.0
+1,02,AISNE,Rassemblement Pour la République,64707.0
+1,02,AISNE,Union pour la Démocratie Française,61892.0
+1,02,AISNE,abstentions,45008.0
+1,02,AISNE,blancs_nuls,5896.0
+1,03,ALLIER,Divers droite,15844.0
+1,03,ALLIER,Divers gauche,0.0
+1,03,ALLIER,Ecologistes,1064.0
+1,03,ALLIER,Extrême droite,1730.0
+1,03,ALLIER,Extrême gauche,4956.0
+1,03,ALLIER,Front Autogestionnaire,0.0
+1,03,ALLIER,Gaullistes d'opposition,597.0
+1,03,ALLIER,Parti Socialiste-Mouvement des Radicaux de Gauche,45051.0
+1,03,ALLIER,Parti communiste,67900.0
+1,03,ALLIER,Rassemblement Pour la République,39903.0
+1,03,ALLIER,Union pour la Démocratie Française,41898.0
+1,03,ALLIER,abstentions,40583.0
+1,03,ALLIER,blancs_nuls,4311.0
+1,04,ALPES-DE-HAUTE-PROVENCE,Divers droite,9921.0
+1,04,ALPES-DE-HAUTE-PROVENCE,Divers gauche,0.0
+1,04,ALPES-DE-HAUTE-PROVENCE,Ecologistes,3537.0
+1,04,ALPES-DE-HAUTE-PROVENCE,Extrême droite,345.0
+1,04,ALPES-DE-HAUTE-PROVENCE,Extrême gauche,1169.0
+1,04,ALPES-DE-HAUTE-PROVENCE,Front Autogestionnaire,0.0
+1,04,ALPES-DE-HAUTE-PROVENCE,Gaullistes d'opposition,0.0
+1,04,ALPES-DE-HAUTE-PROVENCE,Parti Socialiste-Mouvement des Radicaux de Gauche,17029.0
+1,04,ALPES-DE-HAUTE-PROVENCE,Parti communiste,17159.0
+1,04,ALPES-DE-HAUTE-PROVENCE,Rassemblement Pour la République,11241.0
+1,04,ALPES-DE-HAUTE-PROVENCE,Union pour la Démocratie Française,7136.0
+1,04,ALPES-DE-HAUTE-PROVENCE,abstentions,13611.0
+1,04,ALPES-DE-HAUTE-PROVENCE,blancs_nuls,1394.0
+1,05,HAUTES-ALPES,Divers droite,0.0
+1,05,HAUTES-ALPES,Divers gauche,0.0
+1,05,HAUTES-ALPES,Ecologistes,0.0
+1,05,HAUTES-ALPES,Extrême droite,213.0
+1,05,HAUTES-ALPES,Extrême gauche,1149.0
+1,05,HAUTES-ALPES,Front Autogestionnaire,0.0
+1,05,HAUTES-ALPES,Gaullistes d'opposition,0.0
+1,05,HAUTES-ALPES,Parti Socialiste-Mouvement des Radicaux de Gauche,14615.0
+1,05,HAUTES-ALPES,Parti communiste,11787.0
+1,05,HAUTES-ALPES,Rassemblement Pour la République,3782.0
+1,05,HAUTES-ALPES,Union pour la Démocratie Française,26384.0
+1,05,HAUTES-ALPES,abstentions,12737.0
+1,05,HAUTES-ALPES,blancs_nuls,1315.0
+1,06,ALPES-MARITIMES,Divers droite,7320.0
+1,06,ALPES-MARITIMES,Divers gauche,341.0
+1,06,ALPES-MARITIMES,Ecologistes,18553.0
+1,06,ALPES-MARITIMES,Extrême droite,5430.0
+1,06,ALPES-MARITIMES,Extrême gauche,7030.0
+1,06,ALPES-MARITIMES,Front Autogestionnaire,2543.0
+1,06,ALPES-MARITIMES,Gaullistes d'opposition,9181.0
+1,06,ALPES-MARITIMES,Parti Socialiste-Mouvement des Radicaux de Gauche,87690.0
+1,06,ALPES-MARITIMES,Parti communiste,102927.0
+1,06,ALPES-MARITIMES,Rassemblement Pour la République,114924.0
+1,06,ALPES-MARITIMES,Union pour la Démocratie Française,104454.0
+1,06,ALPES-MARITIMES,abstentions,98979.0
+1,06,ALPES-MARITIMES,blancs_nuls,7940.0
+1,07,ARDECHE,Divers droite,0.0
+1,07,ARDECHE,Divers gauche,3029.0
+1,07,ARDECHE,Ecologistes,5661.0
+1,07,ARDECHE,Extrême droite,271.0
+1,07,ARDECHE,Extrême gauche,2743.0
+1,07,ARDECHE,Front Autogestionnaire,0.0
+1,07,ARDECHE,Gaullistes d'opposition,323.0
+1,07,ARDECHE,Parti Socialiste-Mouvement des Radicaux de Gauche,34661.0
+1,07,ARDECHE,Parti communiste,29979.0
+1,07,ARDECHE,Rassemblement Pour la République,20002.0
+1,07,ARDECHE,Union pour la Démocratie Française,59018.0
+1,07,ARDECHE,abstentions,30706.0
+1,07,ARDECHE,blancs_nuls,2520.0
+1,08,ARDENNES,Divers droite,3092.0
+1,08,ARDENNES,Divers gauche,0.0
+1,08,ARDENNES,Ecologistes,1557.0
+1,08,ARDENNES,Extrême droite,0.0
+1,08,ARDENNES,Extrême gauche,4176.0
+1,08,ARDENNES,Front Autogestionnaire,1390.0
+1,08,ARDENNES,Gaullistes d'opposition,345.0
+1,08,ARDENNES,Parti Socialiste-Mouvement des Radicaux de Gauche,41192.0
+1,08,ARDENNES,Parti communiste,39944.0
+1,08,ARDENNES,Rassemblement Pour la République,47107.0
+1,08,ARDENNES,Union pour la Démocratie Française,18616.0
+1,08,ARDENNES,abstentions,28351.0
+1,08,ARDENNES,blancs_nuls,3095.0
+1,09,ARIEGE,Divers droite,330.0
+1,09,ARIEGE,Divers gauche,1241.0
+1,09,ARIEGE,Ecologistes,0.0
+1,09,ARIEGE,Extrême droite,0.0
+1,09,ARIEGE,Extrême gauche,2042.0
+1,09,ARIEGE,Front Autogestionnaire,0.0
+1,09,ARIEGE,Gaullistes d'opposition,0.0
+1,09,ARIEGE,Parti Socialiste-Mouvement des Radicaux de Gauche,33037.0
+1,09,ARIEGE,Parti communiste,21480.0
+1,09,ARIEGE,Rassemblement Pour la République,19569.0
+1,09,ARIEGE,Union pour la Démocratie Française,6564.0
+1,09,ARIEGE,abstentions,19118.0
+1,09,ARIEGE,blancs_nuls,2120.0
+1,10,AUBE,Divers droite,1845.0
+1,10,AUBE,Divers gauche,707.0
+1,10,AUBE,Ecologistes,0.0
+1,10,AUBE,Extrême droite,0.0
+1,10,AUBE,Extrême gauche,4406.0
+1,10,AUBE,Front Autogestionnaire,757.0
+1,10,AUBE,Gaullistes d'opposition,2427.0
+1,10,AUBE,Parti Socialiste-Mouvement des Radicaux de Gauche,36602.0
+1,10,AUBE,Parti communiste,29019.0
+1,10,AUBE,Rassemblement Pour la République,31962.0
+1,10,AUBE,Union pour la Démocratie Française,42677.0
+1,10,AUBE,abstentions,30430.0
+1,10,AUBE,blancs_nuls,3108.0
+1,11,AUDE,Divers droite,1881.0
+1,11,AUDE,Divers gauche,4861.0
+1,11,AUDE,Ecologistes,0.0
+1,11,AUDE,Extrême droite,0.0
+1,11,AUDE,Extrême gauche,3329.0
+1,11,AUDE,Front Autogestionnaire,0.0
+1,11,AUDE,Gaullistes d'opposition,0.0
+1,11,AUDE,Parti Socialiste-Mouvement des Radicaux de Gauche,56364.0
+1,11,AUDE,Parti communiste,43456.0
+1,11,AUDE,Rassemblement Pour la République,38205.0
+1,11,AUDE,Union pour la Démocratie Française,19255.0
+1,11,AUDE,abstentions,29598.0
+1,11,AUDE,blancs_nuls,3964.0
+1,12,AVEYRON,Divers droite,1511.0
+1,12,AVEYRON,Divers gauche,1011.0
+1,12,AVEYRON,Ecologistes,0.0
+1,12,AVEYRON,Extrême droite,53.0
+1,12,AVEYRON,Extrême gauche,5287.0
+1,12,AVEYRON,Front Autogestionnaire,0.0
+1,12,AVEYRON,Gaullistes d'opposition,0.0
+1,12,AVEYRON,Parti Socialiste-Mouvement des Radicaux de Gauche,58582.0
+1,12,AVEYRON,Parti communiste,19161.0
+1,12,AVEYRON,Rassemblement Pour la République,26802.0
+1,12,AVEYRON,Union pour la Démocratie Française,57664.0
+1,12,AVEYRON,abstentions,31997.0
+1,12,AVEYRON,blancs_nuls,5035.0
+1,13,BOUCHES-DU-RHONE,Divers droite,16188.0
+1,13,BOUCHES-DU-RHONE,Divers gauche,0.0
+1,13,BOUCHES-DU-RHONE,Ecologistes,20186.0
+1,13,BOUCHES-DU-RHONE,Extrême droite,8193.0
+1,13,BOUCHES-DU-RHONE,Extrême gauche,14062.0
+1,13,BOUCHES-DU-RHONE,Front Autogestionnaire,5691.0
+1,13,BOUCHES-DU-RHONE,Gaullistes d'opposition,9462.0
+1,13,BOUCHES-DU-RHONE,Parti Socialiste-Mouvement des Radicaux de Gauche,181903.0
+1,13,BOUCHES-DU-RHONE,Parti communiste,245951.0
+1,13,BOUCHES-DU-RHONE,Rassemblement Pour la République,123843.0
+1,13,BOUCHES-DU-RHONE,Union pour la Démocratie Française,140005.0
+1,13,BOUCHES-DU-RHONE,abstentions,207806.0
+1,13,BOUCHES-DU-RHONE,blancs_nuls,13706.0
+1,14,CALVADOS,Divers droite,5638.0
+1,14,CALVADOS,Divers gauche,1166.0
+1,14,CALVADOS,Ecologistes,7513.0
+1,14,CALVADOS,Extrême droite,2537.0
+1,14,CALVADOS,Extrême gauche,8722.0
+1,14,CALVADOS,Front Autogestionnaire,699.0
+1,14,CALVADOS,Gaullistes d'opposition,1462.0
+1,14,CALVADOS,Parti Socialiste-Mouvement des Radicaux de Gauche,77470.0
+1,14,CALVADOS,Parti communiste,40471.0
+1,14,CALVADOS,Rassemblement Pour la République,28000.0
+1,14,CALVADOS,Union pour la Démocratie Française,134616.0
+1,14,CALVADOS,abstentions,60755.0
+1,14,CALVADOS,blancs_nuls,5458.0
+1,15,CANTAL,Divers droite,0.0
+1,15,CANTAL,Divers gauche,0.0
+1,15,CANTAL,Ecologistes,0.0
+1,15,CANTAL,Extrême droite,1736.0
+1,15,CANTAL,Extrême gauche,2687.0
+1,15,CANTAL,Front Autogestionnaire,0.0
+1,15,CANTAL,Gaullistes d'opposition,0.0
+1,15,CANTAL,Parti Socialiste-Mouvement des Radicaux de Gauche,23494.0
+1,15,CANTAL,Parti communiste,13928.0
+1,15,CANTAL,Rassemblement Pour la République,57058.0
+1,15,CANTAL,Union pour la Démocratie Française,0.0
+1,15,CANTAL,abstentions,22095.0
+1,15,CANTAL,blancs_nuls,1972.0
+1,16,CHARENTE,Divers droite,11006.0
+1,16,CHARENTE,Divers gauche,8702.0
+1,16,CHARENTE,Ecologistes,0.0
+1,16,CHARENTE,Extrême droite,2917.0
+1,16,CHARENTE,Extrême gauche,5503.0
+1,16,CHARENTE,Front Autogestionnaire,0.0
+1,16,CHARENTE,Gaullistes d'opposition,0.0
+1,16,CHARENTE,Parti Socialiste-Mouvement des Radicaux de Gauche,46033.0
+1,16,CHARENTE,Parti communiste,43493.0
+1,16,CHARENTE,Rassemblement Pour la République,70913.0
+1,16,CHARENTE,Union pour la Démocratie Française,6750.0
+1,16,CHARENTE,abstentions,37862.0
+1,16,CHARENTE,blancs_nuls,4620.0
+1,17,CHARENTE-MARITIME,Divers droite,4246.0
+1,17,CHARENTE-MARITIME,Divers gauche,558.0
+1,17,CHARENTE-MARITIME,Ecologistes,2821.0
+1,17,CHARENTE-MARITIME,Extrême droite,1060.0
+1,17,CHARENTE-MARITIME,Extrême gauche,6721.0
+1,17,CHARENTE-MARITIME,Front Autogestionnaire,1464.0
+1,17,CHARENTE-MARITIME,Gaullistes d'opposition,862.0
+1,17,CHARENTE-MARITIME,Parti Socialiste-Mouvement des Radicaux de Gauche,79058.0
+1,17,CHARENTE-MARITIME,Parti communiste,53753.0
+1,17,CHARENTE-MARITIME,Rassemblement Pour la République,72344.0
+1,17,CHARENTE-MARITIME,Union pour la Démocratie Française,56733.0
+1,17,CHARENTE-MARITIME,abstentions,66058.0
+1,17,CHARENTE-MARITIME,blancs_nuls,6106.0
+1,18,CHER,Divers droite,2904.0
+1,18,CHER,Divers gauche,0.0
+1,18,CHER,Ecologistes,0.0
+1,18,CHER,Extrême droite,0.0
+1,18,CHER,Extrême gauche,5353.0
+1,18,CHER,Front Autogestionnaire,915.0
+1,18,CHER,Gaullistes d'opposition,1658.0
+1,18,CHER,Parti Socialiste-Mouvement des Radicaux de Gauche,29589.0
+1,18,CHER,Parti communiste,58335.0
+1,18,CHER,Rassemblement Pour la République,49395.0
+1,18,CHER,Union pour la Démocratie Française,28610.0
+1,18,CHER,abstentions,34511.0
+1,18,CHER,blancs_nuls,3910.0
+1,19,CORREZE,Divers droite,0.0
+1,19,CORREZE,Divers gauche,0.0
+1,19,CORREZE,Ecologistes,1149.0
+1,19,CORREZE,Extrême droite,0.0
+1,19,CORREZE,Extrême gauche,2672.0
+1,19,CORREZE,Front Autogestionnaire,0.0
+1,19,CORREZE,Gaullistes d'opposition,12804.0
+1,19,CORREZE,Parti Socialiste-Mouvement des Radicaux de Gauche,29396.0
+1,19,CORREZE,Parti communiste,43684.0
+1,19,CORREZE,Rassemblement Pour la République,66751.0
+1,19,CORREZE,Union pour la Démocratie Française,0.0
+1,19,CORREZE,abstentions,21565.0
+1,19,CORREZE,blancs_nuls,3469.0
+1,21,COTE-D'OR,Divers droite,26652.0
+1,21,COTE-D'OR,Divers gauche,0.0
+1,21,COTE-D'OR,Ecologistes,5103.0
+1,21,COTE-D'OR,Extrême droite,2074.0
+1,21,COTE-D'OR,Extrême gauche,5380.0
+1,21,COTE-D'OR,Front Autogestionnaire,1856.0
+1,21,COTE-D'OR,Gaullistes d'opposition,3356.0
+1,21,COTE-D'OR,Parti Socialiste-Mouvement des Radicaux de Gauche,67344.0
+1,21,COTE-D'OR,Parti communiste,32853.0
+1,21,COTE-D'OR,Rassemblement Pour la République,67199.0
+1,21,COTE-D'OR,Union pour la Démocratie Française,21272.0
+1,21,COTE-D'OR,abstentions,116264.0
+1,21,COTE-D'OR,blancs_nuls,-63593.0
+1,22,COTES-D'ARMOR,Divers droite,40781.0
+1,22,COTES-D'ARMOR,Divers gauche,3751.0
+1,22,COTES-D'ARMOR,Ecologistes,1434.0
+1,22,COTES-D'ARMOR,Extrême droite,1057.0
+1,22,COTES-D'ARMOR,Extrême gauche,5852.0
+1,22,COTES-D'ARMOR,Front Autogestionnaire,2788.0
+1,22,COTES-D'ARMOR,Gaullistes d'opposition,0.0
+1,22,COTES-D'ARMOR,Parti Socialiste-Mouvement des Radicaux de Gauche,88135.0
+1,22,COTES-D'ARMOR,Parti communiste,73555.0
+1,22,COTES-D'ARMOR,Rassemblement Pour la République,31155.0
+1,22,COTES-D'ARMOR,Union pour la Démocratie Française,83627.0
+1,22,COTES-D'ARMOR,abstentions,48609.0
+1,22,COTES-D'ARMOR,blancs_nuls,4615.0
+1,23,CREUSE,Divers droite,0.0
+1,23,CREUSE,Divers gauche,765.0
+1,23,CREUSE,Ecologistes,0.0
+1,23,CREUSE,Extrême droite,0.0
+1,23,CREUSE,Extrême gauche,2378.0
+1,23,CREUSE,Front Autogestionnaire,0.0
+1,23,CREUSE,Gaullistes d'opposition,525.0
+1,23,CREUSE,Parti Socialiste-Mouvement des Radicaux de Gauche,26193.0
+1,23,CREUSE,Parti communiste,23732.0
+1,23,CREUSE,Rassemblement Pour la République,32494.0
+1,23,CREUSE,Union pour la Démocratie Française,3383.0
+1,23,CREUSE,abstentions,23591.0
+1,23,CREUSE,blancs_nuls,1742.0
+1,24,DORDOGNE,Divers droite,1190.0
+1,24,DORDOGNE,Divers gauche,1517.0
+1,24,DORDOGNE,Ecologistes,585.0
+1,24,DORDOGNE,Extrême droite,666.0
+1,24,DORDOGNE,Extrême gauche,3453.0
+1,24,DORDOGNE,Front Autogestionnaire,3690.0
+1,24,DORDOGNE,Gaullistes d'opposition,872.0
+1,24,DORDOGNE,Parti Socialiste-Mouvement des Radicaux de Gauche,68958.0
+1,24,DORDOGNE,Parti communiste,63101.0
+1,24,DORDOGNE,Rassemblement Pour la République,92656.0
+1,24,DORDOGNE,Union pour la Démocratie Française,8163.0
+1,24,DORDOGNE,abstentions,36733.0
+1,24,DORDOGNE,blancs_nuls,5443.0
+1,25,DOUBS,Divers droite,35039.0
+1,25,DOUBS,Divers gauche,0.0
+1,25,DOUBS,Ecologistes,0.0
+1,25,DOUBS,Extrême droite,288.0
+1,25,DOUBS,Extrême gauche,6770.0
+1,25,DOUBS,Front Autogestionnaire,6610.0
+1,25,DOUBS,Gaullistes d'opposition,1713.0
+1,25,DOUBS,Parti Socialiste-Mouvement des Radicaux de Gauche,70385.0
+1,25,DOUBS,Parti communiste,35051.0
+1,25,DOUBS,Rassemblement Pour la République,45371.0
+1,25,DOUBS,Union pour la Démocratie Française,31026.0
+1,25,DOUBS,abstentions,44780.0
+1,25,DOUBS,blancs_nuls,4916.0
+1,26,DROME,Divers droite,4747.0
+1,26,DROME,Divers gauche,0.0
+1,26,DROME,Ecologistes,12431.0
+1,26,DROME,Extrême droite,2812.0
+1,26,DROME,Extrême gauche,3418.0
+1,26,DROME,Front Autogestionnaire,0.0
+1,26,DROME,Gaullistes d'opposition,0.0
+1,26,DROME,Parti Socialiste-Mouvement des Radicaux de Gauche,61871.0
+1,26,DROME,Parti communiste,35786.0
+1,26,DROME,Rassemblement Pour la République,36844.0
+1,26,DROME,Union pour la Démocratie Française,41003.0
+1,26,DROME,abstentions,44128.0
+1,26,DROME,blancs_nuls,3646.0
+1,27,EURE,Divers droite,4210.0
+1,27,EURE,Divers gauche,0.0
+1,27,EURE,Ecologistes,1955.0
+1,27,EURE,Extrême droite,2046.0
+1,27,EURE,Extrême gauche,5525.0
+1,27,EURE,Front Autogestionnaire,2713.0
+1,27,EURE,Gaullistes d'opposition,5791.0
+1,27,EURE,Parti Socialiste-Mouvement des Radicaux de Gauche,56923.0
+1,27,EURE,Parti communiste,50089.0
+1,27,EURE,Rassemblement Pour la République,50859.0
+1,27,EURE,Union pour la Démocratie Française,61279.0
+1,27,EURE,abstentions,41603.0
+1,27,EURE,blancs_nuls,5466.0
+1,28,EURE-ET-LOIR,Divers droite,1829.0
+1,28,EURE-ET-LOIR,Divers gauche,0.0
+1,28,EURE-ET-LOIR,Ecologistes,0.0
+1,28,EURE-ET-LOIR,Extrême droite,1996.0
+1,28,EURE-ET-LOIR,Extrême gauche,7120.0
+1,28,EURE-ET-LOIR,Front Autogestionnaire,0.0
+1,28,EURE-ET-LOIR,Gaullistes d'opposition,0.0
+1,28,EURE-ET-LOIR,Parti Socialiste-Mouvement des Radicaux de Gauche,53190.0
+1,28,EURE-ET-LOIR,Parti communiste,30100.0
+1,28,EURE-ET-LOIR,Rassemblement Pour la République,27810.0
+1,28,EURE-ET-LOIR,Union pour la Démocratie Française,65996.0
+1,28,EURE-ET-LOIR,abstentions,34784.0
+1,28,EURE-ET-LOIR,blancs_nuls,4881.0
+1,29,FINISTERE,Divers droite,46672.0
+1,29,FINISTERE,Divers gauche,10604.0
+1,29,FINISTERE,Ecologistes,2977.0
+1,29,FINISTERE,Extrême droite,1483.0
+1,29,FINISTERE,Extrême gauche,8004.0
+1,29,FINISTERE,Front Autogestionnaire,4047.0
+1,29,FINISTERE,Gaullistes d'opposition,0.0
+1,29,FINISTERE,Parti Socialiste-Mouvement des Radicaux de Gauche,117284.0
+1,29,FINISTERE,Parti communiste,73478.0
+1,29,FINISTERE,Rassemblement Pour la République,139252.0
+1,29,FINISTERE,Union pour la Démocratie Française,79447.0
+1,29,FINISTERE,abstentions,91003.0
+1,29,FINISTERE,blancs_nuls,5825.0
+1,2A,CORSE-DU-SUD,Divers droite,1869.0
+1,2A,CORSE-DU-SUD,Divers gauche,1949.0
+1,2A,CORSE-DU-SUD,Ecologistes,0.0
+1,2A,CORSE-DU-SUD,Extrême droite,0.0
+1,2A,CORSE-DU-SUD,Extrême gauche,0.0
+1,2A,CORSE-DU-SUD,Front Autogestionnaire,0.0
+1,2A,CORSE-DU-SUD,Gaullistes d'opposition,0.0
+1,2A,CORSE-DU-SUD,Parti Socialiste-Mouvement des Radicaux de Gauche,16493.0
+1,2A,CORSE-DU-SUD,Parti communiste,10027.0
+1,2A,CORSE-DU-SUD,Rassemblement Pour la République,24161.0
+1,2A,CORSE-DU-SUD,Union pour la Démocratie Française,10317.0
+1,2A,CORSE-DU-SUD,abstentions,25109.0
+1,2A,CORSE-DU-SUD,blancs_nuls,444.0
+1,2B,HAUTE-CORSE,Divers droite,7459.0
+1,2B,HAUTE-CORSE,Divers gauche,0.0
+1,2B,HAUTE-CORSE,Ecologistes,1332.0
+1,2B,HAUTE-CORSE,Extrême droite,0.0
+1,2B,HAUTE-CORSE,Extrême gauche,0.0
+1,2B,HAUTE-CORSE,Front Autogestionnaire,0.0
+1,2B,HAUTE-CORSE,Gaullistes d'opposition,0.0
+1,2B,HAUTE-CORSE,Parti Socialiste-Mouvement des Radicaux de Gauche,25026.0
+1,2B,HAUTE-CORSE,Parti communiste,12948.0
+1,2B,HAUTE-CORSE,Rassemblement Pour la République,23470.0
+1,2B,HAUTE-CORSE,Union pour la Démocratie Française,8099.0
+1,2B,HAUTE-CORSE,abstentions,36123.0
+1,2B,HAUTE-CORSE,blancs_nuls,1168.0
+1,30,GARD,Divers droite,1877.0
+1,30,GARD,Divers gauche,0.0
+1,30,GARD,Ecologistes,6870.0
+1,30,GARD,Extrême droite,8230.0
+1,30,GARD,Extrême gauche,4362.0
+1,30,GARD,Front Autogestionnaire,2231.0
+1,30,GARD,Gaullistes d'opposition,0.0
+1,30,GARD,Parti Socialiste-Mouvement des Radicaux de Gauche,60956.0
+1,30,GARD,Parti communiste,95191.0
+1,30,GARD,Rassemblement Pour la République,44375.0
+1,30,GARD,Union pour la Démocratie Française,58017.0
+1,30,GARD,abstentions,59968.0
+1,30,GARD,blancs_nuls,6136.0
+1,31,HAUTE-GARONNE,Divers droite,22154.0
+1,31,HAUTE-GARONNE,Divers gauche,1986.0
+1,31,HAUTE-GARONNE,Ecologistes,15920.0
+1,31,HAUTE-GARONNE,Extrême droite,1803.0
+1,31,HAUTE-GARONNE,Extrême gauche,6909.0
+1,31,HAUTE-GARONNE,Front Autogestionnaire,3998.0
+1,31,HAUTE-GARONNE,Gaullistes d'opposition,3116.0
+1,31,HAUTE-GARONNE,Parti Socialiste-Mouvement des Radicaux de Gauche,138881.0
+1,31,HAUTE-GARONNE,Parti communiste,77901.0
+1,31,HAUTE-GARONNE,Rassemblement Pour la République,71081.0
+1,31,HAUTE-GARONNE,Union pour la Démocratie Française,65669.0
+1,31,HAUTE-GARONNE,abstentions,76727.0
+1,31,HAUTE-GARONNE,blancs_nuls,17535.0
+1,32,GERS,Divers droite,17104.0
+1,32,GERS,Divers gauche,0.0
+1,32,GERS,Ecologistes,2266.0
+1,32,GERS,Extrême droite,1253.0
+1,32,GERS,Extrême gauche,1808.0
+1,32,GERS,Front Autogestionnaire,1864.0
+1,32,GERS,Gaullistes d'opposition,0.0
+1,32,GERS,Parti Socialiste-Mouvement des Radicaux de Gauche,36320.0
+1,32,GERS,Parti communiste,17233.0
+1,32,GERS,Rassemblement Pour la République,10571.0
+1,32,GERS,Union pour la Démocratie Française,18821.0
+1,32,GERS,abstentions,21465.0
+1,32,GERS,blancs_nuls,2349.0
+1,33,GIRONDE,Divers droite,18260.0
+1,33,GIRONDE,Divers gauche,8266.0
+1,33,GIRONDE,Ecologistes,13592.0
+1,33,GIRONDE,Extrême droite,2226.0
+1,33,GIRONDE,Extrême gauche,12431.0
+1,33,GIRONDE,Front Autogestionnaire,2455.0
+1,33,GIRONDE,Gaullistes d'opposition,4385.0
+1,33,GIRONDE,Parti Socialiste-Mouvement des Radicaux de Gauche,182662.0
+1,33,GIRONDE,Parti communiste,103051.0
+1,33,GIRONDE,Rassemblement Pour la République,143298.0
+1,33,GIRONDE,Union pour la Démocratie Française,81513.0
+1,33,GIRONDE,abstentions,123026.0
+1,33,GIRONDE,blancs_nuls,11265.0
+1,34,HERAULT,Divers droite,2794.0
+1,34,HERAULT,Divers gauche,1618.0
+1,34,HERAULT,Ecologistes,4639.0
+1,34,HERAULT,Extrême droite,3369.0
+1,34,HERAULT,Extrême gauche,6917.0
+1,34,HERAULT,Front Autogestionnaire,4047.0
+1,34,HERAULT,Gaullistes d'opposition,1246.0
+1,34,HERAULT,Parti Socialiste-Mouvement des Radicaux de Gauche,95183.0
+1,34,HERAULT,Parti communiste,88589.0
+1,34,HERAULT,Rassemblement Pour la République,47165.0
+1,34,HERAULT,Union pour la Démocratie Française,94723.0
+1,34,HERAULT,abstentions,76856.0
+1,34,HERAULT,blancs_nuls,6856.0
+1,35,ILLE-ET-VILAINE,Divers droite,8811.0
+1,35,ILLE-ET-VILAINE,Divers gauche,2421.0
+1,35,ILLE-ET-VILAINE,Ecologistes,0.0
+1,35,ILLE-ET-VILAINE,Extrême droite,2543.0
+1,35,ILLE-ET-VILAINE,Extrême gauche,10122.0
+1,35,ILLE-ET-VILAINE,Front Autogestionnaire,3512.0
+1,35,ILLE-ET-VILAINE,Gaullistes d'opposition,3681.0
+1,35,ILLE-ET-VILAINE,Parti Socialiste-Mouvement des Radicaux de Gauche,101953.0
+1,35,ILLE-ET-VILAINE,Parti communiste,36611.0
+1,35,ILLE-ET-VILAINE,Rassemblement Pour la République,131833.0
+1,35,ILLE-ET-VILAINE,Union pour la Démocratie Française,87641.0
+1,35,ILLE-ET-VILAINE,abstentions,75242.0
+1,35,ILLE-ET-VILAINE,blancs_nuls,7523.0
+1,36,INDRE,Divers droite,0.0
+1,36,INDRE,Divers gauche,0.0
+1,36,INDRE,Ecologistes,0.0
+1,36,INDRE,Extrême droite,0.0
+1,36,INDRE,Extrême gauche,4412.0
+1,36,INDRE,Front Autogestionnaire,0.0
+1,36,INDRE,Gaullistes d'opposition,4034.0
+1,36,INDRE,Parti Socialiste-Mouvement des Radicaux de Gauche,31932.0
+1,36,INDRE,Parti communiste,38982.0
+1,36,INDRE,Rassemblement Pour la République,40084.0
+1,36,INDRE,Union pour la Démocratie Française,28021.0
+1,36,INDRE,abstentions,28865.0
+1,36,INDRE,blancs_nuls,3557.0
+1,37,INDRE-ET-LOIRE,Divers droite,44244.0
+1,37,INDRE-ET-LOIRE,Divers gauche,0.0
+1,37,INDRE-ET-LOIRE,Ecologistes,2119.0
+1,37,INDRE-ET-LOIRE,Extrême droite,505.0
+1,37,INDRE-ET-LOIRE,Extrême gauche,6486.0
+1,37,INDRE-ET-LOIRE,Front Autogestionnaire,2717.0
+1,37,INDRE-ET-LOIRE,Gaullistes d'opposition,1742.0
+1,37,INDRE-ET-LOIRE,Parti Socialiste-Mouvement des Radicaux de Gauche,72411.0
+1,37,INDRE-ET-LOIRE,Parti communiste,36368.0
+1,37,INDRE-ET-LOIRE,Rassemblement Pour la République,49647.0
+1,37,INDRE-ET-LOIRE,Union pour la Démocratie Française,36734.0
+1,37,INDRE-ET-LOIRE,abstentions,56681.0
+1,37,INDRE-ET-LOIRE,blancs_nuls,6577.0
+1,38,ISERE,Divers droite,9250.0
+1,38,ISERE,Divers gauche,0.0
+1,38,ISERE,Ecologistes,14400.0
+1,38,ISERE,Extrême droite,3070.0
+1,38,ISERE,Extrême gauche,11265.0
+1,38,ISERE,Front Autogestionnaire,6047.0
+1,38,ISERE,Gaullistes d'opposition,1650.0
+1,38,ISERE,Parti Socialiste-Mouvement des Radicaux de Gauche,111816.0
+1,38,ISERE,Parti communiste,100223.0
+1,38,ISERE,Rassemblement Pour la République,59454.0
+1,38,ISERE,Union pour la Démocratie Française,108965.0
+1,38,ISERE,abstentions,98328.0
+1,38,ISERE,blancs_nuls,7200.0
+1,39,JURA,Divers droite,2851.0
+1,39,JURA,Divers gauche,0.0
+1,39,JURA,Ecologistes,2973.0
+1,39,JURA,Extrême droite,0.0
+1,39,JURA,Extrême gauche,4339.0
+1,39,JURA,Front Autogestionnaire,1965.0
+1,39,JURA,Gaullistes d'opposition,0.0
+1,39,JURA,Parti Socialiste-Mouvement des Radicaux de Gauche,34490.0
+1,39,JURA,Parti communiste,24830.0
+1,39,JURA,Rassemblement Pour la République,22250.0
+1,39,JURA,Union pour la Démocratie Française,41643.0
+1,39,JURA,abstentions,27849.0
+1,39,JURA,blancs_nuls,2874.0
+1,40,LANDES,Divers droite,0.0
+1,40,LANDES,Divers gauche,0.0
+1,40,LANDES,Ecologistes,3596.0
+1,40,LANDES,Extrême droite,1082.0
+1,40,LANDES,Extrême gauche,2766.0
+1,40,LANDES,Front Autogestionnaire,0.0
+1,40,LANDES,Gaullistes d'opposition,1653.0
+1,40,LANDES,Parti Socialiste-Mouvement des Radicaux de Gauche,67205.0
+1,40,LANDES,Parti communiste,30249.0
+1,40,LANDES,Rassemblement Pour la République,24959.0
+1,40,LANDES,Union pour la Démocratie Française,49026.0
+1,40,LANDES,abstentions,27890.0
+1,40,LANDES,blancs_nuls,3605.0
+1,41,LOIR-ET-CHER,Divers droite,0.0
+1,41,LOIR-ET-CHER,Divers gauche,0.0
+1,41,LOIR-ET-CHER,Ecologistes,1905.0
+1,41,LOIR-ET-CHER,Extrême droite,0.0
+1,41,LOIR-ET-CHER,Extrême gauche,5076.0
+1,41,LOIR-ET-CHER,Front Autogestionnaire,2540.0
+1,41,LOIR-ET-CHER,Gaullistes d'opposition,0.0
+1,41,LOIR-ET-CHER,Parti Socialiste-Mouvement des Radicaux de Gauche,43040.0
+1,41,LOIR-ET-CHER,Parti communiste,29807.0
+1,41,LOIR-ET-CHER,Rassemblement Pour la République,27365.0
+1,41,LOIR-ET-CHER,Union pour la Démocratie Française,56859.0
+1,41,LOIR-ET-CHER,abstentions,29764.0
+1,41,LOIR-ET-CHER,blancs_nuls,4016.0
+1,42,LOIRE,Divers droite,10102.0
+1,42,LOIRE,Divers gauche,4709.0
+1,42,LOIRE,Ecologistes,9084.0
+1,42,LOIRE,Extrême droite,6887.0
+1,42,LOIRE,Extrême gauche,6405.0
+1,42,LOIRE,Front Autogestionnaire,6176.0
+1,42,LOIRE,Gaullistes d'opposition,5309.0
+1,42,LOIRE,Parti Socialiste-Mouvement des Radicaux de Gauche,79814.0
+1,42,LOIRE,Parti communiste,76712.0
+1,42,LOIRE,Rassemblement Pour la République,68940.0
+1,42,LOIRE,Union pour la Démocratie Française,96767.0
+1,42,LOIRE,abstentions,89145.0
+1,42,LOIRE,blancs_nuls,6812.0
+1,43,HAUTE-LOIRE,Divers droite,0.0
+1,43,HAUTE-LOIRE,Divers gauche,0.0
+1,43,HAUTE-LOIRE,Ecologistes,1715.0
+1,43,HAUTE-LOIRE,Extrême droite,1229.0
+1,43,HAUTE-LOIRE,Extrême gauche,2147.0
+1,43,HAUTE-LOIRE,Front Autogestionnaire,0.0
+1,43,HAUTE-LOIRE,Gaullistes d'opposition,0.0
+1,43,HAUTE-LOIRE,Parti Socialiste-Mouvement des Radicaux de Gauche,35958.0
+1,43,HAUTE-LOIRE,Parti communiste,10989.0
+1,43,HAUTE-LOIRE,Rassemblement Pour la République,3466.0
+1,43,HAUTE-LOIRE,Union pour la Démocratie Française,68939.0
+1,43,HAUTE-LOIRE,abstentions,24965.0
+1,43,HAUTE-LOIRE,blancs_nuls,2258.0
+1,44,LOIRE-ATLANTIQUE,Divers droite,24003.0
+1,44,LOIRE-ATLANTIQUE,Divers gauche,1843.0
+1,44,LOIRE-ATLANTIQUE,Ecologistes,9856.0
+1,44,LOIRE-ATLANTIQUE,Extrême droite,3263.0
+1,44,LOIRE-ATLANTIQUE,Extrême gauche,14855.0
+1,44,LOIRE-ATLANTIQUE,Front Autogestionnaire,3022.0
+1,44,LOIRE-ATLANTIQUE,Gaullistes d'opposition,1183.0
+1,44,LOIRE-ATLANTIQUE,Parti Socialiste-Mouvement des Radicaux de Gauche,143648.0
+1,44,LOIRE-ATLANTIQUE,Parti communiste,61989.0
+1,44,LOIRE-ATLANTIQUE,Rassemblement Pour la République,150656.0
+1,44,LOIRE-ATLANTIQUE,Union pour la Démocratie Française,97038.0
+1,44,LOIRE-ATLANTIQUE,abstentions,109016.0
+1,44,LOIRE-ATLANTIQUE,blancs_nuls,9913.0
+1,45,LOIRET,Divers droite,12588.0
+1,45,LOIRET,Divers gauche,0.0
+1,45,LOIRET,Ecologistes,2193.0
+1,45,LOIRET,Extrême droite,3514.0
+1,45,LOIRET,Extrême gauche,8186.0
+1,45,LOIRET,Front Autogestionnaire,0.0
+1,45,LOIRET,Gaullistes d'opposition,5181.0
+1,45,LOIRET,Parti Socialiste-Mouvement des Radicaux de Gauche,57630.0
+1,45,LOIRET,Parti communiste,55134.0
+1,45,LOIRET,Rassemblement Pour la République,79205.0
+1,45,LOIRET,Union pour la Démocratie Française,45936.0
+1,45,LOIRET,abstentions,48865.0
+1,45,LOIRET,blancs_nuls,6754.0
+1,46,LOT,Divers droite,4922.0
+1,46,LOT,Divers gauche,0.0
+1,46,LOT,Ecologistes,3104.0
+1,46,LOT,Extrême droite,0.0
+1,46,LOT,Extrême gauche,1763.0
+1,46,LOT,Front Autogestionnaire,1255.0
+1,46,LOT,Gaullistes d'opposition,0.0
+1,46,LOT,Parti Socialiste-Mouvement des Radicaux de Gauche,38744.0
+1,46,LOT,Parti communiste,15608.0
+1,46,LOT,Rassemblement Pour la République,30891.0
+1,46,LOT,Union pour la Démocratie Française,1115.0
+1,46,LOT,abstentions,15219.0
+1,46,LOT,blancs_nuls,1955.0
+1,47,LOT-ET-GARONNE,Divers droite,27575.0
+1,47,LOT-ET-GARONNE,Divers gauche,0.0
+1,47,LOT-ET-GARONNE,Ecologistes,4105.0
+1,47,LOT-ET-GARONNE,Extrême droite,0.0
+1,47,LOT-ET-GARONNE,Extrême gauche,3344.0
+1,47,LOT-ET-GARONNE,Front Autogestionnaire,0.0
+1,47,LOT-ET-GARONNE,Gaullistes d'opposition,0.0
+1,47,LOT-ET-GARONNE,Parti Socialiste-Mouvement des Radicaux de Gauche,45573.0
+1,47,LOT-ET-GARONNE,Parti communiste,40217.0
+1,47,LOT-ET-GARONNE,Rassemblement Pour la République,27043.0
+1,47,LOT-ET-GARONNE,Union pour la Démocratie Française,25082.0
+1,47,LOT-ET-GARONNE,abstentions,31760.0
+1,47,LOT-ET-GARONNE,blancs_nuls,4033.0
+1,48,LOZERE,Divers droite,1301.0
+1,48,LOZERE,Divers gauche,0.0
+1,48,LOZERE,Ecologistes,0.0
+1,48,LOZERE,Extrême droite,0.0
+1,48,LOZERE,Extrême gauche,712.0
+1,48,LOZERE,Front Autogestionnaire,698.0
+1,48,LOZERE,Gaullistes d'opposition,0.0
+1,48,LOZERE,Parti Socialiste-Mouvement des Radicaux de Gauche,12317.0
+1,48,LOZERE,Parti communiste,3889.0
+1,48,LOZERE,Rassemblement Pour la République,1161.0
+1,48,LOZERE,Union pour la Démocratie Française,26226.0
+1,48,LOZERE,abstentions,9972.0
+1,48,LOZERE,blancs_nuls,894.0
+1,49,MAINE-ET-LOIRE,Divers droite,1507.0
+1,49,MAINE-ET-LOIRE,Divers gauche,0.0
+1,49,MAINE-ET-LOIRE,Ecologistes,0.0
+1,49,MAINE-ET-LOIRE,Extrême droite,298.0
+1,49,MAINE-ET-LOIRE,Extrême gauche,11136.0
+1,49,MAINE-ET-LOIRE,Front Autogestionnaire,1545.0
+1,49,MAINE-ET-LOIRE,Gaullistes d'opposition,3129.0
+1,49,MAINE-ET-LOIRE,Parti Socialiste-Mouvement des Radicaux de Gauche,80583.0
+1,49,MAINE-ET-LOIRE,Parti communiste,34426.0
+1,49,MAINE-ET-LOIRE,Rassemblement Pour la République,108674.0
+1,49,MAINE-ET-LOIRE,Union pour la Démocratie Française,97262.0
+1,49,MAINE-ET-LOIRE,abstentions,64612.0
+1,49,MAINE-ET-LOIRE,blancs_nuls,8813.0
+1,50,MANCHE,Divers droite,6215.0
+1,50,MANCHE,Divers gauche,0.0
+1,50,MANCHE,Ecologistes,16516.0
+1,50,MANCHE,Extrême droite,0.0
+1,50,MANCHE,Extrême gauche,6166.0
+1,50,MANCHE,Front Autogestionnaire,4802.0
+1,50,MANCHE,Gaullistes d'opposition,0.0
+1,50,MANCHE,Parti Socialiste-Mouvement des Radicaux de Gauche,51023.0
+1,50,MANCHE,Parti communiste,21509.0
+1,50,MANCHE,Rassemblement Pour la République,57580.0
+1,50,MANCHE,Union pour la Démocratie Française,96285.0
+1,50,MANCHE,abstentions,51895.0
+1,50,MANCHE,blancs_nuls,4219.0
+1,51,MARNE,Divers droite,0.0
+1,51,MARNE,Divers gauche,0.0
+1,51,MARNE,Ecologistes,9369.0
+1,51,MARNE,Extrême droite,0.0
+1,51,MARNE,Extrême gauche,4944.0
+1,51,MARNE,Front Autogestionnaire,1353.0
+1,51,MARNE,Gaullistes d'opposition,2617.0
+1,51,MARNE,Parti Socialiste-Mouvement des Radicaux de Gauche,54728.0
+1,51,MARNE,Parti communiste,66382.0
+1,51,MARNE,Rassemblement Pour la République,69760.0
+1,51,MARNE,Union pour la Démocratie Française,64849.0
+1,51,MARNE,abstentions,48481.0
+1,51,MARNE,blancs_nuls,5796.0
+1,52,HAUTE-MARNE,Divers droite,0.0
+1,52,HAUTE-MARNE,Divers gauche,0.0
+1,52,HAUTE-MARNE,Ecologistes,0.0
+1,52,HAUTE-MARNE,Extrême droite,514.0
+1,52,HAUTE-MARNE,Extrême gauche,2527.0
+1,52,HAUTE-MARNE,Front Autogestionnaire,933.0
+1,52,HAUTE-MARNE,Gaullistes d'opposition,805.0
+1,52,HAUTE-MARNE,Parti Socialiste-Mouvement des Radicaux de Gauche,27422.0
+1,52,HAUTE-MARNE,Parti communiste,23511.0
+1,52,HAUTE-MARNE,Rassemblement Pour la République,34482.0
+1,52,HAUTE-MARNE,Union pour la Démocratie Française,24735.0
+1,52,HAUTE-MARNE,abstentions,53693.0
+1,52,HAUTE-MARNE,blancs_nuls,2745.0
+1,53,MAYENNE,Divers droite,1700.0
+1,53,MAYENNE,Divers gauche,0.0
+1,53,MAYENNE,Ecologistes,1388.0
+1,53,MAYENNE,Extrême droite,0.0
+1,53,MAYENNE,Extrême gauche,3907.0
+1,53,MAYENNE,Front Autogestionnaire,1304.0
+1,53,MAYENNE,Gaullistes d'opposition,0.0
+1,53,MAYENNE,Parti Socialiste-Mouvement des Radicaux de Gauche,43087.0
+1,53,MAYENNE,Parti communiste,9325.0
+1,53,MAYENNE,Rassemblement Pour la République,36827.0
+1,53,MAYENNE,Union pour la Démocratie Française,55504.0
+1,53,MAYENNE,abstentions,24368.0
+1,53,MAYENNE,blancs_nuls,4550.0
+1,54,MEURTHE-ET-MOSELLE,Divers droite,19128.0
+1,54,MEURTHE-ET-MOSELLE,Divers gauche,0.0
+1,54,MEURTHE-ET-MOSELLE,Ecologistes,0.0
+1,54,MEURTHE-ET-MOSELLE,Extrême droite,3820.0
+1,54,MEURTHE-ET-MOSELLE,Extrême gauche,8530.0
+1,54,MEURTHE-ET-MOSELLE,Front Autogestionnaire,5443.0
+1,54,MEURTHE-ET-MOSELLE,Gaullistes d'opposition,2875.0
+1,54,MEURTHE-ET-MOSELLE,Parti Socialiste-Mouvement des Radicaux de Gauche,96426.0
+1,54,MEURTHE-ET-MOSELLE,Parti communiste,80414.0
+1,54,MEURTHE-ET-MOSELLE,Rassemblement Pour la République,27093.0
+1,54,MEURTHE-ET-MOSELLE,Union pour la Démocratie Française,124261.0
+1,54,MEURTHE-ET-MOSELLE,abstentions,76928.0
+1,54,MEURTHE-ET-MOSELLE,blancs_nuls,7645.0
+1,55,MEUSE,Divers droite,0.0
+1,55,MEUSE,Divers gauche,0.0
+1,55,MEUSE,Ecologistes,0.0
+1,55,MEUSE,Extrême droite,5940.0
+1,55,MEUSE,Extrême gauche,2555.0
+1,55,MEUSE,Front Autogestionnaire,2264.0
+1,55,MEUSE,Gaullistes d'opposition,0.0
+1,55,MEUSE,Parti Socialiste-Mouvement des Radicaux de Gauche,33845.0
+1,55,MEUSE,Parti communiste,15381.0
+1,55,MEUSE,Rassemblement Pour la République,11285.0
+1,55,MEUSE,Union pour la Démocratie Française,42005.0
+1,55,MEUSE,abstentions,21743.0
+1,55,MEUSE,blancs_nuls,2647.0
+1,56,MORBIHAN,Divers droite,25202.0
+1,56,MORBIHAN,Divers gauche,2849.0
+1,56,MORBIHAN,Ecologistes,3395.0
+1,56,MORBIHAN,Extrême droite,0.0
+1,56,MORBIHAN,Extrême gauche,7430.0
+1,56,MORBIHAN,Front Autogestionnaire,1943.0
+1,56,MORBIHAN,Gaullistes d'opposition,213.0
+1,56,MORBIHAN,Parti Socialiste-Mouvement des Radicaux de Gauche,75272.0
+1,56,MORBIHAN,Parti communiste,43932.0
+1,56,MORBIHAN,Rassemblement Pour la République,45463.0
+1,56,MORBIHAN,Union pour la Démocratie Française,127354.0
+1,56,MORBIHAN,abstentions,61712.0
+1,56,MORBIHAN,blancs_nuls,4747.0
+1,57,MOSELLE,Divers droite,32884.0
+1,57,MOSELLE,Divers gauche,0.0
+1,57,MOSELLE,Ecologistes,3697.0
+1,57,MOSELLE,Extrême droite,0.0
+1,57,MOSELLE,Extrême gauche,13347.0
+1,57,MOSELLE,Front Autogestionnaire,5611.0
+1,57,MOSELLE,Gaullistes d'opposition,0.0
+1,57,MOSELLE,Parti Socialiste-Mouvement des Radicaux de Gauche,119088.0
+1,57,MOSELLE,Parti communiste,78588.0
+1,57,MOSELLE,Rassemblement Pour la République,118376.0
+1,57,MOSELLE,Union pour la Démocratie Française,127705.0
+1,57,MOSELLE,abstentions,102667.0
+1,57,MOSELLE,blancs_nuls,12082.0
+1,58,NIEVRE,Divers droite,8771.0
+1,58,NIEVRE,Divers gauche,0.0
+1,58,NIEVRE,Ecologistes,0.0
+1,58,NIEVRE,Extrême droite,475.0
+1,58,NIEVRE,Extrême gauche,3441.0
+1,58,NIEVRE,Front Autogestionnaire,1655.0
+1,58,NIEVRE,Gaullistes d'opposition,1148.0
+1,58,NIEVRE,Parti Socialiste-Mouvement des Radicaux de Gauche,52753.0
+1,58,NIEVRE,Parti communiste,29288.0
+1,58,NIEVRE,Rassemblement Pour la République,13107.0
+1,58,NIEVRE,Union pour la Démocratie Française,30720.0
+1,58,NIEVRE,abstentions,30587.0
+1,58,NIEVRE,blancs_nuls,2854.0
+1,59,NORD,Divers droite,130974.0
+1,59,NORD,Divers gauche,0.0
+1,59,NORD,Ecologistes,25098.0
+1,59,NORD,Extrême droite,2822.0
+1,59,NORD,Extrême gauche,30252.0
+1,59,NORD,Front Autogestionnaire,6962.0
+1,59,NORD,Gaullistes d'opposition,10718.0
+1,59,NORD,Parti Socialiste-Mouvement des Radicaux de Gauche,349541.0
+1,59,NORD,Parti communiste,351059.0
+1,59,NORD,Rassemblement Pour la République,258478.0
+1,59,NORD,Union pour la Démocratie Française,167280.0
+1,59,NORD,abstentions,212328.0
+1,59,NORD,blancs_nuls,28123.0
+1,60,OISE,Divers droite,10567.0
+1,60,OISE,Divers gauche,1854.0
+1,60,OISE,Ecologistes,3917.0
+1,60,OISE,Extrême droite,1681.0
+1,60,OISE,Extrême gauche,9707.0
+1,60,OISE,Front Autogestionnaire,819.0
+1,60,OISE,Gaullistes d'opposition,3966.0
+1,60,OISE,Parti Socialiste-Mouvement des Radicaux de Gauche,72135.0
+1,60,OISE,Parti communiste,77978.0
+1,60,OISE,Rassemblement Pour la République,93969.0
+1,60,OISE,Union pour la Démocratie Française,49134.0
+1,60,OISE,abstentions,54525.0
+1,60,OISE,blancs_nuls,7104.0
+1,61,ORNE,Divers droite,5414.0
+1,61,ORNE,Divers gauche,0.0
+1,61,ORNE,Ecologistes,2329.0
+1,61,ORNE,Extrême droite,1663.0
+1,61,ORNE,Extrême gauche,5429.0
+1,61,ORNE,Front Autogestionnaire,820.0
+1,61,ORNE,Gaullistes d'opposition,0.0
+1,61,ORNE,Parti Socialiste-Mouvement des Radicaux de Gauche,38151.0
+1,61,ORNE,Parti communiste,16662.0
+1,61,ORNE,Rassemblement Pour la République,53916.0
+1,61,ORNE,Union pour la Démocratie Française,40110.0
+1,61,ORNE,abstentions,31402.0
+1,61,ORNE,blancs_nuls,4132.0
+1,62,PAS-DE-CALAIS,Divers droite,21962.0
+1,62,PAS-DE-CALAIS,Divers gauche,1.0
+1,62,PAS-DE-CALAIS,Ecologistes,1836.0
+1,62,PAS-DE-CALAIS,Extrême droite,1704.0
+1,62,PAS-DE-CALAIS,Extrême gauche,17457.0
+1,62,PAS-DE-CALAIS,Front Autogestionnaire,5974.0
+1,62,PAS-DE-CALAIS,Gaullistes d'opposition,884.0
+1,62,PAS-DE-CALAIS,Parti Socialiste-Mouvement des Radicaux de Gauche,248298.0
+1,62,PAS-DE-CALAIS,Parti communiste,236128.0
+1,62,PAS-DE-CALAIS,Rassemblement Pour la République,167192.0
+1,62,PAS-DE-CALAIS,Union pour la Démocratie Française,87328.0
+1,62,PAS-DE-CALAIS,abstentions,109221.0
+1,62,PAS-DE-CALAIS,blancs_nuls,17366.0
+1,63,PUY-DE-DOME,Divers droite,3907.0
+1,63,PUY-DE-DOME,Divers gauche,0.0
+1,63,PUY-DE-DOME,Ecologistes,4809.0
+1,63,PUY-DE-DOME,Extrême droite,2323.0
+1,63,PUY-DE-DOME,Extrême gauche,11577.0
+1,63,PUY-DE-DOME,Front Autogestionnaire,4421.0
+1,63,PUY-DE-DOME,Gaullistes d'opposition,0.0
+1,63,PUY-DE-DOME,Parti Socialiste-Mouvement des Radicaux de Gauche,99487.0
+1,63,PUY-DE-DOME,Parti communiste,52463.0
+1,63,PUY-DE-DOME,Rassemblement Pour la République,31508.0
+1,63,PUY-DE-DOME,Union pour la Démocratie Française,102186.0
+1,63,PUY-DE-DOME,abstentions,57541.0
+1,63,PUY-DE-DOME,blancs_nuls,5684.0
+1,64,PYRENEES-ATLANTIQUES,Divers droite,0.0
+1,64,PYRENEES-ATLANTIQUES,Divers gauche,6265.0
+1,64,PYRENEES-ATLANTIQUES,Ecologistes,7472.0
+1,64,PYRENEES-ATLANTIQUES,Extrême droite,1682.0
+1,64,PYRENEES-ATLANTIQUES,Extrême gauche,5027.0
+1,64,PYRENEES-ATLANTIQUES,Front Autogestionnaire,0.0
+1,64,PYRENEES-ATLANTIQUES,Gaullistes d'opposition,0.0
+1,64,PYRENEES-ATLANTIQUES,Parti Socialiste-Mouvement des Radicaux de Gauche,91586.0
+1,64,PYRENEES-ATLANTIQUES,Parti communiste,40879.0
+1,64,PYRENEES-ATLANTIQUES,Rassemblement Pour la République,123340.0
+1,64,PYRENEES-ATLANTIQUES,Union pour la Démocratie Française,35947.0
+1,64,PYRENEES-ATLANTIQUES,abstentions,57942.0
+1,64,PYRENEES-ATLANTIQUES,blancs_nuls,5398.0
+1,65,HAUTES-PYRENEES,Divers droite,1807.0
+1,65,HAUTES-PYRENEES,Divers gauche,0.0
+1,65,HAUTES-PYRENEES,Ecologistes,2991.0
+1,65,HAUTES-PYRENEES,Extrême droite,0.0
+1,65,HAUTES-PYRENEES,Extrême gauche,3333.0
+1,65,HAUTES-PYRENEES,Front Autogestionnaire,1046.0
+1,65,HAUTES-PYRENEES,Gaullistes d'opposition,0.0
+1,65,HAUTES-PYRENEES,Parti Socialiste-Mouvement des Radicaux de Gauche,42962.0
+1,65,HAUTES-PYRENEES,Parti communiste,31370.0
+1,65,HAUTES-PYRENEES,Rassemblement Pour la République,22164.0
+1,65,HAUTES-PYRENEES,Union pour la Démocratie Française,28064.0
+1,65,HAUTES-PYRENEES,abstentions,28377.0
+1,65,HAUTES-PYRENEES,blancs_nuls,2350.0
+1,66,PYRENEES-ORIENTALES,Divers droite,2592.0
+1,66,PYRENEES-ORIENTALES,Divers gauche,1341.0
+1,66,PYRENEES-ORIENTALES,Ecologistes,0.0
+1,66,PYRENEES-ORIENTALES,Extrême droite,0.0
+1,66,PYRENEES-ORIENTALES,Extrême gauche,2595.0
+1,66,PYRENEES-ORIENTALES,Front Autogestionnaire,2298.0
+1,66,PYRENEES-ORIENTALES,Gaullistes d'opposition,0.0
+1,66,PYRENEES-ORIENTALES,Parti Socialiste-Mouvement des Radicaux de Gauche,36967.0
+1,66,PYRENEES-ORIENTALES,Parti communiste,49951.0
+1,66,PYRENEES-ORIENTALES,Rassemblement Pour la République,28191.0
+1,66,PYRENEES-ORIENTALES,Union pour la Démocratie Française,41281.0
+1,66,PYRENEES-ORIENTALES,abstentions,43560.0
+1,66,PYRENEES-ORIENTALES,blancs_nuls,4423.0
+1,67,BAS-RHIN,Divers droite,46457.0
+1,67,BAS-RHIN,Divers gauche,0.0
+1,67,BAS-RHIN,Ecologistes,25540.0
+1,67,BAS-RHIN,Extrême droite,4544.0
+1,67,BAS-RHIN,Extrême gauche,8891.0
+1,67,BAS-RHIN,Front Autogestionnaire,936.0
+1,67,BAS-RHIN,Gaullistes d'opposition,0.0
+1,67,BAS-RHIN,Parti Socialiste-Mouvement des Radicaux de Gauche,82731.0
+1,67,BAS-RHIN,Parti communiste,29280.0
+1,67,BAS-RHIN,Rassemblement Pour la République,169762.0
+1,67,BAS-RHIN,Union pour la Démocratie Française,77235.0
+1,67,BAS-RHIN,abstentions,101223.0
+1,67,BAS-RHIN,blancs_nuls,10863.0
+1,68,HAUT-RHIN,Divers droite,6713.0
+1,68,HAUT-RHIN,Divers gauche,0.0
+1,68,HAUT-RHIN,Ecologistes,23686.0
+1,68,HAUT-RHIN,Extrême droite,2546.0
+1,68,HAUT-RHIN,Extrême gauche,5521.0
+1,68,HAUT-RHIN,Front Autogestionnaire,1315.0
+1,68,HAUT-RHIN,Gaullistes d'opposition,0.0
+1,68,HAUT-RHIN,Parti Socialiste-Mouvement des Radicaux de Gauche,71010.0
+1,68,HAUT-RHIN,Parti communiste,21360.0
+1,68,HAUT-RHIN,Rassemblement Pour la République,90264.0
+1,68,HAUT-RHIN,Union pour la Démocratie Française,95801.0
+1,68,HAUT-RHIN,abstentions,73673.0
+1,68,HAUT-RHIN,blancs_nuls,8983.0
+1,69,RHONE,Divers droite,30540.0
+1,69,RHONE,Divers gauche,180.0
+1,69,RHONE,Ecologistes,26709.0
+1,69,RHONE,Extrême droite,7856.0
+1,69,RHONE,Extrême gauche,12454.0
+1,69,RHONE,Front Autogestionnaire,17028.0
+1,69,RHONE,Gaullistes d'opposition,1378.0
+1,69,RHONE,Parti Socialiste-Mouvement des Radicaux de Gauche,164471.0
+1,69,RHONE,Parti communiste,113007.0
+1,69,RHONE,Rassemblement Pour la République,122229.0
+1,69,RHONE,Union pour la Démocratie Française,156257.0
+1,69,RHONE,abstentions,163725.0
+1,69,RHONE,blancs_nuls,13859.0
+1,70,HAUTE-SAONE,Divers droite,0.0
+1,70,HAUTE-SAONE,Divers gauche,0.0
+1,70,HAUTE-SAONE,Ecologistes,1883.0
+1,70,HAUTE-SAONE,Extrême droite,431.0
+1,70,HAUTE-SAONE,Extrême gauche,2630.0
+1,70,HAUTE-SAONE,Front Autogestionnaire,945.0
+1,70,HAUTE-SAONE,Gaullistes d'opposition,0.0
+1,70,HAUTE-SAONE,Parti Socialiste-Mouvement des Radicaux de Gauche,44549.0
+1,70,HAUTE-SAONE,Parti communiste,15737.0
+1,70,HAUTE-SAONE,Rassemblement Pour la République,14290.0
+1,70,HAUTE-SAONE,Union pour la Démocratie Française,50003.0
+1,70,HAUTE-SAONE,abstentions,20861.0
+1,70,HAUTE-SAONE,blancs_nuls,2801.0
+1,71,SAONE-ET-LOIRE,Divers droite,10516.0
+1,71,SAONE-ET-LOIRE,Divers gauche,749.0
+1,71,SAONE-ET-LOIRE,Ecologistes,2598.0
+1,71,SAONE-ET-LOIRE,Extrême droite,1782.0
+1,71,SAONE-ET-LOIRE,Extrême gauche,5300.0
+1,71,SAONE-ET-LOIRE,Front Autogestionnaire,1004.0
+1,71,SAONE-ET-LOIRE,Gaullistes d'opposition,1644.0
+1,71,SAONE-ET-LOIRE,Parti Socialiste-Mouvement des Radicaux de Gauche,95013.0
+1,71,SAONE-ET-LOIRE,Parti communiste,56236.0
+1,71,SAONE-ET-LOIRE,Rassemblement Pour la République,85187.0
+1,71,SAONE-ET-LOIRE,Union pour la Démocratie Française,43101.0
+1,71,SAONE-ET-LOIRE,abstentions,70100.0
+1,71,SAONE-ET-LOIRE,blancs_nuls,6028.0
+1,72,SARTHE,Divers droite,6191.0
+1,72,SARTHE,Divers gauche,1986.0
+1,72,SARTHE,Ecologistes,0.0
+1,72,SARTHE,Extrême droite,316.0
+1,72,SARTHE,Extrême gauche,7939.0
+1,72,SARTHE,Front Autogestionnaire,2774.0
+1,72,SARTHE,Gaullistes d'opposition,1992.0
+1,72,SARTHE,Parti Socialiste-Mouvement des Radicaux de Gauche,60525.0
+1,72,SARTHE,Parti communiste,57420.0
+1,72,SARTHE,Rassemblement Pour la République,91926.0
+1,72,SARTHE,Union pour la Démocratie Française,44544.0
+1,72,SARTHE,abstentions,49491.0
+1,72,SARTHE,blancs_nuls,7261.0
+1,73,SAVOIE,Divers droite,1830.0
+1,73,SAVOIE,Divers gauche,0.0
+1,73,SAVOIE,Ecologistes,7086.0
+1,73,SAVOIE,Extrême droite,1016.0
+1,73,SAVOIE,Extrême gauche,2731.0
+1,73,SAVOIE,Front Autogestionnaire,0.0
+1,73,SAVOIE,Gaullistes d'opposition,0.0
+1,73,SAVOIE,Parti Socialiste-Mouvement des Radicaux de Gauche,53246.0
+1,73,SAVOIE,Parti communiste,26173.0
+1,73,SAVOIE,Rassemblement Pour la République,46354.0
+1,73,SAVOIE,Union pour la Démocratie Française,26568.0
+1,73,SAVOIE,abstentions,37916.0
+1,73,SAVOIE,blancs_nuls,2933.0
+1,74,HAUTE-SAVOIE,Divers droite,752.0
+1,74,HAUTE-SAVOIE,Divers gauche,921.0
+1,74,HAUTE-SAVOIE,Ecologistes,12244.0
+1,74,HAUTE-SAVOIE,Extrême droite,1186.0
+1,74,HAUTE-SAVOIE,Extrême gauche,4658.0
+1,74,HAUTE-SAVOIE,Front Autogestionnaire,1482.0
+1,74,HAUTE-SAVOIE,Gaullistes d'opposition,6247.0
+1,74,HAUTE-SAVOIE,Parti Socialiste-Mouvement des Radicaux de Gauche,47238.0
+1,74,HAUTE-SAVOIE,Parti communiste,30556.0
+1,74,HAUTE-SAVOIE,Rassemblement Pour la République,17147.0
+1,74,HAUTE-SAVOIE,Union pour la Démocratie Française,100093.0
+1,74,HAUTE-SAVOIE,abstentions,56863.0
+1,74,HAUTE-SAVOIE,blancs_nuls,4844.0
+1,75,PARIS,Divers droite,26635.0
+1,75,PARIS,Divers gauche,9204.0
+1,75,PARIS,Ecologistes,53343.0
+1,75,PARIS,Extrême droite,33405.0
+1,75,PARIS,Extrême gauche,15991.0
+1,75,PARIS,Front Autogestionnaire,20398.0
+1,75,PARIS,Gaullistes d'opposition,3767.0
+1,75,PARIS,Parti Socialiste-Mouvement des Radicaux de Gauche,197030.0
+1,75,PARIS,Parti communiste,163207.0
+1,75,PARIS,Rassemblement Pour la République,289654.0
+1,75,PARIS,Union pour la Démocratie Française,231742.0
+1,75,PARIS,abstentions,321180.0
+1,75,PARIS,blancs_nuls,-16912.0
+1,76,SEINE-MARITIME,Divers droite,8283.0
+1,76,SEINE-MARITIME,Divers gauche,0.0
+1,76,SEINE-MARITIME,Ecologistes,8830.0
+1,76,SEINE-MARITIME,Extrême droite,5698.0
+1,76,SEINE-MARITIME,Extrême gauche,13098.0
+1,76,SEINE-MARITIME,Front Autogestionnaire,9926.0
+1,76,SEINE-MARITIME,Gaullistes d'opposition,6100.0
+1,76,SEINE-MARITIME,Parti Socialiste-Mouvement des Radicaux de Gauche,140399.0
+1,76,SEINE-MARITIME,Parti communiste,177761.0
+1,76,SEINE-MARITIME,Rassemblement Pour la République,147520.0
+1,76,SEINE-MARITIME,Union pour la Démocratie Française,112540.0
+1,76,SEINE-MARITIME,abstentions,114935.0
+1,76,SEINE-MARITIME,blancs_nuls,13257.0
+1,77,SEINE-ET-MARNE,Divers droite,7500.0
+1,77,SEINE-ET-MARNE,Divers gauche,0.0
+1,77,SEINE-ET-MARNE,Ecologistes,9829.0
+1,77,SEINE-ET-MARNE,Extrême droite,1132.0
+1,77,SEINE-ET-MARNE,Extrême gauche,9264.0
+1,77,SEINE-ET-MARNE,Front Autogestionnaire,8089.0
+1,77,SEINE-ET-MARNE,Gaullistes d'opposition,5949.0
+1,77,SEINE-ET-MARNE,Parti Socialiste-Mouvement des Radicaux de Gauche,98726.0
+1,77,SEINE-ET-MARNE,Parti communiste,85062.0
+1,77,SEINE-ET-MARNE,Rassemblement Pour la République,130931.0
+1,77,SEINE-ET-MARNE,Union pour la Démocratie Française,50683.0
+1,77,SEINE-ET-MARNE,abstentions,84197.0
+1,77,SEINE-ET-MARNE,blancs_nuls,7484.0
+1,78,YVELINES,Divers droite,11908.0
+1,78,YVELINES,Divers gauche,3639.0
+1,78,YVELINES,Ecologistes,19697.0
+1,78,YVELINES,Extrême droite,8353.0
+1,78,YVELINES,Extrême gauche,10080.0
+1,78,YVELINES,Front Autogestionnaire,13553.0
+1,78,YVELINES,Gaullistes d'opposition,3817.0
+1,78,YVELINES,Parti Socialiste-Mouvement des Radicaux de Gauche,121593.0
+1,78,YVELINES,Parti communiste,97070.0
+1,78,YVELINES,Rassemblement Pour la République,157736.0
+1,78,YVELINES,Union pour la Démocratie Française,101928.0
+1,78,YVELINES,abstentions,118399.0
+1,78,YVELINES,blancs_nuls,8248.0
+1,79,DEUX-SEVRES,Divers droite,637.0
+1,79,DEUX-SEVRES,Divers gauche,843.0
+1,79,DEUX-SEVRES,Ecologistes,0.0
+1,79,DEUX-SEVRES,Extrême droite,901.0
+1,79,DEUX-SEVRES,Extrême gauche,6330.0
+1,79,DEUX-SEVRES,Front Autogestionnaire,2801.0
+1,79,DEUX-SEVRES,Gaullistes d'opposition,0.0
+1,79,DEUX-SEVRES,Parti Socialiste-Mouvement des Radicaux de Gauche,58670.0
+1,79,DEUX-SEVRES,Parti communiste,17831.0
+1,79,DEUX-SEVRES,Rassemblement Pour la République,17775.0
+1,79,DEUX-SEVRES,Union pour la Démocratie Française,86616.0
+1,79,DEUX-SEVRES,abstentions,35901.0
+1,79,DEUX-SEVRES,blancs_nuls,5170.0
+1,80,SOMME,Divers droite,37921.0
+1,80,SOMME,Divers gauche,0.0
+1,80,SOMME,Ecologistes,1623.0
+1,80,SOMME,Extrême droite,0.0
+1,80,SOMME,Extrême gauche,6863.0
+1,80,SOMME,Front Autogestionnaire,1211.0
+1,80,SOMME,Gaullistes d'opposition,1618.0
+1,80,SOMME,Parti Socialiste-Mouvement des Radicaux de Gauche,59845.0
+1,80,SOMME,Parti communiste,95667.0
+1,80,SOMME,Rassemblement Pour la République,57569.0
+1,80,SOMME,Union pour la Démocratie Française,51333.0
+1,80,SOMME,abstentions,42262.0
+1,80,SOMME,blancs_nuls,6325.0
+1,81,TARN,Divers droite,5260.0
+1,81,TARN,Divers gauche,0.0
+1,81,TARN,Ecologistes,2495.0
+1,81,TARN,Extrême droite,0.0
+1,81,TARN,Extrême gauche,4220.0
+1,81,TARN,Front Autogestionnaire,1355.0
+1,81,TARN,Gaullistes d'opposition,429.0
+1,81,TARN,Parti Socialiste-Mouvement des Radicaux de Gauche,71042.0
+1,81,TARN,Parti communiste,33282.0
+1,81,TARN,Rassemblement Pour la République,55809.0
+1,81,TARN,Union pour la Démocratie Française,31019.0
+1,81,TARN,abstentions,31400.0
+1,81,TARN,blancs_nuls,5974.0
+1,82,TARN-ET-GARONNE,Divers droite,1304.0
+1,82,TARN-ET-GARONNE,Divers gauche,0.0
+1,82,TARN-ET-GARONNE,Ecologistes,3702.0
+1,82,TARN-ET-GARONNE,Extrême droite,638.0
+1,82,TARN-ET-GARONNE,Extrême gauche,2763.0
+1,82,TARN-ET-GARONNE,Front Autogestionnaire,3338.0
+1,82,TARN-ET-GARONNE,Gaullistes d'opposition,0.0
+1,82,TARN-ET-GARONNE,Parti Socialiste-Mouvement des Radicaux de Gauche,30941.0
+1,82,TARN-ET-GARONNE,Parti communiste,20613.0
+1,82,TARN-ET-GARONNE,Rassemblement Pour la République,47006.0
+1,82,TARN-ET-GARONNE,Union pour la Démocratie Française,0.0
+1,82,TARN-ET-GARONNE,abstentions,19636.0
+1,82,TARN-ET-GARONNE,blancs_nuls,3191.0
+1,83,VAR,Divers droite,8352.0
+1,83,VAR,Divers gauche,0.0
+1,83,VAR,Ecologistes,7299.0
+1,83,VAR,Extrême droite,6325.0
+1,83,VAR,Extrême gauche,4849.0
+1,83,VAR,Front Autogestionnaire,2253.0
+1,83,VAR,Gaullistes d'opposition,9604.0
+1,83,VAR,Parti Socialiste-Mouvement des Radicaux de Gauche,73823.0
+1,83,VAR,Parti communiste,85913.0
+1,83,VAR,Rassemblement Pour la République,64247.0
+1,83,VAR,Union pour la Démocratie Française,95080.0
+1,83,VAR,abstentions,77745.0
+1,83,VAR,blancs_nuls,7343.0
+1,84,VAUCLUSE,Divers droite,2798.0
+1,84,VAUCLUSE,Divers gauche,0.0
+1,84,VAUCLUSE,Ecologistes,5431.0
+1,84,VAUCLUSE,Extrême droite,3422.0
+1,84,VAUCLUSE,Extrême gauche,4398.0
+1,84,VAUCLUSE,Front Autogestionnaire,2586.0
+1,84,VAUCLUSE,Gaullistes d'opposition,796.0
+1,84,VAUCLUSE,Parti Socialiste-Mouvement des Radicaux de Gauche,49111.0
+1,84,VAUCLUSE,Parti communiste,53695.0
+1,84,VAUCLUSE,Rassemblement Pour la République,55680.0
+1,84,VAUCLUSE,Union pour la Démocratie Française,37018.0
+1,84,VAUCLUSE,abstentions,39579.0
+1,84,VAUCLUSE,blancs_nuls,5056.0
+1,85,VENDEE,Divers droite,20003.0
+1,85,VENDEE,Divers gauche,0.0
+1,85,VENDEE,Ecologistes,0.0
+1,85,VENDEE,Extrême droite,0.0
+1,85,VENDEE,Extrême gauche,7645.0
+1,85,VENDEE,Front Autogestionnaire,3256.0
+1,85,VENDEE,Gaullistes d'opposition,0.0
+1,85,VENDEE,Parti Socialiste-Mouvement des Radicaux de Gauche,53305.0
+1,85,VENDEE,Parti communiste,25649.0
+1,85,VENDEE,Rassemblement Pour la République,82952.0
+1,85,VENDEE,Union pour la Démocratie Française,78398.0
+1,85,VENDEE,abstentions,42511.0
+1,85,VENDEE,blancs_nuls,7519.0
+1,86,VIENNE,Divers droite,3717.0
+1,86,VIENNE,Divers gauche,0.0
+1,86,VIENNE,Ecologistes,0.0
+1,86,VIENNE,Extrême droite,1452.0
+1,86,VIENNE,Extrême gauche,5238.0
+1,86,VIENNE,Front Autogestionnaire,1792.0
+1,86,VIENNE,Gaullistes d'opposition,1405.0
+1,86,VIENNE,Parti Socialiste-Mouvement des Radicaux de Gauche,59903.0
+1,86,VIENNE,Parti communiste,34320.0
+1,86,VIENNE,Rassemblement Pour la République,44583.0
+1,86,VIENNE,Union pour la Démocratie Française,53602.0
+1,86,VIENNE,abstentions,40013.0
+1,86,VIENNE,blancs_nuls,4479.0
+1,87,HAUTE-VIENNE,Divers droite,217.0
+1,87,HAUTE-VIENNE,Divers gauche,0.0
+1,87,HAUTE-VIENNE,Ecologistes,0.0
+1,87,HAUTE-VIENNE,Extrême droite,0.0
+1,87,HAUTE-VIENNE,Extrême gauche,4134.0
+1,87,HAUTE-VIENNE,Front Autogestionnaire,4497.0
+1,87,HAUTE-VIENNE,Gaullistes d'opposition,590.0
+1,87,HAUTE-VIENNE,Parti Socialiste-Mouvement des Radicaux de Gauche,56674.0
+1,87,HAUTE-VIENNE,Parti communiste,71803.0
+1,87,HAUTE-VIENNE,Rassemblement Pour la République,41852.0
+1,87,HAUTE-VIENNE,Union pour la Démocratie Française,32733.0
+1,87,HAUTE-VIENNE,abstentions,38847.0
+1,87,HAUTE-VIENNE,blancs_nuls,6103.0
+1,88,VOSGES,Divers droite,0.0
+1,88,VOSGES,Divers gauche,0.0
+1,88,VOSGES,Ecologistes,3805.0
+1,88,VOSGES,Extrême droite,2158.0
+1,88,VOSGES,Extrême gauche,6431.0
+1,88,VOSGES,Front Autogestionnaire,792.0
+1,88,VOSGES,Gaullistes d'opposition,0.0
+1,88,VOSGES,Parti Socialiste-Mouvement des Radicaux de Gauche,64222.0
+1,88,VOSGES,Parti communiste,27821.0
+1,88,VOSGES,Rassemblement Pour la République,65907.0
+1,88,VOSGES,Union pour la Démocratie Française,47375.0
+1,88,VOSGES,abstentions,44614.0
+1,88,VOSGES,blancs_nuls,6538.0
+1,89,YONNE,Divers droite,14486.0
+1,89,YONNE,Divers gauche,0.0
+1,89,YONNE,Ecologistes,0.0
+1,89,YONNE,Extrême droite,530.0
+1,89,YONNE,Extrême gauche,3749.0
+1,89,YONNE,Front Autogestionnaire,3125.0
+1,89,YONNE,Gaullistes d'opposition,802.0
+1,89,YONNE,Parti Socialiste-Mouvement des Radicaux de Gauche,35851.0
+1,89,YONNE,Parti communiste,36453.0
+1,89,YONNE,Rassemblement Pour la République,42735.0
+1,89,YONNE,Union pour la Démocratie Française,34308.0
+1,89,YONNE,abstentions,35090.0
+1,89,YONNE,blancs_nuls,3901.0
+1,90,TERRITOIRE DE BELFORT,Divers droite,355.0
+1,90,TERRITOIRE DE BELFORT,Divers gauche,0.0
+1,90,TERRITOIRE DE BELFORT,Ecologistes,2815.0
+1,90,TERRITOIRE DE BELFORT,Extrême droite,0.0
+1,90,TERRITOIRE DE BELFORT,Extrême gauche,1763.0
+1,90,TERRITOIRE DE BELFORT,Front Autogestionnaire,896.0
+1,90,TERRITOIRE DE BELFORT,Gaullistes d'opposition,0.0
+1,90,TERRITOIRE DE BELFORT,Parti Socialiste-Mouvement des Radicaux de Gauche,24397.0
+1,90,TERRITOIRE DE BELFORT,Parti communiste,8187.0
+1,90,TERRITOIRE DE BELFORT,Rassemblement Pour la République,10851.0
+1,90,TERRITOIRE DE BELFORT,Union pour la Démocratie Française,15480.0
+1,90,TERRITOIRE DE BELFORT,abstentions,12308.0
+1,90,TERRITOIRE DE BELFORT,blancs_nuls,1400.0
+1,91,ESSONNE,Divers droite,8963.0
+1,91,ESSONNE,Divers gauche,0.0
+1,91,ESSONNE,Ecologistes,24945.0
+1,91,ESSONNE,Extrême droite,3934.0
+1,91,ESSONNE,Extrême gauche,8655.0
+1,91,ESSONNE,Front Autogestionnaire,4825.0
+1,91,ESSONNE,Gaullistes d'opposition,0.0
+1,91,ESSONNE,Parti Socialiste-Mouvement des Radicaux de Gauche,107337.0
+1,91,ESSONNE,Parti communiste,122979.0
+1,91,ESSONNE,Rassemblement Pour la République,89286.0
+1,91,ESSONNE,Union pour la Démocratie Française,90029.0
+1,91,ESSONNE,abstentions,94442.0
+1,91,ESSONNE,blancs_nuls,6702.0
+1,92,HAUTS-DE-SEINE,Divers droite,22232.0
+1,92,HAUTS-DE-SEINE,Divers gauche,2998.0
+1,92,HAUTS-DE-SEINE,Ecologistes,30806.0
+1,92,HAUTS-DE-SEINE,Extrême droite,8278.0
+1,92,HAUTS-DE-SEINE,Extrême gauche,9927.0
+1,92,HAUTS-DE-SEINE,Front Autogestionnaire,12500.0
+1,92,HAUTS-DE-SEINE,Gaullistes d'opposition,8046.0
+1,92,HAUTS-DE-SEINE,Parti Socialiste-Mouvement des Radicaux de Gauche,130326.0
+1,92,HAUTS-DE-SEINE,Parti communiste,170918.0
+1,92,HAUTS-DE-SEINE,Rassemblement Pour la République,178362.0
+1,92,HAUTS-DE-SEINE,Union pour la Démocratie Française,120254.0
+1,92,HAUTS-DE-SEINE,abstentions,168250.0
+1,92,HAUTS-DE-SEINE,blancs_nuls,10077.0
+1,93,SEINE-SAINT-DENIS,Divers droite,1886.0
+1,93,SEINE-SAINT-DENIS,Divers gauche,1027.0
+1,93,SEINE-SAINT-DENIS,Ecologistes,5002.0
+1,93,SEINE-SAINT-DENIS,Extrême droite,8747.0
+1,93,SEINE-SAINT-DENIS,Extrême gauche,11831.0
+1,93,SEINE-SAINT-DENIS,Front Autogestionnaire,18563.0
+1,93,SEINE-SAINT-DENIS,Gaullistes d'opposition,1138.0
+1,93,SEINE-SAINT-DENIS,Parti Socialiste-Mouvement des Radicaux de Gauche,115736.0
+1,93,SEINE-SAINT-DENIS,Parti communiste,217843.0
+1,93,SEINE-SAINT-DENIS,Rassemblement Pour la République,102263.0
+1,93,SEINE-SAINT-DENIS,Union pour la Démocratie Française,89479.0
+1,93,SEINE-SAINT-DENIS,abstentions,144800.0
+1,93,SEINE-SAINT-DENIS,blancs_nuls,12862.0
+1,94,VAL-DE-MARNE,Divers droite,11311.0
+1,94,VAL-DE-MARNE,Divers gauche,977.0
+1,94,VAL-DE-MARNE,Ecologistes,23427.0
+1,94,VAL-DE-MARNE,Extrême droite,7527.0
+1,94,VAL-DE-MARNE,Extrême gauche,9765.0
+1,94,VAL-DE-MARNE,Front Autogestionnaire,9440.0
+1,94,VAL-DE-MARNE,Gaullistes d'opposition,5174.0
+1,94,VAL-DE-MARNE,Parti Socialiste-Mouvement des Radicaux de Gauche,118305.0
+1,94,VAL-DE-MARNE,Parti communiste,168797.0
+1,94,VAL-DE-MARNE,Rassemblement Pour la République,124653.0
+1,94,VAL-DE-MARNE,Union pour la Démocratie Française,94489.0
+1,94,VAL-DE-MARNE,abstentions,132943.0
+1,94,VAL-DE-MARNE,blancs_nuls,8127.0
+1,95,VAL-D'OISE,Divers droite,28491.0
+1,95,VAL-D'OISE,Divers gauche,976.0
+1,95,VAL-D'OISE,Ecologistes,18254.0
+1,95,VAL-D'OISE,Extrême droite,3046.0
+1,95,VAL-D'OISE,Extrême gauche,8244.0
+1,95,VAL-D'OISE,Front Autogestionnaire,6441.0
+1,95,VAL-D'OISE,Gaullistes d'opposition,1767.0
+1,95,VAL-D'OISE,Parti Socialiste-Mouvement des Radicaux de Gauche,86748.0
+1,95,VAL-D'OISE,Parti communiste,108281.0
+1,95,VAL-D'OISE,Rassemblement Pour la République,86327.0
+1,95,VAL-D'OISE,Union pour la Démocratie Française,62157.0
+1,95,VAL-D'OISE,abstentions,87591.0
+1,95,VAL-D'OISE,blancs_nuls,7199.0
+2,01,AIN,Divers droite,0.0
+2,01,AIN,Parti Socialiste-Mouvement des Radicaux de Gauche,63264.0
+2,01,AIN,Parti communiste,29173.0
+2,01,AIN,Rassemblement Pour la République,36499.0
+2,01,AIN,Union pour la Démocratie Française,76453.0
+2,01,AIN,abstentions,38930.0
+2,01,AIN,blancs_nuls,4055.0
+2,02,AISNE,Divers droite,0.0
+2,02,AISNE,Parti Socialiste-Mouvement des Radicaux de Gauche,58357.0
+2,02,AISNE,Parti communiste,106094.0
+2,02,AISNE,Rassemblement Pour la République,80424.0
+2,02,AISNE,Union pour la Démocratie Française,57899.0
+2,02,AISNE,abstentions,40442.0
+2,02,AISNE,blancs_nuls,7508.0
+2,03,ALLIER,Divers droite,26801.0
+2,03,ALLIER,Parti Socialiste-Mouvement des Radicaux de Gauche,0.0
+2,03,ALLIER,Parti communiste,110724.0
+2,03,ALLIER,Rassemblement Pour la République,26904.0
+2,03,ALLIER,Union pour la Démocratie Française,57644.0
+2,03,ALLIER,abstentions,35637.0
+2,03,ALLIER,blancs_nuls,6154.0
+2,04,ALPES-DE-HAUTE-PROVENCE,Divers droite,17553.0
+2,04,ALPES-DE-HAUTE-PROVENCE,Parti Socialiste-Mouvement des Radicaux de Gauche,17610.0
+2,04,ALPES-DE-HAUTE-PROVENCE,Parti communiste,18149.0
+2,04,ALPES-DE-HAUTE-PROVENCE,Rassemblement Pour la République,16580.0
+2,04,ALPES-DE-HAUTE-PROVENCE,Union pour la Démocratie Française,0.0
+2,04,ALPES-DE-HAUTE-PROVENCE,abstentions,10709.0
+2,04,ALPES-DE-HAUTE-PROVENCE,blancs_nuls,1934.0
+2,05,HAUTES-ALPES,Divers droite,0.0
+2,05,HAUTES-ALPES,Parti Socialiste-Mouvement des Radicaux de Gauche,16011.0
+2,05,HAUTES-ALPES,Parti communiste,10702.0
+2,05,HAUTES-ALPES,Rassemblement Pour la République,0.0
+2,05,HAUTES-ALPES,Union pour la Démocratie Française,33224.0
+2,05,HAUTES-ALPES,abstentions,10341.0
+2,05,HAUTES-ALPES,blancs_nuls,1705.0
+2,06,ALPES-MARITIMES,Divers droite,0.0
+2,06,ALPES-MARITIMES,Parti Socialiste-Mouvement des Radicaux de Gauche,73359.0
+2,06,ALPES-MARITIMES,Parti communiste,132953.0
+2,06,ALPES-MARITIMES,Rassemblement Pour la République,99310.0
+2,06,ALPES-MARITIMES,Union pour la Démocratie Française,165065.0
+2,06,ALPES-MARITIMES,abstentions,83469.0
+2,06,ALPES-MARITIMES,blancs_nuls,12924.0
+2,07,ARDECHE,Divers droite,0.0
+2,07,ARDECHE,Parti Socialiste-Mouvement des Radicaux de Gauche,0.0
+2,07,ARDECHE,Parti communiste,47407.0
+2,07,ARDECHE,Rassemblement Pour la République,25203.0
+2,07,ARDECHE,Union pour la Démocratie Française,28092.0
+2,07,ARDECHE,abstentions,16818.0
+2,07,ARDECHE,blancs_nuls,4072.0
+2,08,ARDENNES,Divers droite,0.0
+2,08,ARDENNES,Parti Socialiste-Mouvement des Radicaux de Gauche,26020.0
+2,08,ARDENNES,Parti communiste,57247.0
+2,08,ARDENNES,Rassemblement Pour la République,77743.0
+2,08,ARDENNES,Union pour la Démocratie Française,0.0
+2,08,ARDENNES,abstentions,23310.0
+2,08,ARDENNES,blancs_nuls,4515.0
+2,09,ARIEGE,Divers droite,0.0
+2,09,ARIEGE,Parti Socialiste-Mouvement des Radicaux de Gauche,54733.0
+2,09,ARIEGE,Parti communiste,0.0
+2,09,ARIEGE,Rassemblement Pour la République,30983.0
+2,09,ARIEGE,Union pour la Démocratie Française,0.0
+2,09,ARIEGE,abstentions,17361.0
+2,09,ARIEGE,blancs_nuls,2421.0
+2,10,AUBE,Divers droite,0.0
+2,10,AUBE,Parti Socialiste-Mouvement des Radicaux de Gauche,21744.0
+2,10,AUBE,Parti communiste,26175.0
+2,10,AUBE,Rassemblement Pour la République,0.0
+2,10,AUBE,Union pour la Démocratie Française,52714.0
+2,10,AUBE,abstentions,17815.0
+2,10,AUBE,blancs_nuls,2583.0
+2,11,AUDE,Divers droite,0.0
+2,11,AUDE,Parti Socialiste-Mouvement des Radicaux de Gauche,103972.0
+2,11,AUDE,Parti communiste,0.0
+2,11,AUDE,Rassemblement Pour la République,43707.0
+2,11,AUDE,Union pour la Démocratie Française,0.0
+2,11,AUDE,abstentions,32771.0
+2,11,AUDE,blancs_nuls,20405.0
+2,12,AVEYRON,Divers droite,0.0
+2,12,AVEYRON,Parti Socialiste-Mouvement des Radicaux de Gauche,79900.0
+2,12,AVEYRON,Parti communiste,0.0
+2,12,AVEYRON,Rassemblement Pour la République,33377.0
+2,12,AVEYRON,Union pour la Démocratie Française,61527.0
+2,12,AVEYRON,abstentions,28508.0
+2,12,AVEYRON,blancs_nuls,3811.0
+2,13,BOUCHES-DU-RHONE,Divers droite,0.0
+2,13,BOUCHES-DU-RHONE,Parti Socialiste-Mouvement des Radicaux de Gauche,124441.0
+2,13,BOUCHES-DU-RHONE,Parti communiste,261891.0
+2,13,BOUCHES-DU-RHONE,Rassemblement Pour la République,107780.0
+2,13,BOUCHES-DU-RHONE,Union pour la Démocratie Française,226013.0
+2,13,BOUCHES-DU-RHONE,abstentions,-235690.0
+2,13,BOUCHES-DU-RHONE,blancs_nuls,19939.0
+2,14,CALVADOS,Divers droite,0.0
+2,14,CALVADOS,Parti Socialiste-Mouvement des Radicaux de Gauche,106519.0
+2,14,CALVADOS,Parti communiste,0.0
+2,14,CALVADOS,Rassemblement Pour la République,27152.0
+2,14,CALVADOS,Union pour la Démocratie Française,86129.0
+2,14,CALVADOS,abstentions,37709.0
+2,14,CALVADOS,blancs_nuls,3765.0
+2,16,CHARENTE,Divers droite,0.0
+2,16,CHARENTE,Parti Socialiste-Mouvement des Radicaux de Gauche,43573.0
+2,16,CHARENTE,Parti communiste,57881.0
+2,16,CHARENTE,Rassemblement Pour la République,100243.0
+2,16,CHARENTE,Union pour la Démocratie Française,0.0
+2,16,CHARENTE,abstentions,30687.0
+2,16,CHARENTE,blancs_nuls,5378.0
+2,17,CHARENTE-MARITIME,Divers droite,0.0
+2,17,CHARENTE-MARITIME,Parti Socialiste-Mouvement des Radicaux de Gauche,118782.0
+2,17,CHARENTE-MARITIME,Parti communiste,28095.0
+2,17,CHARENTE-MARITIME,Rassemblement Pour la République,52198.0
+2,17,CHARENTE-MARITIME,Union pour la Démocratie Française,90849.0
+2,17,CHARENTE-MARITIME,abstentions,56047.0
+2,17,CHARENTE-MARITIME,blancs_nuls,5752.0
+2,18,CHER,Divers droite,0.0
+2,18,CHER,Parti Socialiste-Mouvement des Radicaux de Gauche,0.0
+2,18,CHER,Parti communiste,88591.0
+2,18,CHER,Rassemblement Pour la République,59158.0
+2,18,CHER,Union pour la Démocratie Française,34916.0
+2,18,CHER,abstentions,27534.0
+2,18,CHER,blancs_nuls,4591.0
+2,19,CORREZE,Divers droite,0.0
+2,19,CORREZE,Parti Socialiste-Mouvement des Radicaux de Gauche,0.0
+2,19,CORREZE,Parti communiste,57722.0
+2,19,CORREZE,Rassemblement Pour la République,57257.0
+2,19,CORREZE,Union pour la Démocratie Française,0.0
+2,19,CORREZE,abstentions,13642.0
+2,19,CORREZE,blancs_nuls,3905.0
+2,21,COTE-D'OR,Divers droite,26369.0
+2,21,COTE-D'OR,Parti Socialiste-Mouvement des Radicaux de Gauche,91149.0
+2,21,COTE-D'OR,Parti communiste,19674.0
+2,21,COTE-D'OR,Rassemblement Pour la République,76645.0
+2,21,COTE-D'OR,Union pour la Démocratie Française,25405.0
+2,21,COTE-D'OR,abstentions,42112.0
+2,21,COTE-D'OR,blancs_nuls,4412.0
+2,22,COTES-D'ARMOR,Divers droite,29325.0
+2,22,COTES-D'ARMOR,Parti Socialiste-Mouvement des Radicaux de Gauche,96308.0
+2,22,COTES-D'ARMOR,Parti communiste,72767.0
+2,22,COTES-D'ARMOR,Rassemblement Pour la République,0.0
+2,22,COTES-D'ARMOR,Union pour la Démocratie Française,142361.0
+2,22,COTES-D'ARMOR,abstentions,-60810.0
+2,22,COTES-D'ARMOR,blancs_nuls,5497.0
+2,23,CREUSE,Divers droite,0.0
+2,23,CREUSE,Parti Socialiste-Mouvement des Radicaux de Gauche,50318.0
+2,23,CREUSE,Parti communiste,0.0
+2,23,CREUSE,Rassemblement Pour la République,44001.0
+2,23,CREUSE,Union pour la Démocratie Française,0.0
+2,23,CREUSE,abstentions,18934.0
+2,23,CREUSE,blancs_nuls,1495.0
+2,24,DORDOGNE,Divers droite,0.0
+2,24,DORDOGNE,Parti Socialiste-Mouvement des Radicaux de Gauche,67619.0
+2,24,DORDOGNE,Parti communiste,66428.0
+2,24,DORDOGNE,Rassemblement Pour la République,117068.0
+2,24,DORDOGNE,Union pour la Démocratie Française,0.0
+2,24,DORDOGNE,abstentions,30390.0
+2,24,DORDOGNE,blancs_nuls,6304.0
+2,25,DOUBS,Divers droite,0.0
+2,25,DOUBS,Parti Socialiste-Mouvement des Radicaux de Gauche,100862.0
+2,25,DOUBS,Parti communiste,0.0
+2,25,DOUBS,Rassemblement Pour la République,82574.0
+2,25,DOUBS,Union pour la Démocratie Française,0.0
+2,25,DOUBS,abstentions,-169957.0
+2,25,DOUBS,blancs_nuls,3052.0
+2,26,DROME,Divers droite,0.0
+2,26,DROME,Parti Socialiste-Mouvement des Radicaux de Gauche,110403.0
+2,26,DROME,Parti communiste,0.0
+2,26,DROME,Rassemblement Pour la République,63912.0
+2,26,DROME,Union pour la Démocratie Française,31167.0
+2,26,DROME,abstentions,36671.0
+2,26,DROME,blancs_nuls,4499.0
+2,27,EURE,Divers droite,0.0
+2,27,EURE,Parti Socialiste-Mouvement des Radicaux de Gauche,57528.0
+2,27,EURE,Parti communiste,59226.0
+2,27,EURE,Rassemblement Pour la République,32740.0
+2,27,EURE,Union pour la Démocratie Française,97277.0
+2,27,EURE,abstentions,35363.0
+2,27,EURE,blancs_nuls,6278.0
+2,28,EURE-ET-LOIR,Divers droite,0.0
+2,28,EURE-ET-LOIR,Parti Socialiste-Mouvement des Radicaux de Gauche,94516.0
+2,28,EURE-ET-LOIR,Parti communiste,0.0
+2,28,EURE-ET-LOIR,Rassemblement Pour la République,34909.0
+2,28,EURE-ET-LOIR,Union pour la Démocratie Française,64608.0
+2,28,EURE-ET-LOIR,abstentions,29767.0
+2,28,EURE-ET-LOIR,blancs_nuls,3907.0
+2,29,FINISTERE,Divers droite,40072.0
+2,29,FINISTERE,Parti Socialiste-Mouvement des Radicaux de Gauche,141206.0
+2,29,FINISTERE,Parti communiste,18958.0
+2,29,FINISTERE,Rassemblement Pour la République,97423.0
+2,29,FINISTERE,Union pour la Démocratie Française,71591.0
+2,29,FINISTERE,abstentions,-36788.0
+2,29,FINISTERE,blancs_nuls,4938.0
+2,2A,CORSE-DU-SUD,Divers droite,0.0
+2,2A,CORSE-DU-SUD,Parti Socialiste-Mouvement des Radicaux de Gauche,21768.0
+2,2A,CORSE-DU-SUD,Parti communiste,0.0
+2,2A,CORSE-DU-SUD,Rassemblement Pour la République,22797.0
+2,2A,CORSE-DU-SUD,Union pour la Démocratie Française,0.0
+2,2A,CORSE-DU-SUD,abstentions,14634.0
+2,2A,CORSE-DU-SUD,blancs_nuls,989.0
+2,2B,HAUTE-CORSE,Divers droite,0.0
+2,2B,HAUTE-CORSE,Parti Socialiste-Mouvement des Radicaux de Gauche,40287.0
+2,2B,HAUTE-CORSE,Parti communiste,0.0
+2,2B,HAUTE-CORSE,Rassemblement Pour la République,43624.0
+2,2B,HAUTE-CORSE,Union pour la Démocratie Française,0.0
+2,2B,HAUTE-CORSE,abstentions,30214.0
+2,2B,HAUTE-CORSE,blancs_nuls,1626.0
+2,30,GARD,Divers droite,0.0
+2,30,GARD,Parti Socialiste-Mouvement des Radicaux de Gauche,0.0
+2,30,GARD,Parti communiste,153492.0
+2,30,GARD,Rassemblement Pour la République,56498.0
+2,30,GARD,Union pour la Démocratie Française,77364.0
+2,30,GARD,abstentions,50232.0
+2,30,GARD,blancs_nuls,10507.0
+2,31,HAUTE-GARONNE,Divers droite,37148.0
+2,31,HAUTE-GARONNE,Parti Socialiste-Mouvement des Radicaux de Gauche,236953.0
+2,31,HAUTE-GARONNE,Parti communiste,0.0
+2,31,HAUTE-GARONNE,Rassemblement Pour la République,88695.0
+2,31,HAUTE-GARONNE,Union pour la Démocratie Française,58253.0
+2,31,HAUTE-GARONNE,abstentions,-25430.0
+2,31,HAUTE-GARONNE,blancs_nuls,8606.0
+2,32,GERS,Divers droite,26189.0
+2,32,GERS,Parti Socialiste-Mouvement des Radicaux de Gauche,61096.0
+2,32,GERS,Parti communiste,0.0
+2,32,GERS,Rassemblement Pour la République,23167.0
+2,32,GERS,Union pour la Démocratie Française,0.0
+2,32,GERS,abstentions,17951.0
+2,32,GERS,blancs_nuls,2612.0
+2,33,GIRONDE,Divers droite,0.0
+2,33,GIRONDE,Parti Socialiste-Mouvement des Radicaux de Gauche,304221.0
+2,33,GIRONDE,Parti communiste,0.0
+2,33,GIRONDE,Rassemblement Pour la République,175049.0
+2,33,GIRONDE,Union pour la Démocratie Française,79511.0
+2,33,GIRONDE,abstentions,5322.0
+2,33,GIRONDE,blancs_nuls,10588.0
+2,34,HERAULT,Divers droite,0.0
+2,34,HERAULT,Parti Socialiste-Mouvement des Radicaux de Gauche,126955.0
+2,34,HERAULT,Parti communiste,69812.0
+2,34,HERAULT,Rassemblement Pour la République,0.0
+2,34,HERAULT,Union pour la Démocratie Française,166696.0
+2,34,HERAULT,abstentions,-128572.0
+2,34,HERAULT,blancs_nuls,9036.0
+2,35,ILLE-ET-VILAINE,Divers droite,0.0
+2,35,ILLE-ET-VILAINE,Parti Socialiste-Mouvement des Radicaux de Gauche,117784.0
+2,35,ILLE-ET-VILAINE,Parti communiste,0.0
+2,35,ILLE-ET-VILAINE,Rassemblement Pour la République,128238.0
+2,35,ILLE-ET-VILAINE,Union pour la Démocratie Française,30123.0
+2,35,ILLE-ET-VILAINE,abstentions,47301.0
+2,35,ILLE-ET-VILAINE,blancs_nuls,5097.0
+2,36,INDRE,Divers droite,0.0
+2,36,INDRE,Parti Socialiste-Mouvement des Radicaux de Gauche,23720.0
+2,36,INDRE,Parti communiste,50477.0
+2,36,INDRE,Rassemblement Pour la République,53374.0
+2,36,INDRE,Union pour la Démocratie Française,25597.0
+2,36,INDRE,abstentions,22541.0
+2,36,INDRE,blancs_nuls,3872.0
+2,37,INDRE-ET-LOIRE,Divers droite,33252.0
+2,37,INDRE-ET-LOIRE,Parti Socialiste-Mouvement des Radicaux de Gauche,123859.0
+2,37,INDRE-ET-LOIRE,Parti communiste,0.0
+2,37,INDRE-ET-LOIRE,Rassemblement Pour la République,68944.0
+2,37,INDRE-ET-LOIRE,Union pour la Démocratie Française,34285.0
+2,37,INDRE-ET-LOIRE,abstentions,50686.0
+2,37,INDRE-ET-LOIRE,blancs_nuls,5193.0
+2,38,ISERE,Divers droite,0.0
+2,38,ISERE,Parti Socialiste-Mouvement des Radicaux de Gauche,196410.0
+2,38,ISERE,Parti communiste,36885.0
+2,38,ISERE,Rassemblement Pour la République,95395.0
+2,38,ISERE,Union pour la Démocratie Française,111749.0
+2,38,ISERE,abstentions,-28700.0
+2,38,ISERE,blancs_nuls,19205.0
+2,39,JURA,Divers droite,0.0
+2,39,JURA,Parti Socialiste-Mouvement des Radicaux de Gauche,68073.0
+2,39,JURA,Parti communiste,0.0
+2,39,JURA,Rassemblement Pour la République,0.0
+2,39,JURA,Union pour la Démocratie Française,73949.0
+2,39,JURA,abstentions,21344.0
+2,39,JURA,blancs_nuls,2619.0
+2,40,LANDES,Divers droite,0.0
+2,40,LANDES,Parti Socialiste-Mouvement des Radicaux de Gauche,97993.0
+2,40,LANDES,Parti communiste,0.0
+2,40,LANDES,Rassemblement Pour la République,29383.0
+2,40,LANDES,Union pour la Démocratie Française,57394.0
+2,40,LANDES,abstentions,24211.0
+2,40,LANDES,blancs_nuls,3048.0
+2,41,LOIR-ET-CHER,Divers droite,0.0
+2,41,LOIR-ET-CHER,Parti Socialiste-Mouvement des Radicaux de Gauche,22499.0
+2,41,LOIR-ET-CHER,Parti communiste,0.0
+2,41,LOIR-ET-CHER,Rassemblement Pour la République,0.0
+2,41,LOIR-ET-CHER,Union pour la Démocratie Française,26491.0
+2,41,LOIR-ET-CHER,abstentions,7247.0
+2,41,LOIR-ET-CHER,blancs_nuls,836.0
+2,42,LOIRE,Divers droite,0.0
+2,42,LOIRE,Parti Socialiste-Mouvement des Radicaux de Gauche,136144.0
+2,42,LOIRE,Parti communiste,45922.0
+2,42,LOIRE,Rassemblement Pour la République,62724.0
+2,42,LOIRE,Union pour la Démocratie Française,140306.0
+2,42,LOIRE,abstentions,73029.0
+2,42,LOIRE,blancs_nuls,8802.0
+2,44,LOIRE-ATLANTIQUE,Divers droite,0.0
+2,44,LOIRE-ATLANTIQUE,Parti Socialiste-Mouvement des Radicaux de Gauche,194261.0
+2,44,LOIRE-ATLANTIQUE,Parti communiste,0.0
+2,44,LOIRE-ATLANTIQUE,Rassemblement Pour la République,175913.0
+2,44,LOIRE-ATLANTIQUE,Union pour la Démocratie Française,52607.0
+2,44,LOIRE-ATLANTIQUE,abstentions,82409.0
+2,44,LOIRE-ATLANTIQUE,blancs_nuls,7888.0
+2,45,LOIRET,Divers droite,0.0
+2,45,LOIRET,Parti Socialiste-Mouvement des Radicaux de Gauche,60363.0
+2,45,LOIRET,Parti communiste,60022.0
+2,45,LOIRET,Rassemblement Pour la République,112023.0
+2,45,LOIRET,Union pour la Démocratie Française,42026.0
+2,45,LOIRET,abstentions,42020.0
+2,45,LOIRET,blancs_nuls,7713.0
+2,46,LOT,Divers droite,0.0
+2,46,LOT,Parti Socialiste-Mouvement des Radicaux de Gauche,57488.0
+2,46,LOT,Parti communiste,0.0
+2,46,LOT,Rassemblement Pour la République,41367.0
+2,46,LOT,Union pour la Démocratie Française,0.0
+2,46,LOT,abstentions,13734.0
+2,46,LOT,blancs_nuls,1969.0
+2,47,LOT-ET-GARONNE,Divers droite,28603.0
+2,47,LOT-ET-GARONNE,Parti Socialiste-Mouvement des Radicaux de Gauche,65518.0
+2,47,LOT-ET-GARONNE,Parti communiste,28739.0
+2,47,LOT-ET-GARONNE,Rassemblement Pour la République,55987.0
+2,47,LOT-ET-GARONNE,Union pour la Démocratie Française,0.0
+2,47,LOT-ET-GARONNE,abstentions,25443.0
+2,47,LOT-ET-GARONNE,blancs_nuls,4424.0
+2,49,MAINE-ET-LOIRE,Divers droite,0.0
+2,49,MAINE-ET-LOIRE,Parti Socialiste-Mouvement des Radicaux de Gauche,38481.0
+2,49,MAINE-ET-LOIRE,Parti communiste,0.0
+2,49,MAINE-ET-LOIRE,Rassemblement Pour la République,26251.0
+2,49,MAINE-ET-LOIRE,Union pour la Démocratie Française,28522.0
+2,49,MAINE-ET-LOIRE,abstentions,20982.0
+2,49,MAINE-ET-LOIRE,blancs_nuls,1719.0
+2,50,MANCHE,Divers droite,0.0
+2,50,MANCHE,Parti Socialiste-Mouvement des Radicaux de Gauche,78085.0
+2,50,MANCHE,Parti communiste,0.0
+2,50,MANCHE,Rassemblement Pour la République,55909.0
+2,50,MANCHE,Union pour la Démocratie Française,116285.0
+2,50,MANCHE,abstentions,54484.0
+2,50,MANCHE,blancs_nuls,11347.0
+2,51,MARNE,Divers droite,0.0
+2,51,MARNE,Parti Socialiste-Mouvement des Radicaux de Gauche,0.0
+2,51,MARNE,Parti communiste,122088.0
+2,51,MARNE,Rassemblement Pour la République,76163.0
+2,51,MARNE,Union pour la Démocratie Française,78315.0
+2,51,MARNE,abstentions,34647.0
+2,51,MARNE,blancs_nuls,7877.0
+2,52,HAUTE-MARNE,Divers droite,0.0
+2,52,HAUTE-MARNE,Parti Socialiste-Mouvement des Radicaux de Gauche,29150.0
+2,52,HAUTE-MARNE,Parti communiste,25963.0
+2,52,HAUTE-MARNE,Rassemblement Pour la République,29252.0
+2,52,HAUTE-MARNE,Union pour la Démocratie Française,34541.0
+2,52,HAUTE-MARNE,abstentions,19718.0
+2,52,HAUTE-MARNE,blancs_nuls,2959.0
+2,53,MAYENNE,Divers droite,0.0
+2,53,MAYENNE,Parti Socialiste-Mouvement des Radicaux de Gauche,26483.0
+2,53,MAYENNE,Parti communiste,0.0
+2,53,MAYENNE,Rassemblement Pour la République,0.0
+2,53,MAYENNE,Union pour la Démocratie Française,35522.0
+2,53,MAYENNE,abstentions,10081.0
+2,53,MAYENNE,blancs_nuls,1232.0
+2,54,MEURTHE-ET-MOSELLE,Divers droite,0.0
+2,54,MEURTHE-ET-MOSELLE,Parti Socialiste-Mouvement des Radicaux de Gauche,111559.0
+2,54,MEURTHE-ET-MOSELLE,Parti communiste,55360.0
+2,54,MEURTHE-ET-MOSELLE,Rassemblement Pour la République,0.0
+2,54,MEURTHE-ET-MOSELLE,Union pour la Démocratie Française,159934.0
+2,54,MEURTHE-ET-MOSELLE,abstentions,62391.0
+2,54,MEURTHE-ET-MOSELLE,blancs_nuls,8369.0
+2,55,MEUSE,Divers droite,0.0
+2,55,MEUSE,Parti Socialiste-Mouvement des Radicaux de Gauche,55505.0
+2,55,MEUSE,Parti communiste,0.0
+2,55,MEUSE,Rassemblement Pour la République,0.0
+2,55,MEUSE,Union pour la Démocratie Française,61628.0
+2,55,MEUSE,abstentions,18230.0
+2,55,MEUSE,blancs_nuls,2163.0
+2,56,MORBIHAN,Divers droite,0.0
+2,56,MORBIHAN,Parti Socialiste-Mouvement des Radicaux de Gauche,91663.0
+2,56,MORBIHAN,Parti communiste,23142.0
+2,56,MORBIHAN,Rassemblement Pour la République,65686.0
+2,56,MORBIHAN,Union pour la Démocratie Française,98107.0
+2,56,MORBIHAN,abstentions,50120.0
+2,56,MORBIHAN,blancs_nuls,6337.0
+2,57,MOSELLE,Divers droite,0.0
+2,57,MOSELLE,Parti Socialiste-Mouvement des Radicaux de Gauche,143851.0
+2,57,MOSELLE,Parti communiste,66453.0
+2,57,MOSELLE,Rassemblement Pour la République,68543.0
+2,57,MOSELLE,Union pour la Démocratie Française,170666.0
+2,57,MOSELLE,abstentions,-11286.0
+2,57,MOSELLE,blancs_nuls,12426.0
+2,58,NIEVRE,Divers droite,0.0
+2,58,NIEVRE,Parti Socialiste-Mouvement des Radicaux de Gauche,86915.0
+2,58,NIEVRE,Parti communiste,0.0
+2,58,NIEVRE,Rassemblement Pour la République,0.0
+2,58,NIEVRE,Union pour la Démocratie Française,57626.0
+2,58,NIEVRE,abstentions,27466.0
+2,58,NIEVRE,blancs_nuls,2786.0
+2,59,NORD,Divers droite,69123.0
+2,59,NORD,Parti Socialiste-Mouvement des Radicaux de Gauche,378118.0
+2,59,NORD,Parti communiste,322009.0
+2,59,NORD,Rassemblement Pour la République,366086.0
+2,59,NORD,Union pour la Démocratie Française,165972.0
+2,59,NORD,abstentions,90309.0
+2,59,NORD,blancs_nuls,-69212.0
+2,60,OISE,Divers droite,0.0
+2,60,OISE,Parti Socialiste-Mouvement des Radicaux de Gauche,33578.0
+2,60,OISE,Parti communiste,102625.0
+2,60,OISE,Rassemblement Pour la République,72204.0
+2,60,OISE,Union pour la Démocratie Française,60771.0
+2,60,OISE,abstentions,-61066.0
+2,60,OISE,blancs_nuls,7750.0
+2,61,ORNE,Divers droite,0.0
+2,61,ORNE,Parti Socialiste-Mouvement des Radicaux de Gauche,66641.0
+2,61,ORNE,Parti communiste,0.0
+2,61,ORNE,Rassemblement Pour la République,34765.0
+2,61,ORNE,Union pour la Démocratie Française,64811.0
+2,61,ORNE,abstentions,29696.0
+2,61,ORNE,blancs_nuls,4052.0
+2,62,PAS-DE-CALAIS,Divers droite,0.0
+2,62,PAS-DE-CALAIS,Parti Socialiste-Mouvement des Radicaux de Gauche,308368.0
+2,62,PAS-DE-CALAIS,Parti communiste,165235.0
+2,62,PAS-DE-CALAIS,Rassemblement Pour la République,157572.0
+2,62,PAS-DE-CALAIS,Union pour la Démocratie Française,126027.0
+2,62,PAS-DE-CALAIS,abstentions,116984.0
+2,62,PAS-DE-CALAIS,blancs_nuls,41186.0
+2,63,PUY-DE-DOME,Divers droite,0.0
+2,63,PUY-DE-DOME,Parti Socialiste-Mouvement des Radicaux de Gauche,140131.0
+2,63,PUY-DE-DOME,Parti communiste,0.0
+2,63,PUY-DE-DOME,Rassemblement Pour la République,35568.0
+2,63,PUY-DE-DOME,Union pour la Démocratie Française,81115.0
+2,63,PUY-DE-DOME,abstentions,-59351.0
+2,63,PUY-DE-DOME,blancs_nuls,3967.0
+2,64,PYRENEES-ATLANTIQUES,Divers droite,0.0
+2,64,PYRENEES-ATLANTIQUES,Parti Socialiste-Mouvement des Radicaux de Gauche,104044.0
+2,64,PYRENEES-ATLANTIQUES,Parti communiste,0.0
+2,64,PYRENEES-ATLANTIQUES,Rassemblement Pour la République,121583.0
+2,64,PYRENEES-ATLANTIQUES,Union pour la Démocratie Française,0.0
+2,64,PYRENEES-ATLANTIQUES,abstentions,33604.0
+2,64,PYRENEES-ATLANTIQUES,blancs_nuls,3961.0
+2,65,HAUTES-PYRENEES,Divers droite,0.0
+2,65,HAUTES-PYRENEES,Parti Socialiste-Mouvement des Radicaux de Gauche,79737.0
+2,65,HAUTES-PYRENEES,Parti communiste,0.0
+2,65,HAUTES-PYRENEES,Rassemblement Pour la République,28624.0
+2,65,HAUTES-PYRENEES,Union pour la Démocratie Française,28381.0
+2,65,HAUTES-PYRENEES,abstentions,25324.0
+2,65,HAUTES-PYRENEES,blancs_nuls,2370.0
+2,66,PYRENEES-ORIENTALES,Divers droite,0.0
+2,66,PYRENEES-ORIENTALES,Parti Socialiste-Mouvement des Radicaux de Gauche,0.0
+2,66,PYRENEES-ORIENTALES,Parti communiste,87998.0
+2,66,PYRENEES-ORIENTALES,Rassemblement Pour la République,0.0
+2,66,PYRENEES-ORIENTALES,Union pour la Démocratie Française,82723.0
+2,66,PYRENEES-ORIENTALES,abstentions,35841.0
+2,66,PYRENEES-ORIENTALES,blancs_nuls,-93411.0
+2,67,BAS-RHIN,Divers droite,0.0
+2,67,BAS-RHIN,Parti Socialiste-Mouvement des Radicaux de Gauche,99233.0
+2,67,BAS-RHIN,Parti communiste,0.0
+2,67,BAS-RHIN,Rassemblement Pour la République,89423.0
+2,67,BAS-RHIN,Union pour la Démocratie Française,98278.0
+2,67,BAS-RHIN,abstentions,-28109.0
+2,67,BAS-RHIN,blancs_nuls,7993.0
+2,68,HAUT-RHIN,Divers droite,0.0
+2,68,HAUT-RHIN,Parti Socialiste-Mouvement des Radicaux de Gauche,114935.0
+2,68,HAUT-RHIN,Parti communiste,0.0
+2,68,HAUT-RHIN,Rassemblement Pour la République,125519.0
+2,68,HAUT-RHIN,Union pour la Démocratie Française,76878.0
+2,68,HAUT-RHIN,abstentions,72548.0
+2,68,HAUT-RHIN,blancs_nuls,11033.0
+2,69,RHONE,Divers droite,20784.0
+2,69,RHONE,Parti Socialiste-Mouvement des Radicaux de Gauche,183087.0
+2,69,RHONE,Parti communiste,63913.0
+2,69,RHONE,Rassemblement Pour la République,123292.0
+2,69,RHONE,Union pour la Démocratie Française,93341.0
+2,69,RHONE,abstentions,110734.0
+2,69,RHONE,blancs_nuls,11728.0
+2,70,HAUTE-SAONE,Divers droite,0.0
+2,70,HAUTE-SAONE,Parti Socialiste-Mouvement des Radicaux de Gauche,65132.0
+2,70,HAUTE-SAONE,Parti communiste,0.0
+2,70,HAUTE-SAONE,Rassemblement Pour la République,0.0
+2,70,HAUTE-SAONE,Union pour la Démocratie Française,70641.0
+2,70,HAUTE-SAONE,abstentions,15993.0
+2,70,HAUTE-SAONE,blancs_nuls,2361.0
+2,71,SAONE-ET-LOIRE,Divers droite,0.0
+2,71,SAONE-ET-LOIRE,Parti Socialiste-Mouvement des Radicaux de Gauche,162682.0
+2,71,SAONE-ET-LOIRE,Parti communiste,0.0
+2,71,SAONE-ET-LOIRE,Rassemblement Pour la République,116472.0
+2,71,SAONE-ET-LOIRE,Union pour la Démocratie Française,34488.0
+2,71,SAONE-ET-LOIRE,abstentions,60186.0
+2,71,SAONE-ET-LOIRE,blancs_nuls,5355.0
+2,72,SARTHE,Divers droite,0.0
+2,72,SARTHE,Parti Socialiste-Mouvement des Radicaux de Gauche,44909.0
+2,72,SARTHE,Parti communiste,36669.0
+2,72,SARTHE,Rassemblement Pour la République,57865.0
+2,72,SARTHE,Union pour la Démocratie Française,27716.0
+2,72,SARTHE,abstentions,25835.0
+2,72,SARTHE,blancs_nuls,4249.0
+2,73,SAVOIE,Divers droite,0.0
+2,73,SAVOIE,Parti Socialiste-Mouvement des Radicaux de Gauche,85781.0
+2,73,SAVOIE,Parti communiste,0.0
+2,73,SAVOIE,Rassemblement Pour la République,55405.0
+2,73,SAVOIE,Union pour la Démocratie Française,32273.0
+2,73,SAVOIE,abstentions,29806.0
+2,73,SAVOIE,blancs_nuls,2570.0
+2,74,HAUTE-SAVOIE,Divers droite,0.0
+2,74,HAUTE-SAVOIE,Parti Socialiste-Mouvement des Radicaux de Gauche,31758.0
+2,74,HAUTE-SAVOIE,Parti communiste,0.0
+2,74,HAUTE-SAVOIE,Rassemblement Pour la République,0.0
+2,74,HAUTE-SAVOIE,Union pour la Démocratie Française,47504.0
+2,74,HAUTE-SAVOIE,abstentions,17761.0
+2,74,HAUTE-SAVOIE,blancs_nuls,1237.0
+2,75,PARIS,Divers droite,15430.0
+2,75,PARIS,Parti Socialiste-Mouvement des Radicaux de Gauche,248855.0
+2,75,PARIS,Parti communiste,103968.0
+2,75,PARIS,Rassemblement Pour la République,363498.0
+2,75,PARIS,Union pour la Démocratie Française,202814.0
+2,75,PARIS,abstentions,275690.0
+2,75,PARIS,blancs_nuls,46149.0
+2,76,SEINE-MARITIME,Divers droite,0.0
+2,76,SEINE-MARITIME,Parti Socialiste-Mouvement des Radicaux de Gauche,96138.0
+2,76,SEINE-MARITIME,Parti communiste,194994.0
+2,76,SEINE-MARITIME,Rassemblement Pour la République,126009.0
+2,76,SEINE-MARITIME,Union pour la Démocratie Française,159017.0
+2,76,SEINE-MARITIME,abstentions,95942.0
+2,76,SEINE-MARITIME,blancs_nuls,14201.0
+2,77,SEINE-ET-MARNE,Divers droite,0.0
+2,77,SEINE-ET-MARNE,Parti Socialiste-Mouvement des Radicaux de Gauche,125623.0
+2,77,SEINE-ET-MARNE,Parti communiste,48740.0
+2,77,SEINE-ET-MARNE,Rassemblement Pour la République,140074.0
+2,77,SEINE-ET-MARNE,Union pour la Démocratie Française,39107.0
+2,77,SEINE-ET-MARNE,abstentions,-36518.0
+2,77,SEINE-ET-MARNE,blancs_nuls,7922.0
+2,78,YVELINES,Divers droite,0.0
+2,78,YVELINES,Parti Socialiste-Mouvement des Radicaux de Gauche,173910.0
+2,78,YVELINES,Parti communiste,77479.0
+2,78,YVELINES,Rassemblement Pour la République,223624.0
+2,78,YVELINES,Union pour la Démocratie Française,78917.0
+2,78,YVELINES,abstentions,-95685.0
+2,78,YVELINES,blancs_nuls,13995.0
+2,79,DEUX-SEVRES,Divers droite,0.0
+2,79,DEUX-SEVRES,Parti Socialiste-Mouvement des Radicaux de Gauche,40841.0
+2,79,DEUX-SEVRES,Parti communiste,0.0
+2,79,DEUX-SEVRES,Rassemblement Pour la République,0.0
+2,79,DEUX-SEVRES,Union pour la Démocratie Française,38906.0
+2,79,DEUX-SEVRES,abstentions,13963.0
+2,79,DEUX-SEVRES,blancs_nuls,1311.0
+2,80,SOMME,Divers droite,33149.0
+2,80,SOMME,Parti Socialiste-Mouvement des Radicaux de Gauche,0.0
+2,80,SOMME,Parti communiste,159071.0
+2,80,SOMME,Rassemblement Pour la République,87963.0
+2,80,SOMME,Union pour la Démocratie Française,37306.0
+2,80,SOMME,abstentions,35725.0
+2,80,SOMME,blancs_nuls,8935.0
+2,81,TARN,Divers droite,0.0
+2,81,TARN,Parti Socialiste-Mouvement des Radicaux de Gauche,111814.0
+2,81,TARN,Parti communiste,0.0
+2,81,TARN,Rassemblement Pour la République,99128.0
+2,81,TARN,Union pour la Démocratie Française,0.0
+2,81,TARN,abstentions,26414.0
+2,81,TARN,blancs_nuls,4838.0
+2,82,TARN-ET-GARONNE,Divers droite,0.0
+2,82,TARN-ET-GARONNE,Parti Socialiste-Mouvement des Radicaux de Gauche,56637.0
+2,82,TARN-ET-GARONNE,Parti communiste,0.0
+2,82,TARN-ET-GARONNE,Rassemblement Pour la République,57410.0
+2,82,TARN-ET-GARONNE,Union pour la Démocratie Française,0.0
+2,82,TARN-ET-GARONNE,abstentions,15549.0
+2,82,TARN-ET-GARONNE,blancs_nuls,3373.0
+2,83,VAR,Divers droite,0.0
+2,83,VAR,Parti Socialiste-Mouvement des Radicaux de Gauche,84984.0
+2,83,VAR,Parti communiste,85739.0
+2,83,VAR,Rassemblement Pour la République,0.0
+2,83,VAR,Union pour la Démocratie Française,197380.0
+2,83,VAR,abstentions,-30557.0
+2,83,VAR,blancs_nuls,9240.0
+2,84,VAUCLUSE,Divers droite,0.0
+2,84,VAUCLUSE,Parti Socialiste-Mouvement des Radicaux de Gauche,43419.0
+2,84,VAUCLUSE,Parti communiste,68075.0
+2,84,VAUCLUSE,Rassemblement Pour la République,73135.0
+2,84,VAUCLUSE,Union pour la Démocratie Française,36057.0
+2,84,VAUCLUSE,abstentions,32373.0
+2,84,VAUCLUSE,blancs_nuls,6769.0
+2,85,VENDEE,Divers droite,0.0
+2,85,VENDEE,Parti Socialiste-Mouvement des Radicaux de Gauche,49642.0
+2,85,VENDEE,Parti communiste,0.0
+2,85,VENDEE,Rassemblement Pour la République,48088.0
+2,85,VENDEE,Union pour la Démocratie Française,40844.0
+2,85,VENDEE,abstentions,24724.0
+2,85,VENDEE,blancs_nuls,3561.0
+2,86,VIENNE,Divers droite,0.0
+2,86,VIENNE,Parti Socialiste-Mouvement des Radicaux de Gauche,106291.0
+2,86,VIENNE,Parti communiste,0.0
+2,86,VIENNE,Rassemblement Pour la République,33200.0
+2,86,VIENNE,Union pour la Démocratie Française,74203.0
+2,86,VIENNE,abstentions,-67631.0
+2,86,VIENNE,blancs_nuls,3739.0
+2,87,HAUTE-VIENNE,Divers droite,0.0
+2,87,HAUTE-VIENNE,Parti Socialiste-Mouvement des Radicaux de Gauche,0.0
+2,87,HAUTE-VIENNE,Parti communiste,120543.0
+2,87,HAUTE-VIENNE,Rassemblement Pour la République,91557.0
+2,87,HAUTE-VIENNE,Union pour la Démocratie Française,0.0
+2,87,HAUTE-VIENNE,abstentions,-64393.0
+2,87,HAUTE-VIENNE,blancs_nuls,9730.0
+2,88,VOSGES,Divers droite,0.0
+2,88,VOSGES,Parti Socialiste-Mouvement des Radicaux de Gauche,107991.0
+2,88,VOSGES,Parti communiste,0.0
+2,88,VOSGES,Rassemblement Pour la République,92408.0
+2,88,VOSGES,Union pour la Démocratie Française,24336.0
+2,88,VOSGES,abstentions,36726.0
+2,88,VOSGES,blancs_nuls,5171.0
+2,89,YONNE,Divers droite,27171.0
+2,89,YONNE,Parti Socialiste-Mouvement des Radicaux de Gauche,49776.0
+2,89,YONNE,Parti communiste,30689.0
+2,89,YONNE,Rassemblement Pour la République,37693.0
+2,89,YONNE,Union pour la Démocratie Française,31487.0
+2,89,YONNE,abstentions,30121.0
+2,89,YONNE,blancs_nuls,4016.0
+2,90,TERRITOIRE DE BELFORT,Divers droite,0.0
+2,90,TERRITOIRE DE BELFORT,Parti Socialiste-Mouvement des Radicaux de Gauche,37961.0
+2,90,TERRITOIRE DE BELFORT,Parti communiste,0.0
+2,90,TERRITOIRE DE BELFORT,Rassemblement Pour la République,0.0
+2,90,TERRITOIRE DE BELFORT,Union pour la Démocratie Française,29184.0
+2,90,TERRITOIRE DE BELFORT,abstentions,9870.0
+2,90,TERRITOIRE DE BELFORT,blancs_nuls,1418.0
+2,91,ESSONNE,Divers droite,0.0
+2,91,ESSONNE,Parti Socialiste-Mouvement des Radicaux de Gauche,0.0
+2,91,ESSONNE,Parti communiste,233370.0
+2,91,ESSONNE,Rassemblement Pour la République,130815.0
+2,91,ESSONNE,Union pour la Démocratie Française,92107.0
+2,91,ESSONNE,abstentions,-16777.0
+2,91,ESSONNE,blancs_nuls,18038.0
+2,92,HAUTS-DE-SEINE,Divers droite,24790.0
+2,92,HAUTS-DE-SEINE,Parti Socialiste-Mouvement des Radicaux de Gauche,101573.0
+2,92,HAUTS-DE-SEINE,Parti communiste,206463.0
+2,92,HAUTS-DE-SEINE,Rassemblement Pour la République,206847.0
+2,92,HAUTS-DE-SEINE,Union pour la Démocratie Française,133866.0
+2,92,HAUTS-DE-SEINE,abstentions,-27529.0
+2,92,HAUTS-DE-SEINE,blancs_nuls,26823.0
+2,93,SEINE-SAINT-DENIS,Divers droite,0.0
+2,93,SEINE-SAINT-DENIS,Parti Socialiste-Mouvement des Radicaux de Gauche,0.0
+2,93,SEINE-SAINT-DENIS,Parti communiste,255732.0
+2,93,SEINE-SAINT-DENIS,Rassemblement Pour la République,159821.0
+2,93,SEINE-SAINT-DENIS,Union pour la Démocratie Française,24401.0
+2,93,SEINE-SAINT-DENIS,abstentions,23647.0
+2,93,SEINE-SAINT-DENIS,blancs_nuls,26119.0
+2,94,VAL-DE-MARNE,Divers droite,0.0
+2,94,VAL-DE-MARNE,Parti Socialiste-Mouvement des Radicaux de Gauche,73841.0
+2,94,VAL-DE-MARNE,Parti communiste,224922.0
+2,94,VAL-DE-MARNE,Rassemblement Pour la République,124458.0
+2,94,VAL-DE-MARNE,Union pour la Démocratie Française,122427.0
+2,94,VAL-DE-MARNE,abstentions,-65844.0
+2,94,VAL-DE-MARNE,blancs_nuls,35171.0
+2,95,VAL-D'OISE,Divers droite,0.0
+2,95,VAL-D'OISE,Parti Socialiste-Mouvement des Radicaux de Gauche,45368.0
+2,95,VAL-D'OISE,Parti communiste,168258.0
+2,95,VAL-D'OISE,Rassemblement Pour la République,106403.0
+2,95,VAL-D'OISE,Union pour la Démocratie Française,92354.0
+2,95,VAL-D'OISE,abstentions,-119728.0
+2,95,VAL-D'OISE,blancs_nuls,11583.0

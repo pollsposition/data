@@ -1,0 +1,3013 @@
+tour,code_departement,departement,nuance,voix
+1,1,AIN,Centre National des Indépendants,0.0
+1,1,AIN,Divers,0.0
+1,1,AIN,Divers extrême droite,0.0
+1,1,AIN,Divers extrême gauche,0.0
+1,1,AIN,Divers gaullistes,4857.0
+1,1,AIN,Modérés,19418.0
+1,1,AIN,Mouvement Républicain Populaire,22922.0
+1,1,AIN,"Mouvement Républicain Populaire, Vème République",0.0
+1,1,AIN,Parti Socialiste Unifié,0.0
+1,1,AIN,Parti communiste,20078.0
+1,1,AIN,Poujadiste,0.0
+1,1,AIN,Radicaux centristes,0.0
+1,1,AIN,Radicaux socialistes,7493.0
+1,1,AIN,"Républicains Indépendants,Vème République",0.0
+1,1,AIN,Section Française de l'Internationale Ouvrière,14623.0
+1,1,AIN,"Union pour la Nouvelle République, Union Pour le Travail",25069.0
+1,1,AIN,abstentions,82745.0
+1,1,AIN,blancs_nuls,2630.0
+1,2,AISNE,Centre National des Indépendants,19328.0
+1,2,AISNE,Divers,0.0
+1,2,AISNE,Divers extrême droite,0.0
+1,2,AISNE,Divers extrême gauche,0.0
+1,2,AISNE,Divers gaullistes,1426.0
+1,2,AISNE,Modérés,0.0
+1,2,AISNE,Mouvement Républicain Populaire,5049.0
+1,2,AISNE,"Mouvement Républicain Populaire, Vème République",0.0
+1,2,AISNE,Parti Socialiste Unifié,0.0
+1,2,AISNE,Parti communiste,48811.0
+1,2,AISNE,Poujadiste,0.0
+1,2,AISNE,Radicaux centristes,19078.0
+1,2,AISNE,Radicaux socialistes,0.0
+1,2,AISNE,"Républicains Indépendants,Vème République",0.0
+1,2,AISNE,Section Française de l'Internationale Ouvrière,40258.0
+1,2,AISNE,"Union pour la Nouvelle République, Union Pour le Travail",73607.0
+1,2,AISNE,abstentions,74917.0
+1,2,AISNE,blancs_nuls,7233.0
+1,3,ALLIER,Centre National des Indépendants,17880.0
+1,3,ALLIER,Divers,0.0
+1,3,ALLIER,Divers extrême droite,0.0
+1,3,ALLIER,Divers extrême gauche,0.0
+1,3,ALLIER,Divers gaullistes,0.0
+1,3,ALLIER,Modérés,7203.0
+1,3,ALLIER,Mouvement Républicain Populaire,1436.0
+1,3,ALLIER,"Mouvement Républicain Populaire, Vème République",0.0
+1,3,ALLIER,Parti Socialiste Unifié,0.0
+1,3,ALLIER,Parti communiste,46066.0
+1,3,ALLIER,Poujadiste,0.0
+1,3,ALLIER,Radicaux centristes,0.0
+1,3,ALLIER,Radicaux socialistes,19838.0
+1,3,ALLIER,"Républicains Indépendants,Vème République",0.0
+1,3,ALLIER,Section Française de l'Internationale Ouvrière,35021.0
+1,3,ALLIER,"Union pour la Nouvelle République, Union Pour le Travail",29787.0
+1,3,ALLIER,abstentions,82437.0
+1,3,ALLIER,blancs_nuls,3340.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Centre National des Indépendants,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Divers,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Divers extrême droite,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Divers extrême gauche,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Divers gaullistes,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Modérés,5877.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Mouvement Républicain Populaire,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,"Mouvement Républicain Populaire, Vème République",0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Parti Socialiste Unifié,2640.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Parti communiste,10222.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Poujadiste,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Radicaux centristes,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Radicaux socialistes,5625.0
+1,4,ALPES-DE-HAUTE-PROVENCE,"Républicains Indépendants,Vème République",0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Section Française de l'Internationale Ouvrière,6539.0
+1,4,ALPES-DE-HAUTE-PROVENCE,"Union pour la Nouvelle République, Union Pour le Travail",8472.0
+1,4,ALPES-DE-HAUTE-PROVENCE,abstentions,18536.0
+1,4,ALPES-DE-HAUTE-PROVENCE,blancs_nuls,1343.0
+1,5,HAUTES-ALPES,Centre National des Indépendants,0.0
+1,5,HAUTES-ALPES,Divers,0.0
+1,5,HAUTES-ALPES,Divers extrême droite,0.0
+1,5,HAUTES-ALPES,Divers extrême gauche,0.0
+1,5,HAUTES-ALPES,Divers gaullistes,0.0
+1,5,HAUTES-ALPES,Modérés,0.0
+1,5,HAUTES-ALPES,Mouvement Républicain Populaire,4960.0
+1,5,HAUTES-ALPES,"Mouvement Républicain Populaire, Vème République",0.0
+1,5,HAUTES-ALPES,Parti Socialiste Unifié,854.0
+1,5,HAUTES-ALPES,Parti communiste,6893.0
+1,5,HAUTES-ALPES,Poujadiste,0.0
+1,5,HAUTES-ALPES,Radicaux centristes,6544.0
+1,5,HAUTES-ALPES,Radicaux socialistes,4205.0
+1,5,HAUTES-ALPES,"Républicains Indépendants,Vème République",2597.0
+1,5,HAUTES-ALPES,Section Française de l'Internationale Ouvrière,0.0
+1,5,HAUTES-ALPES,"Union pour la Nouvelle République, Union Pour le Travail",8402.0
+1,5,HAUTES-ALPES,abstentions,19997.0
+1,5,HAUTES-ALPES,blancs_nuls,989.0
+1,6,ALPES-MARITIMES,Centre National des Indépendants,8531.0
+1,6,ALPES-MARITIMES,Divers,0.0
+1,6,ALPES-MARITIMES,Divers extrême droite,0.0
+1,6,ALPES-MARITIMES,Divers extrême gauche,0.0
+1,6,ALPES-MARITIMES,Divers gaullistes,7826.0
+1,6,ALPES-MARITIMES,Modérés,4021.0
+1,6,ALPES-MARITIMES,Mouvement Républicain Populaire,0.0
+1,6,ALPES-MARITIMES,"Mouvement Républicain Populaire, Vème République",0.0
+1,6,ALPES-MARITIMES,Parti Socialiste Unifié,1261.0
+1,6,ALPES-MARITIMES,Parti communiste,60776.0
+1,6,ALPES-MARITIMES,Poujadiste,1610.0
+1,6,ALPES-MARITIMES,Radicaux centristes,63062.0
+1,6,ALPES-MARITIMES,Radicaux socialistes,0.0
+1,6,ALPES-MARITIMES,"Républicains Indépendants,Vème République",0.0
+1,6,ALPES-MARITIMES,Section Française de l'Internationale Ouvrière,8700.0
+1,6,ALPES-MARITIMES,"Union pour la Nouvelle République, Union Pour le Travail",83717.0
+1,6,ALPES-MARITIMES,abstentions,111647.0
+1,6,ALPES-MARITIMES,blancs_nuls,6584.0
+1,7,ARDECHE,Centre National des Indépendants,8748.0
+1,7,ARDECHE,Divers,0.0
+1,7,ARDECHE,Divers extrême droite,0.0
+1,7,ARDECHE,Divers extrême gauche,0.0
+1,7,ARDECHE,Divers gaullistes,0.0
+1,7,ARDECHE,Modérés,30237.0
+1,7,ARDECHE,Mouvement Républicain Populaire,12333.0
+1,7,ARDECHE,"Mouvement Républicain Populaire, Vème République",0.0
+1,7,ARDECHE,Parti Socialiste Unifié,0.0
+1,7,ARDECHE,Parti communiste,24239.0
+1,7,ARDECHE,Poujadiste,0.0
+1,7,ARDECHE,Radicaux centristes,0.0
+1,7,ARDECHE,Radicaux socialistes,0.0
+1,7,ARDECHE,"Républicains Indépendants,Vème République",0.0
+1,7,ARDECHE,Section Française de l'Internationale Ouvrière,11647.0
+1,7,ARDECHE,"Union pour la Nouvelle République, Union Pour le Travail",21905.0
+1,7,ARDECHE,abstentions,51376.0
+1,7,ARDECHE,blancs_nuls,3661.0
+1,8,ARDENNES,Centre National des Indépendants,10596.0
+1,8,ARDENNES,Divers,0.0
+1,8,ARDENNES,Divers extrême droite,0.0
+1,8,ARDENNES,Divers extrême gauche,0.0
+1,8,ARDENNES,Divers gaullistes,0.0
+1,8,ARDENNES,Modérés,4631.0
+1,8,ARDENNES,Mouvement Républicain Populaire,14334.0
+1,8,ARDENNES,"Mouvement Républicain Populaire, Vème République",0.0
+1,8,ARDENNES,Parti Socialiste Unifié,12889.0
+1,8,ARDENNES,Parti communiste,23963.0
+1,8,ARDENNES,Poujadiste,0.0
+1,8,ARDENNES,Radicaux centristes,0.0
+1,8,ARDENNES,Radicaux socialistes,0.0
+1,8,ARDENNES,"Républicains Indépendants,Vème République",0.0
+1,8,ARDENNES,Section Française de l'Internationale Ouvrière,8787.0
+1,8,ARDENNES,"Union pour la Nouvelle République, Union Pour le Travail",37854.0
+1,8,ARDENNES,abstentions,49881.0
+1,8,ARDENNES,blancs_nuls,3207.0
+1,9,ARIEGE,Centre National des Indépendants,0.0
+1,9,ARIEGE,Divers,0.0
+1,9,ARIEGE,Divers extrême droite,0.0
+1,9,ARIEGE,Divers extrême gauche,0.0
+1,9,ARIEGE,Divers gaullistes,0.0
+1,9,ARIEGE,Modérés,0.0
+1,9,ARIEGE,Mouvement Républicain Populaire,0.0
+1,9,ARIEGE,"Mouvement Républicain Populaire, Vème République",7612.0
+1,9,ARIEGE,Parti Socialiste Unifié,3799.0
+1,9,ARIEGE,Parti communiste,16423.0
+1,9,ARIEGE,Poujadiste,0.0
+1,9,ARIEGE,Radicaux centristes,0.0
+1,9,ARIEGE,Radicaux socialistes,0.0
+1,9,ARIEGE,"Républicains Indépendants,Vème République",0.0
+1,9,ARIEGE,Section Française de l'Internationale Ouvrière,26765.0
+1,9,ARIEGE,"Union pour la Nouvelle République, Union Pour le Travail",6656.0
+1,9,ARIEGE,abstentions,31451.0
+1,9,ARIEGE,blancs_nuls,2326.0
+1,10,AUBE,Centre National des Indépendants,11758.0
+1,10,AUBE,Divers,0.0
+1,10,AUBE,Divers extrême droite,0.0
+1,10,AUBE,Divers extrême gauche,0.0
+1,10,AUBE,Divers gaullistes,0.0
+1,10,AUBE,Modérés,9889.0
+1,10,AUBE,Mouvement Républicain Populaire,4399.0
+1,10,AUBE,"Mouvement Républicain Populaire, Vème République",0.0
+1,10,AUBE,Parti Socialiste Unifié,0.0
+1,10,AUBE,Parti communiste,24710.0
+1,10,AUBE,Poujadiste,0.0
+1,10,AUBE,Radicaux centristes,0.0
+1,10,AUBE,Radicaux socialistes,1916.0
+1,10,AUBE,"Républicains Indépendants,Vème République",0.0
+1,10,AUBE,Section Française de l'Internationale Ouvrière,14413.0
+1,10,AUBE,"Union pour la Nouvelle République, Union Pour le Travail",31840.0
+1,10,AUBE,abstentions,49012.0
+1,10,AUBE,blancs_nuls,3706.0
+1,11,AUDE,Centre National des Indépendants,0.0
+1,11,AUDE,Divers,0.0
+1,11,AUDE,Divers extrême droite,0.0
+1,11,AUDE,Divers extrême gauche,0.0
+1,11,AUDE,Divers gaullistes,0.0
+1,11,AUDE,Modérés,0.0
+1,11,AUDE,Mouvement Républicain Populaire,6987.0
+1,11,AUDE,"Mouvement Républicain Populaire, Vème République",0.0
+1,11,AUDE,Parti Socialiste Unifié,4396.0
+1,11,AUDE,Parti communiste,23416.0
+1,11,AUDE,Poujadiste,0.0
+1,11,AUDE,Radicaux centristes,0.0
+1,11,AUDE,Radicaux socialistes,10137.0
+1,11,AUDE,"Républicains Indépendants,Vème République",0.0
+1,11,AUDE,Section Française de l'Internationale Ouvrière,50205.0
+1,11,AUDE,"Union pour la Nouvelle République, Union Pour le Travail",23332.0
+1,11,AUDE,abstentions,48240.0
+1,11,AUDE,blancs_nuls,4891.0
+1,12,AVEYRON,Centre National des Indépendants,20392.0
+1,12,AVEYRON,Divers,0.0
+1,12,AVEYRON,Divers extrême droite,0.0
+1,12,AVEYRON,Divers extrême gauche,0.0
+1,12,AVEYRON,Divers gaullistes,0.0
+1,12,AVEYRON,Modérés,27573.0
+1,12,AVEYRON,Mouvement Républicain Populaire,12597.0
+1,12,AVEYRON,"Mouvement Républicain Populaire, Vème République",2886.0
+1,12,AVEYRON,Parti Socialiste Unifié,0.0
+1,12,AVEYRON,Parti communiste,14927.0
+1,12,AVEYRON,Poujadiste,0.0
+1,12,AVEYRON,Radicaux centristes,0.0
+1,12,AVEYRON,Radicaux socialistes,28495.0
+1,12,AVEYRON,"Républicains Indépendants,Vème République",0.0
+1,12,AVEYRON,Section Française de l'Internationale Ouvrière,4417.0
+1,12,AVEYRON,"Union pour la Nouvelle République, Union Pour le Travail",17565.0
+1,12,AVEYRON,abstentions,55611.0
+1,12,AVEYRON,blancs_nuls,8180.0
+1,13,BOUCHES-DU-RHONE,Centre National des Indépendants,42432.0
+1,13,BOUCHES-DU-RHONE,Divers,0.0
+1,13,BOUCHES-DU-RHONE,Divers extrême droite,10658.0
+1,13,BOUCHES-DU-RHONE,Divers extrême gauche,0.0
+1,13,BOUCHES-DU-RHONE,Divers gaullistes,4648.0
+1,13,BOUCHES-DU-RHONE,Modérés,9701.0
+1,13,BOUCHES-DU-RHONE,Mouvement Républicain Populaire,20549.0
+1,13,BOUCHES-DU-RHONE,"Mouvement Républicain Populaire, Vème République",0.0
+1,13,BOUCHES-DU-RHONE,Parti Socialiste Unifié,0.0
+1,13,BOUCHES-DU-RHONE,Parti communiste,132879.0
+1,13,BOUCHES-DU-RHONE,Poujadiste,0.0
+1,13,BOUCHES-DU-RHONE,Radicaux centristes,846.0
+1,13,BOUCHES-DU-RHONE,Radicaux socialistes,7459.0
+1,13,BOUCHES-DU-RHONE,"Républicains Indépendants,Vème République",0.0
+1,13,BOUCHES-DU-RHONE,Section Française de l'Internationale Ouvrière,116464.0
+1,13,BOUCHES-DU-RHONE,"Union pour la Nouvelle République, Union Pour le Travail",87533.0
+1,13,BOUCHES-DU-RHONE,abstentions,249476.0
+1,13,BOUCHES-DU-RHONE,blancs_nuls,10854.0
+1,14,CALVADOS,Centre National des Indépendants,24747.0
+1,14,CALVADOS,Divers,0.0
+1,14,CALVADOS,Divers extrême droite,0.0
+1,14,CALVADOS,Divers extrême gauche,0.0
+1,14,CALVADOS,Divers gaullistes,0.0
+1,14,CALVADOS,Modérés,0.0
+1,14,CALVADOS,Mouvement Républicain Populaire,9054.0
+1,14,CALVADOS,"Mouvement Républicain Populaire, Vème République",0.0
+1,14,CALVADOS,Parti Socialiste Unifié,2517.0
+1,14,CALVADOS,Parti communiste,28467.0
+1,14,CALVADOS,Poujadiste,0.0
+1,14,CALVADOS,Radicaux centristes,0.0
+1,14,CALVADOS,Radicaux socialistes,6040.0
+1,14,CALVADOS,"Républicains Indépendants,Vème République",15336.0
+1,14,CALVADOS,Section Française de l'Internationale Ouvrière,6062.0
+1,14,CALVADOS,"Union pour la Nouvelle République, Union Pour le Travail",79533.0
+1,14,CALVADOS,abstentions,96327.0
+1,14,CALVADOS,blancs_nuls,6000.0
+1,15,CANTAL,Centre National des Indépendants,5489.0
+1,15,CANTAL,Divers,0.0
+1,15,CANTAL,Divers extrême droite,0.0
+1,15,CANTAL,Divers extrême gauche,0.0
+1,15,CANTAL,Divers gaullistes,0.0
+1,15,CANTAL,Modérés,0.0
+1,15,CANTAL,Mouvement Républicain Populaire,4851.0
+1,15,CANTAL,"Mouvement Républicain Populaire, Vème République",0.0
+1,15,CANTAL,Parti Socialiste Unifié,0.0
+1,15,CANTAL,Parti communiste,9714.0
+1,15,CANTAL,Poujadiste,0.0
+1,15,CANTAL,Radicaux centristes,19699.0
+1,15,CANTAL,Radicaux socialistes,0.0
+1,15,CANTAL,"Républicains Indépendants,Vème République",0.0
+1,15,CANTAL,Section Française de l'Internationale Ouvrière,9332.0
+1,15,CANTAL,"Union pour la Nouvelle République, Union Pour le Travail",13318.0
+1,15,CANTAL,abstentions,47086.0
+1,15,CANTAL,blancs_nuls,2710.0
+1,16,CHARENTE,Centre National des Indépendants,12109.0
+1,16,CHARENTE,Divers,0.0
+1,16,CHARENTE,Divers extrême droite,0.0
+1,16,CHARENTE,Divers extrême gauche,0.0
+1,16,CHARENTE,Divers gaullistes,0.0
+1,16,CHARENTE,Modérés,12560.0
+1,16,CHARENTE,Mouvement Républicain Populaire,4936.0
+1,16,CHARENTE,"Mouvement Républicain Populaire, Vème République",0.0
+1,16,CHARENTE,Parti Socialiste Unifié,0.0
+1,16,CHARENTE,Parti communiste,34357.0
+1,16,CHARENTE,Poujadiste,0.0
+1,16,CHARENTE,Radicaux centristes,0.0
+1,16,CHARENTE,Radicaux socialistes,26740.0
+1,16,CHARENTE,"Républicains Indépendants,Vème République",0.0
+1,16,CHARENTE,Section Française de l'Internationale Ouvrière,6611.0
+1,16,CHARENTE,"Union pour la Nouvelle République, Union Pour le Travail",36316.0
+1,16,CHARENTE,abstentions,67227.0
+1,16,CHARENTE,blancs_nuls,4551.0
+1,17,CHARENTE-MARITIME,Centre National des Indépendants,42847.0
+1,17,CHARENTE-MARITIME,Divers,0.0
+1,17,CHARENTE-MARITIME,Divers extrême droite,0.0
+1,17,CHARENTE-MARITIME,Divers extrême gauche,0.0
+1,17,CHARENTE-MARITIME,Divers gaullistes,0.0
+1,17,CHARENTE-MARITIME,Modérés,3981.0
+1,17,CHARENTE-MARITIME,Mouvement Républicain Populaire,1602.0
+1,17,CHARENTE-MARITIME,"Mouvement Républicain Populaire, Vème République",0.0
+1,17,CHARENTE-MARITIME,Parti Socialiste Unifié,4759.0
+1,17,CHARENTE-MARITIME,Parti communiste,28806.0
+1,17,CHARENTE-MARITIME,Poujadiste,0.0
+1,17,CHARENTE-MARITIME,Radicaux centristes,4096.0
+1,17,CHARENTE-MARITIME,Radicaux socialistes,18287.0
+1,17,CHARENTE-MARITIME,"Républicains Indépendants,Vème République",0.0
+1,17,CHARENTE-MARITIME,Section Française de l'Internationale Ouvrière,8795.0
+1,17,CHARENTE-MARITIME,"Union pour la Nouvelle République, Union Pour le Travail",53052.0
+1,17,CHARENTE-MARITIME,abstentions,111717.0
+1,17,CHARENTE-MARITIME,blancs_nuls,7189.0
+1,18,CHER,Centre National des Indépendants,0.0
+1,18,CHER,Divers,0.0
+1,18,CHER,Divers extrême droite,3044.0
+1,18,CHER,Divers extrême gauche,0.0
+1,18,CHER,Divers gaullistes,0.0
+1,18,CHER,Modérés,19054.0
+1,18,CHER,Mouvement Républicain Populaire,0.0
+1,18,CHER,"Mouvement Républicain Populaire, Vème République",0.0
+1,18,CHER,Parti Socialiste Unifié,0.0
+1,18,CHER,Parti communiste,40866.0
+1,18,CHER,Poujadiste,0.0
+1,18,CHER,Radicaux centristes,0.0
+1,18,CHER,Radicaux socialistes,9660.0
+1,18,CHER,"Républicains Indépendants,Vème République",0.0
+1,18,CHER,Section Française de l'Internationale Ouvrière,4401.0
+1,18,CHER,"Union pour la Nouvelle République, Union Pour le Travail",41936.0
+1,18,CHER,abstentions,62951.0
+1,18,CHER,blancs_nuls,3159.0
+1,19,CORREZE,Centre National des Indépendants,0.0
+1,19,CORREZE,Divers,0.0
+1,19,CORREZE,Divers extrême droite,0.0
+1,19,CORREZE,Divers extrême gauche,0.0
+1,19,CORREZE,Divers gaullistes,0.0
+1,19,CORREZE,Modérés,4876.0
+1,19,CORREZE,Mouvement Républicain Populaire,0.0
+1,19,CORREZE,"Mouvement Républicain Populaire, Vème République",0.0
+1,19,CORREZE,Parti Socialiste Unifié,6713.0
+1,19,CORREZE,Parti communiste,39154.0
+1,19,CORREZE,Poujadiste,0.0
+1,19,CORREZE,Radicaux centristes,0.0
+1,19,CORREZE,Radicaux socialistes,6319.0
+1,19,CORREZE,"Républicains Indépendants,Vème République",0.0
+1,19,CORREZE,Section Française de l'Internationale Ouvrière,26531.0
+1,19,CORREZE,"Union pour la Nouvelle République, Union Pour le Travail",29071.0
+1,19,CORREZE,abstentions,48124.0
+1,19,CORREZE,blancs_nuls,2484.0
+1,20,CORSE,Centre National des Indépendants,7177.0
+1,20,CORSE,Divers,443.0
+1,20,CORSE,Divers extrême droite,0.0
+1,20,CORSE,Divers extrême gauche,0.0
+1,20,CORSE,Divers gaullistes,0.0
+1,20,CORSE,Modérés,6590.0
+1,20,CORSE,Mouvement Républicain Populaire,0.0
+1,20,CORSE,"Mouvement Républicain Populaire, Vème République",0.0
+1,20,CORSE,Parti Socialiste Unifié,0.0
+1,20,CORSE,Parti communiste,14070.0
+1,20,CORSE,Poujadiste,0.0
+1,20,CORSE,Radicaux centristes,17933.0
+1,20,CORSE,Radicaux socialistes,28719.0
+1,20,CORSE,"Républicains Indépendants,Vème République",0.0
+1,20,CORSE,Section Française de l'Internationale Ouvrière,0.0
+1,20,CORSE,"Union pour la Nouvelle République, Union Pour le Travail",22828.0
+1,20,CORSE,abstentions,70739.0
+1,20,CORSE,blancs_nuls,633.0
+1,21,COTE-D'OR,Centre National des Indépendants,31231.0
+1,21,COTE-D'OR,Divers,0.0
+1,21,COTE-D'OR,Divers extrême droite,1585.0
+1,21,COTE-D'OR,Divers extrême gauche,0.0
+1,21,COTE-D'OR,Divers gaullistes,0.0
+1,21,COTE-D'OR,Modérés,14799.0
+1,21,COTE-D'OR,Mouvement Républicain Populaire,4581.0
+1,21,COTE-D'OR,"Mouvement Républicain Populaire, Vème République",0.0
+1,21,COTE-D'OR,Parti Socialiste Unifié,0.0
+1,21,COTE-D'OR,Parti communiste,21695.0
+1,21,COTE-D'OR,Poujadiste,0.0
+1,21,COTE-D'OR,Radicaux centristes,0.0
+1,21,COTE-D'OR,Radicaux socialistes,11701.0
+1,21,COTE-D'OR,"Républicains Indépendants,Vème République",0.0
+1,21,COTE-D'OR,Section Française de l'Internationale Ouvrière,15090.0
+1,21,COTE-D'OR,"Union pour la Nouvelle République, Union Pour le Travail",34700.0
+1,21,COTE-D'OR,abstentions,83651.0
+1,21,COTE-D'OR,blancs_nuls,5805.0
+1,22,COTES-D'ARMOR,Centre National des Indépendants,0.0
+1,22,COTES-D'ARMOR,Divers,471.0
+1,22,COTES-D'ARMOR,Divers extrême droite,0.0
+1,22,COTES-D'ARMOR,Divers extrême gauche,3156.0
+1,22,COTES-D'ARMOR,Divers gaullistes,0.0
+1,22,COTES-D'ARMOR,Modérés,10208.0
+1,22,COTES-D'ARMOR,Mouvement Républicain Populaire,26907.0
+1,22,COTES-D'ARMOR,"Mouvement Républicain Populaire, Vème République",12996.0
+1,22,COTES-D'ARMOR,Parti Socialiste Unifié,28685.0
+1,22,COTES-D'ARMOR,Parti communiste,50634.0
+1,22,COTES-D'ARMOR,Poujadiste,0.0
+1,22,COTES-D'ARMOR,Radicaux centristes,45269.0
+1,22,COTES-D'ARMOR,Radicaux socialistes,0.0
+1,22,COTES-D'ARMOR,"Républicains Indépendants,Vème République",0.0
+1,22,COTES-D'ARMOR,Section Française de l'Internationale Ouvrière,5267.0
+1,22,COTES-D'ARMOR,"Union pour la Nouvelle République, Union Pour le Travail",38680.0
+1,22,COTES-D'ARMOR,abstentions,101583.0
+1,22,COTES-D'ARMOR,blancs_nuls,6771.0
+1,23,CREUSE,Centre National des Indépendants,0.0
+1,23,CREUSE,Divers,0.0
+1,23,CREUSE,Divers extrême droite,0.0
+1,23,CREUSE,Divers extrême gauche,0.0
+1,23,CREUSE,Divers gaullistes,0.0
+1,23,CREUSE,Modérés,0.0
+1,23,CREUSE,Mouvement Républicain Populaire,0.0
+1,23,CREUSE,"Mouvement Républicain Populaire, Vème République",0.0
+1,23,CREUSE,Parti Socialiste Unifié,6020.0
+1,23,CREUSE,Parti communiste,19018.0
+1,23,CREUSE,Poujadiste,0.0
+1,23,CREUSE,Radicaux centristes,9812.0
+1,23,CREUSE,Radicaux socialistes,0.0
+1,23,CREUSE,"Républicains Indépendants,Vème République",3335.0
+1,23,CREUSE,Section Française de l'Internationale Ouvrière,18507.0
+1,23,CREUSE,"Union pour la Nouvelle République, Union Pour le Travail",8742.0
+1,23,CREUSE,abstentions,49705.0
+1,23,CREUSE,blancs_nuls,1635.0
+1,24,DORDOGNE,Centre National des Indépendants,0.0
+1,24,DORDOGNE,Divers,0.0
+1,24,DORDOGNE,Divers extrême droite,0.0
+1,24,DORDOGNE,Divers extrême gauche,0.0
+1,24,DORDOGNE,Divers gaullistes,0.0
+1,24,DORDOGNE,Modérés,9180.0
+1,24,DORDOGNE,Mouvement Républicain Populaire,0.0
+1,24,DORDOGNE,"Mouvement Républicain Populaire, Vème République",0.0
+1,24,DORDOGNE,Parti Socialiste Unifié,0.0
+1,24,DORDOGNE,Parti communiste,45238.0
+1,24,DORDOGNE,Poujadiste,0.0
+1,24,DORDOGNE,Radicaux centristes,21590.0
+1,24,DORDOGNE,Radicaux socialistes,18909.0
+1,24,DORDOGNE,"Républicains Indépendants,Vème République",0.0
+1,24,DORDOGNE,Section Française de l'Internationale Ouvrière,42175.0
+1,24,DORDOGNE,"Union pour la Nouvelle République, Union Pour le Travail",39821.0
+1,24,DORDOGNE,abstentions,70194.0
+1,24,DORDOGNE,blancs_nuls,5198.0
+1,25,DOUBS,Centre National des Indépendants,11549.0
+1,25,DOUBS,Divers,686.0
+1,25,DOUBS,Divers extrême droite,0.0
+1,25,DOUBS,Divers extrême gauche,0.0
+1,25,DOUBS,Divers gaullistes,0.0
+1,25,DOUBS,Modérés,0.0
+1,25,DOUBS,Mouvement Républicain Populaire,12580.0
+1,25,DOUBS,"Mouvement Républicain Populaire, Vème République",0.0
+1,25,DOUBS,Parti Socialiste Unifié,0.0
+1,25,DOUBS,Parti communiste,17320.0
+1,25,DOUBS,Poujadiste,0.0
+1,25,DOUBS,Radicaux centristes,0.0
+1,25,DOUBS,Radicaux socialistes,2181.0
+1,25,DOUBS,"Républicains Indépendants,Vème République",0.0
+1,25,DOUBS,Section Française de l'Internationale Ouvrière,33281.0
+1,25,DOUBS,"Union pour la Nouvelle République, Union Pour le Travail",64937.0
+1,25,DOUBS,abstentions,62502.0
+1,25,DOUBS,blancs_nuls,3586.0
+1,26,DROME,Centre National des Indépendants,8646.0
+1,26,DROME,Divers,0.0
+1,26,DROME,Divers extrême droite,0.0
+1,26,DROME,Divers extrême gauche,0.0
+1,26,DROME,Divers gaullistes,0.0
+1,26,DROME,Modérés,0.0
+1,26,DROME,Mouvement Républicain Populaire,12002.0
+1,26,DROME,"Mouvement Républicain Populaire, Vème République",0.0
+1,26,DROME,Parti Socialiste Unifié,0.0
+1,26,DROME,Parti communiste,26671.0
+1,26,DROME,Poujadiste,2470.0
+1,26,DROME,Radicaux centristes,0.0
+1,26,DROME,Radicaux socialistes,5492.0
+1,26,DROME,"Républicains Indépendants,Vème République",9350.0
+1,26,DROME,Section Française de l'Internationale Ouvrière,24711.0
+1,26,DROME,"Union pour la Nouvelle République, Union Pour le Travail",30161.0
+1,26,DROME,abstentions,61157.0
+1,26,DROME,blancs_nuls,2619.0
+1,27,EURE,Centre National des Indépendants,0.0
+1,27,EURE,Divers,0.0
+1,27,EURE,Divers extrême droite,0.0
+1,27,EURE,Divers extrême gauche,0.0
+1,27,EURE,Divers gaullistes,0.0
+1,27,EURE,Modérés,25836.0
+1,27,EURE,Mouvement Républicain Populaire,2428.0
+1,27,EURE,"Mouvement Républicain Populaire, Vème République",0.0
+1,27,EURE,Parti Socialiste Unifié,19997.0
+1,27,EURE,Parti communiste,24244.0
+1,27,EURE,Poujadiste,0.0
+1,27,EURE,Radicaux centristes,0.0
+1,27,EURE,Radicaux socialistes,0.0
+1,27,EURE,"Républicains Indépendants,Vème République",22147.0
+1,27,EURE,Section Française de l'Internationale Ouvrière,9708.0
+1,27,EURE,"Union pour la Nouvelle République, Union Pour le Travail",37226.0
+1,27,EURE,abstentions,58180.0
+1,27,EURE,blancs_nuls,6876.0
+1,28,EURE-ET-LOIR,Centre National des Indépendants,6638.0
+1,28,EURE-ET-LOIR,Divers,0.0
+1,28,EURE-ET-LOIR,Divers extrême droite,0.0
+1,28,EURE-ET-LOIR,Divers extrême gauche,0.0
+1,28,EURE-ET-LOIR,Divers gaullistes,0.0
+1,28,EURE-ET-LOIR,Modérés,1595.0
+1,28,EURE-ET-LOIR,Mouvement Républicain Populaire,0.0
+1,28,EURE-ET-LOIR,"Mouvement Républicain Populaire, Vème République",0.0
+1,28,EURE-ET-LOIR,Parti Socialiste Unifié,2726.0
+1,28,EURE-ET-LOIR,Parti communiste,18962.0
+1,28,EURE-ET-LOIR,Poujadiste,0.0
+1,28,EURE-ET-LOIR,Radicaux centristes,0.0
+1,28,EURE-ET-LOIR,Radicaux socialistes,26804.0
+1,28,EURE-ET-LOIR,"Républicains Indépendants,Vème République",0.0
+1,28,EURE-ET-LOIR,Section Française de l'Internationale Ouvrière,6913.0
+1,28,EURE-ET-LOIR,"Union pour la Nouvelle République, Union Pour le Travail",44219.0
+1,28,EURE-ET-LOIR,abstentions,55178.0
+1,28,EURE-ET-LOIR,blancs_nuls,4795.0
+1,29,FINISTERE,Centre National des Indépendants,20101.0
+1,29,FINISTERE,Divers,674.0
+1,29,FINISTERE,Divers extrême droite,0.0
+1,29,FINISTERE,Divers extrême gauche,0.0
+1,29,FINISTERE,Divers gaullistes,0.0
+1,29,FINISTERE,Modérés,27117.0
+1,29,FINISTERE,Mouvement Républicain Populaire,65512.0
+1,29,FINISTERE,"Mouvement Républicain Populaire, Vème République",0.0
+1,29,FINISTERE,Parti Socialiste Unifié,14712.0
+1,29,FINISTERE,Parti communiste,52305.0
+1,29,FINISTERE,Poujadiste,0.0
+1,29,FINISTERE,Radicaux centristes,8534.0
+1,29,FINISTERE,Radicaux socialistes,8414.0
+1,29,FINISTERE,"Républicains Indépendants,Vème République",0.0
+1,29,FINISTERE,Section Française de l'Internationale Ouvrière,18941.0
+1,29,FINISTERE,"Union pour la Nouvelle République, Union Pour le Travail",125735.0
+1,29,FINISTERE,abstentions,152332.0
+1,29,FINISTERE,blancs_nuls,4590.0
+1,30,GARD,Centre National des Indépendants,21239.0
+1,30,GARD,Divers,0.0
+1,30,GARD,Divers extrême droite,0.0
+1,30,GARD,Divers extrême gauche,0.0
+1,30,GARD,Divers gaullistes,0.0
+1,30,GARD,Modérés,0.0
+1,30,GARD,Mouvement Républicain Populaire,14091.0
+1,30,GARD,"Mouvement Républicain Populaire, Vème République",0.0
+1,30,GARD,Parti Socialiste Unifié,16265.0
+1,30,GARD,Parti communiste,55052.0
+1,30,GARD,Poujadiste,1561.0
+1,30,GARD,Radicaux centristes,0.0
+1,30,GARD,Radicaux socialistes,2239.0
+1,30,GARD,"Républicains Indépendants,Vème République",0.0
+1,30,GARD,Section Française de l'Internationale Ouvrière,15796.0
+1,30,GARD,"Union pour la Nouvelle République, Union Pour le Travail",42948.0
+1,30,GARD,abstentions,88340.0
+1,30,GARD,blancs_nuls,5348.0
+1,31,HAUTE-GARONNE,Centre National des Indépendants,9731.0
+1,31,HAUTE-GARONNE,Divers,0.0
+1,31,HAUTE-GARONNE,Divers extrême droite,8854.0
+1,31,HAUTE-GARONNE,Divers extrême gauche,0.0
+1,31,HAUTE-GARONNE,Divers gaullistes,0.0
+1,31,HAUTE-GARONNE,Modérés,0.0
+1,31,HAUTE-GARONNE,Mouvement Républicain Populaire,7289.0
+1,31,HAUTE-GARONNE,"Mouvement Républicain Populaire, Vème République",19901.0
+1,31,HAUTE-GARONNE,Parti Socialiste Unifié,13217.0
+1,31,HAUTE-GARONNE,Parti communiste,42923.0
+1,31,HAUTE-GARONNE,Poujadiste,1854.0
+1,31,HAUTE-GARONNE,Radicaux centristes,0.0
+1,31,HAUTE-GARONNE,Radicaux socialistes,21521.0
+1,31,HAUTE-GARONNE,"Républicains Indépendants,Vème République",0.0
+1,31,HAUTE-GARONNE,Section Française de l'Internationale Ouvrière,63600.0
+1,31,HAUTE-GARONNE,"Union pour la Nouvelle République, Union Pour le Travail",47917.0
+1,31,HAUTE-GARONNE,abstentions,117549.0
+1,31,HAUTE-GARONNE,blancs_nuls,9404.0
+1,32,GERS,Centre National des Indépendants,0.0
+1,32,GERS,Divers,0.0
+1,32,GERS,Divers extrême droite,0.0
+1,32,GERS,Divers extrême gauche,0.0
+1,32,GERS,Divers gaullistes,0.0
+1,32,GERS,Modérés,0.0
+1,32,GERS,Mouvement Républicain Populaire,0.0
+1,32,GERS,"Mouvement Républicain Populaire, Vème République",0.0
+1,32,GERS,Parti Socialiste Unifié,0.0
+1,32,GERS,Parti communiste,12465.0
+1,32,GERS,Poujadiste,1507.0
+1,32,GERS,Radicaux centristes,13659.0
+1,32,GERS,Radicaux socialistes,15818.0
+1,32,GERS,"Républicains Indépendants,Vème République",0.0
+1,32,GERS,Section Française de l'Internationale Ouvrière,14651.0
+1,32,GERS,"Union pour la Nouvelle République, Union Pour le Travail",11135.0
+1,32,GERS,abstentions,42387.0
+1,32,GERS,blancs_nuls,2184.0
+1,33,GIRONDE,Centre National des Indépendants,58066.0
+1,33,GIRONDE,Divers,0.0
+1,33,GIRONDE,Divers extrême droite,239.0
+1,33,GIRONDE,Divers extrême gauche,0.0
+1,33,GIRONDE,Divers gaullistes,0.0
+1,33,GIRONDE,Modérés,2986.0
+1,33,GIRONDE,Mouvement Républicain Populaire,6197.0
+1,33,GIRONDE,"Mouvement Républicain Populaire, Vème République",0.0
+1,33,GIRONDE,Parti Socialiste Unifié,2847.0
+1,33,GIRONDE,Parti communiste,56321.0
+1,33,GIRONDE,Poujadiste,3169.0
+1,33,GIRONDE,Radicaux centristes,0.0
+1,33,GIRONDE,Radicaux socialistes,12345.0
+1,33,GIRONDE,"Républicains Indépendants,Vème République",0.0
+1,33,GIRONDE,Section Française de l'Internationale Ouvrière,66059.0
+1,33,GIRONDE,"Union pour la Nouvelle République, Union Pour le Travail",149273.0
+1,33,GIRONDE,abstentions,200217.0
+1,33,GIRONDE,blancs_nuls,9291.0
+1,34,HERAULT,Centre National des Indépendants,12883.0
+1,34,HERAULT,Divers,0.0
+1,34,HERAULT,Divers extrême droite,0.0
+1,34,HERAULT,Divers extrême gauche,0.0
+1,34,HERAULT,Divers gaullistes,0.0
+1,34,HERAULT,Modérés,3026.0
+1,34,HERAULT,Mouvement Républicain Populaire,18004.0
+1,34,HERAULT,"Mouvement Républicain Populaire, Vème République",0.0
+1,34,HERAULT,Parti Socialiste Unifié,0.0
+1,34,HERAULT,Parti communiste,52406.0
+1,34,HERAULT,Poujadiste,0.0
+1,34,HERAULT,Radicaux centristes,0.0
+1,34,HERAULT,Radicaux socialistes,12446.0
+1,34,HERAULT,"Républicains Indépendants,Vème République",0.0
+1,34,HERAULT,Section Française de l'Internationale Ouvrière,48034.0
+1,34,HERAULT,"Union pour la Nouvelle République, Union Pour le Travail",43820.0
+1,34,HERAULT,abstentions,106361.0
+1,34,HERAULT,blancs_nuls,7707.0
+1,35,ILLE-ET-VILAINE,Centre National des Indépendants,23690.0
+1,35,ILLE-ET-VILAINE,Divers,680.0
+1,35,ILLE-ET-VILAINE,Divers extrême droite,0.0
+1,35,ILLE-ET-VILAINE,Divers extrême gauche,2074.0
+1,35,ILLE-ET-VILAINE,Divers gaullistes,6561.0
+1,35,ILLE-ET-VILAINE,Modérés,0.0
+1,35,ILLE-ET-VILAINE,Mouvement Républicain Populaire,72649.0
+1,35,ILLE-ET-VILAINE,"Mouvement Républicain Populaire, Vème République",0.0
+1,35,ILLE-ET-VILAINE,Parti Socialiste Unifié,5178.0
+1,35,ILLE-ET-VILAINE,Parti communiste,24995.0
+1,35,ILLE-ET-VILAINE,Poujadiste,0.0
+1,35,ILLE-ET-VILAINE,Radicaux centristes,0.0
+1,35,ILLE-ET-VILAINE,Radicaux socialistes,3065.0
+1,35,ILLE-ET-VILAINE,"Républicains Indépendants,Vème République",20210.0
+1,35,ILLE-ET-VILAINE,Section Française de l'Internationale Ouvrière,12913.0
+1,35,ILLE-ET-VILAINE,"Union pour la Nouvelle République, Union Pour le Travail",76675.0
+1,35,ILLE-ET-VILAINE,abstentions,118868.0
+1,35,ILLE-ET-VILAINE,blancs_nuls,8274.0
+1,36,INDRE,Centre National des Indépendants,11871.0
+1,36,INDRE,Divers,0.0
+1,36,INDRE,Divers extrême droite,0.0
+1,36,INDRE,Divers extrême gauche,0.0
+1,36,INDRE,Divers gaullistes,0.0
+1,36,INDRE,Modérés,8416.0
+1,36,INDRE,Mouvement Républicain Populaire,0.0
+1,36,INDRE,"Mouvement Républicain Populaire, Vème République",0.0
+1,36,INDRE,Parti Socialiste Unifié,0.0
+1,36,INDRE,Parti communiste,29140.0
+1,36,INDRE,Poujadiste,0.0
+1,36,INDRE,Radicaux centristes,7676.0
+1,36,INDRE,Radicaux socialistes,0.0
+1,36,INDRE,"Républicains Indépendants,Vème République",0.0
+1,36,INDRE,Section Française de l'Internationale Ouvrière,21353.0
+1,36,INDRE,"Union pour la Nouvelle République, Union Pour le Travail",23610.0
+1,36,INDRE,abstentions,55933.0
+1,36,INDRE,blancs_nuls,3385.0
+1,37,INDRE-ET-LOIRE,Centre National des Indépendants,4851.0
+1,37,INDRE-ET-LOIRE,Divers,735.0
+1,37,INDRE-ET-LOIRE,Divers extrême droite,1066.0
+1,37,INDRE-ET-LOIRE,Divers extrême gauche,0.0
+1,37,INDRE-ET-LOIRE,Divers gaullistes,0.0
+1,37,INDRE-ET-LOIRE,Modérés,2232.0
+1,37,INDRE-ET-LOIRE,Mouvement Républicain Populaire,0.0
+1,37,INDRE-ET-LOIRE,"Mouvement Républicain Populaire, Vème République",0.0
+1,37,INDRE-ET-LOIRE,Parti Socialiste Unifié,2962.0
+1,37,INDRE-ET-LOIRE,Parti communiste,28607.0
+1,37,INDRE-ET-LOIRE,Poujadiste,0.0
+1,37,INDRE-ET-LOIRE,Radicaux centristes,1727.0
+1,37,INDRE-ET-LOIRE,Radicaux socialistes,21905.0
+1,37,INDRE-ET-LOIRE,"Républicains Indépendants,Vème République",0.0
+1,37,INDRE-ET-LOIRE,Section Française de l'Internationale Ouvrière,9285.0
+1,37,INDRE-ET-LOIRE,"Union pour la Nouvelle République, Union Pour le Travail",74971.0
+1,37,INDRE-ET-LOIRE,abstentions,83084.0
+1,37,INDRE-ET-LOIRE,blancs_nuls,5871.0
+1,38,ISERE,Centre National des Indépendants,15853.0
+1,38,ISERE,Divers,332.0
+1,38,ISERE,Divers extrême droite,0.0
+1,38,ISERE,Divers extrême gauche,0.0
+1,38,ISERE,Divers gaullistes,0.0
+1,38,ISERE,Modérés,34420.0
+1,38,ISERE,Mouvement Républicain Populaire,13890.0
+1,38,ISERE,"Mouvement Républicain Populaire, Vème République",0.0
+1,38,ISERE,Parti Socialiste Unifié,5072.0
+1,38,ISERE,Parti communiste,60050.0
+1,38,ISERE,Poujadiste,2382.0
+1,38,ISERE,Radicaux centristes,1648.0
+1,38,ISERE,Radicaux socialistes,11157.0
+1,38,ISERE,"Républicains Indépendants,Vème République",0.0
+1,38,ISERE,Section Française de l'Internationale Ouvrière,30568.0
+1,38,ISERE,"Union pour la Nouvelle République, Union Pour le Travail",65966.0
+1,38,ISERE,abstentions,153084.0
+1,38,ISERE,blancs_nuls,5437.0
+1,39,JURA,Centre National des Indépendants,0.0
+1,39,JURA,Divers,0.0
+1,39,JURA,Divers extrême droite,0.0
+1,39,JURA,Divers extrême gauche,0.0
+1,39,JURA,Divers gaullistes,0.0
+1,39,JURA,Modérés,0.0
+1,39,JURA,Mouvement Républicain Populaire,29277.0
+1,39,JURA,"Mouvement Républicain Populaire, Vème République",0.0
+1,39,JURA,Parti Socialiste Unifié,2708.0
+1,39,JURA,Parti communiste,16959.0
+1,39,JURA,Poujadiste,0.0
+1,39,JURA,Radicaux centristes,11858.0
+1,39,JURA,Radicaux socialistes,0.0
+1,39,JURA,"Républicains Indépendants,Vème République",0.0
+1,39,JURA,Section Française de l'Internationale Ouvrière,3711.0
+1,39,JURA,"Union pour la Nouvelle République, Union Pour le Travail",24272.0
+1,39,JURA,abstentions,48629.0
+1,39,JURA,blancs_nuls,2646.0
+1,40,LANDES,Centre National des Indépendants,0.0
+1,40,LANDES,Divers,0.0
+1,40,LANDES,Divers extrême droite,0.0
+1,40,LANDES,Divers extrême gauche,0.0
+1,40,LANDES,Divers gaullistes,0.0
+1,40,LANDES,Modérés,0.0
+1,40,LANDES,Mouvement Républicain Populaire,22706.0
+1,40,LANDES,"Mouvement Républicain Populaire, Vème République",0.0
+1,40,LANDES,Parti Socialiste Unifié,0.0
+1,40,LANDES,Parti communiste,17862.0
+1,40,LANDES,Poujadiste,0.0
+1,40,LANDES,Radicaux centristes,0.0
+1,40,LANDES,Radicaux socialistes,10309.0
+1,40,LANDES,"Républicains Indépendants,Vème République",0.0
+1,40,LANDES,Section Française de l'Internationale Ouvrière,35695.0
+1,40,LANDES,"Union pour la Nouvelle République, Union Pour le Travail",33300.0
+1,40,LANDES,abstentions,50136.0
+1,40,LANDES,blancs_nuls,4058.0
+1,41,LOIR-ET-CHER,Centre National des Indépendants,4901.0
+1,41,LOIR-ET-CHER,Divers,0.0
+1,41,LOIR-ET-CHER,Divers extrême droite,0.0
+1,41,LOIR-ET-CHER,Divers extrême gauche,0.0
+1,41,LOIR-ET-CHER,Divers gaullistes,0.0
+1,41,LOIR-ET-CHER,Modérés,1178.0
+1,41,LOIR-ET-CHER,Mouvement Républicain Populaire,20544.0
+1,41,LOIR-ET-CHER,"Mouvement Républicain Populaire, Vème République",0.0
+1,41,LOIR-ET-CHER,Parti Socialiste Unifié,4292.0
+1,41,LOIR-ET-CHER,Parti communiste,21197.0
+1,41,LOIR-ET-CHER,Poujadiste,1476.0
+1,41,LOIR-ET-CHER,Radicaux centristes,0.0
+1,41,LOIR-ET-CHER,Radicaux socialistes,469.0
+1,41,LOIR-ET-CHER,"Républicains Indépendants,Vème République",0.0
+1,41,LOIR-ET-CHER,Section Française de l'Internationale Ouvrière,17287.0
+1,41,LOIR-ET-CHER,"Union pour la Nouvelle République, Union Pour le Travail",30011.0
+1,41,LOIR-ET-CHER,abstentions,53030.0
+1,41,LOIR-ET-CHER,blancs_nuls,3951.0
+1,42,LOIRE,Centre National des Indépendants,37129.0
+1,42,LOIRE,Divers,789.0
+1,42,LOIRE,Divers extrême droite,0.0
+1,42,LOIRE,Divers extrême gauche,0.0
+1,42,LOIRE,Divers gaullistes,0.0
+1,42,LOIRE,Modérés,0.0
+1,42,LOIRE,Mouvement Républicain Populaire,19374.0
+1,42,LOIRE,"Mouvement Républicain Populaire, Vème République",0.0
+1,42,LOIRE,Parti Socialiste Unifié,9176.0
+1,42,LOIRE,Parti communiste,51246.0
+1,42,LOIRE,Poujadiste,669.0
+1,42,LOIRE,Radicaux centristes,32629.0
+1,42,LOIRE,Radicaux socialistes,23393.0
+1,42,LOIRE,"Républicains Indépendants,Vème République",0.0
+1,42,LOIRE,Section Française de l'Internationale Ouvrière,17217.0
+1,42,LOIRE,"Union pour la Nouvelle République, Union Pour le Travail",66619.0
+1,42,LOIRE,abstentions,142990.0
+1,42,LOIRE,blancs_nuls,6901.0
+1,43,HAUTE-LOIRE,Centre National des Indépendants,15833.0
+1,43,HAUTE-LOIRE,Divers,0.0
+1,43,HAUTE-LOIRE,Divers extrême droite,0.0
+1,43,HAUTE-LOIRE,Divers extrême gauche,0.0
+1,43,HAUTE-LOIRE,Divers gaullistes,0.0
+1,43,HAUTE-LOIRE,Modérés,19919.0
+1,43,HAUTE-LOIRE,Mouvement Républicain Populaire,14801.0
+1,43,HAUTE-LOIRE,"Mouvement Républicain Populaire, Vème République",0.0
+1,43,HAUTE-LOIRE,Parti Socialiste Unifié,0.0
+1,43,HAUTE-LOIRE,Parti communiste,10915.0
+1,43,HAUTE-LOIRE,Poujadiste,0.0
+1,43,HAUTE-LOIRE,Radicaux centristes,0.0
+1,43,HAUTE-LOIRE,Radicaux socialistes,7031.0
+1,43,HAUTE-LOIRE,"Républicains Indépendants,Vème République",0.0
+1,43,HAUTE-LOIRE,Section Française de l'Internationale Ouvrière,0.0
+1,43,HAUTE-LOIRE,"Union pour la Nouvelle République, Union Pour le Travail",23049.0
+1,43,HAUTE-LOIRE,abstentions,46218.0
+1,43,HAUTE-LOIRE,blancs_nuls,3076.0
+1,44,LOIRE-ATLANTIQUE,Centre National des Indépendants,21809.0
+1,44,LOIRE-ATLANTIQUE,Divers,0.0
+1,44,LOIRE-ATLANTIQUE,Divers extrême droite,2252.0
+1,44,LOIRE-ATLANTIQUE,Divers extrême gauche,0.0
+1,44,LOIRE-ATLANTIQUE,Divers gaullistes,10047.0
+1,44,LOIRE-ATLANTIQUE,Modérés,18684.0
+1,44,LOIRE-ATLANTIQUE,Mouvement Républicain Populaire,61698.0
+1,44,LOIRE-ATLANTIQUE,"Mouvement Républicain Populaire, Vème République",0.0
+1,44,LOIRE-ATLANTIQUE,Parti Socialiste Unifié,2658.0
+1,44,LOIRE-ATLANTIQUE,Parti communiste,35392.0
+1,44,LOIRE-ATLANTIQUE,Poujadiste,1309.0
+1,44,LOIRE-ATLANTIQUE,Radicaux centristes,0.0
+1,44,LOIRE-ATLANTIQUE,Radicaux socialistes,0.0
+1,44,LOIRE-ATLANTIQUE,"Républicains Indépendants,Vème République",21023.0
+1,44,LOIRE-ATLANTIQUE,Section Française de l'Internationale Ouvrière,39211.0
+1,44,LOIRE-ATLANTIQUE,"Union pour la Nouvelle République, Union Pour le Travail",113305.0
+1,44,LOIRE-ATLANTIQUE,abstentions,139073.0
+1,44,LOIRE-ATLANTIQUE,blancs_nuls,9044.0
+1,45,LOIRET,Centre National des Indépendants,3594.0
+1,45,LOIRET,Divers,0.0
+1,45,LOIRET,Divers extrême droite,0.0
+1,45,LOIRET,Divers extrême gauche,0.0
+1,45,LOIRET,Divers gaullistes,0.0
+1,45,LOIRET,Modérés,19091.0
+1,45,LOIRET,Mouvement Républicain Populaire,16965.0
+1,45,LOIRET,"Mouvement Républicain Populaire, Vème République",0.0
+1,45,LOIRET,Parti Socialiste Unifié,0.0
+1,45,LOIRET,Parti communiste,29382.0
+1,45,LOIRET,Poujadiste,0.0
+1,45,LOIRET,Radicaux centristes,0.0
+1,45,LOIRET,Radicaux socialistes,3992.0
+1,45,LOIRET,"Républicains Indépendants,Vème République",0.0
+1,45,LOIRET,Section Française de l'Internationale Ouvrière,13250.0
+1,45,LOIRET,"Union pour la Nouvelle République, Union Pour le Travail",66529.0
+1,45,LOIRET,abstentions,73626.0
+1,45,LOIRET,blancs_nuls,6207.0
+1,46,LOT,Centre National des Indépendants,0.0
+1,46,LOT,Divers,0.0
+1,46,LOT,Divers extrême droite,5748.0
+1,46,LOT,Divers extrême gauche,0.0
+1,46,LOT,Divers gaullistes,0.0
+1,46,LOT,Modérés,0.0
+1,46,LOT,Mouvement Républicain Populaire,0.0
+1,46,LOT,"Mouvement Républicain Populaire, Vème République",0.0
+1,46,LOT,Parti Socialiste Unifié,0.0
+1,46,LOT,Parti communiste,17451.0
+1,46,LOT,Poujadiste,0.0
+1,46,LOT,Radicaux centristes,20823.0
+1,46,LOT,Radicaux socialistes,21228.0
+1,46,LOT,"Républicains Indépendants,Vème République",0.0
+1,46,LOT,Section Française de l'Internationale Ouvrière,0.0
+1,46,LOT,"Union pour la Nouvelle République, Union Pour le Travail",0.0
+1,46,LOT,abstentions,27997.0
+1,46,LOT,blancs_nuls,7565.0
+1,47,LOT-ET-GARONNE,Centre National des Indépendants,8539.0
+1,47,LOT-ET-GARONNE,Divers,0.0
+1,47,LOT-ET-GARONNE,Divers extrême droite,0.0
+1,47,LOT-ET-GARONNE,Divers extrême gauche,966.0
+1,47,LOT-ET-GARONNE,Divers gaullistes,0.0
+1,47,LOT-ET-GARONNE,Modérés,7085.0
+1,47,LOT-ET-GARONNE,Mouvement Républicain Populaire,0.0
+1,47,LOT-ET-GARONNE,"Mouvement Républicain Populaire, Vème République",0.0
+1,47,LOT-ET-GARONNE,Parti Socialiste Unifié,0.0
+1,47,LOT-ET-GARONNE,Parti communiste,32523.0
+1,47,LOT-ET-GARONNE,Poujadiste,0.0
+1,47,LOT-ET-GARONNE,Radicaux centristes,0.0
+1,47,LOT-ET-GARONNE,Radicaux socialistes,26108.0
+1,47,LOT-ET-GARONNE,"Républicains Indépendants,Vème République",0.0
+1,47,LOT-ET-GARONNE,Section Française de l'Internationale Ouvrière,0.0
+1,47,LOT-ET-GARONNE,"Union pour la Nouvelle République, Union Pour le Travail",40115.0
+1,47,LOT-ET-GARONNE,abstentions,49474.0
+1,47,LOT-ET-GARONNE,blancs_nuls,3860.0
+1,48,LOZERE,Centre National des Indépendants,4012.0
+1,48,LOZERE,Divers,0.0
+1,48,LOZERE,Divers extrême droite,0.0
+1,48,LOZERE,Divers extrême gauche,0.0
+1,48,LOZERE,Divers gaullistes,0.0
+1,48,LOZERE,Modérés,5763.0
+1,48,LOZERE,Mouvement Républicain Populaire,12395.0
+1,48,LOZERE,"Mouvement Républicain Populaire, Vème République",0.0
+1,48,LOZERE,Parti Socialiste Unifié,0.0
+1,48,LOZERE,Parti communiste,3855.0
+1,48,LOZERE,Poujadiste,0.0
+1,48,LOZERE,Radicaux centristes,0.0
+1,48,LOZERE,Radicaux socialistes,1950.0
+1,48,LOZERE,"Républicains Indépendants,Vème République",0.0
+1,48,LOZERE,Section Française de l'Internationale Ouvrière,0.0
+1,48,LOZERE,"Union pour la Nouvelle République, Union Pour le Travail",7693.0
+1,48,LOZERE,abstentions,18214.0
+1,48,LOZERE,blancs_nuls,1131.0
+1,49,MAINE-ET-LOIRE,Centre National des Indépendants,9852.0
+1,49,MAINE-ET-LOIRE,Divers,0.0
+1,49,MAINE-ET-LOIRE,Divers extrême droite,0.0
+1,49,MAINE-ET-LOIRE,Divers extrême gauche,0.0
+1,49,MAINE-ET-LOIRE,Divers gaullistes,0.0
+1,49,MAINE-ET-LOIRE,Modérés,8975.0
+1,49,MAINE-ET-LOIRE,Mouvement Républicain Populaire,31295.0
+1,49,MAINE-ET-LOIRE,"Mouvement Républicain Populaire, Vème République",0.0
+1,49,MAINE-ET-LOIRE,Parti Socialiste Unifié,0.0
+1,49,MAINE-ET-LOIRE,Parti communiste,19791.0
+1,49,MAINE-ET-LOIRE,Poujadiste,7899.0
+1,49,MAINE-ET-LOIRE,Radicaux centristes,0.0
+1,49,MAINE-ET-LOIRE,Radicaux socialistes,0.0
+1,49,MAINE-ET-LOIRE,"Républicains Indépendants,Vème République",0.0
+1,49,MAINE-ET-LOIRE,Section Française de l'Internationale Ouvrière,13876.0
+1,49,MAINE-ET-LOIRE,"Union pour la Nouvelle République, Union Pour le Travail",117590.0
+1,49,MAINE-ET-LOIRE,abstentions,110293.0
+1,49,MAINE-ET-LOIRE,blancs_nuls,7276.0
+1,50,MANCHE,Centre National des Indépendants,24590.0
+1,50,MANCHE,Divers,0.0
+1,50,MANCHE,Divers extrême droite,0.0
+1,50,MANCHE,Divers extrême gauche,0.0
+1,50,MANCHE,Divers gaullistes,0.0
+1,50,MANCHE,Modérés,4582.0
+1,50,MANCHE,Mouvement Républicain Populaire,0.0
+1,50,MANCHE,"Mouvement Républicain Populaire, Vème République",22382.0
+1,50,MANCHE,Parti Socialiste Unifié,1549.0
+1,50,MANCHE,Parti communiste,10734.0
+1,50,MANCHE,Poujadiste,0.0
+1,50,MANCHE,Radicaux centristes,6151.0
+1,50,MANCHE,Radicaux socialistes,0.0
+1,50,MANCHE,"Républicains Indépendants,Vème République",0.0
+1,50,MANCHE,Section Française de l'Internationale Ouvrière,16168.0
+1,50,MANCHE,"Union pour la Nouvelle République, Union Pour le Travail",84983.0
+1,50,MANCHE,abstentions,90349.0
+1,50,MANCHE,blancs_nuls,7954.0
+1,51,MARNE,Centre National des Indépendants,7379.0
+1,51,MARNE,Divers,0.0
+1,51,MARNE,Divers extrême droite,0.0
+1,51,MARNE,Divers extrême gauche,0.0
+1,51,MARNE,Divers gaullistes,0.0
+1,51,MARNE,Modérés,0.0
+1,51,MARNE,Mouvement Républicain Populaire,27363.0
+1,51,MARNE,"Mouvement Républicain Populaire, Vème République",0.0
+1,51,MARNE,Parti Socialiste Unifié,4298.0
+1,51,MARNE,Parti communiste,37961.0
+1,51,MARNE,Poujadiste,0.0
+1,51,MARNE,Radicaux centristes,0.0
+1,51,MARNE,Radicaux socialistes,4480.0
+1,51,MARNE,"Républicains Indépendants,Vème République",0.0
+1,51,MARNE,Section Française de l'Internationale Ouvrière,11345.0
+1,51,MARNE,"Union pour la Nouvelle République, Union Pour le Travail",71504.0
+1,51,MARNE,abstentions,82024.0
+1,51,MARNE,blancs_nuls,5427.0
+1,52,HAUTE-MARNE,Centre National des Indépendants,20704.0
+1,52,HAUTE-MARNE,Divers,744.0
+1,52,HAUTE-MARNE,Divers extrême droite,0.0
+1,52,HAUTE-MARNE,Divers extrême gauche,0.0
+1,52,HAUTE-MARNE,Divers gaullistes,0.0
+1,52,HAUTE-MARNE,Modérés,808.0
+1,52,HAUTE-MARNE,Mouvement Républicain Populaire,0.0
+1,52,HAUTE-MARNE,"Mouvement Républicain Populaire, Vème République",0.0
+1,52,HAUTE-MARNE,Parti Socialiste Unifié,0.0
+1,52,HAUTE-MARNE,Parti communiste,15522.0
+1,52,HAUTE-MARNE,Poujadiste,0.0
+1,52,HAUTE-MARNE,Radicaux centristes,0.0
+1,52,HAUTE-MARNE,Radicaux socialistes,14247.0
+1,52,HAUTE-MARNE,"Républicains Indépendants,Vème République",0.0
+1,52,HAUTE-MARNE,Section Française de l'Internationale Ouvrière,0.0
+1,52,HAUTE-MARNE,"Union pour la Nouvelle République, Union Pour le Travail",28336.0
+1,52,HAUTE-MARNE,abstentions,35680.0
+1,52,HAUTE-MARNE,blancs_nuls,3043.0
+1,53,MAYENNE,Centre National des Indépendants,9435.0
+1,53,MAYENNE,Divers,0.0
+1,53,MAYENNE,Divers extrême droite,0.0
+1,53,MAYENNE,Divers extrême gauche,0.0
+1,53,MAYENNE,Divers gaullistes,0.0
+1,53,MAYENNE,Modérés,16532.0
+1,53,MAYENNE,Mouvement Républicain Populaire,11958.0
+1,53,MAYENNE,"Mouvement Républicain Populaire, Vème République",39785.0
+1,53,MAYENNE,Parti Socialiste Unifié,0.0
+1,53,MAYENNE,Parti communiste,8036.0
+1,53,MAYENNE,Poujadiste,0.0
+1,53,MAYENNE,Radicaux centristes,0.0
+1,53,MAYENNE,Radicaux socialistes,0.0
+1,53,MAYENNE,"Républicains Indépendants,Vème République",0.0
+1,53,MAYENNE,Section Française de l'Internationale Ouvrière,11380.0
+1,53,MAYENNE,"Union pour la Nouvelle République, Union Pour le Travail",8130.0
+1,53,MAYENNE,abstentions,42020.0
+1,53,MAYENNE,blancs_nuls,6710.0
+1,54,MEURTHE-ET-MOSELLE,Centre National des Indépendants,10293.0
+1,54,MEURTHE-ET-MOSELLE,Divers,0.0
+1,54,MEURTHE-ET-MOSELLE,Divers extrême droite,0.0
+1,54,MEURTHE-ET-MOSELLE,Divers extrême gauche,0.0
+1,54,MEURTHE-ET-MOSELLE,Divers gaullistes,0.0
+1,54,MEURTHE-ET-MOSELLE,Modérés,11082.0
+1,54,MEURTHE-ET-MOSELLE,Mouvement Républicain Populaire,3197.0
+1,54,MEURTHE-ET-MOSELLE,"Mouvement Républicain Populaire, Vème République",0.0
+1,54,MEURTHE-ET-MOSELLE,Parti Socialiste Unifié,1714.0
+1,54,MEURTHE-ET-MOSELLE,Parti communiste,48676.0
+1,54,MEURTHE-ET-MOSELLE,Poujadiste,0.0
+1,54,MEURTHE-ET-MOSELLE,Radicaux centristes,0.0
+1,54,MEURTHE-ET-MOSELLE,Radicaux socialistes,13157.0
+1,54,MEURTHE-ET-MOSELLE,"Républicains Indépendants,Vème République",65053.0
+1,54,MEURTHE-ET-MOSELLE,Section Française de l'Internationale Ouvrière,25410.0
+1,54,MEURTHE-ET-MOSELLE,"Union pour la Nouvelle République, Union Pour le Travail",73114.0
+1,54,MEURTHE-ET-MOSELLE,abstentions,99016.0
+1,54,MEURTHE-ET-MOSELLE,blancs_nuls,8470.0
+1,55,MEUSE,Centre National des Indépendants,0.0
+1,55,MEUSE,Divers,0.0
+1,55,MEUSE,Divers extrême droite,0.0
+1,55,MEUSE,Divers extrême gauche,0.0
+1,55,MEUSE,Divers gaullistes,0.0
+1,55,MEUSE,Modérés,0.0
+1,55,MEUSE,Mouvement Républicain Populaire,0.0
+1,55,MEUSE,"Mouvement Républicain Populaire, Vème République",0.0
+1,55,MEUSE,Parti Socialiste Unifié,0.0
+1,55,MEUSE,Parti communiste,13099.0
+1,55,MEUSE,Poujadiste,0.0
+1,55,MEUSE,Radicaux centristes,0.0
+1,55,MEUSE,Radicaux socialistes,0.0
+1,55,MEUSE,"Républicains Indépendants,Vème République",60897.0
+1,55,MEUSE,Section Française de l'Internationale Ouvrière,10166.0
+1,55,MEUSE,"Union pour la Nouvelle République, Union Pour le Travail",0.0
+1,55,MEUSE,abstentions,31424.0
+1,55,MEUSE,blancs_nuls,6126.0
+1,56,MORBIHAN,Centre National des Indépendants,9460.0
+1,56,MORBIHAN,Divers,0.0
+1,56,MORBIHAN,Divers extrême droite,0.0
+1,56,MORBIHAN,Divers extrême gauche,0.0
+1,56,MORBIHAN,Divers gaullistes,0.0
+1,56,MORBIHAN,Modérés,20277.0
+1,56,MORBIHAN,Mouvement Républicain Populaire,46107.0
+1,56,MORBIHAN,"Mouvement Républicain Populaire, Vème République",0.0
+1,56,MORBIHAN,Parti Socialiste Unifié,0.0
+1,56,MORBIHAN,Parti communiste,30815.0
+1,56,MORBIHAN,Poujadiste,0.0
+1,56,MORBIHAN,Radicaux centristes,1765.0
+1,56,MORBIHAN,Radicaux socialistes,0.0
+1,56,MORBIHAN,"Républicains Indépendants,Vème République",38626.0
+1,56,MORBIHAN,Section Française de l'Internationale Ouvrière,29556.0
+1,56,MORBIHAN,"Union pour la Nouvelle République, Union Pour le Travail",49303.0
+1,56,MORBIHAN,abstentions,105537.0
+1,56,MORBIHAN,blancs_nuls,7650.0
+1,57,MOSELLE,Centre National des Indépendants,0.0
+1,57,MOSELLE,Divers,0.0
+1,57,MOSELLE,Divers extrême droite,0.0
+1,57,MOSELLE,Divers extrême gauche,0.0
+1,57,MOSELLE,Divers gaullistes,0.0
+1,57,MOSELLE,Modérés,8817.0
+1,57,MOSELLE,Mouvement Républicain Populaire,92153.0
+1,57,MOSELLE,"Mouvement Républicain Populaire, Vème République",0.0
+1,57,MOSELLE,Parti Socialiste Unifié,1730.0
+1,57,MOSELLE,Parti communiste,33666.0
+1,57,MOSELLE,Poujadiste,0.0
+1,57,MOSELLE,Radicaux centristes,0.0
+1,57,MOSELLE,Radicaux socialistes,4957.0
+1,57,MOSELLE,"Républicains Indépendants,Vème République",48497.0
+1,57,MOSELLE,Section Française de l'Internationale Ouvrière,5850.0
+1,57,MOSELLE,"Union pour la Nouvelle République, Union Pour le Travail",127820.0
+1,57,MOSELLE,abstentions,127462.0
+1,57,MOSELLE,blancs_nuls,10931.0
+1,58,NIEVRE,Centre National des Indépendants,3480.0
+1,58,NIEVRE,Divers,0.0
+1,58,NIEVRE,Divers extrême droite,0.0
+1,58,NIEVRE,Divers extrême gauche,0.0
+1,58,NIEVRE,Divers gaullistes,0.0
+1,58,NIEVRE,Modérés,8626.0
+1,58,NIEVRE,Mouvement Républicain Populaire,0.0
+1,58,NIEVRE,"Mouvement Républicain Populaire, Vème République",0.0
+1,58,NIEVRE,Parti Socialiste Unifié,0.0
+1,58,NIEVRE,Parti communiste,26808.0
+1,58,NIEVRE,Poujadiste,0.0
+1,58,NIEVRE,Radicaux centristes,0.0
+1,58,NIEVRE,Radicaux socialistes,12954.0
+1,58,NIEVRE,"Républicains Indépendants,Vème République",0.0
+1,58,NIEVRE,Section Française de l'Internationale Ouvrière,18872.0
+1,58,NIEVRE,"Union pour la Nouvelle République, Union Pour le Travail",31409.0
+1,58,NIEVRE,abstentions,50428.0
+1,58,NIEVRE,blancs_nuls,2779.0
+1,59,NORD,Centre National des Indépendants,47264.0
+1,59,NORD,Divers,0.0
+1,59,NORD,Divers extrême droite,10057.0
+1,59,NORD,Divers extrême gauche,0.0
+1,59,NORD,Divers gaullistes,3930.0
+1,59,NORD,Modérés,22622.0
+1,59,NORD,Mouvement Républicain Populaire,77567.0
+1,59,NORD,"Mouvement Républicain Populaire, Vème République",24970.0
+1,59,NORD,Parti Socialiste Unifié,6011.0
+1,59,NORD,Parti communiste,242765.0
+1,59,NORD,Poujadiste,475.0
+1,59,NORD,Radicaux centristes,0.0
+1,59,NORD,Radicaux socialistes,0.0
+1,59,NORD,"Républicains Indépendants,Vème République",0.0
+1,59,NORD,Section Française de l'Internationale Ouvrière,251164.0
+1,59,NORD,"Union pour la Nouvelle République, Union Pour le Travail",320893.0
+1,59,NORD,abstentions,269384.0
+1,59,NORD,blancs_nuls,24826.0
+1,60,OISE,Centre National des Indépendants,10321.0
+1,60,OISE,Divers,825.0
+1,60,OISE,Divers extrême droite,936.0
+1,60,OISE,Divers extrême gauche,0.0
+1,60,OISE,Divers gaullistes,2135.0
+1,60,OISE,Modérés,0.0
+1,60,OISE,Mouvement Républicain Populaire,0.0
+1,60,OISE,"Mouvement Républicain Populaire, Vème République",0.0
+1,60,OISE,Parti Socialiste Unifié,0.0
+1,60,OISE,Parti communiste,43665.0
+1,60,OISE,Poujadiste,1488.0
+1,60,OISE,Radicaux centristes,680.0
+1,60,OISE,Radicaux socialistes,24095.0
+1,60,OISE,"Républicains Indépendants,Vème République",0.0
+1,60,OISE,Section Française de l'Internationale Ouvrière,22855.0
+1,60,OISE,"Union pour la Nouvelle République, Union Pour le Travail",84387.0
+1,60,OISE,abstentions,71189.0
+1,60,OISE,blancs_nuls,7233.0
+1,61,ORNE,Centre National des Indépendants,0.0
+1,61,ORNE,Divers,0.0
+1,61,ORNE,Divers extrême droite,0.0
+1,61,ORNE,Divers extrême gauche,0.0
+1,61,ORNE,Divers gaullistes,0.0
+1,61,ORNE,Modérés,11894.0
+1,61,ORNE,Mouvement Républicain Populaire,3997.0
+1,61,ORNE,"Mouvement Républicain Populaire, Vème République",28367.0
+1,61,ORNE,Parti Socialiste Unifié,0.0
+1,61,ORNE,Parti communiste,8898.0
+1,61,ORNE,Poujadiste,0.0
+1,61,ORNE,Radicaux centristes,8954.0
+1,61,ORNE,Radicaux socialistes,5755.0
+1,61,ORNE,"Républicains Indépendants,Vème République",0.0
+1,61,ORNE,Section Française de l'Internationale Ouvrière,9288.0
+1,61,ORNE,"Union pour la Nouvelle République, Union Pour le Travail",30622.0
+1,61,ORNE,abstentions,54336.0
+1,61,ORNE,blancs_nuls,5519.0
+1,62,PAS-DE-CALAIS,Centre National des Indépendants,19587.0
+1,62,PAS-DE-CALAIS,Divers,0.0
+1,62,PAS-DE-CALAIS,Divers extrême droite,0.0
+1,62,PAS-DE-CALAIS,Divers extrême gauche,0.0
+1,62,PAS-DE-CALAIS,Divers gaullistes,0.0
+1,62,PAS-DE-CALAIS,Modérés,10020.0
+1,62,PAS-DE-CALAIS,Mouvement Républicain Populaire,49997.0
+1,62,PAS-DE-CALAIS,"Mouvement Républicain Populaire, Vème République",0.0
+1,62,PAS-DE-CALAIS,Parti Socialiste Unifié,0.0
+1,62,PAS-DE-CALAIS,Parti communiste,144290.0
+1,62,PAS-DE-CALAIS,Poujadiste,0.0
+1,62,PAS-DE-CALAIS,Radicaux centristes,0.0
+1,62,PAS-DE-CALAIS,Radicaux socialistes,3574.0
+1,62,PAS-DE-CALAIS,"Républicains Indépendants,Vème République",0.0
+1,62,PAS-DE-CALAIS,Section Française de l'Internationale Ouvrière,165788.0
+1,62,PAS-DE-CALAIS,"Union pour la Nouvelle République, Union Pour le Travail",175441.0
+1,62,PAS-DE-CALAIS,abstentions,166148.0
+1,62,PAS-DE-CALAIS,blancs_nuls,13680.0
+1,63,PUY-DE-DOME,Centre National des Indépendants,30511.0
+1,63,PUY-DE-DOME,Divers,0.0
+1,63,PUY-DE-DOME,Divers extrême droite,0.0
+1,63,PUY-DE-DOME,Divers extrême gauche,0.0
+1,63,PUY-DE-DOME,Divers gaullistes,3904.0
+1,63,PUY-DE-DOME,Modérés,3496.0
+1,63,PUY-DE-DOME,Mouvement Républicain Populaire,7160.0
+1,63,PUY-DE-DOME,"Mouvement Républicain Populaire, Vème République",0.0
+1,63,PUY-DE-DOME,Parti Socialiste Unifié,4145.0
+1,63,PUY-DE-DOME,Parti communiste,34098.0
+1,63,PUY-DE-DOME,Poujadiste,0.0
+1,63,PUY-DE-DOME,Radicaux centristes,0.0
+1,63,PUY-DE-DOME,Radicaux socialistes,11211.0
+1,63,PUY-DE-DOME,"Républicains Indépendants,Vème République",24404.0
+1,63,PUY-DE-DOME,Section Française de l'Internationale Ouvrière,51815.0
+1,63,PUY-DE-DOME,"Union pour la Nouvelle République, Union Pour le Travail",20377.0
+1,63,PUY-DE-DOME,abstentions,115686.0
+1,63,PUY-DE-DOME,blancs_nuls,6286.0
+1,64,PYRENEES-ATLANTIQUES,Centre National des Indépendants,27152.0
+1,64,PYRENEES-ATLANTIQUES,Divers,0.0
+1,64,PYRENEES-ATLANTIQUES,Divers extrême droite,5368.0
+1,64,PYRENEES-ATLANTIQUES,Divers extrême gauche,0.0
+1,64,PYRENEES-ATLANTIQUES,Divers gaullistes,0.0
+1,64,PYRENEES-ATLANTIQUES,Modérés,6315.0
+1,64,PYRENEES-ATLANTIQUES,Mouvement Républicain Populaire,24663.0
+1,64,PYRENEES-ATLANTIQUES,"Mouvement Républicain Populaire, Vème République",0.0
+1,64,PYRENEES-ATLANTIQUES,Parti Socialiste Unifié,2153.0
+1,64,PYRENEES-ATLANTIQUES,Parti communiste,20885.0
+1,64,PYRENEES-ATLANTIQUES,Poujadiste,0.0
+1,64,PYRENEES-ATLANTIQUES,Radicaux centristes,21939.0
+1,64,PYRENEES-ATLANTIQUES,Radicaux socialistes,25516.0
+1,64,PYRENEES-ATLANTIQUES,"Républicains Indépendants,Vème République",0.0
+1,64,PYRENEES-ATLANTIQUES,Section Française de l'Internationale Ouvrière,10567.0
+1,64,PYRENEES-ATLANTIQUES,"Union pour la Nouvelle République, Union Pour le Travail",47594.0
+1,64,PYRENEES-ATLANTIQUES,abstentions,97432.0
+1,64,PYRENEES-ATLANTIQUES,blancs_nuls,7920.0
+1,65,HAUTES-PYRENEES,Centre National des Indépendants,11588.0
+1,65,HAUTES-PYRENEES,Divers,0.0
+1,65,HAUTES-PYRENEES,Divers extrême droite,0.0
+1,65,HAUTES-PYRENEES,Divers extrême gauche,0.0
+1,65,HAUTES-PYRENEES,Divers gaullistes,0.0
+1,65,HAUTES-PYRENEES,Modérés,0.0
+1,65,HAUTES-PYRENEES,Mouvement Républicain Populaire,2911.0
+1,65,HAUTES-PYRENEES,"Mouvement Républicain Populaire, Vème République",0.0
+1,65,HAUTES-PYRENEES,Parti Socialiste Unifié,0.0
+1,65,HAUTES-PYRENEES,Parti communiste,15863.0
+1,65,HAUTES-PYRENEES,Poujadiste,0.0
+1,65,HAUTES-PYRENEES,Radicaux centristes,0.0
+1,65,HAUTES-PYRENEES,Radicaux socialistes,19862.0
+1,65,HAUTES-PYRENEES,"Républicains Indépendants,Vème République",0.0
+1,65,HAUTES-PYRENEES,Section Française de l'Internationale Ouvrière,9498.0
+1,65,HAUTES-PYRENEES,"Union pour la Nouvelle République, Union Pour le Travail",25123.0
+1,65,HAUTES-PYRENEES,abstentions,48296.0
+1,65,HAUTES-PYRENEES,blancs_nuls,2077.0
+1,66,PYRENEES-ORIENTALES,Centre National des Indépendants,0.0
+1,66,PYRENEES-ORIENTALES,Divers,0.0
+1,66,PYRENEES-ORIENTALES,Divers extrême droite,0.0
+1,66,PYRENEES-ORIENTALES,Divers extrême gauche,0.0
+1,66,PYRENEES-ORIENTALES,Divers gaullistes,0.0
+1,66,PYRENEES-ORIENTALES,Modérés,0.0
+1,66,PYRENEES-ORIENTALES,Mouvement Républicain Populaire,0.0
+1,66,PYRENEES-ORIENTALES,"Mouvement Républicain Populaire, Vème République",0.0
+1,66,PYRENEES-ORIENTALES,Parti Socialiste Unifié,0.0
+1,66,PYRENEES-ORIENTALES,Parti communiste,32556.0
+1,66,PYRENEES-ORIENTALES,Poujadiste,2837.0
+1,66,PYRENEES-ORIENTALES,Radicaux centristes,18759.0
+1,66,PYRENEES-ORIENTALES,Radicaux socialistes,15973.0
+1,66,PYRENEES-ORIENTALES,"Républicains Indépendants,Vème République",0.0
+1,66,PYRENEES-ORIENTALES,Section Française de l'Internationale Ouvrière,0.0
+1,66,PYRENEES-ORIENTALES,"Union pour la Nouvelle République, Union Pour le Travail",24958.0
+1,66,PYRENEES-ORIENTALES,abstentions,57468.0
+1,66,PYRENEES-ORIENTALES,blancs_nuls,3597.0
+1,67,BAS-RHIN,Centre National des Indépendants,2715.0
+1,67,BAS-RHIN,Divers,0.0
+1,67,BAS-RHIN,Divers extrême droite,0.0
+1,67,BAS-RHIN,Divers extrême gauche,0.0
+1,67,BAS-RHIN,Divers gaullistes,4872.0
+1,67,BAS-RHIN,Modérés,5464.0
+1,67,BAS-RHIN,Mouvement Républicain Populaire,105789.0
+1,67,BAS-RHIN,"Mouvement Républicain Populaire, Vème République",0.0
+1,67,BAS-RHIN,Parti Socialiste Unifié,0.0
+1,67,BAS-RHIN,Parti communiste,20700.0
+1,67,BAS-RHIN,Poujadiste,0.0
+1,67,BAS-RHIN,Radicaux centristes,0.0
+1,67,BAS-RHIN,Radicaux socialistes,0.0
+1,67,BAS-RHIN,"Républicains Indépendants,Vème République",0.0
+1,67,BAS-RHIN,Section Française de l'Internationale Ouvrière,8815.0
+1,67,BAS-RHIN,"Union pour la Nouvelle République, Union Pour le Travail",150325.0
+1,67,BAS-RHIN,abstentions,151564.0
+1,67,BAS-RHIN,blancs_nuls,9585.0
+1,68,HAUT-RHIN,Centre National des Indépendants,0.0
+1,68,HAUT-RHIN,Divers,0.0
+1,68,HAUT-RHIN,Divers extrême droite,0.0
+1,68,HAUT-RHIN,Divers extrême gauche,0.0
+1,68,HAUT-RHIN,Divers gaullistes,0.0
+1,68,HAUT-RHIN,Modérés,0.0
+1,68,HAUT-RHIN,Mouvement Républicain Populaire,53361.0
+1,68,HAUT-RHIN,"Mouvement Républicain Populaire, Vème République",0.0
+1,68,HAUT-RHIN,Parti Socialiste Unifié,3023.0
+1,68,HAUT-RHIN,Parti communiste,15164.0
+1,68,HAUT-RHIN,Poujadiste,0.0
+1,68,HAUT-RHIN,Radicaux centristes,0.0
+1,68,HAUT-RHIN,Radicaux socialistes,0.0
+1,68,HAUT-RHIN,"Républicains Indépendants,Vème République",0.0
+1,68,HAUT-RHIN,Section Française de l'Internationale Ouvrière,24075.0
+1,68,HAUT-RHIN,"Union pour la Nouvelle République, Union Pour le Travail",131823.0
+1,68,HAUT-RHIN,abstentions,99062.0
+1,68,HAUT-RHIN,blancs_nuls,8948.0
+1,69,RHONE,Centre National des Indépendants,59339.0
+1,69,RHONE,Divers,0.0
+1,69,RHONE,Divers extrême droite,11948.0
+1,69,RHONE,Divers extrême gauche,0.0
+1,69,RHONE,Divers gaullistes,2710.0
+1,69,RHONE,Modérés,10729.0
+1,69,RHONE,Mouvement Républicain Populaire,12301.0
+1,69,RHONE,"Mouvement Républicain Populaire, Vème République",18281.0
+1,69,RHONE,Parti Socialiste Unifié,7066.0
+1,69,RHONE,Parti communiste,73339.0
+1,69,RHONE,Poujadiste,1727.0
+1,69,RHONE,Radicaux centristes,0.0
+1,69,RHONE,Radicaux socialistes,31222.0
+1,69,RHONE,"Républicains Indépendants,Vème République",0.0
+1,69,RHONE,Section Française de l'Internationale Ouvrière,25498.0
+1,69,RHONE,"Union pour la Nouvelle République, Union Pour le Travail",118259.0
+1,69,RHONE,abstentions,224374.0
+1,69,RHONE,blancs_nuls,10987.0
+1,70,HAUTE-SAONE,Centre National des Indépendants,0.0
+1,70,HAUTE-SAONE,Divers,0.0
+1,70,HAUTE-SAONE,Divers extrême droite,2710.0
+1,70,HAUTE-SAONE,Divers extrême gauche,0.0
+1,70,HAUTE-SAONE,Divers gaullistes,0.0
+1,70,HAUTE-SAONE,Modérés,0.0
+1,70,HAUTE-SAONE,Mouvement Républicain Populaire,0.0
+1,70,HAUTE-SAONE,"Mouvement Républicain Populaire, Vème République",0.0
+1,70,HAUTE-SAONE,Parti Socialiste Unifié,4610.0
+1,70,HAUTE-SAONE,Parti communiste,9344.0
+1,70,HAUTE-SAONE,Poujadiste,0.0
+1,70,HAUTE-SAONE,Radicaux centristes,0.0
+1,70,HAUTE-SAONE,Radicaux socialistes,28129.0
+1,70,HAUTE-SAONE,"Républicains Indépendants,Vème République",22033.0
+1,70,HAUTE-SAONE,Section Française de l'Internationale Ouvrière,0.0
+1,70,HAUTE-SAONE,"Union pour la Nouvelle République, Union Pour le Travail",24267.0
+1,70,HAUTE-SAONE,abstentions,36550.0
+1,70,HAUTE-SAONE,blancs_nuls,4204.0
+1,71,SAONE-ET-LOIRE,Centre National des Indépendants,31590.0
+1,71,SAONE-ET-LOIRE,Divers,0.0
+1,71,SAONE-ET-LOIRE,Divers extrême droite,0.0
+1,71,SAONE-ET-LOIRE,Divers extrême gauche,0.0
+1,71,SAONE-ET-LOIRE,Divers gaullistes,0.0
+1,71,SAONE-ET-LOIRE,Modérés,7248.0
+1,71,SAONE-ET-LOIRE,Mouvement Républicain Populaire,0.0
+1,71,SAONE-ET-LOIRE,"Mouvement Républicain Populaire, Vème République",0.0
+1,71,SAONE-ET-LOIRE,Parti Socialiste Unifié,2223.0
+1,71,SAONE-ET-LOIRE,Parti communiste,48327.0
+1,71,SAONE-ET-LOIRE,Poujadiste,2497.0
+1,71,SAONE-ET-LOIRE,Radicaux centristes,0.0
+1,71,SAONE-ET-LOIRE,Radicaux socialistes,23768.0
+1,71,SAONE-ET-LOIRE,"Républicains Indépendants,Vème République",13007.0
+1,71,SAONE-ET-LOIRE,Section Française de l'Internationale Ouvrière,24711.0
+1,71,SAONE-ET-LOIRE,"Union pour la Nouvelle République, Union Pour le Travail",36528.0
+1,71,SAONE-ET-LOIRE,abstentions,133609.0
+1,71,SAONE-ET-LOIRE,blancs_nuls,6772.0
+1,72,SARTHE,Centre National des Indépendants,0.0
+1,72,SARTHE,Divers,902.0
+1,72,SARTHE,Divers extrême droite,8027.0
+1,72,SARTHE,Divers extrême gauche,0.0
+1,72,SARTHE,Divers gaullistes,0.0
+1,72,SARTHE,Modérés,14196.0
+1,72,SARTHE,Mouvement Républicain Populaire,6377.0
+1,72,SARTHE,"Mouvement Républicain Populaire, Vème République",0.0
+1,72,SARTHE,Parti Socialiste Unifié,1473.0
+1,72,SARTHE,Parti communiste,36189.0
+1,72,SARTHE,Poujadiste,896.0
+1,72,SARTHE,Radicaux centristes,0.0
+1,72,SARTHE,Radicaux socialistes,21012.0
+1,72,SARTHE,"Républicains Indépendants,Vème République",0.0
+1,72,SARTHE,Section Française de l'Internationale Ouvrière,8309.0
+1,72,SARTHE,"Union pour la Nouvelle République, Union Pour le Travail",66596.0
+1,72,SARTHE,abstentions,92134.0
+1,72,SARTHE,blancs_nuls,6652.0
+1,73,SAVOIE,Centre National des Indépendants,0.0
+1,73,SAVOIE,Divers,0.0
+1,73,SAVOIE,Divers extrême droite,0.0
+1,73,SAVOIE,Divers extrême gauche,0.0
+1,73,SAVOIE,Divers gaullistes,0.0
+1,73,SAVOIE,Modérés,16415.0
+1,73,SAVOIE,Mouvement Républicain Populaire,0.0
+1,73,SAVOIE,"Mouvement Républicain Populaire, Vème République",14556.0
+1,73,SAVOIE,Parti Socialiste Unifié,0.0
+1,73,SAVOIE,Parti communiste,21330.0
+1,73,SAVOIE,Poujadiste,0.0
+1,73,SAVOIE,Radicaux centristes,0.0
+1,73,SAVOIE,Radicaux socialistes,0.0
+1,73,SAVOIE,"Républicains Indépendants,Vème République",0.0
+1,73,SAVOIE,Section Française de l'Internationale Ouvrière,13480.0
+1,73,SAVOIE,"Union pour la Nouvelle République, Union Pour le Travail",28468.0
+1,73,SAVOIE,abstentions,58569.0
+1,73,SAVOIE,blancs_nuls,3131.0
+1,74,HAUTE-SAVOIE,Centre National des Indépendants,0.0
+1,74,HAUTE-SAVOIE,Divers,0.0
+1,74,HAUTE-SAVOIE,Divers extrême droite,0.0
+1,74,HAUTE-SAVOIE,Divers extrême gauche,0.0
+1,74,HAUTE-SAVOIE,Divers gaullistes,0.0
+1,74,HAUTE-SAVOIE,Modérés,0.0
+1,74,HAUTE-SAVOIE,Mouvement Républicain Populaire,51602.0
+1,74,HAUTE-SAVOIE,"Mouvement Républicain Populaire, Vème République",0.0
+1,74,HAUTE-SAVOIE,Parti Socialiste Unifié,0.0
+1,74,HAUTE-SAVOIE,Parti communiste,18777.0
+1,74,HAUTE-SAVOIE,Poujadiste,0.0
+1,74,HAUTE-SAVOIE,Radicaux centristes,0.0
+1,74,HAUTE-SAVOIE,Radicaux socialistes,0.0
+1,74,HAUTE-SAVOIE,"Républicains Indépendants,Vème République",16820.0
+1,74,HAUTE-SAVOIE,Section Française de l'Internationale Ouvrière,7165.0
+1,74,HAUTE-SAVOIE,"Union pour la Nouvelle République, Union Pour le Travail",13417.0
+1,74,HAUTE-SAVOIE,abstentions,73179.0
+1,74,HAUTE-SAVOIE,blancs_nuls,7136.0
+1,75,PARIS,Centre National des Indépendants,241828.0
+1,75,PARIS,Divers,4993.0
+1,75,PARIS,Divers extrême droite,12032.0
+1,75,PARIS,Divers extrême gauche,268.0
+1,75,PARIS,Divers gaullistes,11877.0
+1,75,PARIS,Modérés,45926.0
+1,75,PARIS,Mouvement Républicain Populaire,52838.0
+1,75,PARIS,"Mouvement Républicain Populaire, Vème République",0.0
+1,75,PARIS,Parti Socialiste Unifié,80168.0
+1,75,PARIS,Parti communiste,695378.0
+1,75,PARIS,Poujadiste,3482.0
+1,75,PARIS,Radicaux centristes,24791.0
+1,75,PARIS,Radicaux socialistes,23394.0
+1,75,PARIS,"Républicains Indépendants,Vème République",0.0
+1,75,PARIS,Section Française de l'Internationale Ouvrière,160716.0
+1,75,PARIS,"Union pour la Nouvelle République, Union Pour le Travail",876234.0
+1,75,PARIS,abstentions,983236.0
+1,75,PARIS,blancs_nuls,47957.0
+1,76,SEINE-MARITIME,Centre National des Indépendants,10796.0
+1,76,SEINE-MARITIME,Divers,690.0
+1,76,SEINE-MARITIME,Divers extrême droite,0.0
+1,76,SEINE-MARITIME,Divers extrême gauche,0.0
+1,76,SEINE-MARITIME,Divers gaullistes,0.0
+1,76,SEINE-MARITIME,Modérés,37916.0
+1,76,SEINE-MARITIME,Mouvement Républicain Populaire,21466.0
+1,76,SEINE-MARITIME,"Mouvement Républicain Populaire, Vème République",0.0
+1,76,SEINE-MARITIME,Parti Socialiste Unifié,10815.0
+1,76,SEINE-MARITIME,Parti communiste,101883.0
+1,76,SEINE-MARITIME,Poujadiste,0.0
+1,76,SEINE-MARITIME,Radicaux centristes,21103.0
+1,76,SEINE-MARITIME,Radicaux socialistes,21320.0
+1,76,SEINE-MARITIME,"Républicains Indépendants,Vème République",15378.0
+1,76,SEINE-MARITIME,Section Française de l'Internationale Ouvrière,37960.0
+1,76,SEINE-MARITIME,"Union pour la Nouvelle République, Union Pour le Travail",117051.0
+1,76,SEINE-MARITIME,abstentions,190330.0
+1,76,SEINE-MARITIME,blancs_nuls,13197.0
+1,77,SEINE-ET-MARNE,Centre National des Indépendants,16803.0
+1,77,SEINE-ET-MARNE,Divers,514.0
+1,77,SEINE-ET-MARNE,Divers extrême droite,1287.0
+1,77,SEINE-ET-MARNE,Divers extrême gauche,0.0
+1,77,SEINE-ET-MARNE,Divers gaullistes,0.0
+1,77,SEINE-ET-MARNE,Modérés,10975.0
+1,77,SEINE-ET-MARNE,Mouvement Républicain Populaire,3147.0
+1,77,SEINE-ET-MARNE,"Mouvement Républicain Populaire, Vème République",0.0
+1,77,SEINE-ET-MARNE,Parti Socialiste Unifié,4958.0
+1,77,SEINE-ET-MARNE,Parti communiste,50097.0
+1,77,SEINE-ET-MARNE,Poujadiste,0.0
+1,77,SEINE-ET-MARNE,Radicaux centristes,0.0
+1,77,SEINE-ET-MARNE,Radicaux socialistes,17938.0
+1,77,SEINE-ET-MARNE,"Républicains Indépendants,Vème République",0.0
+1,77,SEINE-ET-MARNE,Section Française de l'Internationale Ouvrière,11631.0
+1,77,SEINE-ET-MARNE,"Union pour la Nouvelle République, Union Pour le Travail",89330.0
+1,77,SEINE-ET-MARNE,abstentions,89303.0
+1,77,SEINE-ET-MARNE,blancs_nuls,6310.0
+1,78,YVELINES,Centre National des Indépendants,50699.0
+1,78,YVELINES,Divers,0.0
+1,78,YVELINES,Divers extrême droite,2515.0
+1,78,YVELINES,Divers extrême gauche,0.0
+1,78,YVELINES,Divers gaullistes,0.0
+1,78,YVELINES,Modérés,18483.0
+1,78,YVELINES,Mouvement Républicain Populaire,16622.0
+1,78,YVELINES,"Mouvement Républicain Populaire, Vème République",0.0
+1,78,YVELINES,Parti Socialiste Unifié,36097.0
+1,78,YVELINES,Parti communiste,279909.0
+1,78,YVELINES,Poujadiste,1201.0
+1,78,YVELINES,Radicaux centristes,42765.0
+1,78,YVELINES,Radicaux socialistes,53866.0
+1,78,YVELINES,"Républicains Indépendants,Vème République",0.0
+1,78,YVELINES,Section Française de l'Internationale Ouvrière,39025.0
+1,78,YVELINES,"Union pour la Nouvelle République, Union Pour le Travail",355906.0
+1,78,YVELINES,abstentions,350873.0
+1,78,YVELINES,blancs_nuls,21867.0
+1,79,DEUX-SEVRES,Centre National des Indépendants,23327.0
+1,79,DEUX-SEVRES,Divers,0.0
+1,79,DEUX-SEVRES,Divers extrême droite,0.0
+1,79,DEUX-SEVRES,Divers extrême gauche,0.0
+1,79,DEUX-SEVRES,Divers gaullistes,0.0
+1,79,DEUX-SEVRES,Modérés,0.0
+1,79,DEUX-SEVRES,Mouvement Républicain Populaire,14475.0
+1,79,DEUX-SEVRES,"Mouvement Républicain Populaire, Vème République",22928.0
+1,79,DEUX-SEVRES,Parti Socialiste Unifié,0.0
+1,79,DEUX-SEVRES,Parti communiste,11277.0
+1,79,DEUX-SEVRES,Poujadiste,4112.0
+1,79,DEUX-SEVRES,Radicaux centristes,0.0
+1,79,DEUX-SEVRES,Radicaux socialistes,9539.0
+1,79,DEUX-SEVRES,"Républicains Indépendants,Vème République",0.0
+1,79,DEUX-SEVRES,Section Française de l'Internationale Ouvrière,20646.0
+1,79,DEUX-SEVRES,"Union pour la Nouvelle République, Union Pour le Travail",23880.0
+1,79,DEUX-SEVRES,abstentions,66768.0
+1,79,DEUX-SEVRES,blancs_nuls,4994.0
+1,80,SOMME,Centre National des Indépendants,13126.0
+1,80,SOMME,Divers,0.0
+1,80,SOMME,Divers extrême droite,0.0
+1,80,SOMME,Divers extrême gauche,0.0
+1,80,SOMME,Divers gaullistes,0.0
+1,80,SOMME,Modérés,1487.0
+1,80,SOMME,Mouvement Républicain Populaire,7692.0
+1,80,SOMME,"Mouvement Républicain Populaire, Vème République",0.0
+1,80,SOMME,Parti Socialiste Unifié,2947.0
+1,80,SOMME,Parti communiste,60731.0
+1,80,SOMME,Poujadiste,0.0
+1,80,SOMME,Radicaux centristes,0.0
+1,80,SOMME,Radicaux socialistes,17049.0
+1,80,SOMME,"Républicains Indépendants,Vème République",0.0
+1,80,SOMME,Section Française de l'Internationale Ouvrière,48822.0
+1,80,SOMME,"Union pour la Nouvelle République, Union Pour le Travail",70674.0
+1,80,SOMME,abstentions,62786.0
+1,80,SOMME,blancs_nuls,7144.0
+1,81,TARN,Centre National des Indépendants,16963.0
+1,81,TARN,Divers,0.0
+1,81,TARN,Divers extrême droite,0.0
+1,81,TARN,Divers extrême gauche,0.0
+1,81,TARN,Divers gaullistes,0.0
+1,81,TARN,Modérés,11345.0
+1,81,TARN,Mouvement Républicain Populaire,8085.0
+1,81,TARN,"Mouvement Républicain Populaire, Vème République",21257.0
+1,81,TARN,Parti Socialiste Unifié,0.0
+1,81,TARN,Parti communiste,25677.0
+1,81,TARN,Poujadiste,0.0
+1,81,TARN,Radicaux centristes,0.0
+1,81,TARN,Radicaux socialistes,4917.0
+1,81,TARN,"Républicains Indépendants,Vème République",0.0
+1,81,TARN,Section Française de l'Internationale Ouvrière,36965.0
+1,81,TARN,"Union pour la Nouvelle République, Union Pour le Travail",18634.0
+1,81,TARN,abstentions,51893.0
+1,81,TARN,blancs_nuls,8492.0
+1,82,TARN-ET-GARONNE,Centre National des Indépendants,1498.0
+1,82,TARN-ET-GARONNE,Divers,0.0
+1,82,TARN-ET-GARONNE,Divers extrême droite,0.0
+1,82,TARN-ET-GARONNE,Divers extrême gauche,0.0
+1,82,TARN-ET-GARONNE,Divers gaullistes,0.0
+1,82,TARN-ET-GARONNE,Modérés,4881.0
+1,82,TARN-ET-GARONNE,Mouvement Républicain Populaire,7456.0
+1,82,TARN-ET-GARONNE,"Mouvement Républicain Populaire, Vème République",0.0
+1,82,TARN-ET-GARONNE,Parti Socialiste Unifié,1355.0
+1,82,TARN-ET-GARONNE,Parti communiste,11936.0
+1,82,TARN-ET-GARONNE,Poujadiste,2583.0
+1,82,TARN-ET-GARONNE,Radicaux centristes,0.0
+1,82,TARN-ET-GARONNE,Radicaux socialistes,14295.0
+1,82,TARN-ET-GARONNE,"Républicains Indépendants,Vème République",0.0
+1,82,TARN-ET-GARONNE,Section Française de l'Internationale Ouvrière,8661.0
+1,82,TARN-ET-GARONNE,"Union pour la Nouvelle République, Union Pour le Travail",20516.0
+1,82,TARN-ET-GARONNE,abstentions,32521.0
+1,82,TARN-ET-GARONNE,blancs_nuls,3330.0
+1,83,VAR,Centre National des Indépendants,8572.0
+1,83,VAR,Divers,0.0
+1,83,VAR,Divers extrême droite,0.0
+1,83,VAR,Divers extrême gauche,0.0
+1,83,VAR,Divers gaullistes,0.0
+1,83,VAR,Modérés,28016.0
+1,83,VAR,Mouvement Républicain Populaire,0.0
+1,83,VAR,"Mouvement Républicain Populaire, Vème République",0.0
+1,83,VAR,Parti Socialiste Unifié,1284.0
+1,83,VAR,Parti communiste,48164.0
+1,83,VAR,Poujadiste,0.0
+1,83,VAR,Radicaux centristes,0.0
+1,83,VAR,Radicaux socialistes,0.0
+1,83,VAR,"Républicains Indépendants,Vème République",0.0
+1,83,VAR,Section Française de l'Internationale Ouvrière,31794.0
+1,83,VAR,"Union pour la Nouvelle République, Union Pour le Travail",56359.0
+1,83,VAR,abstentions,103681.0
+1,83,VAR,blancs_nuls,4045.0
+1,84,VAUCLUSE,Centre National des Indépendants,5370.0
+1,84,VAUCLUSE,Divers,0.0
+1,84,VAUCLUSE,Divers extrême droite,0.0
+1,84,VAUCLUSE,Divers extrême gauche,0.0
+1,84,VAUCLUSE,Divers gaullistes,0.0
+1,84,VAUCLUSE,Modérés,0.0
+1,84,VAUCLUSE,Mouvement Républicain Populaire,7455.0
+1,84,VAUCLUSE,"Mouvement Républicain Populaire, Vème République",0.0
+1,84,VAUCLUSE,Parti Socialiste Unifié,0.0
+1,84,VAUCLUSE,Parti communiste,30706.0
+1,84,VAUCLUSE,Poujadiste,1510.0
+1,84,VAUCLUSE,Radicaux centristes,0.0
+1,84,VAUCLUSE,Radicaux socialistes,15712.0
+1,84,VAUCLUSE,"Républicains Indépendants,Vème République",0.0
+1,84,VAUCLUSE,Section Française de l'Internationale Ouvrière,26151.0
+1,84,VAUCLUSE,"Union pour la Nouvelle République, Union Pour le Travail",33441.0
+1,84,VAUCLUSE,abstentions,53479.0
+1,84,VAUCLUSE,blancs_nuls,4758.0
+1,85,VENDEE,Centre National des Indépendants,45239.0
+1,85,VENDEE,Divers,0.0
+1,85,VENDEE,Divers extrême droite,0.0
+1,85,VENDEE,Divers extrême gauche,0.0
+1,85,VENDEE,Divers gaullistes,0.0
+1,85,VENDEE,Modérés,0.0
+1,85,VENDEE,Mouvement Républicain Populaire,58935.0
+1,85,VENDEE,"Mouvement Républicain Populaire, Vème République",0.0
+1,85,VENDEE,Parti Socialiste Unifié,0.0
+1,85,VENDEE,Parti communiste,15283.0
+1,85,VENDEE,Poujadiste,1091.0
+1,85,VENDEE,Radicaux centristes,0.0
+1,85,VENDEE,Radicaux socialistes,0.0
+1,85,VENDEE,"Républicains Indépendants,Vème République",0.0
+1,85,VENDEE,Section Française de l'Internationale Ouvrière,13416.0
+1,85,VENDEE,"Union pour la Nouvelle République, Union Pour le Travail",39523.0
+1,85,VENDEE,abstentions,70507.0
+1,85,VENDEE,blancs_nuls,9957.0
+1,86,VIENNE,Centre National des Indépendants,0.0
+1,86,VIENNE,Divers,0.0
+1,86,VIENNE,Divers extrême droite,0.0
+1,86,VIENNE,Divers extrême gauche,0.0
+1,86,VIENNE,Divers gaullistes,0.0
+1,86,VIENNE,Modérés,4424.0
+1,86,VIENNE,Mouvement Républicain Populaire,32525.0
+1,86,VIENNE,"Mouvement Républicain Populaire, Vème République",0.0
+1,86,VIENNE,Parti Socialiste Unifié,0.0
+1,86,VIENNE,Parti communiste,25216.0
+1,86,VIENNE,Poujadiste,0.0
+1,86,VIENNE,Radicaux centristes,0.0
+1,86,VIENNE,Radicaux socialistes,9481.0
+1,86,VIENNE,"Républicains Indépendants,Vème République",0.0
+1,86,VIENNE,Section Française de l'Internationale Ouvrière,4798.0
+1,86,VIENNE,"Union pour la Nouvelle République, Union Pour le Travail",51681.0
+1,86,VIENNE,abstentions,72336.0
+1,86,VIENNE,blancs_nuls,4900.0
+1,87,HAUTE-VIENNE,Centre National des Indépendants,0.0
+1,87,HAUTE-VIENNE,Divers,0.0
+1,87,HAUTE-VIENNE,Divers extrême droite,0.0
+1,87,HAUTE-VIENNE,Divers extrême gauche,0.0
+1,87,HAUTE-VIENNE,Divers gaullistes,0.0
+1,87,HAUTE-VIENNE,Modérés,0.0
+1,87,HAUTE-VIENNE,Mouvement Républicain Populaire,6950.0
+1,87,HAUTE-VIENNE,"Mouvement Républicain Populaire, Vème République",0.0
+1,87,HAUTE-VIENNE,Parti Socialiste Unifié,0.0
+1,87,HAUTE-VIENNE,Parti communiste,49399.0
+1,87,HAUTE-VIENNE,Poujadiste,0.0
+1,87,HAUTE-VIENNE,Radicaux centristes,0.0
+1,87,HAUTE-VIENNE,Radicaux socialistes,0.0
+1,87,HAUTE-VIENNE,"Républicains Indépendants,Vème République",0.0
+1,87,HAUTE-VIENNE,Section Française de l'Internationale Ouvrière,49836.0
+1,87,HAUTE-VIENNE,"Union pour la Nouvelle République, Union Pour le Travail",33773.0
+1,87,HAUTE-VIENNE,abstentions,80926.0
+1,87,HAUTE-VIENNE,blancs_nuls,5089.0
+1,88,VOSGES,Centre National des Indépendants,4679.0
+1,88,VOSGES,Divers,0.0
+1,88,VOSGES,Divers extrême droite,0.0
+1,88,VOSGES,Divers extrême gauche,0.0
+1,88,VOSGES,Divers gaullistes,0.0
+1,88,VOSGES,Modérés,13746.0
+1,88,VOSGES,Mouvement Républicain Populaire,12051.0
+1,88,VOSGES,"Mouvement Républicain Populaire, Vème République",0.0
+1,88,VOSGES,Parti Socialiste Unifié,2364.0
+1,88,VOSGES,Parti communiste,21220.0
+1,88,VOSGES,Poujadiste,1069.0
+1,88,VOSGES,Radicaux centristes,0.0
+1,88,VOSGES,Radicaux socialistes,2006.0
+1,88,VOSGES,"Républicains Indépendants,Vème République",29108.0
+1,88,VOSGES,Section Française de l'Internationale Ouvrière,11424.0
+1,88,VOSGES,"Union pour la Nouvelle République, Union Pour le Travail",53401.0
+1,88,VOSGES,abstentions,73672.0
+1,88,VOSGES,blancs_nuls,7972.0
+1,89,YONNE,Centre National des Indépendants,3388.0
+1,89,YONNE,Divers,0.0
+1,89,YONNE,Divers extrême droite,0.0
+1,89,YONNE,Divers extrême gauche,0.0
+1,89,YONNE,Divers gaullistes,0.0
+1,89,YONNE,Modérés,26976.0
+1,89,YONNE,Mouvement Républicain Populaire,0.0
+1,89,YONNE,"Mouvement Républicain Populaire, Vème République",0.0
+1,89,YONNE,Parti Socialiste Unifié,2268.0
+1,89,YONNE,Parti communiste,23985.0
+1,89,YONNE,Poujadiste,0.0
+1,89,YONNE,Radicaux centristes,0.0
+1,89,YONNE,Radicaux socialistes,8236.0
+1,89,YONNE,"Républicains Indépendants,Vème République",0.0
+1,89,YONNE,Section Française de l'Internationale Ouvrière,14385.0
+1,89,YONNE,"Union pour la Nouvelle République, Union Pour le Travail",29507.0
+1,89,YONNE,abstentions,56180.0
+1,89,YONNE,blancs_nuls,5176.0
+1,90,TERRITOIRE DE BELFORT,Centre National des Indépendants,0.0
+1,90,TERRITOIRE DE BELFORT,Divers,0.0
+1,90,TERRITOIRE DE BELFORT,Divers extrême droite,0.0
+1,90,TERRITOIRE DE BELFORT,Divers extrême gauche,0.0
+1,90,TERRITOIRE DE BELFORT,Divers gaullistes,0.0
+1,90,TERRITOIRE DE BELFORT,Modérés,0.0
+1,90,TERRITOIRE DE BELFORT,Mouvement Républicain Populaire,6444.0
+1,90,TERRITOIRE DE BELFORT,"Mouvement Républicain Populaire, Vème République",0.0
+1,90,TERRITOIRE DE BELFORT,Parti Socialiste Unifié,5248.0
+1,90,TERRITOIRE DE BELFORT,Parti communiste,4639.0
+1,90,TERRITOIRE DE BELFORT,Poujadiste,0.0
+1,90,TERRITOIRE DE BELFORT,Radicaux centristes,0.0
+1,90,TERRITOIRE DE BELFORT,Radicaux socialistes,0.0
+1,90,TERRITOIRE DE BELFORT,"Républicains Indépendants,Vème République",0.0
+1,90,TERRITOIRE DE BELFORT,Section Française de l'Internationale Ouvrière,4534.0
+1,90,TERRITOIRE DE BELFORT,"Union pour la Nouvelle République, Union Pour le Travail",18728.0
+1,90,TERRITOIRE DE BELFORT,abstentions,21311.0
+1,90,TERRITOIRE DE BELFORT,blancs_nuls,1374.0
+2,1,AIN,Centre National des Indépendants,0.0
+2,1,AIN,Divers extrême droite,0.0
+2,1,AIN,Divers gaullistes,2750.0
+2,1,AIN,Modérés,20969.0
+2,1,AIN,Mouvement Républicain Populaire,34857.0
+2,1,AIN,"Mouvement Républicain Populaire, Vème République",0.0
+2,1,AIN,Parti Socialiste Unifié,0.0
+2,1,AIN,Parti communiste,21316.0
+2,1,AIN,Poujadiste,0.0
+2,1,AIN,Radicaux centristes,0.0
+2,1,AIN,Radicaux socialistes,0.0
+2,1,AIN,"Républicains Indépendants,Vème République",0.0
+2,1,AIN,Section Française de l'Internationale Ouvrière,16513.0
+2,1,AIN,"Union pour la Nouvelle République, Union Pour le Travail",28806.0
+2,1,AIN,abstentions,72037.0
+2,1,AIN,blancs_nuls,2590.0
+2,2,AISNE,Centre National des Indépendants,5554.0
+2,2,AISNE,Divers extrême droite,0.0
+2,2,AISNE,Divers gaullistes,0.0
+2,2,AISNE,Modérés,0.0
+2,2,AISNE,Mouvement Républicain Populaire,0.0
+2,2,AISNE,"Mouvement Républicain Populaire, Vème République",0.0
+2,2,AISNE,Parti Socialiste Unifié,0.0
+2,2,AISNE,Parti communiste,67830.0
+2,2,AISNE,Poujadiste,0.0
+2,2,AISNE,Radicaux centristes,30527.0
+2,2,AISNE,Radicaux socialistes,0.0
+2,2,AISNE,"Républicains Indépendants,Vème République",0.0
+2,2,AISNE,Section Française de l'Internationale Ouvrière,18529.0
+2,2,AISNE,"Union pour la Nouvelle République, Union Pour le Travail",92738.0
+2,2,AISNE,abstentions,65216.0
+2,2,AISNE,blancs_nuls,9031.0
+2,3,ALLIER,Centre National des Indépendants,18853.0
+2,3,ALLIER,Divers extrême droite,0.0
+2,3,ALLIER,Divers gaullistes,0.0
+2,3,ALLIER,Modérés,9623.0
+2,3,ALLIER,Mouvement Républicain Populaire,0.0
+2,3,ALLIER,"Mouvement Républicain Populaire, Vème République",0.0
+2,3,ALLIER,Parti Socialiste Unifié,0.0
+2,3,ALLIER,Parti communiste,32876.0
+2,3,ALLIER,Poujadiste,0.0
+2,3,ALLIER,Radicaux centristes,0.0
+2,3,ALLIER,Radicaux socialistes,27909.0
+2,3,ALLIER,"Républicains Indépendants,Vème République",0.0
+2,3,ALLIER,Section Française de l'Internationale Ouvrière,49731.0
+2,3,ALLIER,"Union pour la Nouvelle République, Union Pour le Travail",25862.0
+2,3,ALLIER,abstentions,72540.0
+2,3,ALLIER,blancs_nuls,5680.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Centre National des Indépendants,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Divers extrême droite,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Divers gaullistes,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Modérés,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Mouvement Républicain Populaire,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,"Mouvement Républicain Populaire, Vème République",0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Parti Socialiste Unifié,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Parti communiste,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Poujadiste,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Radicaux centristes,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Radicaux socialistes,12445.0
+2,4,ALPES-DE-HAUTE-PROVENCE,"Républicains Indépendants,Vème République",0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Section Française de l'Internationale Ouvrière,13385.0
+2,4,ALPES-DE-HAUTE-PROVENCE,"Union pour la Nouvelle République, Union Pour le Travail",13721.0
+2,4,ALPES-DE-HAUTE-PROVENCE,abstentions,17361.0
+2,4,ALPES-DE-HAUTE-PROVENCE,blancs_nuls,2325.0
+2,5,HAUTES-ALPES,Centre National des Indépendants,0.0
+2,5,HAUTES-ALPES,Divers extrême droite,0.0
+2,5,HAUTES-ALPES,Divers gaullistes,0.0
+2,5,HAUTES-ALPES,Modérés,0.0
+2,5,HAUTES-ALPES,Mouvement Républicain Populaire,8106.0
+2,5,HAUTES-ALPES,"Mouvement Républicain Populaire, Vème République",0.0
+2,5,HAUTES-ALPES,Parti Socialiste Unifié,0.0
+2,5,HAUTES-ALPES,Parti communiste,5487.0
+2,5,HAUTES-ALPES,Poujadiste,0.0
+2,5,HAUTES-ALPES,Radicaux centristes,10137.0
+2,5,HAUTES-ALPES,Radicaux socialistes,5104.0
+2,5,HAUTES-ALPES,"Républicains Indépendants,Vème République",4504.0
+2,5,HAUTES-ALPES,Section Française de l'Internationale Ouvrière,0.0
+2,5,HAUTES-ALPES,"Union pour la Nouvelle République, Union Pour le Travail",7399.0
+2,5,HAUTES-ALPES,abstentions,13693.0
+2,5,HAUTES-ALPES,blancs_nuls,997.0
+2,6,ALPES-MARITIMES,Centre National des Indépendants,0.0
+2,6,ALPES-MARITIMES,Divers extrême droite,0.0
+2,6,ALPES-MARITIMES,Divers gaullistes,1223.0
+2,6,ALPES-MARITIMES,Modérés,0.0
+2,6,ALPES-MARITIMES,Mouvement Républicain Populaire,0.0
+2,6,ALPES-MARITIMES,"Mouvement Républicain Populaire, Vème République",0.0
+2,6,ALPES-MARITIMES,Parti Socialiste Unifié,0.0
+2,6,ALPES-MARITIMES,Parti communiste,68429.0
+2,6,ALPES-MARITIMES,Poujadiste,0.0
+2,6,ALPES-MARITIMES,Radicaux centristes,20076.0
+2,6,ALPES-MARITIMES,Radicaux socialistes,0.0
+2,6,ALPES-MARITIMES,"Républicains Indépendants,Vème République",0.0
+2,6,ALPES-MARITIMES,Section Française de l'Internationale Ouvrière,0.0
+2,6,ALPES-MARITIMES,"Union pour la Nouvelle République, Union Pour le Travail",100210.0
+2,6,ALPES-MARITIMES,abstentions,92290.0
+2,6,ALPES-MARITIMES,blancs_nuls,10680.0
+2,7,ARDECHE,Centre National des Indépendants,15318.0
+2,7,ARDECHE,Divers extrême droite,0.0
+2,7,ARDECHE,Divers gaullistes,0.0
+2,7,ARDECHE,Modérés,0.0
+2,7,ARDECHE,Mouvement Républicain Populaire,20470.0
+2,7,ARDECHE,"Mouvement Républicain Populaire, Vème République",0.0
+2,7,ARDECHE,Parti Socialiste Unifié,0.0
+2,7,ARDECHE,Parti communiste,15924.0
+2,7,ARDECHE,Poujadiste,0.0
+2,7,ARDECHE,Radicaux centristes,0.0
+2,7,ARDECHE,Radicaux socialistes,0.0
+2,7,ARDECHE,"Républicains Indépendants,Vème République",0.0
+2,7,ARDECHE,Section Française de l'Internationale Ouvrière,0.0
+2,7,ARDECHE,"Union pour la Nouvelle République, Union Pour le Travail",28181.0
+2,7,ARDECHE,abstentions,27168.0
+2,7,ARDECHE,blancs_nuls,1709.0
+2,8,ARDENNES,Centre National des Indépendants,8685.0
+2,8,ARDENNES,Divers extrême droite,0.0
+2,8,ARDENNES,Divers gaullistes,0.0
+2,8,ARDENNES,Modérés,0.0
+2,8,ARDENNES,Mouvement Républicain Populaire,8921.0
+2,8,ARDENNES,"Mouvement Républicain Populaire, Vème République",0.0
+2,8,ARDENNES,Parti Socialiste Unifié,19166.0
+2,8,ARDENNES,Parti communiste,29793.0
+2,8,ARDENNES,Poujadiste,0.0
+2,8,ARDENNES,Radicaux centristes,0.0
+2,8,ARDENNES,Radicaux socialistes,0.0
+2,8,ARDENNES,"Républicains Indépendants,Vème République",0.0
+2,8,ARDENNES,Section Française de l'Internationale Ouvrière,0.0
+2,8,ARDENNES,"Union pour la Nouvelle République, Union Pour le Travail",56621.0
+2,8,ARDENNES,abstentions,39810.0
+2,8,ARDENNES,blancs_nuls,3119.0
+2,9,ARIEGE,Centre National des Indépendants,0.0
+2,9,ARIEGE,Divers extrême droite,0.0
+2,9,ARIEGE,Divers gaullistes,0.0
+2,9,ARIEGE,Modérés,0.0
+2,9,ARIEGE,Mouvement Républicain Populaire,0.0
+2,9,ARIEGE,"Mouvement Républicain Populaire, Vème République",7860.0
+2,9,ARIEGE,Parti Socialiste Unifié,0.0
+2,9,ARIEGE,Parti communiste,11808.0
+2,9,ARIEGE,Poujadiste,0.0
+2,9,ARIEGE,Radicaux centristes,0.0
+2,9,ARIEGE,Radicaux socialistes,0.0
+2,9,ARIEGE,"Républicains Indépendants,Vème République",0.0
+2,9,ARIEGE,Section Française de l'Internationale Ouvrière,37179.0
+2,9,ARIEGE,"Union pour la Nouvelle République, Union Pour le Travail",7262.0
+2,9,ARIEGE,abstentions,28606.0
+2,9,ARIEGE,blancs_nuls,2290.0
+2,10,AUBE,Centre National des Indépendants,948.0
+2,10,AUBE,Divers extrême droite,0.0
+2,10,AUBE,Divers gaullistes,0.0
+2,10,AUBE,Modérés,11589.0
+2,10,AUBE,Mouvement Républicain Populaire,0.0
+2,10,AUBE,"Mouvement Républicain Populaire, Vème République",0.0
+2,10,AUBE,Parti Socialiste Unifié,0.0
+2,10,AUBE,Parti communiste,39988.0
+2,10,AUBE,Poujadiste,0.0
+2,10,AUBE,Radicaux centristes,0.0
+2,10,AUBE,Radicaux socialistes,0.0
+2,10,AUBE,"Républicains Indépendants,Vème République",0.0
+2,10,AUBE,Section Française de l'Internationale Ouvrière,0.0
+2,10,AUBE,"Union pour la Nouvelle République, Union Pour le Travail",50981.0
+2,10,AUBE,abstentions,43022.0
+2,10,AUBE,blancs_nuls,5104.0
+2,11,AUDE,Centre National des Indépendants,0.0
+2,11,AUDE,Divers extrême droite,0.0
+2,11,AUDE,Divers gaullistes,0.0
+2,11,AUDE,Modérés,0.0
+2,11,AUDE,Mouvement Républicain Populaire,6545.0
+2,11,AUDE,"Mouvement Républicain Populaire, Vème République",0.0
+2,11,AUDE,Parti Socialiste Unifié,0.0
+2,11,AUDE,Parti communiste,0.0
+2,11,AUDE,Poujadiste,0.0
+2,11,AUDE,Radicaux centristes,0.0
+2,11,AUDE,Radicaux socialistes,10328.0
+2,11,AUDE,"Républicains Indépendants,Vème République",0.0
+2,11,AUDE,Section Française de l'Internationale Ouvrière,76420.0
+2,11,AUDE,"Union pour la Nouvelle République, Union Pour le Travail",26131.0
+2,11,AUDE,abstentions,46825.0
+2,11,AUDE,blancs_nuls,5267.0
+2,12,AVEYRON,Centre National des Indépendants,17570.0
+2,12,AVEYRON,Divers extrême droite,0.0
+2,12,AVEYRON,Divers gaullistes,0.0
+2,12,AVEYRON,Modérés,0.0
+2,12,AVEYRON,Mouvement Républicain Populaire,27113.0
+2,12,AVEYRON,"Mouvement Républicain Populaire, Vème République",0.0
+2,12,AVEYRON,Parti Socialiste Unifié,0.0
+2,12,AVEYRON,Parti communiste,0.0
+2,12,AVEYRON,Poujadiste,0.0
+2,12,AVEYRON,Radicaux centristes,0.0
+2,12,AVEYRON,Radicaux socialistes,29159.0
+2,12,AVEYRON,"Républicains Indépendants,Vème République",0.0
+2,12,AVEYRON,Section Française de l'Internationale Ouvrière,0.0
+2,12,AVEYRON,"Union pour la Nouvelle République, Union Pour le Travail",23009.0
+2,12,AVEYRON,abstentions,28244.0
+2,12,AVEYRON,blancs_nuls,3897.0
+2,13,BOUCHES-DU-RHONE,Centre National des Indépendants,32115.0
+2,13,BOUCHES-DU-RHONE,Divers extrême droite,6021.0
+2,13,BOUCHES-DU-RHONE,Divers gaullistes,0.0
+2,13,BOUCHES-DU-RHONE,Modérés,0.0
+2,13,BOUCHES-DU-RHONE,Mouvement Républicain Populaire,15790.0
+2,13,BOUCHES-DU-RHONE,"Mouvement Républicain Populaire, Vème République",0.0
+2,13,BOUCHES-DU-RHONE,Parti Socialiste Unifié,0.0
+2,13,BOUCHES-DU-RHONE,Parti communiste,75845.0
+2,13,BOUCHES-DU-RHONE,Poujadiste,0.0
+2,13,BOUCHES-DU-RHONE,Radicaux centristes,0.0
+2,13,BOUCHES-DU-RHONE,Radicaux socialistes,0.0
+2,13,BOUCHES-DU-RHONE,"Républicains Indépendants,Vème République",0.0
+2,13,BOUCHES-DU-RHONE,Section Française de l'Internationale Ouvrière,165655.0
+2,13,BOUCHES-DU-RHONE,"Union pour la Nouvelle République, Union Pour le Travail",122592.0
+2,13,BOUCHES-DU-RHONE,abstentions,198441.0
+2,13,BOUCHES-DU-RHONE,blancs_nuls,16204.0
+2,14,CALVADOS,Centre National des Indépendants,0.0
+2,14,CALVADOS,Divers extrême droite,0.0
+2,14,CALVADOS,Divers gaullistes,0.0
+2,14,CALVADOS,Modérés,0.0
+2,14,CALVADOS,Mouvement Républicain Populaire,0.0
+2,14,CALVADOS,"Mouvement Républicain Populaire, Vème République",0.0
+2,14,CALVADOS,Parti Socialiste Unifié,0.0
+2,14,CALVADOS,Parti communiste,14567.0
+2,14,CALVADOS,Poujadiste,0.0
+2,14,CALVADOS,Radicaux centristes,0.0
+2,14,CALVADOS,Radicaux socialistes,0.0
+2,14,CALVADOS,"Républicains Indépendants,Vème République",21821.0
+2,14,CALVADOS,Section Française de l'Internationale Ouvrière,0.0
+2,14,CALVADOS,"Union pour la Nouvelle République, Union Pour le Travail",0.0
+2,14,CALVADOS,abstentions,17336.0
+2,14,CALVADOS,blancs_nuls,1866.0
+2,15,CANTAL,Centre National des Indépendants,8453.0
+2,15,CANTAL,Divers extrême droite,0.0
+2,15,CANTAL,Divers gaullistes,0.0
+2,15,CANTAL,Modérés,0.0
+2,15,CANTAL,Mouvement Républicain Populaire,0.0
+2,15,CANTAL,"Mouvement Républicain Populaire, Vème République",0.0
+2,15,CANTAL,Parti Socialiste Unifié,0.0
+2,15,CANTAL,Parti communiste,5981.0
+2,15,CANTAL,Poujadiste,0.0
+2,15,CANTAL,Radicaux centristes,0.0
+2,15,CANTAL,Radicaux socialistes,0.0
+2,15,CANTAL,"Républicains Indépendants,Vème République",0.0
+2,15,CANTAL,Section Française de l'Internationale Ouvrière,0.0
+2,15,CANTAL,"Union pour la Nouvelle République, Union Pour le Travail",19492.0
+2,15,CANTAL,abstentions,20017.0
+2,15,CANTAL,blancs_nuls,728.0
+2,16,CHARENTE,Centre National des Indépendants,0.0
+2,16,CHARENTE,Divers extrême droite,0.0
+2,16,CHARENTE,Divers gaullistes,0.0
+2,16,CHARENTE,Modérés,24646.0
+2,16,CHARENTE,Mouvement Républicain Populaire,0.0
+2,16,CHARENTE,"Mouvement Républicain Populaire, Vème République",0.0
+2,16,CHARENTE,Parti Socialiste Unifié,0.0
+2,16,CHARENTE,Parti communiste,40913.0
+2,16,CHARENTE,Poujadiste,0.0
+2,16,CHARENTE,Radicaux centristes,0.0
+2,16,CHARENTE,Radicaux socialistes,24674.0
+2,16,CHARENTE,"Républicains Indépendants,Vème République",0.0
+2,16,CHARENTE,Section Française de l'Internationale Ouvrière,0.0
+2,16,CHARENTE,"Union pour la Nouvelle République, Union Pour le Travail",41382.0
+2,16,CHARENTE,abstentions,64616.0
+2,16,CHARENTE,blancs_nuls,9230.0
+2,17,CHARENTE-MARITIME,Centre National des Indépendants,32505.0
+2,17,CHARENTE-MARITIME,Divers extrême droite,0.0
+2,17,CHARENTE-MARITIME,Divers gaullistes,0.0
+2,17,CHARENTE-MARITIME,Modérés,3445.0
+2,17,CHARENTE-MARITIME,Mouvement Républicain Populaire,0.0
+2,17,CHARENTE-MARITIME,"Mouvement Républicain Populaire, Vème République",0.0
+2,17,CHARENTE-MARITIME,Parti Socialiste Unifié,0.0
+2,17,CHARENTE-MARITIME,Parti communiste,38352.0
+2,17,CHARENTE-MARITIME,Poujadiste,0.0
+2,17,CHARENTE-MARITIME,Radicaux centristes,0.0
+2,17,CHARENTE-MARITIME,Radicaux socialistes,22271.0
+2,17,CHARENTE-MARITIME,"Républicains Indépendants,Vème République",0.0
+2,17,CHARENTE-MARITIME,Section Française de l'Internationale Ouvrière,0.0
+2,17,CHARENTE-MARITIME,"Union pour la Nouvelle République, Union Pour le Travail",73001.0
+2,17,CHARENTE-MARITIME,abstentions,105714.0
+2,17,CHARENTE-MARITIME,blancs_nuls,11804.0
+2,18,CHER,Centre National des Indépendants,0.0
+2,18,CHER,Divers extrême droite,0.0
+2,18,CHER,Divers gaullistes,0.0
+2,18,CHER,Modérés,18230.0
+2,18,CHER,Mouvement Républicain Populaire,0.0
+2,18,CHER,"Mouvement Républicain Populaire, Vème République",0.0
+2,18,CHER,Parti Socialiste Unifié,0.0
+2,18,CHER,Parti communiste,55181.0
+2,18,CHER,Poujadiste,0.0
+2,18,CHER,Radicaux centristes,0.0
+2,18,CHER,Radicaux socialistes,0.0
+2,18,CHER,"Républicains Indépendants,Vème République",0.0
+2,18,CHER,Section Française de l'Internationale Ouvrière,0.0
+2,18,CHER,"Union pour la Nouvelle République, Union Pour le Travail",55081.0
+2,18,CHER,abstentions,51643.0
+2,18,CHER,blancs_nuls,4843.0
+2,19,CORREZE,Centre National des Indépendants,0.0
+2,19,CORREZE,Divers extrême droite,0.0
+2,19,CORREZE,Divers gaullistes,0.0
+2,19,CORREZE,Modérés,0.0
+2,19,CORREZE,Mouvement Républicain Populaire,0.0
+2,19,CORREZE,"Mouvement Républicain Populaire, Vème République",0.0
+2,19,CORREZE,Parti Socialiste Unifié,0.0
+2,19,CORREZE,Parti communiste,53308.0
+2,19,CORREZE,Poujadiste,0.0
+2,19,CORREZE,Radicaux centristes,0.0
+2,19,CORREZE,Radicaux socialistes,0.0
+2,19,CORREZE,"Républicains Indépendants,Vème République",0.0
+2,19,CORREZE,Section Française de l'Internationale Ouvrière,39018.0
+2,19,CORREZE,"Union pour la Nouvelle République, Union Pour le Travail",22239.0
+2,19,CORREZE,abstentions,42431.0
+2,19,CORREZE,blancs_nuls,6262.0
+2,20,CORSE,Centre National des Indépendants,7087.0
+2,20,CORSE,Divers extrême droite,0.0
+2,20,CORSE,Divers gaullistes,0.0
+2,20,CORSE,Modérés,0.0
+2,20,CORSE,Mouvement Républicain Populaire,0.0
+2,20,CORSE,"Mouvement Républicain Populaire, Vème République",0.0
+2,20,CORSE,Parti Socialiste Unifié,0.0
+2,20,CORSE,Parti communiste,0.0
+2,20,CORSE,Poujadiste,0.0
+2,20,CORSE,Radicaux centristes,23427.0
+2,20,CORSE,Radicaux socialistes,38611.0
+2,20,CORSE,"Républicains Indépendants,Vème République",0.0
+2,20,CORSE,Section Française de l'Internationale Ouvrière,0.0
+2,20,CORSE,"Union pour la Nouvelle République, Union Pour le Travail",6147.0
+2,20,CORSE,abstentions,33595.0
+2,20,CORSE,blancs_nuls,605.0
+2,21,COTE-D'OR,Centre National des Indépendants,49847.0
+2,21,COTE-D'OR,Divers extrême droite,0.0
+2,21,COTE-D'OR,Divers gaullistes,0.0
+2,21,COTE-D'OR,Modérés,0.0
+2,21,COTE-D'OR,Mouvement Républicain Populaire,0.0
+2,21,COTE-D'OR,"Mouvement Républicain Populaire, Vème République",0.0
+2,21,COTE-D'OR,Parti Socialiste Unifié,0.0
+2,21,COTE-D'OR,Parti communiste,0.0
+2,21,COTE-D'OR,Poujadiste,0.0
+2,21,COTE-D'OR,Radicaux centristes,0.0
+2,21,COTE-D'OR,Radicaux socialistes,12494.0
+2,21,COTE-D'OR,"Républicains Indépendants,Vème République",0.0
+2,21,COTE-D'OR,Section Française de l'Internationale Ouvrière,0.0
+2,21,COTE-D'OR,"Union pour la Nouvelle République, Union Pour le Travail",46517.0
+2,21,COTE-D'OR,abstentions,59596.0
+2,21,COTE-D'OR,blancs_nuls,5337.0
+2,22,COTES-D'ARMOR,Centre National des Indépendants,0.0
+2,22,COTES-D'ARMOR,Divers extrême droite,0.0
+2,22,COTES-D'ARMOR,Divers gaullistes,0.0
+2,22,COTES-D'ARMOR,Modérés,0.0
+2,22,COTES-D'ARMOR,Mouvement Républicain Populaire,25351.0
+2,22,COTES-D'ARMOR,"Mouvement Républicain Populaire, Vème République",26116.0
+2,22,COTES-D'ARMOR,Parti Socialiste Unifié,29553.0
+2,22,COTES-D'ARMOR,Parti communiste,62694.0
+2,22,COTES-D'ARMOR,Poujadiste,0.0
+2,22,COTES-D'ARMOR,Radicaux centristes,24090.0
+2,22,COTES-D'ARMOR,Radicaux socialistes,0.0
+2,22,COTES-D'ARMOR,"Républicains Indépendants,Vème République",0.0
+2,22,COTES-D'ARMOR,Section Française de l'Internationale Ouvrière,0.0
+2,22,COTES-D'ARMOR,"Union pour la Nouvelle République, Union Pour le Travail",43250.0
+2,22,COTES-D'ARMOR,abstentions,50864.0
+2,22,COTES-D'ARMOR,blancs_nuls,3605.0
+2,23,CREUSE,Centre National des Indépendants,0.0
+2,23,CREUSE,Divers extrême droite,0.0
+2,23,CREUSE,Divers gaullistes,0.0
+2,23,CREUSE,Modérés,0.0
+2,23,CREUSE,Mouvement Républicain Populaire,0.0
+2,23,CREUSE,"Mouvement Républicain Populaire, Vème République",0.0
+2,23,CREUSE,Parti Socialiste Unifié,0.0
+2,23,CREUSE,Parti communiste,15605.0
+2,23,CREUSE,Poujadiste,0.0
+2,23,CREUSE,Radicaux centristes,18874.0
+2,23,CREUSE,Radicaux socialistes,0.0
+2,23,CREUSE,"Républicains Indépendants,Vème République",0.0
+2,23,CREUSE,Section Française de l'Internationale Ouvrière,24398.0
+2,23,CREUSE,"Union pour la Nouvelle République, Union Pour le Travail",8884.0
+2,23,CREUSE,abstentions,45688.0
+2,23,CREUSE,blancs_nuls,3320.0
+2,24,DORDOGNE,Centre National des Indépendants,0.0
+2,24,DORDOGNE,Divers extrême droite,0.0
+2,24,DORDOGNE,Divers gaullistes,0.0
+2,24,DORDOGNE,Modérés,0.0
+2,24,DORDOGNE,Mouvement Républicain Populaire,0.0
+2,24,DORDOGNE,"Mouvement Républicain Populaire, Vème République",0.0
+2,24,DORDOGNE,Parti Socialiste Unifié,0.0
+2,24,DORDOGNE,Parti communiste,50678.0
+2,24,DORDOGNE,Poujadiste,0.0
+2,24,DORDOGNE,Radicaux centristes,22726.0
+2,24,DORDOGNE,Radicaux socialistes,1033.0
+2,24,DORDOGNE,"Républicains Indépendants,Vème République",0.0
+2,24,DORDOGNE,Section Française de l'Internationale Ouvrière,50713.0
+2,24,DORDOGNE,"Union pour la Nouvelle République, Union Pour le Travail",58577.0
+2,24,DORDOGNE,abstentions,61992.0
+2,24,DORDOGNE,blancs_nuls,7557.0
+2,25,DOUBS,Centre National des Indépendants,0.0
+2,25,DOUBS,Divers extrême droite,0.0
+2,25,DOUBS,Divers gaullistes,0.0
+2,25,DOUBS,Modérés,0.0
+2,25,DOUBS,Mouvement Républicain Populaire,0.0
+2,25,DOUBS,"Mouvement Républicain Populaire, Vème République",0.0
+2,25,DOUBS,Parti Socialiste Unifié,0.0
+2,25,DOUBS,Parti communiste,19691.0
+2,25,DOUBS,Poujadiste,0.0
+2,25,DOUBS,Radicaux centristes,0.0
+2,25,DOUBS,Radicaux socialistes,0.0
+2,25,DOUBS,"Républicains Indépendants,Vème République",0.0
+2,25,DOUBS,Section Française de l'Internationale Ouvrière,36258.0
+2,25,DOUBS,"Union pour la Nouvelle République, Union Pour le Travail",89525.0
+2,25,DOUBS,abstentions,55935.0
+2,25,DOUBS,blancs_nuls,7192.0
+2,26,DROME,Centre National des Indépendants,9673.0
+2,26,DROME,Divers extrême droite,0.0
+2,26,DROME,Divers gaullistes,0.0
+2,26,DROME,Modérés,0.0
+2,26,DROME,Mouvement Républicain Populaire,11284.0
+2,26,DROME,"Mouvement Républicain Populaire, Vème République",0.0
+2,26,DROME,Parti Socialiste Unifié,0.0
+2,26,DROME,Parti communiste,29944.0
+2,26,DROME,Poujadiste,0.0
+2,26,DROME,Radicaux centristes,0.0
+2,26,DROME,Radicaux socialistes,0.0
+2,26,DROME,"Républicains Indépendants,Vème République",20547.0
+2,26,DROME,Section Française de l'Internationale Ouvrière,23864.0
+2,26,DROME,"Union pour la Nouvelle République, Union Pour le Travail",31890.0
+2,26,DROME,abstentions,53057.0
+2,26,DROME,blancs_nuls,3045.0
+2,27,EURE,Centre National des Indépendants,0.0
+2,27,EURE,Divers extrême droite,0.0
+2,27,EURE,Divers gaullistes,0.0
+2,27,EURE,Modérés,30312.0
+2,27,EURE,Mouvement Républicain Populaire,0.0
+2,27,EURE,"Mouvement Républicain Populaire, Vème République",0.0
+2,27,EURE,Parti Socialiste Unifié,0.0
+2,27,EURE,Parti communiste,17177.0
+2,27,EURE,Poujadiste,0.0
+2,27,EURE,Radicaux centristes,0.0
+2,27,EURE,Radicaux socialistes,0.0
+2,27,EURE,"Républicains Indépendants,Vème République",0.0
+2,27,EURE,Section Française de l'Internationale Ouvrière,0.0
+2,27,EURE,"Union pour la Nouvelle République, Union Pour le Travail",17308.0
+2,27,EURE,abstentions,29178.0
+2,27,EURE,blancs_nuls,2348.0
+2,28,EURE-ET-LOIR,Centre National des Indépendants,0.0
+2,28,EURE-ET-LOIR,Divers extrême droite,0.0
+2,28,EURE-ET-LOIR,Divers gaullistes,0.0
+2,28,EURE-ET-LOIR,Modérés,0.0
+2,28,EURE-ET-LOIR,Mouvement Républicain Populaire,0.0
+2,28,EURE-ET-LOIR,"Mouvement Républicain Populaire, Vème République",0.0
+2,28,EURE-ET-LOIR,Parti Socialiste Unifié,0.0
+2,28,EURE-ET-LOIR,Parti communiste,13677.0
+2,28,EURE-ET-LOIR,Poujadiste,0.0
+2,28,EURE-ET-LOIR,Radicaux centristes,0.0
+2,28,EURE-ET-LOIR,Radicaux socialistes,23274.0
+2,28,EURE-ET-LOIR,"Républicains Indépendants,Vème République",0.0
+2,28,EURE-ET-LOIR,Section Française de l'Internationale Ouvrière,16888.0
+2,28,EURE-ET-LOIR,"Union pour la Nouvelle République, Union Pour le Travail",60471.0
+2,28,EURE-ET-LOIR,abstentions,47476.0
+2,28,EURE-ET-LOIR,blancs_nuls,5951.0
+2,29,FINISTERE,Centre National des Indépendants,42005.0
+2,29,FINISTERE,Divers extrême droite,0.0
+2,29,FINISTERE,Divers gaullistes,0.0
+2,29,FINISTERE,Modérés,17745.0
+2,29,FINISTERE,Mouvement Républicain Populaire,29376.0
+2,29,FINISTERE,"Mouvement Républicain Populaire, Vème République",0.0
+2,29,FINISTERE,Parti Socialiste Unifié,23458.0
+2,29,FINISTERE,Parti communiste,55814.0
+2,29,FINISTERE,Poujadiste,0.0
+2,29,FINISTERE,Radicaux centristes,9556.0
+2,29,FINISTERE,Radicaux socialistes,4488.0
+2,29,FINISTERE,"Républicains Indépendants,Vème République",0.0
+2,29,FINISTERE,Section Française de l'Internationale Ouvrière,10106.0
+2,29,FINISTERE,"Union pour la Nouvelle République, Union Pour le Travail",135871.0
+2,29,FINISTERE,abstentions,112960.0
+2,29,FINISTERE,blancs_nuls,5787.0
+2,30,GARD,Centre National des Indépendants,24662.0
+2,30,GARD,Divers extrême droite,0.0
+2,30,GARD,Divers gaullistes,0.0
+2,30,GARD,Modérés,0.0
+2,30,GARD,Mouvement Républicain Populaire,24136.0
+2,30,GARD,"Mouvement Républicain Populaire, Vème République",0.0
+2,30,GARD,Parti Socialiste Unifié,0.0
+2,30,GARD,Parti communiste,68297.0
+2,30,GARD,Poujadiste,0.0
+2,30,GARD,Radicaux centristes,0.0
+2,30,GARD,Radicaux socialistes,0.0
+2,30,GARD,"Républicains Indépendants,Vème République",0.0
+2,30,GARD,Section Française de l'Internationale Ouvrière,20196.0
+2,30,GARD,"Union pour la Nouvelle République, Union Pour le Travail",42773.0
+2,30,GARD,abstentions,74415.0
+2,30,GARD,blancs_nuls,8313.0
+2,31,HAUTE-GARONNE,Centre National des Indépendants,15982.0
+2,31,HAUTE-GARONNE,Divers extrême droite,0.0
+2,31,HAUTE-GARONNE,Divers gaullistes,0.0
+2,31,HAUTE-GARONNE,Modérés,0.0
+2,31,HAUTE-GARONNE,Mouvement Républicain Populaire,2590.0
+2,31,HAUTE-GARONNE,"Mouvement Républicain Populaire, Vème République",21896.0
+2,31,HAUTE-GARONNE,Parti Socialiste Unifié,0.0
+2,31,HAUTE-GARONNE,Parti communiste,35063.0
+2,31,HAUTE-GARONNE,Poujadiste,0.0
+2,31,HAUTE-GARONNE,Radicaux centristes,0.0
+2,31,HAUTE-GARONNE,Radicaux socialistes,19137.0
+2,31,HAUTE-GARONNE,"Républicains Indépendants,Vème République",0.0
+2,31,HAUTE-GARONNE,Section Française de l'Internationale Ouvrière,88985.0
+2,31,HAUTE-GARONNE,"Union pour la Nouvelle République, Union Pour le Travail",66370.0
+2,31,HAUTE-GARONNE,abstentions,103238.0
+2,31,HAUTE-GARONNE,blancs_nuls,10331.0
+2,32,GERS,Centre National des Indépendants,0.0
+2,32,GERS,Divers extrême droite,0.0
+2,32,GERS,Divers gaullistes,0.0
+2,32,GERS,Modérés,0.0
+2,32,GERS,Mouvement Républicain Populaire,0.0
+2,32,GERS,"Mouvement Républicain Populaire, Vème République",0.0
+2,32,GERS,Parti Socialiste Unifié,0.0
+2,32,GERS,Parti communiste,0.0
+2,32,GERS,Poujadiste,0.0
+2,32,GERS,Radicaux centristes,21967.0
+2,32,GERS,Radicaux socialistes,16526.0
+2,32,GERS,"Républicains Indépendants,Vème République",0.0
+2,32,GERS,Section Française de l'Internationale Ouvrière,33267.0
+2,32,GERS,"Union pour la Nouvelle République, Union Pour le Travail",5833.0
+2,32,GERS,abstentions,34089.0
+2,32,GERS,blancs_nuls,2104.0
+2,33,GIRONDE,Centre National des Indépendants,87053.0
+2,33,GIRONDE,Divers extrême droite,0.0
+2,33,GIRONDE,Divers gaullistes,0.0
+2,33,GIRONDE,Modérés,0.0
+2,33,GIRONDE,Mouvement Républicain Populaire,0.0
+2,33,GIRONDE,"Mouvement Républicain Populaire, Vème République",0.0
+2,33,GIRONDE,Parti Socialiste Unifié,0.0
+2,33,GIRONDE,Parti communiste,10030.0
+2,33,GIRONDE,Poujadiste,0.0
+2,33,GIRONDE,Radicaux centristes,0.0
+2,33,GIRONDE,Radicaux socialistes,0.0
+2,33,GIRONDE,"Républicains Indépendants,Vème République",0.0
+2,33,GIRONDE,Section Française de l'Internationale Ouvrière,83635.0
+2,33,GIRONDE,"Union pour la Nouvelle République, Union Pour le Travail",159656.0
+2,33,GIRONDE,abstentions,165670.0
+2,33,GIRONDE,blancs_nuls,11702.0
+2,34,HERAULT,Centre National des Indépendants,11223.0
+2,34,HERAULT,Divers extrême droite,0.0
+2,34,HERAULT,Divers gaullistes,0.0
+2,34,HERAULT,Modérés,1216.0
+2,34,HERAULT,Mouvement Républicain Populaire,0.0
+2,34,HERAULT,"Mouvement Républicain Populaire, Vème République",0.0
+2,34,HERAULT,Parti Socialiste Unifié,0.0
+2,34,HERAULT,Parti communiste,21759.0
+2,34,HERAULT,Poujadiste,0.0
+2,34,HERAULT,Radicaux centristes,0.0
+2,34,HERAULT,Radicaux socialistes,18805.0
+2,34,HERAULT,"Républicains Indépendants,Vème République",0.0
+2,34,HERAULT,Section Française de l'Internationale Ouvrière,24281.0
+2,34,HERAULT,"Union pour la Nouvelle République, Union Pour le Travail",53757.0
+2,34,HERAULT,abstentions,55979.0
+2,34,HERAULT,blancs_nuls,4761.0
+2,35,ILLE-ET-VILAINE,Centre National des Indépendants,32885.0
+2,35,ILLE-ET-VILAINE,Divers extrême droite,0.0
+2,35,ILLE-ET-VILAINE,Divers gaullistes,0.0
+2,35,ILLE-ET-VILAINE,Modérés,0.0
+2,35,ILLE-ET-VILAINE,Mouvement Républicain Populaire,0.0
+2,35,ILLE-ET-VILAINE,"Mouvement Républicain Populaire, Vème République",0.0
+2,35,ILLE-ET-VILAINE,Parti Socialiste Unifié,0.0
+2,35,ILLE-ET-VILAINE,Parti communiste,23245.0
+2,35,ILLE-ET-VILAINE,Poujadiste,0.0
+2,35,ILLE-ET-VILAINE,Radicaux centristes,0.0
+2,35,ILLE-ET-VILAINE,Radicaux socialistes,4515.0
+2,35,ILLE-ET-VILAINE,"Républicains Indépendants,Vème République",0.0
+2,35,ILLE-ET-VILAINE,Section Française de l'Internationale Ouvrière,0.0
+2,35,ILLE-ET-VILAINE,"Union pour la Nouvelle République, Union Pour le Travail",85503.0
+2,35,ILLE-ET-VILAINE,abstentions,56928.0
+2,35,ILLE-ET-VILAINE,blancs_nuls,5690.0
+2,36,INDRE,Centre National des Indépendants,21357.0
+2,36,INDRE,Divers extrême droite,0.0
+2,36,INDRE,Divers gaullistes,0.0
+2,36,INDRE,Modérés,0.0
+2,36,INDRE,Mouvement Républicain Populaire,0.0
+2,36,INDRE,"Mouvement Républicain Populaire, Vème République",0.0
+2,36,INDRE,Parti Socialiste Unifié,0.0
+2,36,INDRE,Parti communiste,30864.0
+2,36,INDRE,Poujadiste,0.0
+2,36,INDRE,Radicaux centristes,8601.0
+2,36,INDRE,Radicaux socialistes,0.0
+2,36,INDRE,"Républicains Indépendants,Vème République",0.0
+2,36,INDRE,Section Française de l'Internationale Ouvrière,23131.0
+2,36,INDRE,"Union pour la Nouvelle République, Union Pour le Travail",26728.0
+2,36,INDRE,abstentions,46681.0
+2,36,INDRE,blancs_nuls,4001.0
+2,37,INDRE-ET-LOIRE,Centre National des Indépendants,7697.0
+2,37,INDRE-ET-LOIRE,Divers extrême droite,0.0
+2,37,INDRE-ET-LOIRE,Divers gaullistes,0.0
+2,37,INDRE-ET-LOIRE,Modérés,0.0
+2,37,INDRE-ET-LOIRE,Mouvement Républicain Populaire,0.0
+2,37,INDRE-ET-LOIRE,"Mouvement Républicain Populaire, Vème République",0.0
+2,37,INDRE-ET-LOIRE,Parti Socialiste Unifié,0.0
+2,37,INDRE-ET-LOIRE,Parti communiste,9761.0
+2,37,INDRE-ET-LOIRE,Poujadiste,0.0
+2,37,INDRE-ET-LOIRE,Radicaux centristes,0.0
+2,37,INDRE-ET-LOIRE,Radicaux socialistes,23667.0
+2,37,INDRE-ET-LOIRE,"Républicains Indépendants,Vème République",0.0
+2,37,INDRE-ET-LOIRE,Section Française de l'Internationale Ouvrière,0.0
+2,37,INDRE-ET-LOIRE,"Union pour la Nouvelle République, Union Pour le Travail",38185.0
+2,37,INDRE-ET-LOIRE,abstentions,30385.0
+2,37,INDRE-ET-LOIRE,blancs_nuls,2679.0
+2,38,ISERE,Centre National des Indépendants,7181.0
+2,38,ISERE,Divers extrême droite,0.0
+2,38,ISERE,Divers gaullistes,0.0
+2,38,ISERE,Modérés,52693.0
+2,38,ISERE,Mouvement Républicain Populaire,18638.0
+2,38,ISERE,"Mouvement Républicain Populaire, Vème République",0.0
+2,38,ISERE,Parti Socialiste Unifié,0.0
+2,38,ISERE,Parti communiste,71019.0
+2,38,ISERE,Poujadiste,0.0
+2,38,ISERE,Radicaux centristes,0.0
+2,38,ISERE,Radicaux socialistes,20592.0
+2,38,ISERE,"Républicains Indépendants,Vème République",0.0
+2,38,ISERE,Section Française de l'Internationale Ouvrière,30454.0
+2,38,ISERE,"Union pour la Nouvelle République, Union Pour le Travail",60226.0
+2,38,ISERE,abstentions,131162.0
+2,38,ISERE,blancs_nuls,7899.0
+2,39,JURA,Centre National des Indépendants,0.0
+2,39,JURA,Divers extrême droite,0.0
+2,39,JURA,Divers gaullistes,0.0
+2,39,JURA,Modérés,0.0
+2,39,JURA,Mouvement Républicain Populaire,23800.0
+2,39,JURA,"Mouvement Républicain Populaire, Vème République",0.0
+2,39,JURA,Parti Socialiste Unifié,0.0
+2,39,JURA,Parti communiste,11072.0
+2,39,JURA,Poujadiste,0.0
+2,39,JURA,Radicaux centristes,25920.0
+2,39,JURA,Radicaux socialistes,0.0
+2,39,JURA,"Républicains Indépendants,Vème République",0.0
+2,39,JURA,Section Française de l'Internationale Ouvrière,0.0
+2,39,JURA,"Union pour la Nouvelle République, Union Pour le Travail",34905.0
+2,39,JURA,abstentions,41537.0
+2,39,JURA,blancs_nuls,2819.0
+2,40,LANDES,Centre National des Indépendants,0.0
+2,40,LANDES,Divers extrême droite,0.0
+2,40,LANDES,Divers gaullistes,0.0
+2,40,LANDES,Modérés,0.0
+2,40,LANDES,Mouvement Républicain Populaire,21814.0
+2,40,LANDES,"Mouvement Républicain Populaire, Vème République",0.0
+2,40,LANDES,Parti Socialiste Unifié,0.0
+2,40,LANDES,Parti communiste,0.0
+2,40,LANDES,Poujadiste,0.0
+2,40,LANDES,Radicaux centristes,0.0
+2,40,LANDES,Radicaux socialistes,0.0
+2,40,LANDES,"Républicains Indépendants,Vème République",0.0
+2,40,LANDES,Section Française de l'Internationale Ouvrière,65894.0
+2,40,LANDES,"Union pour la Nouvelle République, Union Pour le Travail",42202.0
+2,40,LANDES,abstentions,40728.0
+2,40,LANDES,blancs_nuls,3399.0
+2,41,LOIR-ET-CHER,Centre National des Indépendants,0.0
+2,41,LOIR-ET-CHER,Divers extrême droite,0.0
+2,41,LOIR-ET-CHER,Divers gaullistes,0.0
+2,41,LOIR-ET-CHER,Modérés,0.0
+2,41,LOIR-ET-CHER,Mouvement Républicain Populaire,29781.0
+2,41,LOIR-ET-CHER,"Mouvement Républicain Populaire, Vème République",0.0
+2,41,LOIR-ET-CHER,Parti Socialiste Unifié,0.0
+2,41,LOIR-ET-CHER,Parti communiste,12885.0
+2,41,LOIR-ET-CHER,Poujadiste,0.0
+2,41,LOIR-ET-CHER,Radicaux centristes,0.0
+2,41,LOIR-ET-CHER,Radicaux socialistes,0.0
+2,41,LOIR-ET-CHER,"Républicains Indépendants,Vème République",0.0
+2,41,LOIR-ET-CHER,Section Française de l'Internationale Ouvrière,38039.0
+2,41,LOIR-ET-CHER,"Union pour la Nouvelle République, Union Pour le Travail",34142.0
+2,41,LOIR-ET-CHER,abstentions,40322.0
+2,41,LOIR-ET-CHER,blancs_nuls,4112.0
+2,42,LOIRE,Centre National des Indépendants,18825.0
+2,42,LOIRE,Divers extrême droite,0.0
+2,42,LOIRE,Divers gaullistes,0.0
+2,42,LOIRE,Modérés,0.0
+2,42,LOIRE,Mouvement Républicain Populaire,18490.0
+2,42,LOIRE,"Mouvement Républicain Populaire, Vème République",0.0
+2,42,LOIRE,Parti Socialiste Unifié,0.0
+2,42,LOIRE,Parti communiste,36602.0
+2,42,LOIRE,Poujadiste,0.0
+2,42,LOIRE,Radicaux centristes,31267.0
+2,42,LOIRE,Radicaux socialistes,56975.0
+2,42,LOIRE,"Républicains Indépendants,Vème République",0.0
+2,42,LOIRE,Section Française de l'Internationale Ouvrière,16019.0
+2,42,LOIRE,"Union pour la Nouvelle République, Union Pour le Travail",94205.0
+2,42,LOIRE,abstentions,127593.0
+2,42,LOIRE,blancs_nuls,8157.0
+2,43,HAUTE-LOIRE,Centre National des Indépendants,16393.0
+2,43,HAUTE-LOIRE,Divers extrême droite,0.0
+2,43,HAUTE-LOIRE,Divers gaullistes,0.0
+2,43,HAUTE-LOIRE,Modérés,13701.0
+2,43,HAUTE-LOIRE,Mouvement Républicain Populaire,21085.0
+2,43,HAUTE-LOIRE,"Mouvement Républicain Populaire, Vème République",0.0
+2,43,HAUTE-LOIRE,Parti Socialiste Unifié,0.0
+2,43,HAUTE-LOIRE,Parti communiste,5217.0
+2,43,HAUTE-LOIRE,Poujadiste,0.0
+2,43,HAUTE-LOIRE,Radicaux centristes,0.0
+2,43,HAUTE-LOIRE,Radicaux socialistes,11747.0
+2,43,HAUTE-LOIRE,"Républicains Indépendants,Vème République",0.0
+2,43,HAUTE-LOIRE,Section Française de l'Internationale Ouvrière,0.0
+2,43,HAUTE-LOIRE,"Union pour la Nouvelle République, Union Pour le Travail",28722.0
+2,43,HAUTE-LOIRE,abstentions,41902.0
+2,43,HAUTE-LOIRE,blancs_nuls,2052.0
+2,44,LOIRE-ATLANTIQUE,Centre National des Indépendants,0.0
+2,44,LOIRE-ATLANTIQUE,Divers extrême droite,0.0
+2,44,LOIRE-ATLANTIQUE,Divers gaullistes,5132.0
+2,44,LOIRE-ATLANTIQUE,Modérés,11433.0
+2,44,LOIRE-ATLANTIQUE,Mouvement Républicain Populaire,39958.0
+2,44,LOIRE-ATLANTIQUE,"Mouvement Républicain Populaire, Vème République",0.0
+2,44,LOIRE-ATLANTIQUE,Parti Socialiste Unifié,0.0
+2,44,LOIRE-ATLANTIQUE,Parti communiste,22035.0
+2,44,LOIRE-ATLANTIQUE,Poujadiste,0.0
+2,44,LOIRE-ATLANTIQUE,Radicaux centristes,0.0
+2,44,LOIRE-ATLANTIQUE,Radicaux socialistes,0.0
+2,44,LOIRE-ATLANTIQUE,"Républicains Indépendants,Vème République",27456.0
+2,44,LOIRE-ATLANTIQUE,Section Française de l'Internationale Ouvrière,54191.0
+2,44,LOIRE-ATLANTIQUE,"Union pour la Nouvelle République, Union Pour le Travail",138990.0
+2,44,LOIRE-ATLANTIQUE,abstentions,117413.0
+2,44,LOIRE-ATLANTIQUE,blancs_nuls,8808.0
+2,45,LOIRET,Centre National des Indépendants,0.0
+2,45,LOIRET,Divers extrême droite,0.0
+2,45,LOIRET,Divers gaullistes,0.0
+2,45,LOIRET,Modérés,18122.0
+2,45,LOIRET,Mouvement Républicain Populaire,9501.0
+2,45,LOIRET,"Mouvement Républicain Populaire, Vème République",0.0
+2,45,LOIRET,Parti Socialiste Unifié,0.0
+2,45,LOIRET,Parti communiste,14518.0
+2,45,LOIRET,Poujadiste,0.0
+2,45,LOIRET,Radicaux centristes,0.0
+2,45,LOIRET,Radicaux socialistes,14883.0
+2,45,LOIRET,"Républicains Indépendants,Vème République",0.0
+2,45,LOIRET,Section Française de l'Internationale Ouvrière,0.0
+2,45,LOIRET,"Union pour la Nouvelle République, Union Pour le Travail",63791.0
+2,45,LOIRET,abstentions,48751.0
+2,45,LOIRET,blancs_nuls,4941.0
+2,47,LOT-ET-GARONNE,Centre National des Indépendants,0.0
+2,47,LOT-ET-GARONNE,Divers extrême droite,0.0
+2,47,LOT-ET-GARONNE,Divers gaullistes,0.0
+2,47,LOT-ET-GARONNE,Modérés,0.0
+2,47,LOT-ET-GARONNE,Mouvement Républicain Populaire,0.0
+2,47,LOT-ET-GARONNE,"Mouvement Républicain Populaire, Vème République",0.0
+2,47,LOT-ET-GARONNE,Parti Socialiste Unifié,0.0
+2,47,LOT-ET-GARONNE,Parti communiste,39994.0
+2,47,LOT-ET-GARONNE,Poujadiste,0.0
+2,47,LOT-ET-GARONNE,Radicaux centristes,0.0
+2,47,LOT-ET-GARONNE,Radicaux socialistes,22750.0
+2,47,LOT-ET-GARONNE,"Républicains Indépendants,Vème République",0.0
+2,47,LOT-ET-GARONNE,Section Française de l'Internationale Ouvrière,0.0
+2,47,LOT-ET-GARONNE,"Union pour la Nouvelle République, Union Pour le Travail",61034.0
+2,47,LOT-ET-GARONNE,abstentions,38355.0
+2,47,LOT-ET-GARONNE,blancs_nuls,6507.0
+2,48,LOZERE,Centre National des Indépendants,3044.0
+2,48,LOZERE,Divers extrême droite,0.0
+2,48,LOZERE,Divers gaullistes,0.0
+2,48,LOZERE,Modérés,7312.0
+2,48,LOZERE,Mouvement Républicain Populaire,15549.0
+2,48,LOZERE,"Mouvement Républicain Populaire, Vème République",0.0
+2,48,LOZERE,Parti Socialiste Unifié,0.0
+2,48,LOZERE,Parti communiste,4275.0
+2,48,LOZERE,Poujadiste,0.0
+2,48,LOZERE,Radicaux centristes,0.0
+2,48,LOZERE,Radicaux socialistes,0.0
+2,48,LOZERE,"Républicains Indépendants,Vème République",0.0
+2,48,LOZERE,Section Française de l'Internationale Ouvrière,0.0
+2,48,LOZERE,"Union pour la Nouvelle République, Union Pour le Travail",10253.0
+2,48,LOZERE,abstentions,13938.0
+2,48,LOZERE,blancs_nuls,633.0
+2,49,MAINE-ET-LOIRE,Centre National des Indépendants,0.0
+2,49,MAINE-ET-LOIRE,Divers extrême droite,0.0
+2,49,MAINE-ET-LOIRE,Divers gaullistes,0.0
+2,49,MAINE-ET-LOIRE,Modérés,0.0
+2,49,MAINE-ET-LOIRE,Mouvement Républicain Populaire,0.0
+2,49,MAINE-ET-LOIRE,"Mouvement Républicain Populaire, Vème République",0.0
+2,49,MAINE-ET-LOIRE,Parti Socialiste Unifié,0.0
+2,49,MAINE-ET-LOIRE,Parti communiste,7597.0
+2,49,MAINE-ET-LOIRE,Poujadiste,0.0
+2,49,MAINE-ET-LOIRE,Radicaux centristes,0.0
+2,49,MAINE-ET-LOIRE,Radicaux socialistes,0.0
+2,49,MAINE-ET-LOIRE,"Républicains Indépendants,Vème République",0.0
+2,49,MAINE-ET-LOIRE,Section Française de l'Internationale Ouvrière,0.0
+2,49,MAINE-ET-LOIRE,"Union pour la Nouvelle République, Union Pour le Travail",19042.0
+2,49,MAINE-ET-LOIRE,abstentions,18827.0
+2,49,MAINE-ET-LOIRE,blancs_nuls,1940.0
+2,51,MARNE,Centre National des Indépendants,0.0
+2,51,MARNE,Divers extrême droite,0.0
+2,51,MARNE,Divers gaullistes,0.0
+2,51,MARNE,Modérés,0.0
+2,51,MARNE,Mouvement Républicain Populaire,22067.0
+2,51,MARNE,"Mouvement Républicain Populaire, Vème République",0.0
+2,51,MARNE,Parti Socialiste Unifié,0.0
+2,51,MARNE,Parti communiste,41011.0
+2,51,MARNE,Poujadiste,0.0
+2,51,MARNE,Radicaux centristes,0.0
+2,51,MARNE,Radicaux socialistes,0.0
+2,51,MARNE,"Républicains Indépendants,Vème République",0.0
+2,51,MARNE,Section Française de l'Internationale Ouvrière,0.0
+2,51,MARNE,"Union pour la Nouvelle République, Union Pour le Travail",65407.0
+2,51,MARNE,abstentions,55531.0
+2,51,MARNE,blancs_nuls,5104.0
+2,52,HAUTE-MARNE,Centre National des Indépendants,10656.0
+2,52,HAUTE-MARNE,Divers extrême droite,0.0
+2,52,HAUTE-MARNE,Divers gaullistes,0.0
+2,52,HAUTE-MARNE,Modérés,0.0
+2,52,HAUTE-MARNE,Mouvement Républicain Populaire,0.0
+2,52,HAUTE-MARNE,"Mouvement Républicain Populaire, Vème République",0.0
+2,52,HAUTE-MARNE,Parti Socialiste Unifié,0.0
+2,52,HAUTE-MARNE,Parti communiste,12916.0
+2,52,HAUTE-MARNE,Poujadiste,0.0
+2,52,HAUTE-MARNE,Radicaux centristes,0.0
+2,52,HAUTE-MARNE,Radicaux socialistes,15946.0
+2,52,HAUTE-MARNE,"Républicains Indépendants,Vème République",0.0
+2,52,HAUTE-MARNE,Section Française de l'Internationale Ouvrière,0.0
+2,52,HAUTE-MARNE,"Union pour la Nouvelle République, Union Pour le Travail",43772.0
+2,52,HAUTE-MARNE,abstentions,32246.0
+2,52,HAUTE-MARNE,blancs_nuls,3545.0
+2,53,MAYENNE,Centre National des Indépendants,9784.0
+2,53,MAYENNE,Divers extrême droite,0.0
+2,53,MAYENNE,Divers gaullistes,0.0
+2,53,MAYENNE,Modérés,17871.0
+2,53,MAYENNE,Mouvement Républicain Populaire,13208.0
+2,53,MAYENNE,"Mouvement Républicain Populaire, Vème République",15663.0
+2,53,MAYENNE,Parti Socialiste Unifié,0.0
+2,53,MAYENNE,Parti communiste,0.0
+2,53,MAYENNE,Poujadiste,0.0
+2,53,MAYENNE,Radicaux centristes,0.0
+2,53,MAYENNE,Radicaux socialistes,0.0
+2,53,MAYENNE,"Républicains Indépendants,Vème République",0.0
+2,53,MAYENNE,Section Française de l'Internationale Ouvrière,5981.0
+2,53,MAYENNE,"Union pour la Nouvelle République, Union Pour le Travail",9260.0
+2,53,MAYENNE,abstentions,24699.0
+2,53,MAYENNE,blancs_nuls,2451.0
+2,54,MEURTHE-ET-MOSELLE,Centre National des Indépendants,0.0
+2,54,MEURTHE-ET-MOSELLE,Divers extrême droite,0.0
+2,54,MEURTHE-ET-MOSELLE,Divers gaullistes,0.0
+2,54,MEURTHE-ET-MOSELLE,Modérés,0.0
+2,54,MEURTHE-ET-MOSELLE,Mouvement Républicain Populaire,0.0
+2,54,MEURTHE-ET-MOSELLE,"Mouvement Républicain Populaire, Vème République",0.0
+2,54,MEURTHE-ET-MOSELLE,Parti Socialiste Unifié,0.0
+2,54,MEURTHE-ET-MOSELLE,Parti communiste,32272.0
+2,54,MEURTHE-ET-MOSELLE,Poujadiste,0.0
+2,54,MEURTHE-ET-MOSELLE,Radicaux centristes,0.0
+2,54,MEURTHE-ET-MOSELLE,Radicaux socialistes,0.0
+2,54,MEURTHE-ET-MOSELLE,"Républicains Indépendants,Vème République",0.0
+2,54,MEURTHE-ET-MOSELLE,Section Française de l'Internationale Ouvrière,0.0
+2,54,MEURTHE-ET-MOSELLE,"Union pour la Nouvelle République, Union Pour le Travail",37694.0
+2,54,MEURTHE-ET-MOSELLE,abstentions,19577.0
+2,54,MEURTHE-ET-MOSELLE,blancs_nuls,1825.0
+2,56,MORBIHAN,Centre National des Indépendants,548.0
+2,56,MORBIHAN,Divers extrême droite,0.0
+2,56,MORBIHAN,Divers gaullistes,0.0
+2,56,MORBIHAN,Modérés,0.0
+2,56,MORBIHAN,Mouvement Républicain Populaire,0.0
+2,56,MORBIHAN,"Mouvement Républicain Populaire, Vème République",0.0
+2,56,MORBIHAN,Parti Socialiste Unifié,0.0
+2,56,MORBIHAN,Parti communiste,17683.0
+2,56,MORBIHAN,Poujadiste,0.0
+2,56,MORBIHAN,Radicaux centristes,0.0
+2,56,MORBIHAN,Radicaux socialistes,0.0
+2,56,MORBIHAN,"Républicains Indépendants,Vème République",0.0
+2,56,MORBIHAN,Section Française de l'Internationale Ouvrière,0.0
+2,56,MORBIHAN,"Union pour la Nouvelle République, Union Pour le Travail",24796.0
+2,56,MORBIHAN,abstentions,17902.0
+2,56,MORBIHAN,blancs_nuls,1646.0
+2,57,MOSELLE,Centre National des Indépendants,0.0
+2,57,MOSELLE,Divers extrême droite,0.0
+2,57,MOSELLE,Divers gaullistes,0.0
+2,57,MOSELLE,Modérés,0.0
+2,57,MOSELLE,Mouvement Républicain Populaire,32081.0
+2,57,MOSELLE,"Mouvement Républicain Populaire, Vème République",0.0
+2,57,MOSELLE,Parti Socialiste Unifié,0.0
+2,57,MOSELLE,Parti communiste,21252.0
+2,57,MOSELLE,Poujadiste,0.0
+2,57,MOSELLE,Radicaux centristes,0.0
+2,57,MOSELLE,Radicaux socialistes,0.0
+2,57,MOSELLE,"Républicains Indépendants,Vème République",19233.0
+2,57,MOSELLE,Section Française de l'Internationale Ouvrière,0.0
+2,57,MOSELLE,"Union pour la Nouvelle République, Union Pour le Travail",43626.0
+2,57,MOSELLE,abstentions,49581.0
+2,57,MOSELLE,blancs_nuls,3455.0
+2,58,NIEVRE,Centre National des Indépendants,0.0
+2,58,NIEVRE,Divers extrême droite,0.0
+2,58,NIEVRE,Divers gaullistes,0.0
+2,58,NIEVRE,Modérés,11041.0
+2,58,NIEVRE,Mouvement Républicain Populaire,0.0
+2,58,NIEVRE,"Mouvement Républicain Populaire, Vème République",0.0
+2,58,NIEVRE,Parti Socialiste Unifié,0.0
+2,58,NIEVRE,Parti communiste,34391.0
+2,58,NIEVRE,Poujadiste,0.0
+2,58,NIEVRE,Radicaux centristes,0.0
+2,58,NIEVRE,Radicaux socialistes,21705.0
+2,58,NIEVRE,"Républicains Indépendants,Vème République",0.0
+2,58,NIEVRE,Section Française de l'Internationale Ouvrière,0.0
+2,58,NIEVRE,"Union pour la Nouvelle République, Union Pour le Travail",42985.0
+2,58,NIEVRE,abstentions,41208.0
+2,58,NIEVRE,blancs_nuls,4026.0
+2,59,NORD,Centre National des Indépendants,4547.0
+2,59,NORD,Divers extrême droite,2353.0
+2,59,NORD,Divers gaullistes,0.0
+2,59,NORD,Modérés,0.0
+2,59,NORD,Mouvement Républicain Populaire,25506.0
+2,59,NORD,"Mouvement Républicain Populaire, Vème République",32280.0
+2,59,NORD,Parti Socialiste Unifié,0.0
+2,59,NORD,Parti communiste,173614.0
+2,59,NORD,Poujadiste,0.0
+2,59,NORD,Radicaux centristes,0.0
+2,59,NORD,Radicaux socialistes,0.0
+2,59,NORD,"Républicains Indépendants,Vème République",0.0
+2,59,NORD,Section Française de l'Internationale Ouvrière,329264.0
+2,59,NORD,"Union pour la Nouvelle République, Union Pour le Travail",429999.0
+2,59,NORD,abstentions,225409.0
+2,59,NORD,blancs_nuls,36531.0
+2,60,OISE,Centre National des Indépendants,0.0
+2,60,OISE,Divers extrême droite,0.0
+2,60,OISE,Divers gaullistes,846.0
+2,60,OISE,Modérés,0.0
+2,60,OISE,Mouvement Républicain Populaire,0.0
+2,60,OISE,"Mouvement Républicain Populaire, Vème République",0.0
+2,60,OISE,Parti Socialiste Unifié,0.0
+2,60,OISE,Parti communiste,30128.0
+2,60,OISE,Poujadiste,0.0
+2,60,OISE,Radicaux centristes,0.0
+2,60,OISE,Radicaux socialistes,17802.0
+2,60,OISE,"Républicains Indépendants,Vème République",0.0
+2,60,OISE,Section Française de l'Internationale Ouvrière,17374.0
+2,60,OISE,"Union pour la Nouvelle République, Union Pour le Travail",56270.0
+2,60,OISE,abstentions,43078.0
+2,60,OISE,blancs_nuls,6153.0
+2,61,ORNE,Centre National des Indépendants,0.0
+2,61,ORNE,Divers extrême droite,0.0
+2,61,ORNE,Divers gaullistes,0.0
+2,61,ORNE,Modérés,0.0
+2,61,ORNE,Mouvement Républicain Populaire,0.0
+2,61,ORNE,"Mouvement Républicain Populaire, Vème République",0.0
+2,61,ORNE,Parti Socialiste Unifié,0.0
+2,61,ORNE,Parti communiste,0.0
+2,61,ORNE,Poujadiste,0.0
+2,61,ORNE,Radicaux centristes,12119.0
+2,61,ORNE,Radicaux socialistes,9017.0
+2,61,ORNE,"Républicains Indépendants,Vème République",0.0
+2,61,ORNE,Section Française de l'Internationale Ouvrière,0.0
+2,61,ORNE,"Union pour la Nouvelle République, Union Pour le Travail",14079.0
+2,61,ORNE,abstentions,15597.0
+2,61,ORNE,blancs_nuls,1201.0
+2,62,PAS-DE-CALAIS,Centre National des Indépendants,0.0
+2,62,PAS-DE-CALAIS,Divers extrême droite,0.0
+2,62,PAS-DE-CALAIS,Divers gaullistes,0.0
+2,62,PAS-DE-CALAIS,Modérés,9797.0
+2,62,PAS-DE-CALAIS,Mouvement Républicain Populaire,11604.0
+2,62,PAS-DE-CALAIS,"Mouvement Républicain Populaire, Vème République",0.0
+2,62,PAS-DE-CALAIS,Parti Socialiste Unifié,0.0
+2,62,PAS-DE-CALAIS,Parti communiste,87097.0
+2,62,PAS-DE-CALAIS,Poujadiste,0.0
+2,62,PAS-DE-CALAIS,Radicaux centristes,0.0
+2,62,PAS-DE-CALAIS,Radicaux socialistes,0.0
+2,62,PAS-DE-CALAIS,"Républicains Indépendants,Vème République",0.0
+2,62,PAS-DE-CALAIS,Section Française de l'Internationale Ouvrière,233405.0
+2,62,PAS-DE-CALAIS,"Union pour la Nouvelle République, Union Pour le Travail",205061.0
+2,62,PAS-DE-CALAIS,abstentions,125398.0
+2,62,PAS-DE-CALAIS,blancs_nuls,18127.0
+2,63,PUY-DE-DOME,Centre National des Indépendants,45579.0
+2,63,PUY-DE-DOME,Divers extrême droite,0.0
+2,63,PUY-DE-DOME,Divers gaullistes,0.0
+2,63,PUY-DE-DOME,Modérés,0.0
+2,63,PUY-DE-DOME,Mouvement Républicain Populaire,0.0
+2,63,PUY-DE-DOME,"Mouvement Républicain Populaire, Vème République",0.0
+2,63,PUY-DE-DOME,Parti Socialiste Unifié,0.0
+2,63,PUY-DE-DOME,Parti communiste,17168.0
+2,63,PUY-DE-DOME,Poujadiste,0.0
+2,63,PUY-DE-DOME,Radicaux centristes,0.0
+2,63,PUY-DE-DOME,Radicaux socialistes,0.0
+2,63,PUY-DE-DOME,"Républicains Indépendants,Vème République",0.0
+2,63,PUY-DE-DOME,Section Française de l'Internationale Ouvrière,70492.0
+2,63,PUY-DE-DOME,"Union pour la Nouvelle République, Union Pour le Travail",33779.0
+2,63,PUY-DE-DOME,abstentions,76662.0
+2,63,PUY-DE-DOME,blancs_nuls,4495.0
+2,64,PYRENEES-ATLANTIQUES,Centre National des Indépendants,29919.0
+2,64,PYRENEES-ATLANTIQUES,Divers extrême droite,0.0
+2,64,PYRENEES-ATLANTIQUES,Divers gaullistes,0.0
+2,64,PYRENEES-ATLANTIQUES,Modérés,0.0
+2,64,PYRENEES-ATLANTIQUES,Mouvement Républicain Populaire,0.0
+2,64,PYRENEES-ATLANTIQUES,"Mouvement Républicain Populaire, Vème République",0.0
+2,64,PYRENEES-ATLANTIQUES,Parti Socialiste Unifié,0.0
+2,64,PYRENEES-ATLANTIQUES,Parti communiste,7898.0
+2,64,PYRENEES-ATLANTIQUES,Poujadiste,0.0
+2,64,PYRENEES-ATLANTIQUES,Radicaux centristes,31540.0
+2,64,PYRENEES-ATLANTIQUES,Radicaux socialistes,0.0
+2,64,PYRENEES-ATLANTIQUES,"Républicains Indépendants,Vème République",0.0
+2,64,PYRENEES-ATLANTIQUES,Section Française de l'Internationale Ouvrière,0.0
+2,64,PYRENEES-ATLANTIQUES,"Union pour la Nouvelle République, Union Pour le Travail",50140.0
+2,64,PYRENEES-ATLANTIQUES,abstentions,49010.0
+2,64,PYRENEES-ATLANTIQUES,blancs_nuls,3281.0
+2,65,HAUTES-PYRENEES,Centre National des Indépendants,10830.0
+2,65,HAUTES-PYRENEES,Divers extrême droite,0.0
+2,65,HAUTES-PYRENEES,Divers gaullistes,0.0
+2,65,HAUTES-PYRENEES,Modérés,0.0
+2,65,HAUTES-PYRENEES,Mouvement Républicain Populaire,0.0
+2,65,HAUTES-PYRENEES,"Mouvement Républicain Populaire, Vème République",0.0
+2,65,HAUTES-PYRENEES,Parti Socialiste Unifié,0.0
+2,65,HAUTES-PYRENEES,Parti communiste,0.0
+2,65,HAUTES-PYRENEES,Poujadiste,0.0
+2,65,HAUTES-PYRENEES,Radicaux centristes,0.0
+2,65,HAUTES-PYRENEES,Radicaux socialistes,30283.0
+2,65,HAUTES-PYRENEES,"Républicains Indépendants,Vème République",0.0
+2,65,HAUTES-PYRENEES,Section Française de l'Internationale Ouvrière,18053.0
+2,65,HAUTES-PYRENEES,"Union pour la Nouvelle République, Union Pour le Travail",32515.0
+2,65,HAUTES-PYRENEES,abstentions,41384.0
+2,65,HAUTES-PYRENEES,blancs_nuls,2160.0
+2,66,PYRENEES-ORIENTALES,Centre National des Indépendants,0.0
+2,66,PYRENEES-ORIENTALES,Divers extrême droite,0.0
+2,66,PYRENEES-ORIENTALES,Divers gaullistes,0.0
+2,66,PYRENEES-ORIENTALES,Modérés,0.0
+2,66,PYRENEES-ORIENTALES,Mouvement Républicain Populaire,0.0
+2,66,PYRENEES-ORIENTALES,"Mouvement Républicain Populaire, Vème République",0.0
+2,66,PYRENEES-ORIENTALES,Parti Socialiste Unifié,0.0
+2,66,PYRENEES-ORIENTALES,Parti communiste,40117.0
+2,66,PYRENEES-ORIENTALES,Poujadiste,0.0
+2,66,PYRENEES-ORIENTALES,Radicaux centristes,23210.0
+2,66,PYRENEES-ORIENTALES,Radicaux socialistes,20049.0
+2,66,PYRENEES-ORIENTALES,"Républicains Indépendants,Vème République",0.0
+2,66,PYRENEES-ORIENTALES,Section Française de l'Internationale Ouvrière,0.0
+2,66,PYRENEES-ORIENTALES,"Union pour la Nouvelle République, Union Pour le Travail",26660.0
+2,66,PYRENEES-ORIENTALES,abstentions,43413.0
+2,66,PYRENEES-ORIENTALES,blancs_nuls,2611.0
+2,67,BAS-RHIN,Centre National des Indépendants,0.0
+2,67,BAS-RHIN,Divers extrême droite,0.0
+2,67,BAS-RHIN,Divers gaullistes,0.0
+2,67,BAS-RHIN,Modérés,0.0
+2,67,BAS-RHIN,Mouvement Républicain Populaire,44042.0
+2,67,BAS-RHIN,"Mouvement Républicain Populaire, Vème République",0.0
+2,67,BAS-RHIN,Parti Socialiste Unifié,0.0
+2,67,BAS-RHIN,Parti communiste,0.0
+2,67,BAS-RHIN,Poujadiste,0.0
+2,67,BAS-RHIN,Radicaux centristes,0.0
+2,67,BAS-RHIN,Radicaux socialistes,0.0
+2,67,BAS-RHIN,"Républicains Indépendants,Vème République",0.0
+2,67,BAS-RHIN,Section Française de l'Internationale Ouvrière,0.0
+2,67,BAS-RHIN,"Union pour la Nouvelle République, Union Pour le Travail",66568.0
+2,67,BAS-RHIN,abstentions,69164.0
+2,67,BAS-RHIN,blancs_nuls,4127.0
+2,68,HAUT-RHIN,Centre National des Indépendants,0.0
+2,68,HAUT-RHIN,Divers extrême droite,0.0
+2,68,HAUT-RHIN,Divers gaullistes,0.0
+2,68,HAUT-RHIN,Modérés,0.0
+2,68,HAUT-RHIN,Mouvement Républicain Populaire,0.0
+2,68,HAUT-RHIN,"Mouvement Républicain Populaire, Vème République",0.0
+2,68,HAUT-RHIN,Parti Socialiste Unifié,0.0
+2,68,HAUT-RHIN,Parti communiste,0.0
+2,68,HAUT-RHIN,Poujadiste,0.0
+2,68,HAUT-RHIN,Radicaux centristes,0.0
+2,68,HAUT-RHIN,Radicaux socialistes,0.0
+2,68,HAUT-RHIN,"Républicains Indépendants,Vème République",0.0
+2,68,HAUT-RHIN,Section Française de l'Internationale Ouvrière,20218.0
+2,68,HAUT-RHIN,"Union pour la Nouvelle République, Union Pour le Travail",30751.0
+2,68,HAUT-RHIN,abstentions,23520.0
+2,68,HAUT-RHIN,blancs_nuls,2028.0
+2,69,RHONE,Centre National des Indépendants,41171.0
+2,69,RHONE,Divers extrême droite,16529.0
+2,69,RHONE,Divers gaullistes,0.0
+2,69,RHONE,Modérés,15829.0
+2,69,RHONE,Mouvement Républicain Populaire,0.0
+2,69,RHONE,"Mouvement Républicain Populaire, Vème République",0.0
+2,69,RHONE,Parti Socialiste Unifié,0.0
+2,69,RHONE,Parti communiste,58345.0
+2,69,RHONE,Poujadiste,0.0
+2,69,RHONE,Radicaux centristes,0.0
+2,69,RHONE,Radicaux socialistes,55381.0
+2,69,RHONE,"Républicains Indépendants,Vème République",0.0
+2,69,RHONE,Section Française de l'Internationale Ouvrière,20561.0
+2,69,RHONE,"Union pour la Nouvelle République, Union Pour le Travail",144795.0
+2,69,RHONE,abstentions,201992.0
+2,69,RHONE,blancs_nuls,9811.0
+2,70,HAUTE-SAONE,Centre National des Indépendants,0.0
+2,70,HAUTE-SAONE,Divers extrême droite,0.0
+2,70,HAUTE-SAONE,Divers gaullistes,0.0
+2,70,HAUTE-SAONE,Modérés,0.0
+2,70,HAUTE-SAONE,Mouvement Républicain Populaire,0.0
+2,70,HAUTE-SAONE,"Mouvement Républicain Populaire, Vème République",0.0
+2,70,HAUTE-SAONE,Parti Socialiste Unifié,0.0
+2,70,HAUTE-SAONE,Parti communiste,0.0
+2,70,HAUTE-SAONE,Poujadiste,0.0
+2,70,HAUTE-SAONE,Radicaux centristes,0.0
+2,70,HAUTE-SAONE,Radicaux socialistes,26690.0
+2,70,HAUTE-SAONE,"Républicains Indépendants,Vème République",0.0
+2,70,HAUTE-SAONE,Section Française de l'Internationale Ouvrière,0.0
+2,70,HAUTE-SAONE,"Union pour la Nouvelle République, Union Pour le Travail",26726.0
+2,70,HAUTE-SAONE,abstentions,12242.0
+2,70,HAUTE-SAONE,blancs_nuls,1354.0
+2,71,SAONE-ET-LOIRE,Centre National des Indépendants,39873.0
+2,71,SAONE-ET-LOIRE,Divers extrême droite,0.0
+2,71,SAONE-ET-LOIRE,Divers gaullistes,0.0
+2,71,SAONE-ET-LOIRE,Modérés,0.0
+2,71,SAONE-ET-LOIRE,Mouvement Républicain Populaire,0.0
+2,71,SAONE-ET-LOIRE,"Mouvement Républicain Populaire, Vème République",0.0
+2,71,SAONE-ET-LOIRE,Parti Socialiste Unifié,0.0
+2,71,SAONE-ET-LOIRE,Parti communiste,29077.0
+2,71,SAONE-ET-LOIRE,Poujadiste,0.0
+2,71,SAONE-ET-LOIRE,Radicaux centristes,0.0
+2,71,SAONE-ET-LOIRE,Radicaux socialistes,48180.0
+2,71,SAONE-ET-LOIRE,"Républicains Indépendants,Vème République",22404.0
+2,71,SAONE-ET-LOIRE,Section Française de l'Internationale Ouvrière,20791.0
+2,71,SAONE-ET-LOIRE,"Union pour la Nouvelle République, Union Pour le Travail",43148.0
+2,71,SAONE-ET-LOIRE,abstentions,119519.0
+2,71,SAONE-ET-LOIRE,blancs_nuls,7338.0
+2,72,SARTHE,Centre National des Indépendants,0.0
+2,72,SARTHE,Divers extrême droite,2855.0
+2,72,SARTHE,Divers gaullistes,0.0
+2,72,SARTHE,Modérés,19507.0
+2,72,SARTHE,Mouvement Républicain Populaire,0.0
+2,72,SARTHE,"Mouvement Républicain Populaire, Vème République",0.0
+2,72,SARTHE,Parti Socialiste Unifié,0.0
+2,72,SARTHE,Parti communiste,32981.0
+2,72,SARTHE,Poujadiste,0.0
+2,72,SARTHE,Radicaux centristes,0.0
+2,72,SARTHE,Radicaux socialistes,27285.0
+2,72,SARTHE,"Républicains Indépendants,Vème République",0.0
+2,72,SARTHE,Section Française de l'Internationale Ouvrière,0.0
+2,72,SARTHE,"Union pour la Nouvelle République, Union Pour le Travail",52877.0
+2,72,SARTHE,abstentions,67000.0
+2,72,SARTHE,blancs_nuls,6394.0
+2,73,SAVOIE,Centre National des Indépendants,0.0
+2,73,SAVOIE,Divers extrême droite,0.0
+2,73,SAVOIE,Divers gaullistes,0.0
+2,73,SAVOIE,Modérés,16194.0
+2,73,SAVOIE,Mouvement Républicain Populaire,0.0
+2,73,SAVOIE,"Mouvement Républicain Populaire, Vème République",0.0
+2,73,SAVOIE,Parti Socialiste Unifié,0.0
+2,73,SAVOIE,Parti communiste,8813.0
+2,73,SAVOIE,Poujadiste,0.0
+2,73,SAVOIE,Radicaux centristes,0.0
+2,73,SAVOIE,Radicaux socialistes,0.0
+2,73,SAVOIE,"Républicains Indépendants,Vème République",0.0
+2,73,SAVOIE,Section Française de l'Internationale Ouvrière,0.0
+2,73,SAVOIE,"Union pour la Nouvelle République, Union Pour le Travail",9925.0
+2,73,SAVOIE,abstentions,20636.0
+2,73,SAVOIE,blancs_nuls,929.0
+2,74,HAUTE-SAVOIE,Centre National des Indépendants,0.0
+2,74,HAUTE-SAVOIE,Divers extrême droite,0.0
+2,74,HAUTE-SAVOIE,Divers gaullistes,0.0
+2,74,HAUTE-SAVOIE,Modérés,0.0
+2,74,HAUTE-SAVOIE,Mouvement Républicain Populaire,21335.0
+2,74,HAUTE-SAVOIE,"Mouvement Républicain Populaire, Vème République",0.0
+2,74,HAUTE-SAVOIE,Parti Socialiste Unifié,0.0
+2,74,HAUTE-SAVOIE,Parti communiste,0.0
+2,74,HAUTE-SAVOIE,Poujadiste,0.0
+2,74,HAUTE-SAVOIE,Radicaux centristes,0.0
+2,74,HAUTE-SAVOIE,Radicaux socialistes,0.0
+2,74,HAUTE-SAVOIE,"Républicains Indépendants,Vème République",0.0
+2,74,HAUTE-SAVOIE,Section Française de l'Internationale Ouvrière,0.0
+2,74,HAUTE-SAVOIE,"Union pour la Nouvelle République, Union Pour le Travail",17880.0
+2,74,HAUTE-SAVOIE,abstentions,22054.0
+2,74,HAUTE-SAVOIE,blancs_nuls,1823.0
+2,75,PARIS,Centre National des Indépendants,139921.0
+2,75,PARIS,Divers extrême droite,4546.0
+2,75,PARIS,Divers gaullistes,0.0
+2,75,PARIS,Modérés,11396.0
+2,75,PARIS,Mouvement Républicain Populaire,0.0
+2,75,PARIS,"Mouvement Républicain Populaire, Vème République",0.0
+2,75,PARIS,Parti Socialiste Unifié,35345.0
+2,75,PARIS,Parti communiste,659352.0
+2,75,PARIS,Poujadiste,0.0
+2,75,PARIS,Radicaux centristes,12595.0
+2,75,PARIS,Radicaux socialistes,0.0
+2,75,PARIS,"Républicains Indépendants,Vème République",0.0
+2,75,PARIS,Section Française de l'Internationale Ouvrière,44071.0
+2,75,PARIS,"Union pour la Nouvelle République, Union Pour le Travail",1009844.0
+2,75,PARIS,abstentions,826550.0
+2,75,PARIS,blancs_nuls,83586.0
+2,76,SEINE-MARITIME,Centre National des Indépendants,0.0
+2,76,SEINE-MARITIME,Divers extrême droite,0.0
+2,76,SEINE-MARITIME,Divers gaullistes,0.0
+2,76,SEINE-MARITIME,Modérés,26512.0
+2,76,SEINE-MARITIME,Mouvement Républicain Populaire,4819.0
+2,76,SEINE-MARITIME,"Mouvement Républicain Populaire, Vème République",0.0
+2,76,SEINE-MARITIME,Parti Socialiste Unifié,0.0
+2,76,SEINE-MARITIME,Parti communiste,65006.0
+2,76,SEINE-MARITIME,Poujadiste,0.0
+2,76,SEINE-MARITIME,Radicaux centristes,22381.0
+2,76,SEINE-MARITIME,Radicaux socialistes,30539.0
+2,76,SEINE-MARITIME,"Républicains Indépendants,Vème République",18434.0
+2,76,SEINE-MARITIME,Section Française de l'Internationale Ouvrière,52309.0
+2,76,SEINE-MARITIME,"Union pour la Nouvelle République, Union Pour le Travail",146694.0
+2,76,SEINE-MARITIME,abstentions,157847.0
+2,76,SEINE-MARITIME,blancs_nuls,17449.0
+2,77,SEINE-ET-MARNE,Centre National des Indépendants,5756.0
+2,77,SEINE-ET-MARNE,Divers extrême droite,0.0
+2,77,SEINE-ET-MARNE,Divers gaullistes,0.0
+2,77,SEINE-ET-MARNE,Modérés,0.0
+2,77,SEINE-ET-MARNE,Mouvement Républicain Populaire,0.0
+2,77,SEINE-ET-MARNE,"Mouvement Républicain Populaire, Vème République",0.0
+2,77,SEINE-ET-MARNE,Parti Socialiste Unifié,0.0
+2,77,SEINE-ET-MARNE,Parti communiste,49704.0
+2,77,SEINE-ET-MARNE,Poujadiste,0.0
+2,77,SEINE-ET-MARNE,Radicaux centristes,0.0
+2,77,SEINE-ET-MARNE,Radicaux socialistes,20896.0
+2,77,SEINE-ET-MARNE,"Républicains Indépendants,Vème République",0.0
+2,77,SEINE-ET-MARNE,Section Française de l'Internationale Ouvrière,0.0
+2,77,SEINE-ET-MARNE,"Union pour la Nouvelle République, Union Pour le Travail",92617.0
+2,77,SEINE-ET-MARNE,abstentions,71859.0
+2,77,SEINE-ET-MARNE,blancs_nuls,7906.0
+2,78,YVELINES,Centre National des Indépendants,13455.0
+2,78,YVELINES,Divers extrême droite,0.0
+2,78,YVELINES,Divers gaullistes,0.0
+2,78,YVELINES,Modérés,0.0
+2,78,YVELINES,Mouvement Républicain Populaire,0.0
+2,78,YVELINES,"Mouvement Républicain Populaire, Vème République",0.0
+2,78,YVELINES,Parti Socialiste Unifié,0.0
+2,78,YVELINES,Parti communiste,336987.0
+2,78,YVELINES,Poujadiste,0.0
+2,78,YVELINES,Radicaux centristes,25907.0
+2,78,YVELINES,Radicaux socialistes,21738.0
+2,78,YVELINES,"Républicains Indépendants,Vème République",0.0
+2,78,YVELINES,Section Française de l'Internationale Ouvrière,0.0
+2,78,YVELINES,"Union pour la Nouvelle République, Union Pour le Travail",454321.0
+2,78,YVELINES,abstentions,305293.0
+2,78,YVELINES,blancs_nuls,45266.0
+2,79,DEUX-SEVRES,Centre National des Indépendants,19935.0
+2,79,DEUX-SEVRES,Divers extrême droite,0.0
+2,79,DEUX-SEVRES,Divers gaullistes,0.0
+2,79,DEUX-SEVRES,Modérés,0.0
+2,79,DEUX-SEVRES,Mouvement Républicain Populaire,12190.0
+2,79,DEUX-SEVRES,"Mouvement Républicain Populaire, Vème République",28285.0
+2,79,DEUX-SEVRES,Parti Socialiste Unifié,0.0
+2,79,DEUX-SEVRES,Parti communiste,0.0
+2,79,DEUX-SEVRES,Poujadiste,3652.0
+2,79,DEUX-SEVRES,Radicaux centristes,0.0
+2,79,DEUX-SEVRES,Radicaux socialistes,0.0
+2,79,DEUX-SEVRES,"Républicains Indépendants,Vème République",0.0
+2,79,DEUX-SEVRES,Section Française de l'Internationale Ouvrière,40800.0
+2,79,DEUX-SEVRES,"Union pour la Nouvelle République, Union Pour le Travail",35328.0
+2,79,DEUX-SEVRES,abstentions,57653.0
+2,79,DEUX-SEVRES,blancs_nuls,4091.0
+2,80,SOMME,Centre National des Indépendants,8237.0
+2,80,SOMME,Divers extrême droite,0.0
+2,80,SOMME,Divers gaullistes,0.0
+2,80,SOMME,Modérés,0.0
+2,80,SOMME,Mouvement Républicain Populaire,0.0
+2,80,SOMME,"Mouvement Républicain Populaire, Vème République",0.0
+2,80,SOMME,Parti Socialiste Unifié,0.0
+2,80,SOMME,Parti communiste,87116.0
+2,80,SOMME,Poujadiste,0.0
+2,80,SOMME,Radicaux centristes,0.0
+2,80,SOMME,Radicaux socialistes,13786.0
+2,80,SOMME,"Républicains Indépendants,Vème République",0.0
+2,80,SOMME,Section Française de l'Internationale Ouvrière,19803.0
+2,80,SOMME,"Union pour la Nouvelle République, Union Pour le Travail",100924.0
+2,80,SOMME,abstentions,54142.0
+2,80,SOMME,blancs_nuls,8416.0
+2,81,TARN,Centre National des Indépendants,19710.0
+2,81,TARN,Divers extrême droite,0.0
+2,81,TARN,Divers gaullistes,0.0
+2,81,TARN,Modérés,5545.0
+2,81,TARN,Mouvement Républicain Populaire,0.0
+2,81,TARN,"Mouvement Républicain Populaire, Vème République",24741.0
+2,81,TARN,Parti Socialiste Unifié,0.0
+2,81,TARN,Parti communiste,0.0
+2,81,TARN,Poujadiste,0.0
+2,81,TARN,Radicaux centristes,0.0
+2,81,TARN,Radicaux socialistes,0.0
+2,81,TARN,"Républicains Indépendants,Vème République",0.0
+2,81,TARN,Section Française de l'Internationale Ouvrière,73925.0
+2,81,TARN,"Union pour la Nouvelle République, Union Pour le Travail",31619.0
+2,81,TARN,abstentions,42016.0
+2,81,TARN,blancs_nuls,6726.0
+2,82,TARN-ET-GARONNE,Centre National des Indépendants,0.0
+2,82,TARN-ET-GARONNE,Divers extrême droite,0.0
+2,82,TARN-ET-GARONNE,Divers gaullistes,0.0
+2,82,TARN-ET-GARONNE,Modérés,0.0
+2,82,TARN-ET-GARONNE,Mouvement Républicain Populaire,0.0
+2,82,TARN-ET-GARONNE,"Mouvement Républicain Populaire, Vème République",0.0
+2,82,TARN-ET-GARONNE,Parti Socialiste Unifié,0.0
+2,82,TARN-ET-GARONNE,Parti communiste,0.0
+2,82,TARN-ET-GARONNE,Poujadiste,0.0
+2,82,TARN-ET-GARONNE,Radicaux centristes,0.0
+2,82,TARN-ET-GARONNE,Radicaux socialistes,25783.0
+2,82,TARN-ET-GARONNE,"Républicains Indépendants,Vème République",0.0
+2,82,TARN-ET-GARONNE,Section Française de l'Internationale Ouvrière,19652.0
+2,82,TARN-ET-GARONNE,"Union pour la Nouvelle République, Union Pour le Travail",33276.0
+2,82,TARN-ET-GARONNE,abstentions,26487.0
+2,82,TARN-ET-GARONNE,blancs_nuls,3863.0
+2,83,VAR,Centre National des Indépendants,0.0
+2,83,VAR,Divers extrême droite,0.0
+2,83,VAR,Divers gaullistes,0.0
+2,83,VAR,Modérés,0.0
+2,83,VAR,Mouvement Républicain Populaire,0.0
+2,83,VAR,"Mouvement Républicain Populaire, Vème République",0.0
+2,83,VAR,Parti Socialiste Unifié,0.0
+2,83,VAR,Parti communiste,58322.0
+2,83,VAR,Poujadiste,0.0
+2,83,VAR,Radicaux centristes,0.0
+2,83,VAR,Radicaux socialistes,0.0
+2,83,VAR,"Républicains Indépendants,Vème République",0.0
+2,83,VAR,Section Française de l'Internationale Ouvrière,25398.0
+2,83,VAR,"Union pour la Nouvelle République, Union Pour le Travail",90739.0
+2,83,VAR,abstentions,95343.0
+2,83,VAR,blancs_nuls,12089.0
+2,84,VAUCLUSE,Centre National des Indépendants,0.0
+2,84,VAUCLUSE,Divers extrême droite,0.0
+2,84,VAUCLUSE,Divers gaullistes,0.0
+2,84,VAUCLUSE,Modérés,0.0
+2,84,VAUCLUSE,Mouvement Républicain Populaire,0.0
+2,84,VAUCLUSE,"Mouvement Républicain Populaire, Vème République",0.0
+2,84,VAUCLUSE,Parti Socialiste Unifié,0.0
+2,84,VAUCLUSE,Parti communiste,19136.0
+2,84,VAUCLUSE,Poujadiste,0.0
+2,84,VAUCLUSE,Radicaux centristes,0.0
+2,84,VAUCLUSE,Radicaux socialistes,0.0
+2,84,VAUCLUSE,"Républicains Indépendants,Vème République",0.0
+2,84,VAUCLUSE,Section Française de l'Internationale Ouvrière,49991.0
+2,84,VAUCLUSE,"Union pour la Nouvelle République, Union Pour le Travail",56010.0
+2,84,VAUCLUSE,abstentions,46190.0
+2,84,VAUCLUSE,blancs_nuls,7267.0
+2,85,VENDEE,Centre National des Indépendants,26646.0
+2,85,VENDEE,Divers extrême droite,0.0
+2,85,VENDEE,Divers gaullistes,0.0
+2,85,VENDEE,Modérés,0.0
+2,85,VENDEE,Mouvement Républicain Populaire,24875.0
+2,85,VENDEE,"Mouvement Républicain Populaire, Vème République",0.0
+2,85,VENDEE,Parti Socialiste Unifié,0.0
+2,85,VENDEE,Parti communiste,0.0
+2,85,VENDEE,Poujadiste,0.0
+2,85,VENDEE,Radicaux centristes,0.0
+2,85,VENDEE,Radicaux socialistes,0.0
+2,85,VENDEE,"Républicains Indépendants,Vème République",0.0
+2,85,VENDEE,Section Française de l'Internationale Ouvrière,14452.0
+2,85,VENDEE,"Union pour la Nouvelle République, Union Pour le Travail",54522.0
+2,85,VENDEE,abstentions,55988.0
+2,85,VENDEE,blancs_nuls,7721.0
+2,86,VIENNE,Centre National des Indépendants,0.0
+2,86,VIENNE,Divers extrême droite,0.0
+2,86,VIENNE,Divers gaullistes,0.0
+2,86,VIENNE,Modérés,0.0
+2,86,VIENNE,Mouvement Républicain Populaire,22873.0
+2,86,VIENNE,"Mouvement Républicain Populaire, Vème République",0.0
+2,86,VIENNE,Parti Socialiste Unifié,0.0
+2,86,VIENNE,Parti communiste,24723.0
+2,86,VIENNE,Poujadiste,0.0
+2,86,VIENNE,Radicaux centristes,0.0
+2,86,VIENNE,Radicaux socialistes,0.0
+2,86,VIENNE,"Républicains Indépendants,Vème République",0.0
+2,86,VIENNE,Section Française de l'Internationale Ouvrière,0.0
+2,86,VIENNE,"Union pour la Nouvelle République, Union Pour le Travail",39687.0
+2,86,VIENNE,abstentions,42818.0
+2,86,VIENNE,blancs_nuls,4150.0
+2,87,HAUTE-VIENNE,Centre National des Indépendants,0.0
+2,87,HAUTE-VIENNE,Divers extrême droite,0.0
+2,87,HAUTE-VIENNE,Divers gaullistes,0.0
+2,87,HAUTE-VIENNE,Modérés,0.0
+2,87,HAUTE-VIENNE,Mouvement Républicain Populaire,0.0
+2,87,HAUTE-VIENNE,"Mouvement Républicain Populaire, Vème République",0.0
+2,87,HAUTE-VIENNE,Parti Socialiste Unifié,0.0
+2,87,HAUTE-VIENNE,Parti communiste,22132.0
+2,87,HAUTE-VIENNE,Poujadiste,0.0
+2,87,HAUTE-VIENNE,Radicaux centristes,0.0
+2,87,HAUTE-VIENNE,Radicaux socialistes,0.0
+2,87,HAUTE-VIENNE,"Républicains Indépendants,Vème République",0.0
+2,87,HAUTE-VIENNE,Section Française de l'Internationale Ouvrière,80981.0
+2,87,HAUTE-VIENNE,"Union pour la Nouvelle République, Union Pour le Travail",37258.0
+2,87,HAUTE-VIENNE,abstentions,74718.0
+2,87,HAUTE-VIENNE,blancs_nuls,10848.0
+2,88,VOSGES,Centre National des Indépendants,11109.0
+2,88,VOSGES,Divers extrême droite,0.0
+2,88,VOSGES,Divers gaullistes,0.0
+2,88,VOSGES,Modérés,0.0
+2,88,VOSGES,Mouvement Républicain Populaire,0.0
+2,88,VOSGES,"Mouvement Républicain Populaire, Vème République",0.0
+2,88,VOSGES,Parti Socialiste Unifié,0.0
+2,88,VOSGES,Parti communiste,25.0
+2,88,VOSGES,Poujadiste,0.0
+2,88,VOSGES,Radicaux centristes,0.0
+2,88,VOSGES,Radicaux socialistes,0.0
+2,88,VOSGES,"Républicains Indépendants,Vème République",0.0
+2,88,VOSGES,Section Française de l'Internationale Ouvrière,17085.0
+2,88,VOSGES,"Union pour la Nouvelle République, Union Pour le Travail",50352.0
+2,88,VOSGES,abstentions,40096.0
+2,88,VOSGES,blancs_nuls,4346.0
+2,89,YONNE,Centre National des Indépendants,0.0
+2,89,YONNE,Divers extrême droite,0.0
+2,89,YONNE,Divers gaullistes,0.0
+2,89,YONNE,Modérés,0.0
+2,89,YONNE,Mouvement Républicain Populaire,0.0
+2,89,YONNE,"Mouvement Républicain Populaire, Vème République",0.0
+2,89,YONNE,Parti Socialiste Unifié,0.0
+2,89,YONNE,Parti communiste,26450.0
+2,89,YONNE,Poujadiste,0.0
+2,89,YONNE,Radicaux centristes,0.0
+2,89,YONNE,Radicaux socialistes,7904.0
+2,89,YONNE,"Républicains Indépendants,Vème République",0.0
+2,89,YONNE,Section Française de l'Internationale Ouvrière,0.0
+2,89,YONNE,"Union pour la Nouvelle République, Union Pour le Travail",42798.0
+2,89,YONNE,abstentions,35010.0
+2,89,YONNE,blancs_nuls,4182.0
+2,90,TERRITOIRE DE BELFORT,Centre National des Indépendants,0.0
+2,90,TERRITOIRE DE BELFORT,Divers extrême droite,0.0
+2,90,TERRITOIRE DE BELFORT,Divers gaullistes,0.0
+2,90,TERRITOIRE DE BELFORT,Modérés,0.0
+2,90,TERRITOIRE DE BELFORT,Mouvement Républicain Populaire,5512.0
+2,90,TERRITOIRE DE BELFORT,"Mouvement Républicain Populaire, Vème République",0.0
+2,90,TERRITOIRE DE BELFORT,Parti Socialiste Unifié,7904.0
+2,90,TERRITOIRE DE BELFORT,Parti communiste,0.0
+2,90,TERRITOIRE DE BELFORT,Poujadiste,0.0
+2,90,TERRITOIRE DE BELFORT,Radicaux centristes,0.0
+2,90,TERRITOIRE DE BELFORT,Radicaux socialistes,0.0
+2,90,TERRITOIRE DE BELFORT,"Républicains Indépendants,Vème République",0.0
+2,90,TERRITOIRE DE BELFORT,Section Française de l'Internationale Ouvrière,5387.0
+2,90,TERRITOIRE DE BELFORT,"Union pour la Nouvelle République, Union Pour le Travail",23995.0
+2,90,TERRITOIRE DE BELFORT,abstentions,18255.0
+2,90,TERRITOIRE DE BELFORT,blancs_nuls,1194.0

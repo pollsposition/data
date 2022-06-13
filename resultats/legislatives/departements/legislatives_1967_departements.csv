@@ -1,0 +1,2932 @@
+tour,code_departement,departement,nuance,voix
+1,1,AIN,Alliance républicaine,0.0
+1,1,AIN,Centre Démocrate,33792.0
+1,1,AIN,Centristes ralliés,0.0
+1,1,AIN,Divers extrême droite,0.0
+1,1,AIN,Divers gaullistes,0.0
+1,1,AIN,Extrême Gauche,0.0
+1,1,AIN,Fédération de la Gauche Démocrate et Socialiste,32840.0
+1,1,AIN,Modérés,5036.0
+1,1,AIN,Parti Socialiste Unifié,0.0
+1,1,AIN,Parti communiste,25404.0
+1,1,AIN,Parti communiste- apparentés,0.0
+1,1,AIN,Radicaux de droite,0.0
+1,1,AIN,Régionalistes,0.0
+1,1,AIN,Républicains Indépendants,43458.0
+1,1,AIN,Union des Démocrates pour la Vème République,10509.0
+1,1,AIN,abstentions,52700.0
+1,1,AIN,blancs_nuls,3180.0
+1,2,AISNE,Alliance républicaine,0.0
+1,2,AISNE,Centre Démocrate,19873.0
+1,2,AISNE,Centristes ralliés,0.0
+1,2,AISNE,Divers extrême droite,0.0
+1,2,AISNE,Divers gaullistes,0.0
+1,2,AISNE,Extrême Gauche,0.0
+1,2,AISNE,Fédération de la Gauche Démocrate et Socialiste,35253.0
+1,2,AISNE,Modérés,566.0
+1,2,AISNE,Parti Socialiste Unifié,4627.0
+1,2,AISNE,Parti communiste,63368.0
+1,2,AISNE,Parti communiste- apparentés,0.0
+1,2,AISNE,Radicaux de droite,23807.0
+1,2,AISNE,Régionalistes,0.0
+1,2,AISNE,Républicains Indépendants,0.0
+1,2,AISNE,Union des Démocrates pour la Vème République,92975.0
+1,2,AISNE,abstentions,45047.0
+1,2,AISNE,blancs_nuls,5298.0
+1,3,ALLIER,Alliance républicaine,1020.0
+1,3,ALLIER,Centre Démocrate,7021.0
+1,3,ALLIER,Centristes ralliés,0.0
+1,3,ALLIER,Divers extrême droite,0.0
+1,3,ALLIER,Divers gaullistes,0.0
+1,3,ALLIER,Extrême Gauche,0.0
+1,3,ALLIER,Fédération de la Gauche Démocrate et Socialiste,62523.0
+1,3,ALLIER,Modérés,11526.0
+1,3,ALLIER,Parti Socialiste Unifié,1.0
+1,3,ALLIER,Parti communiste,58824.0
+1,3,ALLIER,Parti communiste- apparentés,0.0
+1,3,ALLIER,Radicaux de droite,0.0
+1,3,ALLIER,Régionalistes,0.0
+1,3,ALLIER,Républicains Indépendants,13219.0
+1,3,ALLIER,Union des Démocrates pour la Vème République,34472.0
+1,3,ALLIER,abstentions,50945.0
+1,3,ALLIER,blancs_nuls,4211.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Alliance républicaine,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Centre Démocrate,5802.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Centristes ralliés,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Divers extrême droite,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Divers gaullistes,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Extrême Gauche,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Fédération de la Gauche Démocrate et Socialiste,16793.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Modérés,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Parti Socialiste Unifié,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Parti communiste,13089.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Parti communiste- apparentés,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Radicaux de droite,206.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Régionalistes,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Républicains Indépendants,0.0
+1,4,ALPES-DE-HAUTE-PROVENCE,Union des Démocrates pour la Vème République,13586.0
+1,4,ALPES-DE-HAUTE-PROVENCE,abstentions,13149.0
+1,4,ALPES-DE-HAUTE-PROVENCE,blancs_nuls,1291.0
+1,5,HAUTES-ALPES,Alliance républicaine,0.0
+1,5,HAUTES-ALPES,Centre Démocrate,4632.0
+1,5,HAUTES-ALPES,Centristes ralliés,0.0
+1,5,HAUTES-ALPES,Divers extrême droite,0.0
+1,5,HAUTES-ALPES,Divers gaullistes,1679.0
+1,5,HAUTES-ALPES,Extrême Gauche,367.0
+1,5,HAUTES-ALPES,Fédération de la Gauche Démocrate et Socialiste,8949.0
+1,5,HAUTES-ALPES,Modérés,0.0
+1,5,HAUTES-ALPES,Parti Socialiste Unifié,0.0
+1,5,HAUTES-ALPES,Parti communiste,9190.0
+1,5,HAUTES-ALPES,Parti communiste- apparentés,0.0
+1,5,HAUTES-ALPES,Radicaux de droite,4286.0
+1,5,HAUTES-ALPES,Régionalistes,0.0
+1,5,HAUTES-ALPES,Républicains Indépendants,7699.0
+1,5,HAUTES-ALPES,Union des Démocrates pour la Vème République,7141.0
+1,5,HAUTES-ALPES,abstentions,12734.0
+1,5,HAUTES-ALPES,blancs_nuls,1028.0
+1,6,ALPES-MARITIMES,Alliance républicaine,0.0
+1,6,ALPES-MARITIMES,Centre Démocrate,95344.0
+1,6,ALPES-MARITIMES,Centristes ralliés,0.0
+1,6,ALPES-MARITIMES,Divers extrême droite,722.0
+1,6,ALPES-MARITIMES,Divers gaullistes,3281.0
+1,6,ALPES-MARITIMES,Extrême Gauche,0.0
+1,6,ALPES-MARITIMES,Fédération de la Gauche Démocrate et Socialiste,30856.0
+1,6,ALPES-MARITIMES,Modérés,1529.0
+1,6,ALPES-MARITIMES,Parti Socialiste Unifié,2723.0
+1,6,ALPES-MARITIMES,Parti communiste,81175.0
+1,6,ALPES-MARITIMES,Parti communiste- apparentés,0.0
+1,6,ALPES-MARITIMES,Radicaux de droite,0.0
+1,6,ALPES-MARITIMES,Régionalistes,0.0
+1,6,ALPES-MARITIMES,Républicains Indépendants,18925.0
+1,6,ALPES-MARITIMES,Union des Démocrates pour la Vème République,88434.0
+1,6,ALPES-MARITIMES,abstentions,86407.0
+1,6,ALPES-MARITIMES,blancs_nuls,8987.0
+1,7,ARDECHE,Alliance républicaine,535.0
+1,7,ARDECHE,Centre Démocrate,39624.0
+1,7,ARDECHE,Centristes ralliés,0.0
+1,7,ARDECHE,Divers extrême droite,0.0
+1,7,ARDECHE,Divers gaullistes,4038.0
+1,7,ARDECHE,Extrême Gauche,0.0
+1,7,ARDECHE,Fédération de la Gauche Démocrate et Socialiste,19237.0
+1,7,ARDECHE,Modérés,2376.0
+1,7,ARDECHE,Parti Socialiste Unifié,0.0
+1,7,ARDECHE,Parti communiste,31536.0
+1,7,ARDECHE,Parti communiste- apparentés,0.0
+1,7,ARDECHE,Radicaux de droite,0.0
+1,7,ARDECHE,Régionalistes,0.0
+1,7,ARDECHE,Républicains Indépendants,0.0
+1,7,ARDECHE,Union des Démocrates pour la Vème République,32194.0
+1,7,ARDECHE,abstentions,33901.0
+1,7,ARDECHE,blancs_nuls,2193.0
+1,8,ARDENNES,Alliance républicaine,0.0
+1,8,ARDENNES,Centre Démocrate,15387.0
+1,8,ARDENNES,Centristes ralliés,0.0
+1,8,ARDENNES,Divers extrême droite,0.0
+1,8,ARDENNES,Divers gaullistes,0.0
+1,8,ARDENNES,Extrême Gauche,0.0
+1,8,ARDENNES,Fédération de la Gauche Démocrate et Socialiste,21138.0
+1,8,ARDENNES,Modérés,4802.0
+1,8,ARDENNES,Parti Socialiste Unifié,12888.0
+1,8,ARDENNES,Parti communiste,30888.0
+1,8,ARDENNES,Parti communiste- apparentés,0.0
+1,8,ARDENNES,Radicaux de droite,0.0
+1,8,ARDENNES,Régionalistes,0.0
+1,8,ARDENNES,Républicains Indépendants,0.0
+1,8,ARDENNES,Union des Démocrates pour la Vème République,46003.0
+1,8,ARDENNES,abstentions,32493.0
+1,8,ARDENNES,blancs_nuls,2782.0
+1,9,ARIEGE,Alliance républicaine,0.0
+1,9,ARIEGE,Centre Démocrate,1376.0
+1,9,ARIEGE,Centristes ralliés,0.0
+1,9,ARIEGE,Divers extrême droite,0.0
+1,9,ARIEGE,Divers gaullistes,1365.0
+1,9,ARIEGE,Extrême Gauche,0.0
+1,9,ARIEGE,Fédération de la Gauche Démocrate et Socialiste,27297.0
+1,9,ARIEGE,Modérés,0.0
+1,9,ARIEGE,Parti Socialiste Unifié,1849.0
+1,9,ARIEGE,Parti communiste,17414.0
+1,9,ARIEGE,Parti communiste- apparentés,0.0
+1,9,ARIEGE,Radicaux de droite,0.0
+1,9,ARIEGE,Régionalistes,0.0
+1,9,ARIEGE,Républicains Indépendants,0.0
+1,9,ARIEGE,Union des Démocrates pour la Vème République,22474.0
+1,9,ARIEGE,abstentions,20899.0
+1,9,ARIEGE,blancs_nuls,1781.0
+1,10,AUBE,Alliance républicaine,0.0
+1,10,AUBE,Centre Démocrate,16403.0
+1,10,AUBE,Centristes ralliés,0.0
+1,10,AUBE,Divers extrême droite,0.0
+1,10,AUBE,Divers gaullistes,0.0
+1,10,AUBE,Extrême Gauche,0.0
+1,10,AUBE,Fédération de la Gauche Démocrate et Socialiste,27063.0
+1,10,AUBE,Modérés,0.0
+1,10,AUBE,Parti Socialiste Unifié,0.0
+1,10,AUBE,Parti communiste,31155.0
+1,10,AUBE,Parti communiste- apparentés,0.0
+1,10,AUBE,Radicaux de droite,0.0
+1,10,AUBE,Régionalistes,0.0
+1,10,AUBE,Républicains Indépendants,16300.0
+1,10,AUBE,Union des Démocrates pour la Vème République,30152.0
+1,10,AUBE,abstentions,29781.0
+1,10,AUBE,blancs_nuls,3165.0
+1,11,AUDE,Alliance républicaine,0.0
+1,11,AUDE,Centre Démocrate,12309.0
+1,11,AUDE,Centristes ralliés,14051.0
+1,11,AUDE,Divers extrême droite,0.0
+1,11,AUDE,Divers gaullistes,0.0
+1,11,AUDE,Extrême Gauche,0.0
+1,11,AUDE,Fédération de la Gauche Démocrate et Socialiste,59054.0
+1,11,AUDE,Modérés,0.0
+1,11,AUDE,Parti Socialiste Unifié,0.0
+1,11,AUDE,Parti communiste,32265.0
+1,11,AUDE,Parti communiste- apparentés,0.0
+1,11,AUDE,Radicaux de droite,2054.0
+1,11,AUDE,Régionalistes,0.0
+1,11,AUDE,Républicains Indépendants,0.0
+1,11,AUDE,Union des Démocrates pour la Vème République,21098.0
+1,11,AUDE,abstentions,30285.0
+1,11,AUDE,blancs_nuls,4006.0
+1,12,AVEYRON,Alliance républicaine,0.0
+1,12,AVEYRON,Centre Démocrate,24643.0
+1,12,AVEYRON,Centristes ralliés,0.0
+1,12,AVEYRON,Divers extrême droite,2330.0
+1,12,AVEYRON,Divers gaullistes,0.0
+1,12,AVEYRON,Extrême Gauche,0.0
+1,12,AVEYRON,Fédération de la Gauche Démocrate et Socialiste,34470.0
+1,12,AVEYRON,Modérés,0.0
+1,12,AVEYRON,Parti Socialiste Unifié,1828.0
+1,12,AVEYRON,Parti communiste,15069.0
+1,12,AVEYRON,Parti communiste- apparentés,0.0
+1,12,AVEYRON,Radicaux de droite,0.0
+1,12,AVEYRON,Régionalistes,0.0
+1,12,AVEYRON,Républicains Indépendants,46893.0
+1,12,AVEYRON,Union des Démocrates pour la Vème République,25372.0
+1,12,AVEYRON,abstentions,31635.0
+1,12,AVEYRON,blancs_nuls,3729.0
+1,13,BOUCHES-DU-RHONE,Alliance républicaine,12278.0
+1,13,BOUCHES-DU-RHONE,Centre Démocrate,46160.0
+1,13,BOUCHES-DU-RHONE,Centristes ralliés,0.0
+1,13,BOUCHES-DU-RHONE,Divers extrême droite,6135.0
+1,13,BOUCHES-DU-RHONE,Divers gaullistes,8139.0
+1,13,BOUCHES-DU-RHONE,Extrême Gauche,12551.0
+1,13,BOUCHES-DU-RHONE,Fédération de la Gauche Démocrate et Socialiste,151640.0
+1,13,BOUCHES-DU-RHONE,Modérés,7558.0
+1,13,BOUCHES-DU-RHONE,Parti Socialiste Unifié,0.0
+1,13,BOUCHES-DU-RHONE,Parti communiste,176224.0
+1,13,BOUCHES-DU-RHONE,Parti communiste- apparentés,0.0
+1,13,BOUCHES-DU-RHONE,Radicaux de droite,0.0
+1,13,BOUCHES-DU-RHONE,Régionalistes,0.0
+1,13,BOUCHES-DU-RHONE,Républicains Indépendants,0.0
+1,13,BOUCHES-DU-RHONE,Union des Démocrates pour la Vème République,136329.0
+1,13,BOUCHES-DU-RHONE,abstentions,189324.0
+1,13,BOUCHES-DU-RHONE,blancs_nuls,12611.0
+1,14,CALVADOS,Alliance républicaine,0.0
+1,14,CALVADOS,Centre Démocrate,41357.0
+1,14,CALVADOS,Centristes ralliés,0.0
+1,14,CALVADOS,Divers extrême droite,0.0
+1,14,CALVADOS,Divers gaullistes,0.0
+1,14,CALVADOS,Extrême Gauche,0.0
+1,14,CALVADOS,Fédération de la Gauche Démocrate et Socialiste,22258.0
+1,14,CALVADOS,Modérés,0.0
+1,14,CALVADOS,Parti Socialiste Unifié,8394.0
+1,14,CALVADOS,Parti communiste,42383.0
+1,14,CALVADOS,Parti communiste- apparentés,0.0
+1,14,CALVADOS,Radicaux de droite,0.0
+1,14,CALVADOS,Régionalistes,0.0
+1,14,CALVADOS,Républicains Indépendants,21271.0
+1,14,CALVADOS,Union des Démocrates pour la Vème République,88352.0
+1,14,CALVADOS,abstentions,54547.0
+1,14,CALVADOS,blancs_nuls,5666.0
+1,15,CANTAL,Alliance républicaine,345.0
+1,15,CANTAL,Centre Démocrate,5749.0
+1,15,CANTAL,Centristes ralliés,20098.0
+1,15,CANTAL,Divers extrême droite,0.0
+1,15,CANTAL,Divers gaullistes,0.0
+1,15,CANTAL,Extrême Gauche,0.0
+1,15,CANTAL,Fédération de la Gauche Démocrate et Socialiste,14844.0
+1,15,CANTAL,Modérés,0.0
+1,15,CANTAL,Parti Socialiste Unifié,0.0
+1,15,CANTAL,Parti communiste,10819.0
+1,15,CANTAL,Parti communiste- apparentés,0.0
+1,15,CANTAL,Radicaux de droite,6600.0
+1,15,CANTAL,Régionalistes,0.0
+1,15,CANTAL,Républicains Indépendants,0.0
+1,15,CANTAL,Union des Démocrates pour la Vème République,25392.0
+1,15,CANTAL,abstentions,23095.0
+1,15,CANTAL,blancs_nuls,1113.0
+1,16,CHARENTE,Alliance républicaine,0.0
+1,16,CHARENTE,Centre Démocrate,24636.0
+1,16,CHARENTE,Centristes ralliés,0.0
+1,16,CHARENTE,Divers extrême droite,0.0
+1,16,CHARENTE,Divers gaullistes,0.0
+1,16,CHARENTE,Extrême Gauche,0.0
+1,16,CHARENTE,Fédération de la Gauche Démocrate et Socialiste,37280.0
+1,16,CHARENTE,Modérés,0.0
+1,16,CHARENTE,Parti Socialiste Unifié,0.0
+1,16,CHARENTE,Parti communiste,40250.0
+1,16,CHARENTE,Parti communiste- apparentés,0.0
+1,16,CHARENTE,Radicaux de droite,0.0
+1,16,CHARENTE,Régionalistes,0.0
+1,16,CHARENTE,Républicains Indépendants,0.0
+1,16,CHARENTE,Union des Démocrates pour la Vème République,53339.0
+1,16,CHARENTE,abstentions,45394.0
+1,16,CHARENTE,blancs_nuls,5025.0
+1,17,CHARENTE-MARITIME,Alliance républicaine,0.0
+1,17,CHARENTE-MARITIME,Centre Démocrate,39302.0
+1,17,CHARENTE-MARITIME,Centristes ralliés,0.0
+1,17,CHARENTE-MARITIME,Divers extrême droite,0.0
+1,17,CHARENTE-MARITIME,Divers gaullistes,0.0
+1,17,CHARENTE-MARITIME,Extrême Gauche,0.0
+1,17,CHARENTE-MARITIME,Fédération de la Gauche Démocrate et Socialiste,44234.0
+1,17,CHARENTE-MARITIME,Modérés,0.0
+1,17,CHARENTE-MARITIME,Parti Socialiste Unifié,11057.0
+1,17,CHARENTE-MARITIME,Parti communiste,39170.0
+1,17,CHARENTE-MARITIME,Parti communiste- apparentés,0.0
+1,17,CHARENTE-MARITIME,Radicaux de droite,0.0
+1,17,CHARENTE-MARITIME,Régionalistes,0.0
+1,17,CHARENTE-MARITIME,Républicains Indépendants,0.0
+1,17,CHARENTE-MARITIME,Union des Démocrates pour la Vème République,82936.0
+1,17,CHARENTE-MARITIME,abstentions,69649.0
+1,17,CHARENTE-MARITIME,blancs_nuls,5462.0
+1,18,CHER,Alliance républicaine,0.0
+1,18,CHER,Centre Démocrate,6514.0
+1,18,CHER,Centristes ralliés,0.0
+1,18,CHER,Divers extrême droite,0.0
+1,18,CHER,Divers gaullistes,2688.0
+1,18,CHER,Extrême Gauche,0.0
+1,18,CHER,Fédération de la Gauche Démocrate et Socialiste,10463.0
+1,18,CHER,Modérés,7123.0
+1,18,CHER,Parti Socialiste Unifié,7370.0
+1,18,CHER,Parti communiste,46682.0
+1,18,CHER,Parti communiste- apparentés,0.0
+1,18,CHER,Radicaux de droite,0.0
+1,18,CHER,Régionalistes,0.0
+1,18,CHER,Républicains Indépendants,26809.0
+1,18,CHER,Union des Démocrates pour la Vème République,37610.0
+1,18,CHER,abstentions,34877.0
+1,18,CHER,blancs_nuls,3204.0
+1,19,CORREZE,Alliance républicaine,0.0
+1,19,CORREZE,Centre Démocrate,0.0
+1,19,CORREZE,Centristes ralliés,0.0
+1,19,CORREZE,Divers extrême droite,0.0
+1,19,CORREZE,Divers gaullistes,0.0
+1,19,CORREZE,Extrême Gauche,0.0
+1,19,CORREZE,Fédération de la Gauche Démocrate et Socialiste,41158.0
+1,19,CORREZE,Modérés,0.0
+1,19,CORREZE,Parti Socialiste Unifié,1203.0
+1,19,CORREZE,Parti communiste,37491.0
+1,19,CORREZE,Parti communiste- apparentés,0.0
+1,19,CORREZE,Radicaux de droite,0.0
+1,19,CORREZE,Régionalistes,0.0
+1,19,CORREZE,Républicains Indépendants,0.0
+1,19,CORREZE,Union des Démocrates pour la Vème République,51535.0
+1,19,CORREZE,abstentions,27900.0
+1,19,CORREZE,blancs_nuls,2043.0
+1,20,CORSE,Alliance républicaine,1908.0
+1,20,CORSE,Centre Démocrate,5760.0
+1,20,CORSE,Centristes ralliés,0.0
+1,20,CORSE,Divers extrême droite,0.0
+1,20,CORSE,Divers gaullistes,0.0
+1,20,CORSE,Extrême Gauche,0.0
+1,20,CORSE,Fédération de la Gauche Démocrate et Socialiste,33775.0
+1,20,CORSE,Modérés,6361.0
+1,20,CORSE,Parti Socialiste Unifié,0.0
+1,20,CORSE,Parti communiste,13909.0
+1,20,CORSE,Parti communiste- apparentés,0.0
+1,20,CORSE,Radicaux de droite,0.0
+1,20,CORSE,Régionalistes,0.0
+1,20,CORSE,Républicains Indépendants,0.0
+1,20,CORSE,Union des Démocrates pour la Vème République,53594.0
+1,20,CORSE,abstentions,59711.0
+1,20,CORSE,blancs_nuls,959.0
+1,21,COTE-D'OR,Alliance républicaine,0.0
+1,21,COTE-D'OR,Centre Démocrate,21481.0
+1,21,COTE-D'OR,Centristes ralliés,0.0
+1,21,COTE-D'OR,Divers extrême droite,0.0
+1,21,COTE-D'OR,Divers gaullistes,0.0
+1,21,COTE-D'OR,Extrême Gauche,0.0
+1,21,COTE-D'OR,Fédération de la Gauche Démocrate et Socialiste,42354.0
+1,21,COTE-D'OR,Modérés,13126.0
+1,21,COTE-D'OR,Parti Socialiste Unifié,0.0
+1,21,COTE-D'OR,Parti communiste,30532.0
+1,21,COTE-D'OR,Parti communiste- apparentés,0.0
+1,21,COTE-D'OR,Radicaux de droite,0.0
+1,21,COTE-D'OR,Régionalistes,0.0
+1,21,COTE-D'OR,Républicains Indépendants,15246.0
+1,21,COTE-D'OR,Union des Démocrates pour la Vème République,49192.0
+1,21,COTE-D'OR,abstentions,58396.0
+1,21,COTE-D'OR,blancs_nuls,3601.0
+1,22,COTES-D'ARMOR,Alliance républicaine,579.0
+1,22,COTES-D'ARMOR,Centre Démocrate,77007.0
+1,22,COTES-D'ARMOR,Centristes ralliés,36633.0
+1,22,COTES-D'ARMOR,Divers extrême droite,0.0
+1,22,COTES-D'ARMOR,Divers gaullistes,0.0
+1,22,COTES-D'ARMOR,Extrême Gauche,0.0
+1,22,COTES-D'ARMOR,Fédération de la Gauche Démocrate et Socialiste,7926.0
+1,22,COTES-D'ARMOR,Modérés,0.0
+1,22,COTES-D'ARMOR,Parti Socialiste Unifié,30803.0
+1,22,COTES-D'ARMOR,Parti communiste,69002.0
+1,22,COTES-D'ARMOR,Parti communiste- apparentés,0.0
+1,22,COTES-D'ARMOR,Radicaux de droite,0.0
+1,22,COTES-D'ARMOR,Régionalistes,0.0
+1,22,COTES-D'ARMOR,Républicains Indépendants,0.0
+1,22,COTES-D'ARMOR,Union des Démocrates pour la Vème République,49498.0
+1,22,COTES-D'ARMOR,abstentions,48569.0
+1,22,COTES-D'ARMOR,blancs_nuls,3610.0
+1,23,CREUSE,Alliance républicaine,0.0
+1,23,CREUSE,Centre Démocrate,0.0
+1,23,CREUSE,Centristes ralliés,0.0
+1,23,CREUSE,Divers extrême droite,0.0
+1,23,CREUSE,Divers gaullistes,0.0
+1,23,CREUSE,Extrême Gauche,0.0
+1,23,CREUSE,Fédération de la Gauche Démocrate et Socialiste,16197.0
+1,23,CREUSE,Modérés,0.0
+1,23,CREUSE,Parti Socialiste Unifié,8933.0
+1,23,CREUSE,Parti communiste,22770.0
+1,23,CREUSE,Parti communiste- apparentés,0.0
+1,23,CREUSE,Radicaux de droite,9341.0
+1,23,CREUSE,Régionalistes,0.0
+1,23,CREUSE,Républicains Indépendants,0.0
+1,23,CREUSE,Union des Démocrates pour la Vème République,23017.0
+1,23,CREUSE,abstentions,26130.0
+1,23,CREUSE,blancs_nuls,1377.0
+1,24,DORDOGNE,Alliance républicaine,0.0
+1,24,DORDOGNE,Centre Démocrate,15627.0
+1,24,DORDOGNE,Centristes ralliés,0.0
+1,24,DORDOGNE,Divers extrême droite,0.0
+1,24,DORDOGNE,Divers gaullistes,0.0
+1,24,DORDOGNE,Extrême Gauche,0.0
+1,24,DORDOGNE,Fédération de la Gauche Démocrate et Socialiste,63715.0
+1,24,DORDOGNE,Modérés,0.0
+1,24,DORDOGNE,Parti Socialiste Unifié,1719.0
+1,24,DORDOGNE,Parti communiste,55556.0
+1,24,DORDOGNE,Parti communiste- apparentés,0.0
+1,24,DORDOGNE,Radicaux de droite,7373.0
+1,24,DORDOGNE,Régionalistes,0.0
+1,24,DORDOGNE,Républicains Indépendants,0.0
+1,24,DORDOGNE,Union des Démocrates pour la Vème République,60573.0
+1,24,DORDOGNE,abstentions,42991.0
+1,24,DORDOGNE,blancs_nuls,4602.0
+1,25,DOUBS,Alliance républicaine,0.0
+1,25,DOUBS,Centre Démocrate,7645.0
+1,25,DOUBS,Centristes ralliés,0.0
+1,25,DOUBS,Divers extrême droite,0.0
+1,25,DOUBS,Divers gaullistes,0.0
+1,25,DOUBS,Extrême Gauche,0.0
+1,25,DOUBS,Fédération de la Gauche Démocrate et Socialiste,49806.0
+1,25,DOUBS,Modérés,0.0
+1,25,DOUBS,Parti Socialiste Unifié,0.0
+1,25,DOUBS,Parti communiste,30297.0
+1,25,DOUBS,Parti communiste- apparentés,0.0
+1,25,DOUBS,Radicaux de droite,0.0
+1,25,DOUBS,Régionalistes,0.0
+1,25,DOUBS,Républicains Indépendants,0.0
+1,25,DOUBS,Union des Démocrates pour la Vème République,87540.0
+1,25,DOUBS,abstentions,39843.0
+1,25,DOUBS,blancs_nuls,5249.0
+1,26,DROME,Alliance républicaine,0.0
+1,26,DROME,Centre Démocrate,24463.0
+1,26,DROME,Centristes ralliés,0.0
+1,26,DROME,Divers extrême droite,0.0
+1,26,DROME,Divers gaullistes,0.0
+1,26,DROME,Extrême Gauche,0.0
+1,26,DROME,Fédération de la Gauche Démocrate et Socialiste,38501.0
+1,26,DROME,Modérés,0.0
+1,26,DROME,Parti Socialiste Unifié,6557.0
+1,26,DROME,Parti communiste,32823.0
+1,26,DROME,Parti communiste- apparentés,0.0
+1,26,DROME,Radicaux de droite,0.0
+1,26,DROME,Régionalistes,0.0
+1,26,DROME,Républicains Indépendants,0.0
+1,26,DROME,Union des Démocrates pour la Vème République,50707.0
+1,26,DROME,abstentions,40579.0
+1,26,DROME,blancs_nuls,2790.0
+1,27,EURE,Alliance républicaine,0.0
+1,27,EURE,Centre Démocrate,19236.0
+1,27,EURE,Centristes ralliés,0.0
+1,27,EURE,Divers extrême droite,0.0
+1,27,EURE,Divers gaullistes,5932.0
+1,27,EURE,Extrême Gauche,0.0
+1,27,EURE,Fédération de la Gauche Démocrate et Socialiste,25566.0
+1,27,EURE,Modérés,6674.0
+1,27,EURE,Parti Socialiste Unifié,10600.0
+1,27,EURE,Parti communiste,31089.0
+1,27,EURE,Parti communiste- apparentés,0.0
+1,27,EURE,Radicaux de droite,0.0
+1,27,EURE,Régionalistes,0.0
+1,27,EURE,Républicains Indépendants,16249.0
+1,27,EURE,Union des Démocrates pour la Vème République,60451.0
+1,27,EURE,abstentions,33305.0
+1,27,EURE,blancs_nuls,4394.0
+1,28,EURE-ET-LOIR,Alliance républicaine,0.0
+1,28,EURE-ET-LOIR,Centre Démocrate,9347.0
+1,28,EURE-ET-LOIR,Centristes ralliés,0.0
+1,28,EURE-ET-LOIR,Divers extrême droite,0.0
+1,28,EURE-ET-LOIR,Divers gaullistes,0.0
+1,28,EURE-ET-LOIR,Extrême Gauche,0.0
+1,28,EURE-ET-LOIR,Fédération de la Gauche Démocrate et Socialiste,41644.0
+1,28,EURE-ET-LOIR,Modérés,3946.0
+1,28,EURE-ET-LOIR,Parti Socialiste Unifié,4832.0
+1,28,EURE-ET-LOIR,Parti communiste,24090.0
+1,28,EURE-ET-LOIR,Parti communiste- apparentés,0.0
+1,28,EURE-ET-LOIR,Radicaux de droite,0.0
+1,28,EURE-ET-LOIR,Régionalistes,0.0
+1,28,EURE-ET-LOIR,Républicains Indépendants,0.0
+1,28,EURE-ET-LOIR,Union des Démocrates pour la Vème République,54741.0
+1,28,EURE-ET-LOIR,abstentions,31269.0
+1,28,EURE-ET-LOIR,blancs_nuls,3759.0
+1,29,FINISTERE,Alliance républicaine,0.0
+1,29,FINISTERE,Centre Démocrate,98950.0
+1,29,FINISTERE,Centristes ralliés,0.0
+1,29,FINISTERE,Divers extrême droite,0.0
+1,29,FINISTERE,Divers gaullistes,8427.0
+1,29,FINISTERE,Extrême Gauche,0.0
+1,29,FINISTERE,Fédération de la Gauche Démocrate et Socialiste,34915.0
+1,29,FINISTERE,Modérés,5576.0
+1,29,FINISTERE,Parti Socialiste Unifié,16576.0
+1,29,FINISTERE,Parti communiste,72597.0
+1,29,FINISTERE,Parti communiste- apparentés,0.0
+1,29,FINISTERE,Radicaux de droite,2578.0
+1,29,FINISTERE,Régionalistes,0.0
+1,29,FINISTERE,Républicains Indépendants,0.0
+1,29,FINISTERE,Union des Démocrates pour la Vème République,159210.0
+1,29,FINISTERE,abstentions,83943.0
+1,29,FINISTERE,blancs_nuls,4241.0
+1,30,GARD,Alliance républicaine,2977.0
+1,30,GARD,Centre Démocrate,32708.0
+1,30,GARD,Centristes ralliés,0.0
+1,30,GARD,Divers extrême droite,0.0
+1,30,GARD,Divers gaullistes,0.0
+1,30,GARD,Extrême Gauche,0.0
+1,30,GARD,Fédération de la Gauche Démocrate et Socialiste,49790.0
+1,30,GARD,Modérés,0.0
+1,30,GARD,Parti Socialiste Unifié,0.0
+1,30,GARD,Parti communiste,71914.0
+1,30,GARD,Parti communiste- apparentés,0.0
+1,30,GARD,Radicaux de droite,5465.0
+1,30,GARD,Régionalistes,0.0
+1,30,GARD,Républicains Indépendants,0.0
+1,30,GARD,Union des Démocrates pour la Vème République,52646.0
+1,30,GARD,abstentions,56397.0
+1,30,GARD,blancs_nuls,5781.0
+1,31,HAUTE-GARONNE,Alliance républicaine,1848.0
+1,31,HAUTE-GARONNE,Centre Démocrate,22827.0
+1,31,HAUTE-GARONNE,Centristes ralliés,0.0
+1,31,HAUTE-GARONNE,Divers extrême droite,2619.0
+1,31,HAUTE-GARONNE,Divers gaullistes,1247.0
+1,31,HAUTE-GARONNE,Extrême Gauche,0.0
+1,31,HAUTE-GARONNE,Fédération de la Gauche Démocrate et Socialiste,94377.0
+1,31,HAUTE-GARONNE,Modérés,21833.0
+1,31,HAUTE-GARONNE,Parti Socialiste Unifié,10785.0
+1,31,HAUTE-GARONNE,Parti communiste,50545.0
+1,31,HAUTE-GARONNE,Parti communiste- apparentés,0.0
+1,31,HAUTE-GARONNE,Radicaux de droite,17222.0
+1,31,HAUTE-GARONNE,Régionalistes,0.0
+1,31,HAUTE-GARONNE,Républicains Indépendants,0.0
+1,31,HAUTE-GARONNE,Union des Démocrates pour la Vème République,79033.0
+1,31,HAUTE-GARONNE,abstentions,82026.0
+1,31,HAUTE-GARONNE,blancs_nuls,6961.0
+1,32,GERS,Alliance républicaine,0.0
+1,32,GERS,Centre Démocrate,35782.0
+1,32,GERS,Centristes ralliés,0.0
+1,32,GERS,Divers extrême droite,0.0
+1,32,GERS,Divers gaullistes,0.0
+1,32,GERS,Extrême Gauche,0.0
+1,32,GERS,Fédération de la Gauche Démocrate et Socialiste,24242.0
+1,32,GERS,Modérés,0.0
+1,32,GERS,Parti Socialiste Unifié,4567.0
+1,32,GERS,Parti communiste,13113.0
+1,32,GERS,Parti communiste- apparentés,0.0
+1,32,GERS,Radicaux de droite,0.0
+1,32,GERS,Régionalistes,0.0
+1,32,GERS,Républicains Indépendants,0.0
+1,32,GERS,Union des Démocrates pour la Vème République,10815.0
+1,32,GERS,abstentions,24474.0
+1,32,GERS,blancs_nuls,1937.0
+1,33,GIRONDE,Alliance républicaine,2542.0
+1,33,GIRONDE,Centre Démocrate,81439.0
+1,33,GIRONDE,Centristes ralliés,0.0
+1,33,GIRONDE,Divers extrême droite,528.0
+1,33,GIRONDE,Divers gaullistes,4233.0
+1,33,GIRONDE,Extrême Gauche,933.0
+1,33,GIRONDE,Fédération de la Gauche Démocrate et Socialiste,112081.0
+1,33,GIRONDE,Modérés,14090.0
+1,33,GIRONDE,Parti Socialiste Unifié,1117.0
+1,33,GIRONDE,Parti communiste,72204.0
+1,33,GIRONDE,Parti communiste- apparentés,0.0
+1,33,GIRONDE,Radicaux de droite,0.0
+1,33,GIRONDE,Régionalistes,0.0
+1,33,GIRONDE,Républicains Indépendants,16106.0
+1,33,GIRONDE,Union des Démocrates pour la Vème République,150450.0
+1,33,GIRONDE,abstentions,123062.0
+1,33,GIRONDE,blancs_nuls,9064.0
+1,34,HERAULT,Alliance républicaine,7469.0
+1,34,HERAULT,Centre Démocrate,32797.0
+1,34,HERAULT,Centristes ralliés,0.0
+1,34,HERAULT,Divers extrême droite,2987.0
+1,34,HERAULT,Divers gaullistes,4245.0
+1,34,HERAULT,Extrême Gauche,0.0
+1,34,HERAULT,Fédération de la Gauche Démocrate et Socialiste,76107.0
+1,34,HERAULT,Modérés,1440.0
+1,34,HERAULT,Parti Socialiste Unifié,0.0
+1,34,HERAULT,Parti communiste,65488.0
+1,34,HERAULT,Parti communiste- apparentés,0.0
+1,34,HERAULT,Radicaux de droite,0.0
+1,34,HERAULT,Régionalistes,0.0
+1,34,HERAULT,Républicains Indépendants,21893.0
+1,34,HERAULT,Union des Démocrates pour la Vème République,36297.0
+1,34,HERAULT,abstentions,75570.0
+1,34,HERAULT,blancs_nuls,5771.0
+1,35,ILLE-ET-VILAINE,Alliance républicaine,0.0
+1,35,ILLE-ET-VILAINE,Centre Démocrate,88710.0
+1,35,ILLE-ET-VILAINE,Centristes ralliés,0.0
+1,35,ILLE-ET-VILAINE,Divers extrême droite,0.0
+1,35,ILLE-ET-VILAINE,Divers gaullistes,6327.0
+1,35,ILLE-ET-VILAINE,Extrême Gauche,0.0
+1,35,ILLE-ET-VILAINE,Fédération de la Gauche Démocrate et Socialiste,38431.0
+1,35,ILLE-ET-VILAINE,Modérés,0.0
+1,35,ILLE-ET-VILAINE,Parti Socialiste Unifié,11198.0
+1,35,ILLE-ET-VILAINE,Parti communiste,30963.0
+1,35,ILLE-ET-VILAINE,Parti communiste- apparentés,0.0
+1,35,ILLE-ET-VILAINE,Radicaux de droite,0.0
+1,35,ILLE-ET-VILAINE,Régionalistes,0.0
+1,35,ILLE-ET-VILAINE,Républicains Indépendants,22712.0
+1,35,ILLE-ET-VILAINE,Union des Démocrates pour la Vème République,109962.0
+1,35,ILLE-ET-VILAINE,abstentions,66845.0
+1,35,ILLE-ET-VILAINE,blancs_nuls,6793.0
+1,36,INDRE,Alliance républicaine,0.0
+1,36,INDRE,Centre Démocrate,18905.0
+1,36,INDRE,Centristes ralliés,0.0
+1,36,INDRE,Divers extrême droite,0.0
+1,36,INDRE,Divers gaullistes,431.0
+1,36,INDRE,Extrême Gauche,0.0
+1,36,INDRE,Fédération de la Gauche Démocrate et Socialiste,27397.0
+1,36,INDRE,Modérés,5486.0
+1,36,INDRE,Parti Socialiste Unifié,0.0
+1,36,INDRE,Parti communiste,37345.0
+1,36,INDRE,Parti communiste- apparentés,0.0
+1,36,INDRE,Radicaux de droite,1827.0
+1,36,INDRE,Régionalistes,0.0
+1,36,INDRE,Républicains Indépendants,0.0
+1,36,INDRE,Union des Démocrates pour la Vème République,33934.0
+1,36,INDRE,abstentions,31859.0
+1,36,INDRE,blancs_nuls,3354.0
+1,37,INDRE-ET-LOIRE,Alliance républicaine,2167.0
+1,37,INDRE-ET-LOIRE,Centre Démocrate,18999.0
+1,37,INDRE-ET-LOIRE,Centristes ralliés,0.0
+1,37,INDRE-ET-LOIRE,Divers extrême droite,2858.0
+1,37,INDRE-ET-LOIRE,Divers gaullistes,0.0
+1,37,INDRE-ET-LOIRE,Extrême Gauche,0.0
+1,37,INDRE-ET-LOIRE,Fédération de la Gauche Démocrate et Socialiste,34896.0
+1,37,INDRE-ET-LOIRE,Modérés,4050.0
+1,37,INDRE-ET-LOIRE,Parti Socialiste Unifié,8081.0
+1,37,INDRE-ET-LOIRE,Parti communiste,32574.0
+1,37,INDRE-ET-LOIRE,Parti communiste- apparentés,0.0
+1,37,INDRE-ET-LOIRE,Radicaux de droite,0.0
+1,37,INDRE-ET-LOIRE,Régionalistes,0.0
+1,37,INDRE-ET-LOIRE,Républicains Indépendants,0.0
+1,37,INDRE-ET-LOIRE,Union des Démocrates pour la Vème République,88687.0
+1,37,INDRE-ET-LOIRE,abstentions,48697.0
+1,37,INDRE-ET-LOIRE,blancs_nuls,5394.0
+1,38,ISERE,Alliance républicaine,3161.0
+1,38,ISERE,Centre Démocrate,22138.0
+1,38,ISERE,Centristes ralliés,0.0
+1,38,ISERE,Divers extrême droite,902.0
+1,38,ISERE,Divers gaullistes,0.0
+1,38,ISERE,Extrême Gauche,0.0
+1,38,ISERE,Fédération de la Gauche Démocrate et Socialiste,52790.0
+1,38,ISERE,Modérés,3151.0
+1,38,ISERE,Parti Socialiste Unifié,35947.0
+1,38,ISERE,Parti communiste,80214.0
+1,38,ISERE,Parti communiste- apparentés,0.0
+1,38,ISERE,Radicaux de droite,2382.0
+1,38,ISERE,Régionalistes,0.0
+1,38,ISERE,Républicains Indépendants,60667.0
+1,38,ISERE,Union des Démocrates pour la Vème République,71520.0
+1,38,ISERE,abstentions,100792.0
+1,38,ISERE,blancs_nuls,6579.0
+1,39,JURA,Alliance républicaine,0.0
+1,39,JURA,Centre Démocrate,14935.0
+1,39,JURA,Centristes ralliés,0.0
+1,39,JURA,Divers extrême droite,0.0
+1,39,JURA,Divers gaullistes,0.0
+1,39,JURA,Extrême Gauche,0.0
+1,39,JURA,Fédération de la Gauche Démocrate et Socialiste,13004.0
+1,39,JURA,Modérés,0.0
+1,39,JURA,Parti Socialiste Unifié,2263.0
+1,39,JURA,Parti communiste,16890.0
+1,39,JURA,Parti communiste- apparentés,0.0
+1,39,JURA,Radicaux de droite,23665.0
+1,39,JURA,Régionalistes,0.0
+1,39,JURA,Républicains Indépendants,0.0
+1,39,JURA,Union des Démocrates pour la Vème République,39425.0
+1,39,JURA,abstentions,30271.0
+1,39,JURA,blancs_nuls,2184.0
+1,40,LANDES,Alliance républicaine,0.0
+1,40,LANDES,Centre Démocrate,28902.0
+1,40,LANDES,Centristes ralliés,0.0
+1,40,LANDES,Divers extrême droite,0.0
+1,40,LANDES,Divers gaullistes,0.0
+1,40,LANDES,Extrême Gauche,0.0
+1,40,LANDES,Fédération de la Gauche Démocrate et Socialiste,49596.0
+1,40,LANDES,Modérés,0.0
+1,40,LANDES,Parti Socialiste Unifié,0.0
+1,40,LANDES,Parti communiste,21344.0
+1,40,LANDES,Parti communiste- apparentés,0.0
+1,40,LANDES,Radicaux de droite,0.0
+1,40,LANDES,Régionalistes,0.0
+1,40,LANDES,Républicains Indépendants,0.0
+1,40,LANDES,Union des Démocrates pour la Vème République,47057.0
+1,40,LANDES,abstentions,27972.0
+1,40,LANDES,blancs_nuls,2612.0
+1,41,LOIR-ET-CHER,Alliance républicaine,0.0
+1,41,LOIR-ET-CHER,Centre Démocrate,29777.0
+1,41,LOIR-ET-CHER,Centristes ralliés,0.0
+1,41,LOIR-ET-CHER,Divers extrême droite,0.0
+1,41,LOIR-ET-CHER,Divers gaullistes,0.0
+1,41,LOIR-ET-CHER,Extrême Gauche,0.0
+1,41,LOIR-ET-CHER,Fédération de la Gauche Démocrate et Socialiste,35605.0
+1,41,LOIR-ET-CHER,Modérés,0.0
+1,41,LOIR-ET-CHER,Parti Socialiste Unifié,0.0
+1,41,LOIR-ET-CHER,Parti communiste,25906.0
+1,41,LOIR-ET-CHER,Parti communiste- apparentés,0.0
+1,41,LOIR-ET-CHER,Radicaux de droite,0.0
+1,41,LOIR-ET-CHER,Régionalistes,0.0
+1,41,LOIR-ET-CHER,Républicains Indépendants,0.0
+1,41,LOIR-ET-CHER,Union des Démocrates pour la Vème République,39134.0
+1,41,LOIR-ET-CHER,abstentions,29747.0
+1,41,LOIR-ET-CHER,blancs_nuls,3100.0
+1,42,LOIRE,Alliance républicaine,1304.0
+1,42,LOIRE,Centre Démocrate,74702.0
+1,42,LOIRE,Centristes ralliés,0.0
+1,42,LOIRE,Divers extrême droite,0.0
+1,42,LOIRE,Divers gaullistes,0.0
+1,42,LOIRE,Extrême Gauche,0.0
+1,42,LOIRE,Fédération de la Gauche Démocrate et Socialiste,40249.0
+1,42,LOIRE,Modérés,8772.0
+1,42,LOIRE,Parti Socialiste Unifié,15649.0
+1,42,LOIRE,Parti communiste,65208.0
+1,42,LOIRE,Parti communiste- apparentés,0.0
+1,42,LOIRE,Radicaux de droite,15147.0
+1,42,LOIRE,Régionalistes,0.0
+1,42,LOIRE,Républicains Indépendants,26420.0
+1,42,LOIRE,Union des Démocrates pour la Vème République,64554.0
+1,42,LOIRE,abstentions,94694.0
+1,42,LOIRE,blancs_nuls,6636.0
+1,43,HAUTE-LOIRE,Alliance républicaine,0.0
+1,43,HAUTE-LOIRE,Centre Démocrate,31828.0
+1,43,HAUTE-LOIRE,Centristes ralliés,0.0
+1,43,HAUTE-LOIRE,Divers extrême droite,0.0
+1,43,HAUTE-LOIRE,Divers gaullistes,0.0
+1,43,HAUTE-LOIRE,Extrême Gauche,0.0
+1,43,HAUTE-LOIRE,Fédération de la Gauche Démocrate et Socialiste,21656.0
+1,43,HAUTE-LOIRE,Modérés,10919.0
+1,43,HAUTE-LOIRE,Parti Socialiste Unifié,0.0
+1,43,HAUTE-LOIRE,Parti communiste,9862.0
+1,43,HAUTE-LOIRE,Parti communiste- apparentés,0.0
+1,43,HAUTE-LOIRE,Radicaux de droite,0.0
+1,43,HAUTE-LOIRE,Régionalistes,0.0
+1,43,HAUTE-LOIRE,Républicains Indépendants,16305.0
+1,43,HAUTE-LOIRE,Union des Démocrates pour la Vème République,13990.0
+1,43,HAUTE-LOIRE,abstentions,30873.0
+1,43,HAUTE-LOIRE,blancs_nuls,2017.0
+1,44,LOIRE-ATLANTIQUE,Alliance républicaine,0.0
+1,44,LOIRE-ATLANTIQUE,Centre Démocrate,68765.0
+1,44,LOIRE-ATLANTIQUE,Centristes ralliés,0.0
+1,44,LOIRE-ATLANTIQUE,Divers extrême droite,1669.0
+1,44,LOIRE-ATLANTIQUE,Divers gaullistes,0.0
+1,44,LOIRE-ATLANTIQUE,Extrême Gauche,2446.0
+1,44,LOIRE-ATLANTIQUE,Fédération de la Gauche Démocrate et Socialiste,72549.0
+1,44,LOIRE-ATLANTIQUE,Modérés,29620.0
+1,44,LOIRE-ATLANTIQUE,Parti Socialiste Unifié,2687.0
+1,44,LOIRE-ATLANTIQUE,Parti communiste,43354.0
+1,44,LOIRE-ATLANTIQUE,Parti communiste- apparentés,0.0
+1,44,LOIRE-ATLANTIQUE,Radicaux de droite,3411.0
+1,44,LOIRE-ATLANTIQUE,Régionalistes,0.0
+1,44,LOIRE-ATLANTIQUE,Républicains Indépendants,17576.0
+1,44,LOIRE-ATLANTIQUE,Union des Démocrates pour la Vème République,153677.0
+1,44,LOIRE-ATLANTIQUE,abstentions,87327.0
+1,44,LOIRE-ATLANTIQUE,blancs_nuls,7711.0
+1,45,LOIRET,Alliance républicaine,1668.0
+1,45,LOIRET,Centre Démocrate,27957.0
+1,45,LOIRET,Centristes ralliés,0.0
+1,45,LOIRET,Divers extrême droite,0.0
+1,45,LOIRET,Divers gaullistes,0.0
+1,45,LOIRET,Extrême Gauche,0.0
+1,45,LOIRET,Fédération de la Gauche Démocrate et Socialiste,34008.0
+1,45,LOIRET,Modérés,2357.0
+1,45,LOIRET,Parti Socialiste Unifié,2328.0
+1,45,LOIRET,Parti communiste,36065.0
+1,45,LOIRET,Parti communiste- apparentés,0.0
+1,45,LOIRET,Radicaux de droite,0.0
+1,45,LOIRET,Régionalistes,0.0
+1,45,LOIRET,Républicains Indépendants,23996.0
+1,45,LOIRET,Union des Démocrates pour la Vème République,66276.0
+1,45,LOIRET,abstentions,46334.0
+1,45,LOIRET,blancs_nuls,5180.0
+1,46,LOT,Alliance républicaine,0.0
+1,46,LOT,Centre Démocrate,0.0
+1,46,LOT,Centristes ralliés,0.0
+1,46,LOT,Divers extrême droite,0.0
+1,46,LOT,Divers gaullistes,0.0
+1,46,LOT,Extrême Gauche,0.0
+1,46,LOT,Fédération de la Gauche Démocrate et Socialiste,11527.0
+1,46,LOT,Modérés,0.0
+1,46,LOT,Parti Socialiste Unifié,0.0
+1,46,LOT,Parti communiste,16463.0
+1,46,LOT,Parti communiste- apparentés,0.0
+1,46,LOT,Radicaux de droite,24579.0
+1,46,LOT,Régionalistes,0.0
+1,46,LOT,Républicains Indépendants,0.0
+1,46,LOT,Union des Démocrates pour la Vème République,29999.0
+1,46,LOT,abstentions,16674.0
+1,46,LOT,blancs_nuls,1597.0
+1,47,LOT-ET-GARONNE,Alliance républicaine,1199.0
+1,47,LOT-ET-GARONNE,Centre Démocrate,24534.0
+1,47,LOT-ET-GARONNE,Centristes ralliés,0.0
+1,47,LOT-ET-GARONNE,Divers extrême droite,0.0
+1,47,LOT-ET-GARONNE,Divers gaullistes,0.0
+1,47,LOT-ET-GARONNE,Extrême Gauche,0.0
+1,47,LOT-ET-GARONNE,Fédération de la Gauche Démocrate et Socialiste,39112.0
+1,47,LOT-ET-GARONNE,Modérés,5476.0
+1,47,LOT-ET-GARONNE,Parti Socialiste Unifié,0.0
+1,47,LOT-ET-GARONNE,Parti communiste,35285.0
+1,47,LOT-ET-GARONNE,Parti communiste- apparentés,0.0
+1,47,LOT-ET-GARONNE,Radicaux de droite,0.0
+1,47,LOT-ET-GARONNE,Régionalistes,0.0
+1,47,LOT-ET-GARONNE,Républicains Indépendants,7210.0
+1,47,LOT-ET-GARONNE,Union des Démocrates pour la Vème République,30912.0
+1,47,LOT-ET-GARONNE,abstentions,28690.0
+1,47,LOT-ET-GARONNE,blancs_nuls,3407.0
+1,48,LOZERE,Alliance républicaine,0.0
+1,48,LOZERE,Centre Démocrate,8727.0
+1,48,LOZERE,Centristes ralliés,9796.0
+1,48,LOZERE,Divers extrême droite,0.0
+1,48,LOZERE,Divers gaullistes,0.0
+1,48,LOZERE,Extrême Gauche,0.0
+1,48,LOZERE,Fédération de la Gauche Démocrate et Socialiste,4726.0
+1,48,LOZERE,Modérés,1805.0
+1,48,LOZERE,Parti Socialiste Unifié,0.0
+1,48,LOZERE,Parti communiste,4508.0
+1,48,LOZERE,Parti communiste- apparentés,0.0
+1,48,LOZERE,Radicaux de droite,0.0
+1,48,LOZERE,Régionalistes,0.0
+1,48,LOZERE,Républicains Indépendants,11703.0
+1,48,LOZERE,Union des Démocrates pour la Vème République,0.0
+1,48,LOZERE,abstentions,9054.0
+1,48,LOZERE,blancs_nuls,924.0
+1,49,MAINE-ET-LOIRE,Alliance républicaine,0.0
+1,49,MAINE-ET-LOIRE,Centre Démocrate,43155.0
+1,49,MAINE-ET-LOIRE,Centristes ralliés,0.0
+1,49,MAINE-ET-LOIRE,Divers extrême droite,0.0
+1,49,MAINE-ET-LOIRE,Divers gaullistes,12947.0
+1,49,MAINE-ET-LOIRE,Extrême Gauche,0.0
+1,49,MAINE-ET-LOIRE,Fédération de la Gauche Démocrate et Socialiste,26909.0
+1,49,MAINE-ET-LOIRE,Modérés,0.0
+1,49,MAINE-ET-LOIRE,Parti Socialiste Unifié,4212.0
+1,49,MAINE-ET-LOIRE,Parti communiste,35142.0
+1,49,MAINE-ET-LOIRE,Parti communiste- apparentés,0.0
+1,49,MAINE-ET-LOIRE,Radicaux de droite,0.0
+1,49,MAINE-ET-LOIRE,Régionalistes,0.0
+1,49,MAINE-ET-LOIRE,Républicains Indépendants,0.0
+1,49,MAINE-ET-LOIRE,Union des Démocrates pour la Vème République,138686.0
+1,49,MAINE-ET-LOIRE,abstentions,53270.0
+1,49,MAINE-ET-LOIRE,blancs_nuls,8023.0
+1,50,MANCHE,Alliance républicaine,0.0
+1,50,MANCHE,Centre Démocrate,19584.0
+1,50,MANCHE,Centristes ralliés,22613.0
+1,50,MANCHE,Divers extrême droite,0.0
+1,50,MANCHE,Divers gaullistes,14154.0
+1,50,MANCHE,Extrême Gauche,0.0
+1,50,MANCHE,Fédération de la Gauche Démocrate et Socialiste,29166.0
+1,50,MANCHE,Modérés,32588.0
+1,50,MANCHE,Parti Socialiste Unifié,0.0
+1,50,MANCHE,Parti communiste,14785.0
+1,50,MANCHE,Parti communiste- apparentés,0.0
+1,50,MANCHE,Radicaux de droite,0.0
+1,50,MANCHE,Régionalistes,0.0
+1,50,MANCHE,Républicains Indépendants,0.0
+1,50,MANCHE,Union des Démocrates pour la Vème République,74672.0
+1,50,MANCHE,abstentions,50598.0
+1,50,MANCHE,blancs_nuls,5328.0
+1,51,MARNE,Alliance républicaine,0.0
+1,51,MARNE,Centre Démocrate,35143.0
+1,51,MARNE,Centristes ralliés,0.0
+1,51,MARNE,Divers extrême droite,0.0
+1,51,MARNE,Divers gaullistes,0.0
+1,51,MARNE,Extrême Gauche,0.0
+1,51,MARNE,Fédération de la Gauche Démocrate et Socialiste,32273.0
+1,51,MARNE,Modérés,0.0
+1,51,MARNE,Parti Socialiste Unifié,2556.0
+1,51,MARNE,Parti communiste,48626.0
+1,51,MARNE,Parti communiste- apparentés,0.0
+1,51,MARNE,Radicaux de droite,0.0
+1,51,MARNE,Régionalistes,0.0
+1,51,MARNE,Républicains Indépendants,0.0
+1,51,MARNE,Union des Démocrates pour la Vème République,84946.0
+1,51,MARNE,abstentions,52705.0
+1,51,MARNE,blancs_nuls,4464.0
+1,52,HAUTE-MARNE,Alliance républicaine,0.0
+1,52,HAUTE-MARNE,Centre Démocrate,10920.0
+1,52,HAUTE-MARNE,Centristes ralliés,0.0
+1,52,HAUTE-MARNE,Divers extrême droite,0.0
+1,52,HAUTE-MARNE,Divers gaullistes,5475.0
+1,52,HAUTE-MARNE,Extrême Gauche,0.0
+1,52,HAUTE-MARNE,Fédération de la Gauche Démocrate et Socialiste,22323.0
+1,52,HAUTE-MARNE,Modérés,0.0
+1,52,HAUTE-MARNE,Parti Socialiste Unifié,1627.0
+1,52,HAUTE-MARNE,Parti communiste,17748.0
+1,52,HAUTE-MARNE,Parti communiste- apparentés,0.0
+1,52,HAUTE-MARNE,Radicaux de droite,0.0
+1,52,HAUTE-MARNE,Régionalistes,0.0
+1,52,HAUTE-MARNE,Républicains Indépendants,17781.0
+1,52,HAUTE-MARNE,Union des Démocrates pour la Vème République,18477.0
+1,52,HAUTE-MARNE,abstentions,23552.0
+1,52,HAUTE-MARNE,blancs_nuls,2582.0
+1,53,MAYENNE,Alliance républicaine,0.0
+1,53,MAYENNE,Centre Démocrate,44403.0
+1,53,MAYENNE,Centristes ralliés,0.0
+1,53,MAYENNE,Divers extrême droite,0.0
+1,53,MAYENNE,Divers gaullistes,1967.0
+1,53,MAYENNE,Extrême Gauche,0.0
+1,53,MAYENNE,Fédération de la Gauche Démocrate et Socialiste,8193.0
+1,53,MAYENNE,Modérés,6133.0
+1,53,MAYENNE,Parti Socialiste Unifié,0.0
+1,53,MAYENNE,Parti communiste,13798.0
+1,53,MAYENNE,Parti communiste- apparentés,0.0
+1,53,MAYENNE,Radicaux de droite,0.0
+1,53,MAYENNE,Régionalistes,0.0
+1,53,MAYENNE,Républicains Indépendants,23454.0
+1,53,MAYENNE,Union des Démocrates pour la Vème République,27020.0
+1,53,MAYENNE,abstentions,21164.0
+1,53,MAYENNE,blancs_nuls,5048.0
+1,54,MEURTHE-ET-MOSELLE,Alliance républicaine,0.0
+1,54,MEURTHE-ET-MOSELLE,Centre Démocrate,22328.0
+1,54,MEURTHE-ET-MOSELLE,Centristes ralliés,0.0
+1,54,MEURTHE-ET-MOSELLE,Divers extrême droite,0.0
+1,54,MEURTHE-ET-MOSELLE,Divers gaullistes,0.0
+1,54,MEURTHE-ET-MOSELLE,Extrême Gauche,0.0
+1,54,MEURTHE-ET-MOSELLE,Fédération de la Gauche Démocrate et Socialiste,41965.0
+1,54,MEURTHE-ET-MOSELLE,Modérés,5865.0
+1,54,MEURTHE-ET-MOSELLE,Parti Socialiste Unifié,8965.0
+1,54,MEURTHE-ET-MOSELLE,Parti communiste,76233.0
+1,54,MEURTHE-ET-MOSELLE,Parti communiste- apparentés,0.0
+1,54,MEURTHE-ET-MOSELLE,Radicaux de droite,830.0
+1,54,MEURTHE-ET-MOSELLE,Régionalistes,0.0
+1,54,MEURTHE-ET-MOSELLE,Républicains Indépendants,75941.0
+1,54,MEURTHE-ET-MOSELLE,Union des Démocrates pour la Vème République,64953.0
+1,54,MEURTHE-ET-MOSELLE,abstentions,60191.0
+1,54,MEURTHE-ET-MOSELLE,blancs_nuls,8834.0
+1,55,MEUSE,Alliance républicaine,0.0
+1,55,MEUSE,Centre Démocrate,17457.0
+1,55,MEUSE,Centristes ralliés,0.0
+1,55,MEUSE,Divers extrême droite,0.0
+1,55,MEUSE,Divers gaullistes,0.0
+1,55,MEUSE,Extrême Gauche,0.0
+1,55,MEUSE,Fédération de la Gauche Démocrate et Socialiste,12539.0
+1,55,MEUSE,Modérés,3112.0
+1,55,MEUSE,Parti Socialiste Unifié,0.0
+1,55,MEUSE,Parti communiste,15833.0
+1,55,MEUSE,Parti communiste- apparentés,0.0
+1,55,MEUSE,Radicaux de droite,0.0
+1,55,MEUSE,Régionalistes,0.0
+1,55,MEUSE,Républicains Indépendants,48492.0
+1,55,MEUSE,Union des Démocrates pour la Vème République,0.0
+1,55,MEUSE,abstentions,17895.0
+1,55,MEUSE,blancs_nuls,2961.0
+1,56,MORBIHAN,Alliance républicaine,0.0
+1,56,MORBIHAN,Centre Démocrate,49778.0
+1,56,MORBIHAN,Centristes ralliés,0.0
+1,56,MORBIHAN,Divers extrême droite,0.0
+1,56,MORBIHAN,Divers gaullistes,4954.0
+1,56,MORBIHAN,Extrême Gauche,0.0
+1,56,MORBIHAN,Fédération de la Gauche Démocrate et Socialiste,34698.0
+1,56,MORBIHAN,Modérés,0.0
+1,56,MORBIHAN,Parti Socialiste Unifié,4414.0
+1,56,MORBIHAN,Parti communiste,41082.0
+1,56,MORBIHAN,Parti communiste- apparentés,0.0
+1,56,MORBIHAN,Radicaux de droite,0.0
+1,56,MORBIHAN,Régionalistes,0.0
+1,56,MORBIHAN,Républicains Indépendants,81485.0
+1,56,MORBIHAN,Union des Démocrates pour la Vème République,55723.0
+1,56,MORBIHAN,abstentions,50894.0
+1,56,MORBIHAN,blancs_nuls,4696.0
+1,57,MOSELLE,Alliance républicaine,0.0
+1,57,MOSELLE,Centre Démocrate,80117.0
+1,57,MOSELLE,Centristes ralliés,0.0
+1,57,MOSELLE,Divers extrême droite,4586.0
+1,57,MOSELLE,Divers gaullistes,16477.0
+1,57,MOSELLE,Extrême Gauche,0.0
+1,57,MOSELLE,Fédération de la Gauche Démocrate et Socialiste,17263.0
+1,57,MOSELLE,Modérés,30286.0
+1,57,MOSELLE,Parti Socialiste Unifié,18731.0
+1,57,MOSELLE,Parti communiste,65024.0
+1,57,MOSELLE,Parti communiste- apparentés,0.0
+1,57,MOSELLE,Radicaux de droite,0.0
+1,57,MOSELLE,Régionalistes,0.0
+1,57,MOSELLE,Républicains Indépendants,48497.0
+1,57,MOSELLE,Union des Démocrates pour la Vème République,112046.0
+1,57,MOSELLE,abstentions,74838.0
+1,57,MOSELLE,blancs_nuls,10931.0
+1,58,NIEVRE,Alliance républicaine,0.0
+1,58,NIEVRE,Centre Démocrate,7620.0
+1,58,NIEVRE,Centristes ralliés,0.0
+1,58,NIEVRE,Divers extrême droite,0.0
+1,58,NIEVRE,Divers gaullistes,0.0
+1,58,NIEVRE,Extrême Gauche,1775.0
+1,58,NIEVRE,Fédération de la Gauche Démocrate et Socialiste,46950.0
+1,58,NIEVRE,Modérés,1243.0
+1,58,NIEVRE,Parti Socialiste Unifié,0.0
+1,58,NIEVRE,Parti communiste,26753.0
+1,58,NIEVRE,Parti communiste- apparentés,0.0
+1,58,NIEVRE,Radicaux de droite,0.0
+1,58,NIEVRE,Régionalistes,0.0
+1,58,NIEVRE,Républicains Indépendants,12759.0
+1,58,NIEVRE,Union des Démocrates pour la Vème République,27245.0
+1,58,NIEVRE,abstentions,27259.0
+1,58,NIEVRE,blancs_nuls,2495.0
+1,59,NORD,Alliance républicaine,1129.0
+1,59,NORD,Centre Démocrate,83653.0
+1,59,NORD,Centristes ralliés,32321.0
+1,59,NORD,Divers extrême droite,0.0
+1,59,NORD,Divers gaullistes,9098.0
+1,59,NORD,Extrême Gauche,0.0
+1,59,NORD,Fédération de la Gauche Démocrate et Socialiste,295562.0
+1,59,NORD,Modérés,12577.0
+1,59,NORD,Parti Socialiste Unifié,3165.0
+1,59,NORD,Parti communiste,290571.0
+1,59,NORD,Parti communiste- apparentés,0.0
+1,59,NORD,Radicaux de droite,8517.0
+1,59,NORD,Régionalistes,0.0
+1,59,NORD,Républicains Indépendants,13449.0
+1,59,NORD,Union des Démocrates pour la Vème République,365312.0
+1,59,NORD,abstentions,177485.0
+1,59,NORD,blancs_nuls,23940.0
+1,60,OISE,Alliance républicaine,0.0
+1,60,OISE,Centre Démocrate,29798.0
+1,60,OISE,Centristes ralliés,0.0
+1,60,OISE,Divers extrême droite,0.0
+1,60,OISE,Divers gaullistes,0.0
+1,60,OISE,Extrême Gauche,0.0
+1,60,OISE,Fédération de la Gauche Démocrate et Socialiste,48992.0
+1,60,OISE,Modérés,3308.0
+1,60,OISE,Parti Socialiste Unifié,2511.0
+1,60,OISE,Parti communiste,55955.0
+1,60,OISE,Parti communiste- apparentés,0.0
+1,60,OISE,Radicaux de droite,4051.0
+1,60,OISE,Régionalistes,0.0
+1,60,OISE,Républicains Indépendants,0.0
+1,60,OISE,Union des Démocrates pour la Vème République,91257.0
+1,60,OISE,abstentions,42429.0
+1,60,OISE,blancs_nuls,6170.0
+1,61,ORNE,Alliance républicaine,0.0
+1,61,ORNE,Centre Démocrate,42092.0
+1,61,ORNE,Centristes ralliés,0.0
+1,61,ORNE,Divers extrême droite,0.0
+1,61,ORNE,Divers gaullistes,0.0
+1,61,ORNE,Extrême Gauche,0.0
+1,61,ORNE,Fédération de la Gauche Démocrate et Socialiste,16881.0
+1,61,ORNE,Modérés,8656.0
+1,61,ORNE,Parti Socialiste Unifié,0.0
+1,61,ORNE,Parti communiste,11422.0
+1,61,ORNE,Parti communiste- apparentés,0.0
+1,61,ORNE,Radicaux de droite,0.0
+1,61,ORNE,Régionalistes,0.0
+1,61,ORNE,Républicains Indépendants,18876.0
+1,61,ORNE,Union des Démocrates pour la Vème République,34480.0
+1,61,ORNE,abstentions,30376.0
+1,61,ORNE,blancs_nuls,4132.0
+1,62,PAS-DE-CALAIS,Alliance républicaine,0.0
+1,62,PAS-DE-CALAIS,Centre Démocrate,47892.0
+1,62,PAS-DE-CALAIS,Centristes ralliés,0.0
+1,62,PAS-DE-CALAIS,Divers extrême droite,0.0
+1,62,PAS-DE-CALAIS,Divers gaullistes,1184.0
+1,62,PAS-DE-CALAIS,Extrême Gauche,0.0
+1,62,PAS-DE-CALAIS,Fédération de la Gauche Démocrate et Socialiste,198304.0
+1,62,PAS-DE-CALAIS,Modérés,8096.0
+1,62,PAS-DE-CALAIS,Parti Socialiste Unifié,1822.0
+1,62,PAS-DE-CALAIS,Parti communiste,179026.0
+1,62,PAS-DE-CALAIS,Parti communiste- apparentés,0.0
+1,62,PAS-DE-CALAIS,Radicaux de droite,7379.0
+1,62,PAS-DE-CALAIS,Régionalistes,0.0
+1,62,PAS-DE-CALAIS,Républicains Indépendants,0.0
+1,62,PAS-DE-CALAIS,Union des Démocrates pour la Vème République,205846.0
+1,62,PAS-DE-CALAIS,abstentions,97139.0
+1,62,PAS-DE-CALAIS,blancs_nuls,11423.0
+1,63,PUY-DE-DOME,Alliance républicaine,0.0
+1,63,PUY-DE-DOME,Centre Démocrate,21143.0
+1,63,PUY-DE-DOME,Centristes ralliés,0.0
+1,63,PUY-DE-DOME,Divers extrême droite,0.0
+1,63,PUY-DE-DOME,Divers gaullistes,4573.0
+1,63,PUY-DE-DOME,Extrême Gauche,447.0
+1,63,PUY-DE-DOME,Fédération de la Gauche Démocrate et Socialiste,78062.0
+1,63,PUY-DE-DOME,Modérés,2748.0
+1,63,PUY-DE-DOME,Parti Socialiste Unifié,1203.0
+1,63,PUY-DE-DOME,Parti communiste,46759.0
+1,63,PUY-DE-DOME,Parti communiste- apparentés,0.0
+1,63,PUY-DE-DOME,Radicaux de droite,0.0
+1,63,PUY-DE-DOME,Régionalistes,0.0
+1,63,PUY-DE-DOME,Républicains Indépendants,68211.0
+1,63,PUY-DE-DOME,Union des Démocrates pour la Vème République,19110.0
+1,63,PUY-DE-DOME,abstentions,68752.0
+1,63,PUY-DE-DOME,blancs_nuls,5379.0
+1,64,PYRENEES-ATLANTIQUES,Alliance républicaine,0.0
+1,64,PYRENEES-ATLANTIQUES,Centre Démocrate,62440.0
+1,64,PYRENEES-ATLANTIQUES,Centristes ralliés,0.0
+1,64,PYRENEES-ATLANTIQUES,Divers extrême droite,3087.0
+1,64,PYRENEES-ATLANTIQUES,Divers gaullistes,0.0
+1,64,PYRENEES-ATLANTIQUES,Extrême Gauche,0.0
+1,64,PYRENEES-ATLANTIQUES,Fédération de la Gauche Démocrate et Socialiste,60493.0
+1,64,PYRENEES-ATLANTIQUES,Modérés,0.0
+1,64,PYRENEES-ATLANTIQUES,Parti Socialiste Unifié,3625.0
+1,64,PYRENEES-ATLANTIQUES,Parti communiste,26230.0
+1,64,PYRENEES-ATLANTIQUES,Parti communiste- apparentés,0.0
+1,64,PYRENEES-ATLANTIQUES,Radicaux de droite,0.0
+1,64,PYRENEES-ATLANTIQUES,Régionalistes,5035.0
+1,64,PYRENEES-ATLANTIQUES,Républicains Indépendants,15273.0
+1,64,PYRENEES-ATLANTIQUES,Union des Démocrates pour la Vème République,69205.0
+1,64,PYRENEES-ATLANTIQUES,abstentions,61061.0
+1,64,PYRENEES-ATLANTIQUES,blancs_nuls,4079.0
+1,65,HAUTES-PYRENEES,Alliance républicaine,0.0
+1,65,HAUTES-PYRENEES,Centre Démocrate,12077.0
+1,65,HAUTES-PYRENEES,Centristes ralliés,0.0
+1,65,HAUTES-PYRENEES,Divers extrême droite,0.0
+1,65,HAUTES-PYRENEES,Divers gaullistes,0.0
+1,65,HAUTES-PYRENEES,Extrême Gauche,0.0
+1,65,HAUTES-PYRENEES,Fédération de la Gauche Démocrate et Socialiste,34773.0
+1,65,HAUTES-PYRENEES,Modérés,2352.0
+1,65,HAUTES-PYRENEES,Parti Socialiste Unifié,0.0
+1,65,HAUTES-PYRENEES,Parti communiste,21336.0
+1,65,HAUTES-PYRENEES,Parti communiste- apparentés,0.0
+1,65,HAUTES-PYRENEES,Radicaux de droite,0.0
+1,65,HAUTES-PYRENEES,Régionalistes,0.0
+1,65,HAUTES-PYRENEES,Républicains Indépendants,0.0
+1,65,HAUTES-PYRENEES,Union des Démocrates pour la Vème République,36177.0
+1,65,HAUTES-PYRENEES,abstentions,31347.0
+1,65,HAUTES-PYRENEES,blancs_nuls,1974.0
+1,66,PYRENEES-ORIENTALES,Alliance républicaine,0.0
+1,66,PYRENEES-ORIENTALES,Centre Démocrate,7047.0
+1,66,PYRENEES-ORIENTALES,Centristes ralliés,0.0
+1,66,PYRENEES-ORIENTALES,Divers extrême droite,0.0
+1,66,PYRENEES-ORIENTALES,Divers gaullistes,0.0
+1,66,PYRENEES-ORIENTALES,Extrême Gauche,0.0
+1,66,PYRENEES-ORIENTALES,Fédération de la Gauche Démocrate et Socialiste,0.0
+1,66,PYRENEES-ORIENTALES,Modérés,4909.0
+1,66,PYRENEES-ORIENTALES,Parti Socialiste Unifié,0.0
+1,66,PYRENEES-ORIENTALES,Parti communiste,46338.0
+1,66,PYRENEES-ORIENTALES,Parti communiste- apparentés,0.0
+1,66,PYRENEES-ORIENTALES,Radicaux de droite,33141.0
+1,66,PYRENEES-ORIENTALES,Régionalistes,0.0
+1,66,PYRENEES-ORIENTALES,Républicains Indépendants,0.0
+1,66,PYRENEES-ORIENTALES,Union des Démocrates pour la Vème République,27092.0
+1,66,PYRENEES-ORIENTALES,abstentions,40588.0
+1,66,PYRENEES-ORIENTALES,blancs_nuls,3763.0
+1,67,BAS-RHIN,Alliance républicaine,0.0
+1,67,BAS-RHIN,Centre Démocrate,100693.0
+1,67,BAS-RHIN,Centristes ralliés,19781.0
+1,67,BAS-RHIN,Divers extrême droite,0.0
+1,67,BAS-RHIN,Divers gaullistes,0.0
+1,67,BAS-RHIN,Extrême Gauche,0.0
+1,67,BAS-RHIN,Fédération de la Gauche Démocrate et Socialiste,19092.0
+1,67,BAS-RHIN,Modérés,4827.0
+1,67,BAS-RHIN,Parti Socialiste Unifié,0.0
+1,67,BAS-RHIN,Parti communiste,33056.0
+1,67,BAS-RHIN,Parti communiste- apparentés,0.0
+1,67,BAS-RHIN,Radicaux de droite,0.0
+1,67,BAS-RHIN,Régionalistes,0.0
+1,67,BAS-RHIN,Républicains Indépendants,0.0
+1,67,BAS-RHIN,Union des Démocrates pour la Vème République,175845.0
+1,67,BAS-RHIN,abstentions,94821.0
+1,67,BAS-RHIN,blancs_nuls,12151.0
+1,68,HAUT-RHIN,Alliance républicaine,0.0
+1,68,HAUT-RHIN,Centre Démocrate,75085.0
+1,68,HAUT-RHIN,Centristes ralliés,0.0
+1,68,HAUT-RHIN,Divers extrême droite,0.0
+1,68,HAUT-RHIN,Divers gaullistes,0.0
+1,68,HAUT-RHIN,Extrême Gauche,0.0
+1,68,HAUT-RHIN,Fédération de la Gauche Démocrate et Socialiste,34525.0
+1,68,HAUT-RHIN,Modérés,1969.0
+1,68,HAUT-RHIN,Parti Socialiste Unifié,0.0
+1,68,HAUT-RHIN,Parti communiste,23253.0
+1,68,HAUT-RHIN,Parti communiste- apparentés,0.0
+1,68,HAUT-RHIN,Radicaux de droite,0.0
+1,68,HAUT-RHIN,Régionalistes,0.0
+1,68,HAUT-RHIN,Républicains Indépendants,0.0
+1,68,HAUT-RHIN,Union des Démocrates pour la Vème République,129727.0
+1,68,HAUT-RHIN,abstentions,59902.0
+1,68,HAUT-RHIN,blancs_nuls,10708.0
+1,69,RHONE,Alliance républicaine,0.0
+1,69,RHONE,Centre Démocrate,76139.0
+1,69,RHONE,Centristes ralliés,13667.0
+1,69,RHONE,Divers extrême droite,4393.0
+1,69,RHONE,Divers gaullistes,0.0
+1,69,RHONE,Extrême Gauche,0.0
+1,69,RHONE,Fédération de la Gauche Démocrate et Socialiste,87518.0
+1,69,RHONE,Modérés,16294.0
+1,69,RHONE,Parti Socialiste Unifié,23224.0
+1,69,RHONE,Parti communiste,99778.0
+1,69,RHONE,Parti communiste- apparentés,0.0
+1,69,RHONE,Radicaux de droite,0.0
+1,69,RHONE,Régionalistes,0.0
+1,69,RHONE,Républicains Indépendants,11911.0
+1,69,RHONE,Union des Démocrates pour la Vème République,145337.0
+1,69,RHONE,abstentions,135646.0
+1,69,RHONE,blancs_nuls,19667.0
+1,70,HAUTE-SAONE,Alliance républicaine,0.0
+1,70,HAUTE-SAONE,Centre Démocrate,8760.0
+1,70,HAUTE-SAONE,Centristes ralliés,0.0
+1,70,HAUTE-SAONE,Divers extrême droite,0.0
+1,70,HAUTE-SAONE,Divers gaullistes,0.0
+1,70,HAUTE-SAONE,Extrême Gauche,0.0
+1,70,HAUTE-SAONE,Fédération de la Gauche Démocrate et Socialiste,38558.0
+1,70,HAUTE-SAONE,Modérés,0.0
+1,70,HAUTE-SAONE,Parti Socialiste Unifié,0.0
+1,70,HAUTE-SAONE,Parti communiste,12321.0
+1,70,HAUTE-SAONE,Parti communiste- apparentés,0.0
+1,70,HAUTE-SAONE,Radicaux de droite,0.0
+1,70,HAUTE-SAONE,Régionalistes,0.0
+1,70,HAUTE-SAONE,Républicains Indépendants,23835.0
+1,70,HAUTE-SAONE,Union des Démocrates pour la Vème République,22642.0
+1,70,HAUTE-SAONE,abstentions,22750.0
+1,70,HAUTE-SAONE,blancs_nuls,2749.0
+1,71,SAONE-ET-LOIRE,Alliance républicaine,0.0
+1,71,SAONE-ET-LOIRE,Centre Démocrate,3513.0
+1,71,SAONE-ET-LOIRE,Centristes ralliés,0.0
+1,71,SAONE-ET-LOIRE,Divers extrême droite,0.0
+1,71,SAONE-ET-LOIRE,Divers gaullistes,0.0
+1,71,SAONE-ET-LOIRE,Extrême Gauche,0.0
+1,71,SAONE-ET-LOIRE,Fédération de la Gauche Démocrate et Socialiste,89049.0
+1,71,SAONE-ET-LOIRE,Modérés,0.0
+1,71,SAONE-ET-LOIRE,Parti Socialiste Unifié,0.0
+1,71,SAONE-ET-LOIRE,Parti communiste,55650.0
+1,71,SAONE-ET-LOIRE,Parti communiste- apparentés,0.0
+1,71,SAONE-ET-LOIRE,Radicaux de droite,0.0
+1,71,SAONE-ET-LOIRE,Régionalistes,0.0
+1,71,SAONE-ET-LOIRE,Républicains Indépendants,20208.0
+1,71,SAONE-ET-LOIRE,Union des Démocrates pour la Vème République,76201.0
+1,71,SAONE-ET-LOIRE,abstentions,80809.0
+1,71,SAONE-ET-LOIRE,blancs_nuls,5466.0
+1,72,SARTHE,Alliance républicaine,3101.0
+1,72,SARTHE,Centre Démocrate,22233.0
+1,72,SARTHE,Centristes ralliés,0.0
+1,72,SARTHE,Divers extrême droite,0.0
+1,72,SARTHE,Divers gaullistes,0.0
+1,72,SARTHE,Extrême Gauche,0.0
+1,72,SARTHE,Fédération de la Gauche Démocrate et Socialiste,35169.0
+1,72,SARTHE,Modérés,0.0
+1,72,SARTHE,Parti Socialiste Unifié,0.0
+1,72,SARTHE,Parti communiste,55366.0
+1,72,SARTHE,Parti communiste- apparentés,0.0
+1,72,SARTHE,Radicaux de droite,7670.0
+1,72,SARTHE,Régionalistes,0.0
+1,72,SARTHE,Républicains Indépendants,21421.0
+1,72,SARTHE,Union des Démocrates pour la Vème République,65147.0
+1,72,SARTHE,abstentions,48840.0
+1,72,SARTHE,blancs_nuls,5822.0
+1,73,SAVOIE,Alliance républicaine,0.0
+1,73,SAVOIE,Centre Démocrate,14900.0
+1,73,SAVOIE,Centristes ralliés,0.0
+1,73,SAVOIE,Divers extrême droite,0.0
+1,73,SAVOIE,Divers gaullistes,3914.0
+1,73,SAVOIE,Extrême Gauche,0.0
+1,73,SAVOIE,Fédération de la Gauche Démocrate et Socialiste,12262.0
+1,73,SAVOIE,Modérés,4433.0
+1,73,SAVOIE,Parti Socialiste Unifié,9741.0
+1,73,SAVOIE,Parti communiste,27453.0
+1,73,SAVOIE,Parti communiste- apparentés,0.0
+1,73,SAVOIE,Radicaux de droite,0.0
+1,73,SAVOIE,Régionalistes,0.0
+1,73,SAVOIE,Républicains Indépendants,19912.0
+1,73,SAVOIE,Union des Démocrates pour la Vème République,29859.0
+1,73,SAVOIE,abstentions,36075.0
+1,73,SAVOIE,blancs_nuls,2048.0
+1,74,HAUTE-SAVOIE,Alliance républicaine,0.0
+1,74,HAUTE-SAVOIE,Centre Démocrate,43771.0
+1,74,HAUTE-SAVOIE,Centristes ralliés,0.0
+1,74,HAUTE-SAVOIE,Divers extrême droite,0.0
+1,74,HAUTE-SAVOIE,Divers gaullistes,0.0
+1,74,HAUTE-SAVOIE,Extrême Gauche,0.0
+1,74,HAUTE-SAVOIE,Fédération de la Gauche Démocrate et Socialiste,21376.0
+1,74,HAUTE-SAVOIE,Modérés,2090.0
+1,74,HAUTE-SAVOIE,Parti Socialiste Unifié,5145.0
+1,74,HAUTE-SAVOIE,Parti communiste,22895.0
+1,74,HAUTE-SAVOIE,Parti communiste- apparentés,0.0
+1,74,HAUTE-SAVOIE,Radicaux de droite,0.0
+1,74,HAUTE-SAVOIE,Régionalistes,0.0
+1,74,HAUTE-SAVOIE,Républicains Indépendants,41104.0
+1,74,HAUTE-SAVOIE,Union des Démocrates pour la Vème République,18770.0
+1,74,HAUTE-SAVOIE,abstentions,45308.0
+1,74,HAUTE-SAVOIE,blancs_nuls,2691.0
+1,75,PARIS,Alliance républicaine,0.0
+1,75,PARIS,Centre Démocrate,178706.0
+1,75,PARIS,Centristes ralliés,0.0
+1,75,PARIS,Divers extrême droite,3947.0
+1,75,PARIS,Divers gaullistes,6308.0
+1,75,PARIS,Extrême Gauche,2017.0
+1,75,PARIS,Fédération de la Gauche Démocrate et Socialiste,133564.0
+1,75,PARIS,Modérés,28409.0
+1,75,PARIS,Parti Socialiste Unifié,55341.0
+1,75,PARIS,Parti communiste,249403.0
+1,75,PARIS,Parti communiste- apparentés,12865.0
+1,75,PARIS,Radicaux de droite,0.0
+1,75,PARIS,Régionalistes,0.0
+1,75,PARIS,Républicains Indépendants,14820.0
+1,75,PARIS,Union des Démocrates pour la Vème République,490628.0
+1,75,PARIS,abstentions,317727.0
+1,75,PARIS,blancs_nuls,19842.0
+1,76,SEINE-MARITIME,Alliance républicaine,1404.0
+1,76,SEINE-MARITIME,Centre Démocrate,47823.0
+1,76,SEINE-MARITIME,Centristes ralliés,0.0
+1,76,SEINE-MARITIME,Divers extrême droite,0.0
+1,76,SEINE-MARITIME,Divers gaullistes,1427.0
+1,76,SEINE-MARITIME,Extrême Gauche,0.0
+1,76,SEINE-MARITIME,Fédération de la Gauche Démocrate et Socialiste,76882.0
+1,76,SEINE-MARITIME,Modérés,7155.0
+1,76,SEINE-MARITIME,Parti Socialiste Unifié,18698.0
+1,76,SEINE-MARITIME,Parti communiste,145907.0
+1,76,SEINE-MARITIME,Parti communiste- apparentés,0.0
+1,76,SEINE-MARITIME,Radicaux de droite,15727.0
+1,76,SEINE-MARITIME,Régionalistes,0.0
+1,76,SEINE-MARITIME,Républicains Indépendants,25713.0
+1,76,SEINE-MARITIME,Union des Démocrates pour la Vème République,156688.0
+1,76,SEINE-MARITIME,abstentions,111705.0
+1,76,SEINE-MARITIME,blancs_nuls,12542.0
+1,77,SEINE-ET-MARNE,Alliance républicaine,0.0
+1,77,SEINE-ET-MARNE,Centre Démocrate,37375.0
+1,77,SEINE-ET-MARNE,Centristes ralliés,0.0
+1,77,SEINE-ET-MARNE,Divers extrême droite,4195.0
+1,77,SEINE-ET-MARNE,Divers gaullistes,0.0
+1,77,SEINE-ET-MARNE,Extrême Gauche,0.0
+1,77,SEINE-ET-MARNE,Fédération de la Gauche Démocrate et Socialiste,42064.0
+1,77,SEINE-ET-MARNE,Modérés,2590.0
+1,77,SEINE-ET-MARNE,Parti Socialiste Unifié,0.0
+1,77,SEINE-ET-MARNE,Parti communiste,58328.0
+1,77,SEINE-ET-MARNE,Parti communiste- apparentés,0.0
+1,77,SEINE-ET-MARNE,Radicaux de droite,0.0
+1,77,SEINE-ET-MARNE,Régionalistes,0.0
+1,77,SEINE-ET-MARNE,Républicains Indépendants,0.0
+1,77,SEINE-ET-MARNE,Union des Démocrates pour la Vème République,118104.0
+1,77,SEINE-ET-MARNE,abstentions,59343.0
+1,77,SEINE-ET-MARNE,blancs_nuls,6194.0
+1,78,YVELINES,Alliance républicaine,4143.0
+1,78,YVELINES,Centre Démocrate,51970.0
+1,78,YVELINES,Centristes ralliés,0.0
+1,78,YVELINES,Divers extrême droite,1870.0
+1,78,YVELINES,Divers gaullistes,4031.0
+1,78,YVELINES,Extrême Gauche,0.0
+1,78,YVELINES,Fédération de la Gauche Démocrate et Socialiste,56840.0
+1,78,YVELINES,Modérés,2791.0
+1,78,YVELINES,Parti Socialiste Unifié,9041.0
+1,78,YVELINES,Parti communiste,87724.0
+1,78,YVELINES,Parti communiste- apparentés,0.0
+1,78,YVELINES,Radicaux de droite,0.0
+1,78,YVELINES,Régionalistes,0.0
+1,78,YVELINES,Républicains Indépendants,12164.0
+1,78,YVELINES,Union des Démocrates pour la Vème République,117504.0
+1,78,YVELINES,abstentions,76099.0
+1,78,YVELINES,blancs_nuls,6695.0
+1,79,DEUX-SEVRES,Alliance républicaine,0.0
+1,79,DEUX-SEVRES,Centre Démocrate,40188.0
+1,79,DEUX-SEVRES,Centristes ralliés,26656.0
+1,79,DEUX-SEVRES,Divers extrême droite,0.0
+1,79,DEUX-SEVRES,Divers gaullistes,0.0
+1,79,DEUX-SEVRES,Extrême Gauche,0.0
+1,79,DEUX-SEVRES,Fédération de la Gauche Démocrate et Socialiste,35649.0
+1,79,DEUX-SEVRES,Modérés,0.0
+1,79,DEUX-SEVRES,Parti Socialiste Unifié,0.0
+1,79,DEUX-SEVRES,Parti communiste,17652.0
+1,79,DEUX-SEVRES,Parti communiste- apparentés,0.0
+1,79,DEUX-SEVRES,Radicaux de droite,0.0
+1,79,DEUX-SEVRES,Régionalistes,0.0
+1,79,DEUX-SEVRES,Républicains Indépendants,0.0
+1,79,DEUX-SEVRES,Union des Démocrates pour la Vème République,36112.0
+1,79,DEUX-SEVRES,abstentions,37838.0
+1,79,DEUX-SEVRES,blancs_nuls,4385.0
+1,80,SOMME,Alliance républicaine,0.0
+1,80,SOMME,Centre Démocrate,13842.0
+1,80,SOMME,Centristes ralliés,0.0
+1,80,SOMME,Divers extrême droite,0.0
+1,80,SOMME,Divers gaullistes,0.0
+1,80,SOMME,Extrême Gauche,0.0
+1,80,SOMME,Fédération de la Gauche Démocrate et Socialiste,52856.0
+1,80,SOMME,Modérés,0.0
+1,80,SOMME,Parti Socialiste Unifié,5063.0
+1,80,SOMME,Parti communiste,80958.0
+1,80,SOMME,Parti communiste- apparentés,0.0
+1,80,SOMME,Radicaux de droite,578.0
+1,80,SOMME,Régionalistes,0.0
+1,80,SOMME,Républicains Indépendants,19128.0
+1,80,SOMME,Union des Démocrates pour la Vème République,80147.0
+1,80,SOMME,abstentions,38335.0
+1,80,SOMME,blancs_nuls,6836.0
+1,81,TARN,Alliance républicaine,0.0
+1,81,TARN,Centre Démocrate,24550.0
+1,81,TARN,Centristes ralliés,0.0
+1,81,TARN,Divers extrême droite,0.0
+1,81,TARN,Divers gaullistes,0.0
+1,81,TARN,Extrême Gauche,0.0
+1,81,TARN,Fédération de la Gauche Démocrate et Socialiste,58716.0
+1,81,TARN,Modérés,1325.0
+1,81,TARN,Parti Socialiste Unifié,0.0
+1,81,TARN,Parti communiste,27254.0
+1,81,TARN,Parti communiste- apparentés,0.0
+1,81,TARN,Radicaux de droite,15528.0
+1,81,TARN,Régionalistes,0.0
+1,81,TARN,Républicains Indépendants,0.0
+1,81,TARN,Union des Démocrates pour la Vème République,44435.0
+1,81,TARN,abstentions,30762.0
+1,81,TARN,blancs_nuls,5975.0
+1,82,TARN-ET-GARONNE,Alliance républicaine,2301.0
+1,82,TARN-ET-GARONNE,Centre Démocrate,5983.0
+1,82,TARN-ET-GARONNE,Centristes ralliés,0.0
+1,82,TARN-ET-GARONNE,Divers extrême droite,0.0
+1,82,TARN-ET-GARONNE,Divers gaullistes,1194.0
+1,82,TARN-ET-GARONNE,Extrême Gauche,0.0
+1,82,TARN-ET-GARONNE,Fédération de la Gauche Démocrate et Socialiste,35704.0
+1,82,TARN-ET-GARONNE,Modérés,521.0
+1,82,TARN-ET-GARONNE,Parti Socialiste Unifié,0.0
+1,82,TARN-ET-GARONNE,Parti communiste,13383.0
+1,82,TARN-ET-GARONNE,Parti communiste- apparentés,0.0
+1,82,TARN-ET-GARONNE,Radicaux de droite,0.0
+1,82,TARN-ET-GARONNE,Régionalistes,0.0
+1,82,TARN-ET-GARONNE,Républicains Indépendants,0.0
+1,82,TARN-ET-GARONNE,Union des Démocrates pour la Vème République,30961.0
+1,82,TARN-ET-GARONNE,abstentions,18877.0
+1,82,TARN-ET-GARONNE,blancs_nuls,2939.0
+1,83,VAR,Alliance républicaine,10497.0
+1,83,VAR,Centre Démocrate,20492.0
+1,83,VAR,Centristes ralliés,0.0
+1,83,VAR,Divers extrême droite,0.0
+1,83,VAR,Divers gaullistes,0.0
+1,83,VAR,Extrême Gauche,0.0
+1,83,VAR,Fédération de la Gauche Démocrate et Socialiste,48605.0
+1,83,VAR,Modérés,15760.0
+1,83,VAR,Parti Socialiste Unifié,0.0
+1,83,VAR,Parti communiste,62908.0
+1,83,VAR,Parti communiste- apparentés,0.0
+1,83,VAR,Radicaux de droite,0.0
+1,83,VAR,Régionalistes,0.0
+1,83,VAR,Républicains Indépendants,0.0
+1,83,VAR,Union des Démocrates pour la Vème République,81274.0
+1,83,VAR,abstentions,72984.0
+1,83,VAR,blancs_nuls,5759.0
+1,84,VAUCLUSE,Alliance républicaine,0.0
+1,84,VAUCLUSE,Centre Démocrate,9817.0
+1,84,VAUCLUSE,Centristes ralliés,0.0
+1,84,VAUCLUSE,Divers extrême droite,0.0
+1,84,VAUCLUSE,Divers gaullistes,0.0
+1,84,VAUCLUSE,Extrême Gauche,0.0
+1,84,VAUCLUSE,Fédération de la Gauche Démocrate et Socialiste,46492.0
+1,84,VAUCLUSE,Modérés,0.0
+1,84,VAUCLUSE,Parti Socialiste Unifié,0.0
+1,84,VAUCLUSE,Parti communiste,35769.0
+1,84,VAUCLUSE,Parti communiste- apparentés,0.0
+1,84,VAUCLUSE,Radicaux de droite,15279.0
+1,84,VAUCLUSE,Régionalistes,0.0
+1,84,VAUCLUSE,Républicains Indépendants,0.0
+1,84,VAUCLUSE,Union des Démocrates pour la Vème République,49397.0
+1,84,VAUCLUSE,abstentions,35712.0
+1,84,VAUCLUSE,blancs_nuls,4655.0
+1,85,VENDEE,Alliance républicaine,0.0
+1,85,VENDEE,Centre Démocrate,55853.0
+1,85,VENDEE,Centristes ralliés,0.0
+1,85,VENDEE,Divers extrême droite,0.0
+1,85,VENDEE,Divers gaullistes,0.0
+1,85,VENDEE,Extrême Gauche,0.0
+1,85,VENDEE,Fédération de la Gauche Démocrate et Socialiste,20707.0
+1,85,VENDEE,Modérés,15040.0
+1,85,VENDEE,Parti Socialiste Unifié,0.0
+1,85,VENDEE,Parti communiste,20841.0
+1,85,VENDEE,Parti communiste- apparentés,0.0
+1,85,VENDEE,Radicaux de droite,0.0
+1,85,VENDEE,Régionalistes,0.0
+1,85,VENDEE,Républicains Indépendants,22352.0
+1,85,VENDEE,Union des Démocrates pour la Vème République,74113.0
+1,85,VENDEE,abstentions,38723.0
+1,85,VENDEE,blancs_nuls,6410.0
+1,86,VIENNE,Alliance républicaine,0.0
+1,86,VIENNE,Centre Démocrate,49643.0
+1,86,VIENNE,Centristes ralliés,0.0
+1,86,VIENNE,Divers extrême droite,0.0
+1,86,VIENNE,Divers gaullistes,0.0
+1,86,VIENNE,Extrême Gauche,0.0
+1,86,VIENNE,Fédération de la Gauche Démocrate et Socialiste,10541.0
+1,86,VIENNE,Modérés,0.0
+1,86,VIENNE,Parti Socialiste Unifié,0.0
+1,86,VIENNE,Parti communiste,37792.0
+1,86,VIENNE,Parti communiste- apparentés,0.0
+1,86,VIENNE,Radicaux de droite,0.0
+1,86,VIENNE,Régionalistes,0.0
+1,86,VIENNE,Républicains Indépendants,0.0
+1,86,VIENNE,Union des Démocrates pour la Vème République,62534.0
+1,86,VIENNE,abstentions,38859.0
+1,86,VIENNE,blancs_nuls,5126.0
+1,87,HAUTE-VIENNE,Alliance républicaine,0.0
+1,87,HAUTE-VIENNE,Centre Démocrate,4876.0
+1,87,HAUTE-VIENNE,Centristes ralliés,0.0
+1,87,HAUTE-VIENNE,Divers extrême droite,0.0
+1,87,HAUTE-VIENNE,Divers gaullistes,2160.0
+1,87,HAUTE-VIENNE,Extrême Gauche,0.0
+1,87,HAUTE-VIENNE,Fédération de la Gauche Démocrate et Socialiste,56400.0
+1,87,HAUTE-VIENNE,Modérés,0.0
+1,87,HAUTE-VIENNE,Parti Socialiste Unifié,0.0
+1,87,HAUTE-VIENNE,Parti communiste,62058.0
+1,87,HAUTE-VIENNE,Parti communiste- apparentés,0.0
+1,87,HAUTE-VIENNE,Radicaux de droite,0.0
+1,87,HAUTE-VIENNE,Régionalistes,0.0
+1,87,HAUTE-VIENNE,Républicains Indépendants,0.0
+1,87,HAUTE-VIENNE,Union des Démocrates pour la Vème République,53119.0
+1,87,HAUTE-VIENNE,abstentions,43341.0
+1,87,HAUTE-VIENNE,blancs_nuls,4968.0
+1,88,VOSGES,Alliance républicaine,0.0
+1,88,VOSGES,Centre Démocrate,16433.0
+1,88,VOSGES,Centristes ralliés,0.0
+1,88,VOSGES,Divers extrême droite,0.0
+1,88,VOSGES,Divers gaullistes,0.0
+1,88,VOSGES,Extrême Gauche,0.0
+1,88,VOSGES,Fédération de la Gauche Démocrate et Socialiste,26564.0
+1,88,VOSGES,Modérés,0.0
+1,88,VOSGES,Parti Socialiste Unifié,11235.0
+1,88,VOSGES,Parti communiste,26725.0
+1,88,VOSGES,Parti communiste- apparentés,0.0
+1,88,VOSGES,Radicaux de droite,0.0
+1,88,VOSGES,Régionalistes,0.0
+1,88,VOSGES,Républicains Indépendants,26500.0
+1,88,VOSGES,Union des Démocrates pour la Vème République,72468.0
+1,88,VOSGES,abstentions,39578.0
+1,88,VOSGES,blancs_nuls,6255.0
+1,89,YONNE,Alliance républicaine,0.0
+1,89,YONNE,Centre Démocrate,10557.0
+1,89,YONNE,Centristes ralliés,0.0
+1,89,YONNE,Divers extrême droite,0.0
+1,89,YONNE,Divers gaullistes,0.0
+1,89,YONNE,Extrême Gauche,0.0
+1,89,YONNE,Fédération de la Gauche Démocrate et Socialiste,24372.0
+1,89,YONNE,Modérés,9207.0
+1,89,YONNE,Parti Socialiste Unifié,0.0
+1,89,YONNE,Parti communiste,31061.0
+1,89,YONNE,Parti communiste- apparentés,0.0
+1,89,YONNE,Radicaux de droite,0.0
+1,89,YONNE,Régionalistes,0.0
+1,89,YONNE,Républicains Indépendants,37748.0
+1,89,YONNE,Union des Démocrates pour la Vème République,21391.0
+1,89,YONNE,abstentions,32814.0
+1,89,YONNE,blancs_nuls,3873.0
+1,90,TERRITOIRE DE BELFORT,Alliance républicaine,814.0
+1,90,TERRITOIRE DE BELFORT,Centre Démocrate,3401.0
+1,90,TERRITOIRE DE BELFORT,Centristes ralliés,0.0
+1,90,TERRITOIRE DE BELFORT,Divers extrême droite,0.0
+1,90,TERRITOIRE DE BELFORT,Divers gaullistes,0.0
+1,90,TERRITOIRE DE BELFORT,Extrême Gauche,0.0
+1,90,TERRITOIRE DE BELFORT,Fédération de la Gauche Démocrate et Socialiste,16554.0
+1,90,TERRITOIRE DE BELFORT,Modérés,0.0
+1,90,TERRITOIRE DE BELFORT,Parti Socialiste Unifié,0.0
+1,90,TERRITOIRE DE BELFORT,Parti communiste,6828.0
+1,90,TERRITOIRE DE BELFORT,Parti communiste- apparentés,0.0
+1,90,TERRITOIRE DE BELFORT,Radicaux de droite,0.0
+1,90,TERRITOIRE DE BELFORT,Régionalistes,0.0
+1,90,TERRITOIRE DE BELFORT,Républicains Indépendants,0.0
+1,90,TERRITOIRE DE BELFORT,Union des Démocrates pour la Vème République,21467.0
+1,90,TERRITOIRE DE BELFORT,abstentions,13864.0
+1,90,TERRITOIRE DE BELFORT,blancs_nuls,1100.0
+1,91,ESSONNE,Alliance républicaine,3668.0
+1,91,ESSONNE,Centre Démocrate,22480.0
+1,91,ESSONNE,Centristes ralliés,0.0
+1,91,ESSONNE,Divers extrême droite,0.0
+1,91,ESSONNE,Divers gaullistes,0.0
+1,91,ESSONNE,Extrême Gauche,0.0
+1,91,ESSONNE,Fédération de la Gauche Démocrate et Socialiste,27163.0
+1,91,ESSONNE,Modérés,947.0
+1,91,ESSONNE,Parti Socialiste Unifié,5803.0
+1,91,ESSONNE,Parti communiste,89520.0
+1,91,ESSONNE,Parti communiste- apparentés,0.0
+1,91,ESSONNE,Radicaux de droite,23750.0
+1,91,ESSONNE,Régionalistes,0.0
+1,91,ESSONNE,Républicains Indépendants,0.0
+1,91,ESSONNE,Union des Démocrates pour la Vème République,97145.0
+1,91,ESSONNE,abstentions,51734.0
+1,91,ESSONNE,blancs_nuls,5189.0
+1,92,HAUTS-DE-SEINE,Alliance républicaine,2152.0
+1,92,HAUTS-DE-SEINE,Centre Démocrate,81866.0
+1,92,HAUTS-DE-SEINE,Centristes ralliés,0.0
+1,92,HAUTS-DE-SEINE,Divers extrême droite,0.0
+1,92,HAUTS-DE-SEINE,Divers gaullistes,11273.0
+1,92,HAUTS-DE-SEINE,Extrême Gauche,0.0
+1,92,HAUTS-DE-SEINE,Fédération de la Gauche Démocrate et Socialiste,73044.0
+1,92,HAUTS-DE-SEINE,Modérés,7248.0
+1,92,HAUTS-DE-SEINE,Parti Socialiste Unifié,29026.0
+1,92,HAUTS-DE-SEINE,Parti communiste,200374.0
+1,92,HAUTS-DE-SEINE,Parti communiste- apparentés,0.0
+1,92,HAUTS-DE-SEINE,Radicaux de droite,12132.0
+1,92,HAUTS-DE-SEINE,Régionalistes,0.0
+1,92,HAUTS-DE-SEINE,Républicains Indépendants,14938.0
+1,92,HAUTS-DE-SEINE,Union des Démocrates pour la Vème République,222177.0
+1,92,HAUTS-DE-SEINE,abstentions,141545.0
+1,92,HAUTS-DE-SEINE,blancs_nuls,11204.0
+1,93,SEINE-SAINT-DENIS,Alliance républicaine,2913.0
+1,93,SEINE-SAINT-DENIS,Centre Démocrate,36438.0
+1,93,SEINE-SAINT-DENIS,Centristes ralliés,0.0
+1,93,SEINE-SAINT-DENIS,Divers extrême droite,1239.0
+1,93,SEINE-SAINT-DENIS,Divers gaullistes,0.0
+1,93,SEINE-SAINT-DENIS,Extrême Gauche,684.0
+1,93,SEINE-SAINT-DENIS,Fédération de la Gauche Démocrate et Socialiste,61816.0
+1,93,SEINE-SAINT-DENIS,Modérés,0.0
+1,93,SEINE-SAINT-DENIS,Parti Socialiste Unifié,5950.0
+1,93,SEINE-SAINT-DENIS,Parti communiste,230234.0
+1,93,SEINE-SAINT-DENIS,Parti communiste- apparentés,0.0
+1,93,SEINE-SAINT-DENIS,Radicaux de droite,0.0
+1,93,SEINE-SAINT-DENIS,Régionalistes,0.0
+1,93,SEINE-SAINT-DENIS,Républicains Indépendants,21087.0
+1,93,SEINE-SAINT-DENIS,Union des Démocrates pour la Vème République,151411.0
+1,93,SEINE-SAINT-DENIS,abstentions,105740.0
+1,93,SEINE-SAINT-DENIS,blancs_nuls,10817.0
+1,94,VAL-DE-MARNE,Alliance républicaine,4217.0
+1,94,VAL-DE-MARNE,Centre Démocrate,50386.0
+1,94,VAL-DE-MARNE,Centristes ralliés,0.0
+1,94,VAL-DE-MARNE,Divers extrême droite,0.0
+1,94,VAL-DE-MARNE,Divers gaullistes,1378.0
+1,94,VAL-DE-MARNE,Extrême Gauche,0.0
+1,94,VAL-DE-MARNE,Fédération de la Gauche Démocrate et Socialiste,53557.0
+1,94,VAL-DE-MARNE,Modérés,7778.0
+1,94,VAL-DE-MARNE,Parti Socialiste Unifié,12198.0
+1,94,VAL-DE-MARNE,Parti communiste,171360.0
+1,94,VAL-DE-MARNE,Parti communiste- apparentés,0.0
+1,94,VAL-DE-MARNE,Radicaux de droite,0.0
+1,94,VAL-DE-MARNE,Régionalistes,0.0
+1,94,VAL-DE-MARNE,Républicains Indépendants,23154.0
+1,94,VAL-DE-MARNE,Union des Démocrates pour la Vème République,157616.0
+1,94,VAL-DE-MARNE,abstentions,99820.0
+1,94,VAL-DE-MARNE,blancs_nuls,8916.0
+1,95,VAL-D'OISE,Alliance républicaine,3456.0
+1,95,VAL-D'OISE,Centre Démocrate,27075.0
+1,95,VAL-D'OISE,Centristes ralliés,0.0
+1,95,VAL-D'OISE,Divers extrême droite,0.0
+1,95,VAL-D'OISE,Divers gaullistes,5432.0
+1,95,VAL-D'OISE,Extrême Gauche,0.0
+1,95,VAL-D'OISE,Fédération de la Gauche Démocrate et Socialiste,46296.0
+1,95,VAL-D'OISE,Modérés,0.0
+1,95,VAL-D'OISE,Parti Socialiste Unifié,3968.0
+1,95,VAL-D'OISE,Parti communiste,93349.0
+1,95,VAL-D'OISE,Parti communiste- apparentés,0.0
+1,95,VAL-D'OISE,Radicaux de droite,0.0
+1,95,VAL-D'OISE,Régionalistes,0.0
+1,95,VAL-D'OISE,Républicains Indépendants,0.0
+1,95,VAL-D'OISE,Union des Démocrates pour la Vème République,101235.0
+1,95,VAL-D'OISE,abstentions,59760.0
+1,95,VAL-D'OISE,blancs_nuls,5802.0
+2,1,AIN,Alliance républicaine,0.0
+2,1,AIN,Centre Démocrate,40751.0
+2,1,AIN,Centristes ralliés,0.0
+2,1,AIN,Divers gaullistes,0.0
+2,1,AIN,Fédération de la Gauche Démocrate et Socialiste,41484.0
+2,1,AIN,Modérés,0.0
+2,1,AIN,Parti Socialiste Unifié,0.0
+2,1,AIN,Parti communiste,0.0
+2,1,AIN,Parti communiste- apparentés,0.0
+2,1,AIN,Radicaux de droite,0.0
+2,1,AIN,Républicains Indépendants,20247.0
+2,1,AIN,Union des Démocrates pour la Vème République,0.0
+2,1,AIN,abstentions,33981.0
+2,1,AIN,blancs_nuls,1935.0
+2,2,AISNE,Alliance républicaine,0.0
+2,2,AISNE,Centre Démocrate,13790.0
+2,2,AISNE,Centristes ralliés,0.0
+2,2,AISNE,Divers gaullistes,0.0
+2,2,AISNE,Fédération de la Gauche Démocrate et Socialiste,20289.0
+2,2,AISNE,Modérés,0.0
+2,2,AISNE,Parti Socialiste Unifié,0.0
+2,2,AISNE,Parti communiste,77030.0
+2,2,AISNE,Parti communiste- apparentés,0.0
+2,2,AISNE,Radicaux de droite,26885.0
+2,2,AISNE,Républicains Indépendants,0.0
+2,2,AISNE,Union des Démocrates pour la Vème République,100996.0
+2,2,AISNE,abstentions,45518.0
+2,2,AISNE,blancs_nuls,6260.0
+2,3,ALLIER,Alliance républicaine,0.0
+2,3,ALLIER,Centre Démocrate,0.0
+2,3,ALLIER,Centristes ralliés,0.0
+2,3,ALLIER,Divers gaullistes,0.0
+2,3,ALLIER,Fédération de la Gauche Démocrate et Socialiste,69269.0
+2,3,ALLIER,Modérés,0.0
+2,3,ALLIER,Parti Socialiste Unifié,0.0
+2,3,ALLIER,Parti communiste,44817.0
+2,3,ALLIER,Parti communiste- apparentés,0.0
+2,3,ALLIER,Radicaux de droite,0.0
+2,3,ALLIER,Républicains Indépendants,14669.0
+2,3,ALLIER,Union des Démocrates pour la Vème République,52545.0
+2,3,ALLIER,abstentions,55276.0
+2,3,ALLIER,blancs_nuls,7172.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Alliance républicaine,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Centre Démocrate,2169.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Centristes ralliés,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Divers gaullistes,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Fédération de la Gauche Démocrate et Socialiste,29453.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Modérés,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Parti Socialiste Unifié,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Parti communiste,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Parti communiste- apparentés,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Radicaux de droite,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Républicains Indépendants,0.0
+2,4,ALPES-DE-HAUTE-PROVENCE,Union des Démocrates pour la Vème République,17355.0
+2,4,ALPES-DE-HAUTE-PROVENCE,abstentions,13443.0
+2,4,ALPES-DE-HAUTE-PROVENCE,blancs_nuls,1475.0
+2,5,HAUTES-ALPES,Alliance républicaine,0.0
+2,5,HAUTES-ALPES,Centre Démocrate,0.0
+2,5,HAUTES-ALPES,Centristes ralliés,0.0
+2,5,HAUTES-ALPES,Divers gaullistes,0.0
+2,5,HAUTES-ALPES,Fédération de la Gauche Démocrate et Socialiste,14308.0
+2,5,HAUTES-ALPES,Modérés,0.0
+2,5,HAUTES-ALPES,Parti Socialiste Unifié,0.0
+2,5,HAUTES-ALPES,Parti communiste,5772.0
+2,5,HAUTES-ALPES,Parti communiste- apparentés,0.0
+2,5,HAUTES-ALPES,Radicaux de droite,4394.0
+2,5,HAUTES-ALPES,Républicains Indépendants,9871.0
+2,5,HAUTES-ALPES,Union des Démocrates pour la Vème République,11692.0
+2,5,HAUTES-ALPES,abstentions,10445.0
+2,5,HAUTES-ALPES,blancs_nuls,1217.0
+2,6,ALPES-MARITIMES,Alliance républicaine,0.0
+2,6,ALPES-MARITIMES,Centre Démocrate,80981.0
+2,6,ALPES-MARITIMES,Centristes ralliés,0.0
+2,6,ALPES-MARITIMES,Divers gaullistes,0.0
+2,6,ALPES-MARITIMES,Fédération de la Gauche Démocrate et Socialiste,31861.0
+2,6,ALPES-MARITIMES,Modérés,0.0
+2,6,ALPES-MARITIMES,Parti Socialiste Unifié,0.0
+2,6,ALPES-MARITIMES,Parti communiste,89463.0
+2,6,ALPES-MARITIMES,Parti communiste- apparentés,0.0
+2,6,ALPES-MARITIMES,Radicaux de droite,0.0
+2,6,ALPES-MARITIMES,Républicains Indépendants,24060.0
+2,6,ALPES-MARITIMES,Union des Démocrates pour la Vème République,96658.0
+2,6,ALPES-MARITIMES,abstentions,86231.0
+2,6,ALPES-MARITIMES,blancs_nuls,9104.0
+2,7,ARDECHE,Alliance républicaine,0.0
+2,7,ARDECHE,Centre Démocrate,49849.0
+2,7,ARDECHE,Centristes ralliés,0.0
+2,7,ARDECHE,Divers gaullistes,0.0
+2,7,ARDECHE,Fédération de la Gauche Démocrate et Socialiste,16822.0
+2,7,ARDECHE,Modérés,0.0
+2,7,ARDECHE,Parti Socialiste Unifié,0.0
+2,7,ARDECHE,Parti communiste,36880.0
+2,7,ARDECHE,Parti communiste- apparentés,0.0
+2,7,ARDECHE,Radicaux de droite,0.0
+2,7,ARDECHE,Républicains Indépendants,0.0
+2,7,ARDECHE,Union des Démocrates pour la Vème République,24875.0
+2,7,ARDECHE,abstentions,32807.0
+2,7,ARDECHE,blancs_nuls,4359.0
+2,8,ARDENNES,Alliance républicaine,0.0
+2,8,ARDENNES,Centre Démocrate,0.0
+2,8,ARDENNES,Centristes ralliés,0.0
+2,8,ARDENNES,Divers gaullistes,0.0
+2,8,ARDENNES,Fédération de la Gauche Démocrate et Socialiste,27447.0
+2,8,ARDENNES,Modérés,0.0
+2,8,ARDENNES,Parti Socialiste Unifié,23976.0
+2,8,ARDENNES,Parti communiste,18385.0
+2,8,ARDENNES,Parti communiste- apparentés,0.0
+2,8,ARDENNES,Radicaux de droite,0.0
+2,8,ARDENNES,Républicains Indépendants,0.0
+2,8,ARDENNES,Union des Démocrates pour la Vème République,61721.0
+2,8,ARDENNES,abstentions,30307.0
+2,8,ARDENNES,blancs_nuls,4528.0
+2,9,ARIEGE,Alliance républicaine,0.0
+2,9,ARIEGE,Centre Démocrate,0.0
+2,9,ARIEGE,Centristes ralliés,0.0
+2,9,ARIEGE,Divers gaullistes,0.0
+2,9,ARIEGE,Fédération de la Gauche Démocrate et Socialiste,43868.0
+2,9,ARIEGE,Modérés,0.0
+2,9,ARIEGE,Parti Socialiste Unifié,0.0
+2,9,ARIEGE,Parti communiste,0.0
+2,9,ARIEGE,Parti communiste- apparentés,0.0
+2,9,ARIEGE,Radicaux de droite,0.0
+2,9,ARIEGE,Républicains Indépendants,0.0
+2,9,ARIEGE,Union des Démocrates pour la Vème République,28625.0
+2,9,ARIEGE,abstentions,19722.0
+2,9,ARIEGE,blancs_nuls,2237.0
+2,10,AUBE,Alliance républicaine,0.0
+2,10,AUBE,Centre Démocrate,0.0
+2,10,AUBE,Centristes ralliés,0.0
+2,10,AUBE,Divers gaullistes,0.0
+2,10,AUBE,Fédération de la Gauche Démocrate et Socialiste,22159.0
+2,10,AUBE,Modérés,0.0
+2,10,AUBE,Parti Socialiste Unifié,0.0
+2,10,AUBE,Parti communiste,36758.0
+2,10,AUBE,Parti communiste- apparentés,0.0
+2,10,AUBE,Radicaux de droite,0.0
+2,10,AUBE,Républicains Indépendants,18881.0
+2,10,AUBE,Union des Démocrates pour la Vème République,43229.0
+2,10,AUBE,abstentions,28179.0
+2,10,AUBE,blancs_nuls,4790.0
+2,11,AUDE,Alliance républicaine,0.0
+2,11,AUDE,Centre Démocrate,0.0
+2,11,AUDE,Centristes ralliés,16709.0
+2,11,AUDE,Divers gaullistes,0.0
+2,11,AUDE,Fédération de la Gauche Démocrate et Socialiste,91052.0
+2,11,AUDE,Modérés,0.0
+2,11,AUDE,Parti Socialiste Unifié,0.0
+2,11,AUDE,Parti communiste,0.0
+2,11,AUDE,Parti communiste- apparentés,0.0
+2,11,AUDE,Radicaux de droite,0.0
+2,11,AUDE,Républicains Indépendants,0.0
+2,11,AUDE,Union des Démocrates pour la Vème République,29329.0
+2,11,AUDE,abstentions,31529.0
+2,11,AUDE,blancs_nuls,6443.0
+2,12,AVEYRON,Alliance républicaine,0.0
+2,12,AVEYRON,Centre Démocrate,16657.0
+2,12,AVEYRON,Centristes ralliés,0.0
+2,12,AVEYRON,Divers gaullistes,0.0
+2,12,AVEYRON,Fédération de la Gauche Démocrate et Socialiste,29350.0
+2,12,AVEYRON,Modérés,0.0
+2,12,AVEYRON,Parti Socialiste Unifié,0.0
+2,12,AVEYRON,Parti communiste,0.0
+2,12,AVEYRON,Parti communiste- apparentés,0.0
+2,12,AVEYRON,Radicaux de droite,0.0
+2,12,AVEYRON,Républicains Indépendants,18514.0
+2,12,AVEYRON,Union des Démocrates pour la Vème République,31802.0
+2,12,AVEYRON,abstentions,22558.0
+2,12,AVEYRON,blancs_nuls,6362.0
+2,13,BOUCHES-DU-RHONE,Alliance républicaine,0.0
+2,13,BOUCHES-DU-RHONE,Centre Démocrate,0.0
+2,13,BOUCHES-DU-RHONE,Centristes ralliés,0.0
+2,13,BOUCHES-DU-RHONE,Divers gaullistes,0.0
+2,13,BOUCHES-DU-RHONE,Fédération de la Gauche Démocrate et Socialiste,187306.0
+2,13,BOUCHES-DU-RHONE,Modérés,0.0
+2,13,BOUCHES-DU-RHONE,Parti Socialiste Unifié,0.0
+2,13,BOUCHES-DU-RHONE,Parti communiste,116954.0
+2,13,BOUCHES-DU-RHONE,Parti communiste- apparentés,0.0
+2,13,BOUCHES-DU-RHONE,Radicaux de droite,0.0
+2,13,BOUCHES-DU-RHONE,Républicains Indépendants,0.0
+2,13,BOUCHES-DU-RHONE,Union des Démocrates pour la Vème République,189581.0
+2,13,BOUCHES-DU-RHONE,abstentions,181581.0
+2,13,BOUCHES-DU-RHONE,blancs_nuls,23045.0
+2,14,CALVADOS,Alliance républicaine,0.0
+2,14,CALVADOS,Centre Démocrate,33083.0
+2,14,CALVADOS,Centristes ralliés,0.0
+2,14,CALVADOS,Divers gaullistes,0.0
+2,14,CALVADOS,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,14,CALVADOS,Modérés,0.0
+2,14,CALVADOS,Parti Socialiste Unifié,0.0
+2,14,CALVADOS,Parti communiste,52849.0
+2,14,CALVADOS,Parti communiste- apparentés,0.0
+2,14,CALVADOS,Radicaux de droite,0.0
+2,14,CALVADOS,Républicains Indépendants,24355.0
+2,14,CALVADOS,Union des Démocrates pour la Vème République,71038.0
+2,14,CALVADOS,abstentions,56382.0
+2,14,CALVADOS,blancs_nuls,5326.0
+2,15,CANTAL,Alliance républicaine,0.0
+2,15,CANTAL,Centre Démocrate,0.0
+2,15,CANTAL,Centristes ralliés,24307.0
+2,15,CANTAL,Divers gaullistes,0.0
+2,15,CANTAL,Fédération de la Gauche Démocrate et Socialiste,19361.0
+2,15,CANTAL,Modérés,0.0
+2,15,CANTAL,Parti Socialiste Unifié,0.0
+2,15,CANTAL,Parti communiste,0.0
+2,15,CANTAL,Parti communiste- apparentés,0.0
+2,15,CANTAL,Radicaux de droite,0.0
+2,15,CANTAL,Républicains Indépendants,0.0
+2,15,CANTAL,Union des Démocrates pour la Vème République,0.0
+2,15,CANTAL,abstentions,12991.0
+2,15,CANTAL,blancs_nuls,634.0
+2,16,CHARENTE,Alliance républicaine,0.0
+2,16,CHARENTE,Centre Démocrate,27419.0
+2,16,CHARENTE,Centristes ralliés,0.0
+2,16,CHARENTE,Divers gaullistes,0.0
+2,16,CHARENTE,Fédération de la Gauche Démocrate et Socialiste,50100.0
+2,16,CHARENTE,Modérés,0.0
+2,16,CHARENTE,Parti Socialiste Unifié,0.0
+2,16,CHARENTE,Parti communiste,23876.0
+2,16,CHARENTE,Parti communiste- apparentés,0.0
+2,16,CHARENTE,Radicaux de droite,0.0
+2,16,CHARENTE,Républicains Indépendants,0.0
+2,16,CHARENTE,Union des Démocrates pour la Vème République,49992.0
+2,16,CHARENTE,abstentions,47170.0
+2,16,CHARENTE,blancs_nuls,7335.0
+2,17,CHARENTE-MARITIME,Alliance républicaine,0.0
+2,17,CHARENTE-MARITIME,Centre Démocrate,20357.0
+2,17,CHARENTE-MARITIME,Centristes ralliés,0.0
+2,17,CHARENTE-MARITIME,Divers gaullistes,0.0
+2,17,CHARENTE-MARITIME,Fédération de la Gauche Démocrate et Socialiste,83971.0
+2,17,CHARENTE-MARITIME,Modérés,0.0
+2,17,CHARENTE-MARITIME,Parti Socialiste Unifié,22084.0
+2,17,CHARENTE-MARITIME,Parti communiste,0.0
+2,17,CHARENTE-MARITIME,Parti communiste- apparentés,0.0
+2,17,CHARENTE-MARITIME,Radicaux de droite,0.0
+2,17,CHARENTE-MARITIME,Républicains Indépendants,0.0
+2,17,CHARENTE-MARITIME,Union des Démocrates pour la Vème République,90126.0
+2,17,CHARENTE-MARITIME,abstentions,68999.0
+2,17,CHARENTE-MARITIME,blancs_nuls,6138.0
+2,18,CHER,Alliance républicaine,0.0
+2,18,CHER,Centre Démocrate,0.0
+2,18,CHER,Centristes ralliés,0.0
+2,18,CHER,Divers gaullistes,0.0
+2,18,CHER,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,18,CHER,Modérés,0.0
+2,18,CHER,Parti Socialiste Unifié,0.0
+2,18,CHER,Parti communiste,47182.0
+2,18,CHER,Parti communiste- apparentés,0.0
+2,18,CHER,Radicaux de droite,0.0
+2,18,CHER,Républicains Indépendants,0.0
+2,18,CHER,Union des Démocrates pour la Vème République,47021.0
+2,18,CHER,abstentions,23982.0
+2,18,CHER,blancs_nuls,3292.0
+2,19,CORREZE,Alliance républicaine,0.0
+2,19,CORREZE,Centre Démocrate,0.0
+2,19,CORREZE,Centristes ralliés,0.0
+2,19,CORREZE,Divers gaullistes,0.0
+2,19,CORREZE,Fédération de la Gauche Démocrate et Socialiste,58118.0
+2,19,CORREZE,Modérés,0.0
+2,19,CORREZE,Parti Socialiste Unifié,0.0
+2,19,CORREZE,Parti communiste,17985.0
+2,19,CORREZE,Parti communiste- apparentés,0.0
+2,19,CORREZE,Radicaux de droite,0.0
+2,19,CORREZE,Républicains Indépendants,0.0
+2,19,CORREZE,Union des Démocrates pour la Vème République,57280.0
+2,19,CORREZE,abstentions,25307.0
+2,19,CORREZE,blancs_nuls,2613.0
+2,20,CORSE,Alliance républicaine,0.0
+2,20,CORSE,Centre Démocrate,0.0
+2,20,CORSE,Centristes ralliés,0.0
+2,20,CORSE,Divers gaullistes,0.0
+2,20,CORSE,Fédération de la Gauche Démocrate et Socialiste,18213.0
+2,20,CORSE,Modérés,0.0
+2,20,CORSE,Parti Socialiste Unifié,0.0
+2,20,CORSE,Parti communiste,0.0
+2,20,CORSE,Parti communiste- apparentés,0.0
+2,20,CORSE,Radicaux de droite,0.0
+2,20,CORSE,Républicains Indépendants,0.0
+2,20,CORSE,Union des Démocrates pour la Vème République,18607.0
+2,20,CORSE,abstentions,13275.0
+2,20,CORSE,blancs_nuls,496.0
+2,21,COTE-D'OR,Alliance républicaine,0.0
+2,21,COTE-D'OR,Centre Démocrate,0.0
+2,21,COTE-D'OR,Centristes ralliés,0.0
+2,21,COTE-D'OR,Divers gaullistes,0.0
+2,21,COTE-D'OR,Fédération de la Gauche Démocrate et Socialiste,60908.0
+2,21,COTE-D'OR,Modérés,0.0
+2,21,COTE-D'OR,Parti Socialiste Unifié,0.0
+2,21,COTE-D'OR,Parti communiste,20426.0
+2,21,COTE-D'OR,Parti communiste- apparentés,0.0
+2,21,COTE-D'OR,Radicaux de droite,0.0
+2,21,COTE-D'OR,Républicains Indépendants,18239.0
+2,21,COTE-D'OR,Union des Démocrates pour la Vème République,68731.0
+2,21,COTE-D'OR,abstentions,59260.0
+2,21,COTE-D'OR,blancs_nuls,6345.0
+2,22,COTES-D'ARMOR,Alliance républicaine,0.0
+2,22,COTES-D'ARMOR,Centre Démocrate,58347.0
+2,22,COTES-D'ARMOR,Centristes ralliés,26047.0
+2,22,COTES-D'ARMOR,Divers gaullistes,0.0
+2,22,COTES-D'ARMOR,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,22,COTES-D'ARMOR,Modérés,0.0
+2,22,COTES-D'ARMOR,Parti Socialiste Unifié,33594.0
+2,22,COTES-D'ARMOR,Parti communiste,67152.0
+2,22,COTES-D'ARMOR,Parti communiste- apparentés,0.0
+2,22,COTES-D'ARMOR,Radicaux de droite,0.0
+2,22,COTES-D'ARMOR,Républicains Indépendants,0.0
+2,22,COTES-D'ARMOR,Union des Démocrates pour la Vème République,33559.0
+2,22,COTES-D'ARMOR,abstentions,40758.0
+2,22,COTES-D'ARMOR,blancs_nuls,4085.0
+2,23,CREUSE,Alliance républicaine,0.0
+2,23,CREUSE,Centre Démocrate,0.0
+2,23,CREUSE,Centristes ralliés,0.0
+2,23,CREUSE,Divers gaullistes,0.0
+2,23,CREUSE,Fédération de la Gauche Démocrate et Socialiste,26403.0
+2,23,CREUSE,Modérés,0.0
+2,23,CREUSE,Parti Socialiste Unifié,0.0
+2,23,CREUSE,Parti communiste,18460.0
+2,23,CREUSE,Parti communiste- apparentés,0.0
+2,23,CREUSE,Radicaux de droite,20118.0
+2,23,CREUSE,Républicains Indépendants,0.0
+2,23,CREUSE,Union des Démocrates pour la Vème République,15814.0
+2,23,CREUSE,abstentions,27118.0
+2,23,CREUSE,blancs_nuls,1843.0
+2,24,DORDOGNE,Alliance républicaine,0.0
+2,24,DORDOGNE,Centre Démocrate,0.0
+2,24,DORDOGNE,Centristes ralliés,0.0
+2,24,DORDOGNE,Divers gaullistes,0.0
+2,24,DORDOGNE,Fédération de la Gauche Démocrate et Socialiste,91273.0
+2,24,DORDOGNE,Modérés,0.0
+2,24,DORDOGNE,Parti Socialiste Unifié,0.0
+2,24,DORDOGNE,Parti communiste,26518.0
+2,24,DORDOGNE,Parti communiste- apparentés,0.0
+2,24,DORDOGNE,Radicaux de droite,0.0
+2,24,DORDOGNE,Républicains Indépendants,0.0
+2,24,DORDOGNE,Union des Démocrates pour la Vème République,83126.0
+2,24,DORDOGNE,abstentions,42359.0
+2,24,DORDOGNE,blancs_nuls,8835.0
+2,25,DOUBS,Alliance républicaine,0.0
+2,25,DOUBS,Centre Démocrate,0.0
+2,25,DOUBS,Centristes ralliés,0.0
+2,25,DOUBS,Divers gaullistes,0.0
+2,25,DOUBS,Fédération de la Gauche Démocrate et Socialiste,66914.0
+2,25,DOUBS,Modérés,0.0
+2,25,DOUBS,Parti Socialiste Unifié,0.0
+2,25,DOUBS,Parti communiste,0.0
+2,25,DOUBS,Parti communiste- apparentés,0.0
+2,25,DOUBS,Radicaux de droite,0.0
+2,25,DOUBS,Républicains Indépendants,0.0
+2,25,DOUBS,Union des Démocrates pour la Vème République,65297.0
+2,25,DOUBS,abstentions,33355.0
+2,25,DOUBS,blancs_nuls,2743.0
+2,26,DROME,Alliance républicaine,0.0
+2,26,DROME,Centre Démocrate,0.0
+2,26,DROME,Centristes ralliés,0.0
+2,26,DROME,Divers gaullistes,0.0
+2,26,DROME,Fédération de la Gauche Démocrate et Socialiste,55345.0
+2,26,DROME,Modérés,0.0
+2,26,DROME,Parti Socialiste Unifié,0.0
+2,26,DROME,Parti communiste,26311.0
+2,26,DROME,Parti communiste- apparentés,0.0
+2,26,DROME,Radicaux de droite,0.0
+2,26,DROME,Républicains Indépendants,0.0
+2,26,DROME,Union des Démocrates pour la Vème République,70657.0
+2,26,DROME,abstentions,38876.0
+2,26,DROME,blancs_nuls,5220.0
+2,27,EURE,Alliance républicaine,0.0
+2,27,EURE,Centre Démocrate,23312.0
+2,27,EURE,Centristes ralliés,0.0
+2,27,EURE,Divers gaullistes,0.0
+2,27,EURE,Fédération de la Gauche Démocrate et Socialiste,37869.0
+2,27,EURE,Modérés,0.0
+2,27,EURE,Parti Socialiste Unifié,0.0
+2,27,EURE,Parti communiste,16629.0
+2,27,EURE,Parti communiste- apparentés,0.0
+2,27,EURE,Radicaux de droite,0.0
+2,27,EURE,Républicains Indépendants,19654.0
+2,27,EURE,Union des Démocrates pour la Vème République,27529.0
+2,27,EURE,abstentions,32668.0
+2,27,EURE,blancs_nuls,4793.0
+2,28,EURE-ET-LOIR,Alliance républicaine,0.0
+2,28,EURE-ET-LOIR,Centre Démocrate,0.0
+2,28,EURE-ET-LOIR,Centristes ralliés,0.0
+2,28,EURE-ET-LOIR,Divers gaullistes,0.0
+2,28,EURE-ET-LOIR,Fédération de la Gauche Démocrate et Socialiste,51789.0
+2,28,EURE-ET-LOIR,Modérés,0.0
+2,28,EURE-ET-LOIR,Parti Socialiste Unifié,0.0
+2,28,EURE-ET-LOIR,Parti communiste,19289.0
+2,28,EURE-ET-LOIR,Parti communiste- apparentés,0.0
+2,28,EURE-ET-LOIR,Radicaux de droite,0.0
+2,28,EURE-ET-LOIR,Républicains Indépendants,0.0
+2,28,EURE-ET-LOIR,Union des Démocrates pour la Vème République,66694.0
+2,28,EURE-ET-LOIR,abstentions,31152.0
+2,28,EURE-ET-LOIR,blancs_nuls,4701.0
+2,29,FINISTERE,Alliance républicaine,0.0
+2,29,FINISTERE,Centre Démocrate,77564.0
+2,29,FINISTERE,Centristes ralliés,0.0
+2,29,FINISTERE,Divers gaullistes,0.0
+2,29,FINISTERE,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,29,FINISTERE,Modérés,0.0
+2,29,FINISTERE,Parti Socialiste Unifié,23298.0
+2,29,FINISTERE,Parti communiste,85332.0
+2,29,FINISTERE,Parti communiste- apparentés,0.0
+2,29,FINISTERE,Radicaux de droite,0.0
+2,29,FINISTERE,Républicains Indépendants,0.0
+2,29,FINISTERE,Union des Démocrates pour la Vème République,150722.0
+2,29,FINISTERE,abstentions,83858.0
+2,29,FINISTERE,blancs_nuls,8379.0
+2,30,GARD,Alliance républicaine,0.0
+2,30,GARD,Centre Démocrate,37350.0
+2,30,GARD,Centristes ralliés,0.0
+2,30,GARD,Divers gaullistes,0.0
+2,30,GARD,Fédération de la Gauche Démocrate et Socialiste,31273.0
+2,30,GARD,Modérés,0.0
+2,30,GARD,Parti Socialiste Unifié,0.0
+2,30,GARD,Parti communiste,89826.0
+2,30,GARD,Parti communiste- apparentés,0.0
+2,30,GARD,Radicaux de droite,0.0
+2,30,GARD,Républicains Indépendants,0.0
+2,30,GARD,Union des Démocrates pour la Vème République,60371.0
+2,30,GARD,abstentions,49337.0
+2,30,GARD,blancs_nuls,9491.0
+2,31,HAUTE-GARONNE,Alliance républicaine,0.0
+2,31,HAUTE-GARONNE,Centre Démocrate,25550.0
+2,31,HAUTE-GARONNE,Centristes ralliés,0.0
+2,31,HAUTE-GARONNE,Divers gaullistes,0.0
+2,31,HAUTE-GARONNE,Fédération de la Gauche Démocrate et Socialiste,163247.0
+2,31,HAUTE-GARONNE,Modérés,28646.0
+2,31,HAUTE-GARONNE,Parti Socialiste Unifié,0.0
+2,31,HAUTE-GARONNE,Parti communiste,0.0
+2,31,HAUTE-GARONNE,Parti communiste- apparentés,0.0
+2,31,HAUTE-GARONNE,Radicaux de droite,19610.0
+2,31,HAUTE-GARONNE,Républicains Indépendants,0.0
+2,31,HAUTE-GARONNE,Union des Démocrates pour la Vème République,63276.0
+2,31,HAUTE-GARONNE,abstentions,80518.0
+2,31,HAUTE-GARONNE,blancs_nuls,10470.0
+2,32,GERS,Alliance républicaine,0.0
+2,32,GERS,Centre Démocrate,47409.0
+2,32,GERS,Centristes ralliés,0.0
+2,32,GERS,Divers gaullistes,0.0
+2,32,GERS,Fédération de la Gauche Démocrate et Socialiste,43543.0
+2,32,GERS,Modérés,0.0
+2,32,GERS,Parti Socialiste Unifié,0.0
+2,32,GERS,Parti communiste,0.0
+2,32,GERS,Parti communiste- apparentés,0.0
+2,32,GERS,Radicaux de droite,0.0
+2,32,GERS,Républicains Indépendants,0.0
+2,32,GERS,Union des Démocrates pour la Vème République,0.0
+2,32,GERS,abstentions,21750.0
+2,32,GERS,blancs_nuls,2211.0
+2,33,GIRONDE,Alliance républicaine,0.0
+2,33,GIRONDE,Centre Démocrate,48402.0
+2,33,GIRONDE,Centristes ralliés,0.0
+2,33,GIRONDE,Divers gaullistes,0.0
+2,33,GIRONDE,Fédération de la Gauche Démocrate et Socialiste,199413.0
+2,33,GIRONDE,Modérés,0.0
+2,33,GIRONDE,Parti Socialiste Unifié,0.0
+2,33,GIRONDE,Parti communiste,7287.0
+2,33,GIRONDE,Parti communiste- apparentés,0.0
+2,33,GIRONDE,Radicaux de droite,0.0
+2,33,GIRONDE,Républicains Indépendants,18590.0
+2,33,GIRONDE,Union des Démocrates pour la Vème République,175538.0
+2,33,GIRONDE,abstentions,126734.0
+2,33,GIRONDE,blancs_nuls,11837.0
+2,34,HERAULT,Alliance républicaine,0.0
+2,34,HERAULT,Centre Démocrate,24032.0
+2,34,HERAULT,Centristes ralliés,0.0
+2,34,HERAULT,Divers gaullistes,0.0
+2,34,HERAULT,Fédération de la Gauche Démocrate et Socialiste,96159.0
+2,34,HERAULT,Modérés,0.0
+2,34,HERAULT,Parti Socialiste Unifié,0.0
+2,34,HERAULT,Parti communiste,55963.0
+2,34,HERAULT,Parti communiste- apparentés,0.0
+2,34,HERAULT,Radicaux de droite,0.0
+2,34,HERAULT,Républicains Indépendants,31293.0
+2,34,HERAULT,Union des Démocrates pour la Vème République,41970.0
+2,34,HERAULT,abstentions,70609.0
+2,34,HERAULT,blancs_nuls,10102.0
+2,35,ILLE-ET-VILAINE,Alliance républicaine,0.0
+2,35,ILLE-ET-VILAINE,Centre Démocrate,57815.0
+2,35,ILLE-ET-VILAINE,Centristes ralliés,0.0
+2,35,ILLE-ET-VILAINE,Divers gaullistes,0.0
+2,35,ILLE-ET-VILAINE,Fédération de la Gauche Démocrate et Socialiste,31361.0
+2,35,ILLE-ET-VILAINE,Modérés,0.0
+2,35,ILLE-ET-VILAINE,Parti Socialiste Unifié,16516.0
+2,35,ILLE-ET-VILAINE,Parti communiste,0.0
+2,35,ILLE-ET-VILAINE,Parti communiste- apparentés,0.0
+2,35,ILLE-ET-VILAINE,Radicaux de droite,0.0
+2,35,ILLE-ET-VILAINE,Républicains Indépendants,0.0
+2,35,ILLE-ET-VILAINE,Union des Démocrates pour la Vème République,90232.0
+2,35,ILLE-ET-VILAINE,abstentions,55964.0
+2,35,ILLE-ET-VILAINE,blancs_nuls,5777.0
+2,36,INDRE,Alliance républicaine,0.0
+2,36,INDRE,Centre Démocrate,22316.0
+2,36,INDRE,Centristes ralliés,0.0
+2,36,INDRE,Divers gaullistes,0.0
+2,36,INDRE,Fédération de la Gauche Démocrate et Socialiste,24154.0
+2,36,INDRE,Modérés,0.0
+2,36,INDRE,Parti Socialiste Unifié,0.0
+2,36,INDRE,Parti communiste,40182.0
+2,36,INDRE,Parti communiste- apparentés,0.0
+2,36,INDRE,Radicaux de droite,0.0
+2,36,INDRE,Républicains Indépendants,0.0
+2,36,INDRE,Union des Démocrates pour la Vème République,38725.0
+2,36,INDRE,abstentions,30713.0
+2,36,INDRE,blancs_nuls,4422.0
+2,37,INDRE-ET-LOIRE,Alliance républicaine,0.0
+2,37,INDRE-ET-LOIRE,Centre Démocrate,0.0
+2,37,INDRE-ET-LOIRE,Centristes ralliés,0.0
+2,37,INDRE-ET-LOIRE,Divers gaullistes,0.0
+2,37,INDRE-ET-LOIRE,Fédération de la Gauche Démocrate et Socialiste,66665.0
+2,37,INDRE-ET-LOIRE,Modérés,0.0
+2,37,INDRE-ET-LOIRE,Parti Socialiste Unifié,0.0
+2,37,INDRE-ET-LOIRE,Parti communiste,0.0
+2,37,INDRE-ET-LOIRE,Parti communiste- apparentés,0.0
+2,37,INDRE-ET-LOIRE,Radicaux de droite,0.0
+2,37,INDRE-ET-LOIRE,Républicains Indépendants,0.0
+2,37,INDRE-ET-LOIRE,Union des Démocrates pour la Vème République,68674.0
+2,37,INDRE-ET-LOIRE,abstentions,38392.0
+2,37,INDRE-ET-LOIRE,blancs_nuls,4631.0
+2,38,ISERE,Alliance républicaine,0.0
+2,38,ISERE,Centre Démocrate,0.0
+2,38,ISERE,Centristes ralliés,0.0
+2,38,ISERE,Divers gaullistes,0.0
+2,38,ISERE,Fédération de la Gauche Démocrate et Socialiste,75005.0
+2,38,ISERE,Modérés,0.0
+2,38,ISERE,Parti Socialiste Unifié,34157.0
+2,38,ISERE,Parti communiste,44597.0
+2,38,ISERE,Parti communiste- apparentés,0.0
+2,38,ISERE,Radicaux de droite,0.0
+2,38,ISERE,Républicains Indépendants,47061.0
+2,38,ISERE,Union des Démocrates pour la Vème République,91160.0
+2,38,ISERE,abstentions,83221.0
+2,38,ISERE,blancs_nuls,7581.0
+2,39,JURA,Alliance républicaine,0.0
+2,39,JURA,Centre Démocrate,17590.0
+2,39,JURA,Centristes ralliés,0.0
+2,39,JURA,Divers gaullistes,0.0
+2,39,JURA,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,39,JURA,Modérés,0.0
+2,39,JURA,Parti Socialiste Unifié,0.0
+2,39,JURA,Parti communiste,24035.0
+2,39,JURA,Parti communiste- apparentés,0.0
+2,39,JURA,Radicaux de droite,29509.0
+2,39,JURA,Républicains Indépendants,0.0
+2,39,JURA,Union des Démocrates pour la Vème République,41868.0
+2,39,JURA,abstentions,28017.0
+2,39,JURA,blancs_nuls,1615.0
+2,40,LANDES,Alliance républicaine,0.0
+2,40,LANDES,Centre Démocrate,26151.0
+2,40,LANDES,Centristes ralliés,0.0
+2,40,LANDES,Divers gaullistes,0.0
+2,40,LANDES,Fédération de la Gauche Démocrate et Socialiste,72419.0
+2,40,LANDES,Modérés,0.0
+2,40,LANDES,Parti Socialiste Unifié,0.0
+2,40,LANDES,Parti communiste,0.0
+2,40,LANDES,Parti communiste- apparentés,0.0
+2,40,LANDES,Radicaux de droite,0.0
+2,40,LANDES,Républicains Indépendants,0.0
+2,40,LANDES,Union des Démocrates pour la Vème République,47488.0
+2,40,LANDES,abstentions,28232.0
+2,40,LANDES,blancs_nuls,3174.0
+2,41,LOIR-ET-CHER,Alliance républicaine,0.0
+2,41,LOIR-ET-CHER,Centre Démocrate,45684.0
+2,41,LOIR-ET-CHER,Centristes ralliés,0.0
+2,41,LOIR-ET-CHER,Divers gaullistes,0.0
+2,41,LOIR-ET-CHER,Fédération de la Gauche Démocrate et Socialiste,47866.0
+2,41,LOIR-ET-CHER,Modérés,0.0
+2,41,LOIR-ET-CHER,Parti Socialiste Unifié,0.0
+2,41,LOIR-ET-CHER,Parti communiste,16058.0
+2,41,LOIR-ET-CHER,Parti communiste- apparentés,0.0
+2,41,LOIR-ET-CHER,Radicaux de droite,0.0
+2,41,LOIR-ET-CHER,Républicains Indépendants,0.0
+2,41,LOIR-ET-CHER,Union des Démocrates pour la Vème République,17724.0
+2,41,LOIR-ET-CHER,abstentions,31233.0
+2,41,LOIR-ET-CHER,blancs_nuls,4678.0
+2,42,LOIRE,Alliance républicaine,0.0
+2,42,LOIRE,Centre Démocrate,88962.0
+2,42,LOIRE,Centristes ralliés,0.0
+2,42,LOIRE,Divers gaullistes,0.0
+2,42,LOIRE,Fédération de la Gauche Démocrate et Socialiste,55481.0
+2,42,LOIRE,Modérés,0.0
+2,42,LOIRE,Parti Socialiste Unifié,0.0
+2,42,LOIRE,Parti communiste,69042.0
+2,42,LOIRE,Parti communiste- apparentés,0.0
+2,42,LOIRE,Radicaux de droite,23948.0
+2,42,LOIRE,Républicains Indépendants,14109.0
+2,42,LOIRE,Union des Démocrates pour la Vème République,63881.0
+2,42,LOIRE,abstentions,89856.0
+2,42,LOIRE,blancs_nuls,8055.0
+2,43,HAUTE-LOIRE,Alliance républicaine,0.0
+2,43,HAUTE-LOIRE,Centre Démocrate,36429.0
+2,43,HAUTE-LOIRE,Centristes ralliés,0.0
+2,43,HAUTE-LOIRE,Divers gaullistes,0.0
+2,43,HAUTE-LOIRE,Fédération de la Gauche Démocrate et Socialiste,34245.0
+2,43,HAUTE-LOIRE,Modérés,0.0
+2,43,HAUTE-LOIRE,Parti Socialiste Unifié,0.0
+2,43,HAUTE-LOIRE,Parti communiste,0.0
+2,43,HAUTE-LOIRE,Parti communiste- apparentés,0.0
+2,43,HAUTE-LOIRE,Radicaux de droite,0.0
+2,43,HAUTE-LOIRE,Républicains Indépendants,19045.0
+2,43,HAUTE-LOIRE,Union des Démocrates pour la Vème République,18766.0
+2,43,HAUTE-LOIRE,abstentions,27739.0
+2,43,HAUTE-LOIRE,blancs_nuls,1198.0
+2,44,LOIRE-ATLANTIQUE,Alliance républicaine,0.0
+2,44,LOIRE-ATLANTIQUE,Centre Démocrate,38857.0
+2,44,LOIRE-ATLANTIQUE,Centristes ralliés,0.0
+2,44,LOIRE-ATLANTIQUE,Divers gaullistes,0.0
+2,44,LOIRE-ATLANTIQUE,Fédération de la Gauche Démocrate et Socialiste,106501.0
+2,44,LOIRE-ATLANTIQUE,Modérés,0.0
+2,44,LOIRE-ATLANTIQUE,Parti Socialiste Unifié,0.0
+2,44,LOIRE-ATLANTIQUE,Parti communiste,0.0
+2,44,LOIRE-ATLANTIQUE,Parti communiste- apparentés,0.0
+2,44,LOIRE-ATLANTIQUE,Radicaux de droite,0.0
+2,44,LOIRE-ATLANTIQUE,Républicains Indépendants,29360.0
+2,44,LOIRE-ATLANTIQUE,Union des Démocrates pour la Vème République,123511.0
+2,44,LOIRE-ATLANTIQUE,abstentions,80681.0
+2,44,LOIRE-ATLANTIQUE,blancs_nuls,9204.0
+2,45,LOIRET,Alliance républicaine,0.0
+2,45,LOIRET,Centre Démocrate,0.0
+2,45,LOIRET,Centristes ralliés,0.0
+2,45,LOIRET,Divers gaullistes,0.0
+2,45,LOIRET,Fédération de la Gauche Démocrate et Socialiste,37970.0
+2,45,LOIRET,Modérés,0.0
+2,45,LOIRET,Parti Socialiste Unifié,0.0
+2,45,LOIRET,Parti communiste,38259.0
+2,45,LOIRET,Parti communiste- apparentés,0.0
+2,45,LOIRET,Radicaux de droite,0.0
+2,45,LOIRET,Républicains Indépendants,27788.0
+2,45,LOIRET,Union des Démocrates pour la Vème République,81385.0
+2,45,LOIRET,abstentions,51665.0
+2,45,LOIRET,blancs_nuls,9059.0
+2,46,LOT,Alliance républicaine,0.0
+2,46,LOT,Centre Démocrate,0.0
+2,46,LOT,Centristes ralliés,0.0
+2,46,LOT,Divers gaullistes,0.0
+2,46,LOT,Fédération de la Gauche Démocrate et Socialiste,3541.0
+2,46,LOT,Modérés,0.0
+2,46,LOT,Parti Socialiste Unifié,0.0
+2,46,LOT,Parti communiste,18095.0
+2,46,LOT,Parti communiste- apparentés,0.0
+2,46,LOT,Radicaux de droite,20929.0
+2,46,LOT,Républicains Indépendants,0.0
+2,46,LOT,Union des Démocrates pour la Vème République,40289.0
+2,46,LOT,abstentions,15211.0
+2,46,LOT,blancs_nuls,2771.0
+2,47,LOT-ET-GARONNE,Alliance républicaine,0.0
+2,47,LOT-ET-GARONNE,Centre Démocrate,38083.0
+2,47,LOT-ET-GARONNE,Centristes ralliés,0.0
+2,47,LOT-ET-GARONNE,Divers gaullistes,0.0
+2,47,LOT-ET-GARONNE,Fédération de la Gauche Démocrate et Socialiste,52782.0
+2,47,LOT-ET-GARONNE,Modérés,0.0
+2,47,LOT-ET-GARONNE,Parti Socialiste Unifié,0.0
+2,47,LOT-ET-GARONNE,Parti communiste,22701.0
+2,47,LOT-ET-GARONNE,Parti communiste- apparentés,0.0
+2,47,LOT-ET-GARONNE,Radicaux de droite,0.0
+2,47,LOT-ET-GARONNE,Républicains Indépendants,0.0
+2,47,LOT-ET-GARONNE,Union des Démocrates pour la Vème République,31595.0
+2,47,LOT-ET-GARONNE,abstentions,27311.0
+2,47,LOT-ET-GARONNE,blancs_nuls,3342.0
+2,49,MAINE-ET-LOIRE,Alliance républicaine,0.0
+2,49,MAINE-ET-LOIRE,Centre Démocrate,12787.0
+2,49,MAINE-ET-LOIRE,Centristes ralliés,0.0
+2,49,MAINE-ET-LOIRE,Divers gaullistes,0.0
+2,49,MAINE-ET-LOIRE,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,49,MAINE-ET-LOIRE,Modérés,0.0
+2,49,MAINE-ET-LOIRE,Parti Socialiste Unifié,0.0
+2,49,MAINE-ET-LOIRE,Parti communiste,8505.0
+2,49,MAINE-ET-LOIRE,Parti communiste- apparentés,0.0
+2,49,MAINE-ET-LOIRE,Radicaux de droite,0.0
+2,49,MAINE-ET-LOIRE,Républicains Indépendants,0.0
+2,49,MAINE-ET-LOIRE,Union des Démocrates pour la Vème République,14839.0
+2,49,MAINE-ET-LOIRE,abstentions,13117.0
+2,49,MAINE-ET-LOIRE,blancs_nuls,670.0
+2,50,MANCHE,Alliance républicaine,0.0
+2,50,MANCHE,Centre Démocrate,0.0
+2,50,MANCHE,Centristes ralliés,27485.0
+2,50,MANCHE,Divers gaullistes,27510.0
+2,50,MANCHE,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,50,MANCHE,Modérés,21035.0
+2,50,MANCHE,Parti Socialiste Unifié,0.0
+2,50,MANCHE,Parti communiste,0.0
+2,50,MANCHE,Parti communiste- apparentés,0.0
+2,50,MANCHE,Radicaux de droite,0.0
+2,50,MANCHE,Républicains Indépendants,0.0
+2,50,MANCHE,Union des Démocrates pour la Vème République,36595.0
+2,50,MANCHE,abstentions,45592.0
+2,50,MANCHE,blancs_nuls,11455.0
+2,51,MARNE,Alliance républicaine,0.0
+2,51,MARNE,Centre Démocrate,24353.0
+2,51,MARNE,Centristes ralliés,0.0
+2,51,MARNE,Divers gaullistes,0.0
+2,51,MARNE,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,51,MARNE,Modérés,0.0
+2,51,MARNE,Parti Socialiste Unifié,0.0
+2,51,MARNE,Parti communiste,78548.0
+2,51,MARNE,Parti communiste- apparentés,0.0
+2,51,MARNE,Radicaux de droite,0.0
+2,51,MARNE,Républicains Indépendants,0.0
+2,51,MARNE,Union des Démocrates pour la Vème République,97073.0
+2,51,MARNE,abstentions,51258.0
+2,51,MARNE,blancs_nuls,9467.0
+2,52,HAUTE-MARNE,Alliance républicaine,0.0
+2,52,HAUTE-MARNE,Centre Démocrate,0.0
+2,52,HAUTE-MARNE,Centristes ralliés,0.0
+2,52,HAUTE-MARNE,Divers gaullistes,0.0
+2,52,HAUTE-MARNE,Fédération de la Gauche Démocrate et Socialiste,25672.0
+2,52,HAUTE-MARNE,Modérés,0.0
+2,52,HAUTE-MARNE,Parti Socialiste Unifié,0.0
+2,52,HAUTE-MARNE,Parti communiste,17697.0
+2,52,HAUTE-MARNE,Parti communiste- apparentés,0.0
+2,52,HAUTE-MARNE,Radicaux de droite,0.0
+2,52,HAUTE-MARNE,Républicains Indépendants,26040.0
+2,52,HAUTE-MARNE,Union des Démocrates pour la Vème République,24124.0
+2,52,HAUTE-MARNE,abstentions,23276.0
+2,52,HAUTE-MARNE,blancs_nuls,3663.0
+2,53,MAYENNE,Alliance républicaine,0.0
+2,53,MAYENNE,Centre Démocrate,34349.0
+2,53,MAYENNE,Centristes ralliés,0.0
+2,53,MAYENNE,Divers gaullistes,0.0
+2,53,MAYENNE,Fédération de la Gauche Démocrate et Socialiste,9960.0
+2,53,MAYENNE,Modérés,0.0
+2,53,MAYENNE,Parti Socialiste Unifié,0.0
+2,53,MAYENNE,Parti communiste,4770.0
+2,53,MAYENNE,Parti communiste- apparentés,0.0
+2,53,MAYENNE,Radicaux de droite,0.0
+2,53,MAYENNE,Républicains Indépendants,0.0
+2,53,MAYENNE,Union des Démocrates pour la Vème République,33444.0
+2,53,MAYENNE,abstentions,20308.0
+2,53,MAYENNE,blancs_nuls,2378.0
+2,54,MEURTHE-ET-MOSELLE,Alliance républicaine,0.0
+2,54,MEURTHE-ET-MOSELLE,Centre Démocrate,0.0
+2,54,MEURTHE-ET-MOSELLE,Centristes ralliés,0.0
+2,54,MEURTHE-ET-MOSELLE,Divers gaullistes,0.0
+2,54,MEURTHE-ET-MOSELLE,Fédération de la Gauche Démocrate et Socialiste,35283.0
+2,54,MEURTHE-ET-MOSELLE,Modérés,0.0
+2,54,MEURTHE-ET-MOSELLE,Parti Socialiste Unifié,0.0
+2,54,MEURTHE-ET-MOSELLE,Parti communiste,61335.0
+2,54,MEURTHE-ET-MOSELLE,Parti communiste- apparentés,0.0
+2,54,MEURTHE-ET-MOSELLE,Radicaux de droite,0.0
+2,54,MEURTHE-ET-MOSELLE,Républicains Indépendants,35822.0
+2,54,MEURTHE-ET-MOSELLE,Union des Démocrates pour la Vème République,72630.0
+2,54,MEURTHE-ET-MOSELLE,abstentions,50280.0
+2,54,MEURTHE-ET-MOSELLE,blancs_nuls,7355.0
+2,55,MEUSE,Alliance républicaine,0.0
+2,55,MEUSE,Centre Démocrate,0.0
+2,55,MEUSE,Centristes ralliés,0.0
+2,55,MEUSE,Divers gaullistes,0.0
+2,55,MEUSE,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,55,MEUSE,Modérés,0.0
+2,55,MEUSE,Parti Socialiste Unifié,0.0
+2,55,MEUSE,Parti communiste,18025.0
+2,55,MEUSE,Parti communiste- apparentés,0.0
+2,55,MEUSE,Radicaux de droite,0.0
+2,55,MEUSE,Républicains Indépendants,29435.0
+2,55,MEUSE,Union des Démocrates pour la Vème République,0.0
+2,55,MEUSE,abstentions,14921.0
+2,55,MEUSE,blancs_nuls,4427.0
+2,56,MORBIHAN,Alliance républicaine,0.0
+2,56,MORBIHAN,Centre Démocrate,26197.0
+2,56,MORBIHAN,Centristes ralliés,0.0
+2,56,MORBIHAN,Divers gaullistes,0.0
+2,56,MORBIHAN,Fédération de la Gauche Démocrate et Socialiste,27328.0
+2,56,MORBIHAN,Modérés,0.0
+2,56,MORBIHAN,Parti Socialiste Unifié,0.0
+2,56,MORBIHAN,Parti communiste,15792.0
+2,56,MORBIHAN,Parti communiste- apparentés,0.0
+2,56,MORBIHAN,Radicaux de droite,0.0
+2,56,MORBIHAN,Républicains Indépendants,0.0
+2,56,MORBIHAN,Union des Démocrates pour la Vème République,24918.0
+2,56,MORBIHAN,abstentions,24421.0
+2,56,MORBIHAN,blancs_nuls,1321.0
+2,57,MOSELLE,Alliance républicaine,0.0
+2,57,MOSELLE,Centre Démocrate,47081.0
+2,57,MOSELLE,Centristes ralliés,0.0
+2,57,MOSELLE,Divers gaullistes,0.0
+2,57,MOSELLE,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,57,MOSELLE,Modérés,39397.0
+2,57,MOSELLE,Parti Socialiste Unifié,0.0
+2,57,MOSELLE,Parti communiste,70954.0
+2,57,MOSELLE,Parti communiste- apparentés,0.0
+2,57,MOSELLE,Radicaux de droite,0.0
+2,57,MOSELLE,Républicains Indépendants,51785.0
+2,57,MOSELLE,Union des Démocrates pour la Vème République,77127.0
+2,57,MOSELLE,abstentions,73120.0
+2,57,MOSELLE,blancs_nuls,9455.0
+2,58,NIEVRE,Alliance républicaine,0.0
+2,58,NIEVRE,Centre Démocrate,0.0
+2,58,NIEVRE,Centristes ralliés,0.0
+2,58,NIEVRE,Divers gaullistes,0.0
+2,58,NIEVRE,Fédération de la Gauche Démocrate et Socialiste,29101.0
+2,58,NIEVRE,Modérés,0.0
+2,58,NIEVRE,Parti Socialiste Unifié,0.0
+2,58,NIEVRE,Parti communiste,23204.0
+2,58,NIEVRE,Parti communiste- apparentés,0.0
+2,58,NIEVRE,Radicaux de droite,0.0
+2,58,NIEVRE,Républicains Indépendants,18599.0
+2,58,NIEVRE,Union des Démocrates pour la Vème République,17143.0
+2,58,NIEVRE,abstentions,19251.0
+2,58,NIEVRE,blancs_nuls,2450.0
+2,59,NORD,Alliance républicaine,0.0
+2,59,NORD,Centre Démocrate,0.0
+2,59,NORD,Centristes ralliés,0.0
+2,59,NORD,Divers gaullistes,0.0
+2,59,NORD,Fédération de la Gauche Démocrate et Socialiste,337725.0
+2,59,NORD,Modérés,0.0
+2,59,NORD,Parti Socialiste Unifié,0.0
+2,59,NORD,Parti communiste,204373.0
+2,59,NORD,Parti communiste- apparentés,0.0
+2,59,NORD,Radicaux de droite,0.0
+2,59,NORD,Républicains Indépendants,16196.0
+2,59,NORD,Union des Démocrates pour la Vème République,419361.0
+2,59,NORD,abstentions,166930.0
+2,59,NORD,blancs_nuls,33331.0
+2,60,OISE,Alliance républicaine,0.0
+2,60,OISE,Centre Démocrate,12461.0
+2,60,OISE,Centristes ralliés,0.0
+2,60,OISE,Divers gaullistes,0.0
+2,60,OISE,Fédération de la Gauche Démocrate et Socialiste,21323.0
+2,60,OISE,Modérés,0.0
+2,60,OISE,Parti Socialiste Unifié,0.0
+2,60,OISE,Parti communiste,56781.0
+2,60,OISE,Parti communiste- apparentés,0.0
+2,60,OISE,Radicaux de droite,0.0
+2,60,OISE,Républicains Indépendants,0.0
+2,60,OISE,Union des Démocrates pour la Vème République,57526.0
+2,60,OISE,abstentions,31843.0
+2,60,OISE,blancs_nuls,4920.0
+2,61,ORNE,Alliance républicaine,0.0
+2,61,ORNE,Centre Démocrate,37287.0
+2,61,ORNE,Centristes ralliés,0.0
+2,61,ORNE,Divers gaullistes,0.0
+2,61,ORNE,Fédération de la Gauche Démocrate et Socialiste,15014.0
+2,61,ORNE,Modérés,0.0
+2,61,ORNE,Parti Socialiste Unifié,0.0
+2,61,ORNE,Parti communiste,0.0
+2,61,ORNE,Parti communiste- apparentés,0.0
+2,61,ORNE,Radicaux de droite,0.0
+2,61,ORNE,Républicains Indépendants,19077.0
+2,61,ORNE,Union des Démocrates pour la Vème République,15710.0
+2,61,ORNE,abstentions,23841.0
+2,61,ORNE,blancs_nuls,1592.0
+2,62,PAS-DE-CALAIS,Alliance républicaine,0.0
+2,62,PAS-DE-CALAIS,Centre Démocrate,0.0
+2,62,PAS-DE-CALAIS,Centristes ralliés,0.0
+2,62,PAS-DE-CALAIS,Divers gaullistes,0.0
+2,62,PAS-DE-CALAIS,Fédération de la Gauche Démocrate et Socialiste,247934.0
+2,62,PAS-DE-CALAIS,Modérés,0.0
+2,62,PAS-DE-CALAIS,Parti Socialiste Unifié,0.0
+2,62,PAS-DE-CALAIS,Parti communiste,121236.0
+2,62,PAS-DE-CALAIS,Parti communiste- apparentés,0.0
+2,62,PAS-DE-CALAIS,Radicaux de droite,0.0
+2,62,PAS-DE-CALAIS,Républicains Indépendants,0.0
+2,62,PAS-DE-CALAIS,Union des Démocrates pour la Vème République,265976.0
+2,62,PAS-DE-CALAIS,abstentions,102950.0
+2,62,PAS-DE-CALAIS,blancs_nuls,19969.0
+2,63,PUY-DE-DOME,Alliance républicaine,0.0
+2,63,PUY-DE-DOME,Centre Démocrate,0.0
+2,63,PUY-DE-DOME,Centristes ralliés,0.0
+2,63,PUY-DE-DOME,Divers gaullistes,0.0
+2,63,PUY-DE-DOME,Fédération de la Gauche Démocrate et Socialiste,84744.0
+2,63,PUY-DE-DOME,Modérés,0.0
+2,63,PUY-DE-DOME,Parti Socialiste Unifié,0.0
+2,63,PUY-DE-DOME,Parti communiste,23949.0
+2,63,PUY-DE-DOME,Parti communiste- apparentés,0.0
+2,63,PUY-DE-DOME,Radicaux de droite,0.0
+2,63,PUY-DE-DOME,Républicains Indépendants,61038.0
+2,63,PUY-DE-DOME,Union des Démocrates pour la Vème République,22579.0
+2,63,PUY-DE-DOME,abstentions,55724.0
+2,63,PUY-DE-DOME,blancs_nuls,4549.0
+2,64,PYRENEES-ATLANTIQUES,Alliance républicaine,0.0
+2,64,PYRENEES-ATLANTIQUES,Centre Démocrate,72193.0
+2,64,PYRENEES-ATLANTIQUES,Centristes ralliés,0.0
+2,64,PYRENEES-ATLANTIQUES,Divers gaullistes,0.0
+2,64,PYRENEES-ATLANTIQUES,Fédération de la Gauche Démocrate et Socialiste,64243.0
+2,64,PYRENEES-ATLANTIQUES,Modérés,0.0
+2,64,PYRENEES-ATLANTIQUES,Parti Socialiste Unifié,0.0
+2,64,PYRENEES-ATLANTIQUES,Parti communiste,9039.0
+2,64,PYRENEES-ATLANTIQUES,Parti communiste- apparentés,0.0
+2,64,PYRENEES-ATLANTIQUES,Radicaux de droite,0.0
+2,64,PYRENEES-ATLANTIQUES,Républicains Indépendants,20304.0
+2,64,PYRENEES-ATLANTIQUES,Union des Démocrates pour la Vème République,78781.0
+2,64,PYRENEES-ATLANTIQUES,abstentions,60548.0
+2,64,PYRENEES-ATLANTIQUES,blancs_nuls,5392.0
+2,65,HAUTES-PYRENEES,Alliance républicaine,0.0
+2,65,HAUTES-PYRENEES,Centre Démocrate,0.0
+2,65,HAUTES-PYRENEES,Centristes ralliés,0.0
+2,65,HAUTES-PYRENEES,Divers gaullistes,0.0
+2,65,HAUTES-PYRENEES,Fédération de la Gauche Démocrate et Socialiste,62995.0
+2,65,HAUTES-PYRENEES,Modérés,0.0
+2,65,HAUTES-PYRENEES,Parti Socialiste Unifié,0.0
+2,65,HAUTES-PYRENEES,Parti communiste,0.0
+2,65,HAUTES-PYRENEES,Parti communiste- apparentés,0.0
+2,65,HAUTES-PYRENEES,Radicaux de droite,0.0
+2,65,HAUTES-PYRENEES,Républicains Indépendants,0.0
+2,65,HAUTES-PYRENEES,Union des Démocrates pour la Vème République,44082.0
+2,65,HAUTES-PYRENEES,abstentions,30647.0
+2,65,HAUTES-PYRENEES,blancs_nuls,2300.0
+2,66,PYRENEES-ORIENTALES,Alliance républicaine,0.0
+2,66,PYRENEES-ORIENTALES,Centre Démocrate,0.0
+2,66,PYRENEES-ORIENTALES,Centristes ralliés,0.0
+2,66,PYRENEES-ORIENTALES,Divers gaullistes,0.0
+2,66,PYRENEES-ORIENTALES,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,66,PYRENEES-ORIENTALES,Modérés,0.0
+2,66,PYRENEES-ORIENTALES,Parti Socialiste Unifié,0.0
+2,66,PYRENEES-ORIENTALES,Parti communiste,57602.0
+2,66,PYRENEES-ORIENTALES,Parti communiste- apparentés,0.0
+2,66,PYRENEES-ORIENTALES,Radicaux de droite,28771.0
+2,66,PYRENEES-ORIENTALES,Républicains Indépendants,0.0
+2,66,PYRENEES-ORIENTALES,Union des Démocrates pour la Vème République,35209.0
+2,66,PYRENEES-ORIENTALES,abstentions,36286.0
+2,66,PYRENEES-ORIENTALES,blancs_nuls,4965.0
+2,67,BAS-RHIN,Alliance républicaine,0.0
+2,67,BAS-RHIN,Centre Démocrate,22318.0
+2,67,BAS-RHIN,Centristes ralliés,0.0
+2,67,BAS-RHIN,Divers gaullistes,0.0
+2,67,BAS-RHIN,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,67,BAS-RHIN,Modérés,0.0
+2,67,BAS-RHIN,Parti Socialiste Unifié,0.0
+2,67,BAS-RHIN,Parti communiste,0.0
+2,67,BAS-RHIN,Parti communiste- apparentés,0.0
+2,67,BAS-RHIN,Radicaux de droite,0.0
+2,67,BAS-RHIN,Républicains Indépendants,0.0
+2,67,BAS-RHIN,Union des Démocrates pour la Vème République,28672.0
+2,67,BAS-RHIN,abstentions,26731.0
+2,67,BAS-RHIN,blancs_nuls,3485.0
+2,68,HAUT-RHIN,Alliance républicaine,0.0
+2,68,HAUT-RHIN,Centre Démocrate,41136.0
+2,68,HAUT-RHIN,Centristes ralliés,0.0
+2,68,HAUT-RHIN,Divers gaullistes,0.0
+2,68,HAUT-RHIN,Fédération de la Gauche Démocrate et Socialiste,26150.0
+2,68,HAUT-RHIN,Modérés,0.0
+2,68,HAUT-RHIN,Parti Socialiste Unifié,0.0
+2,68,HAUT-RHIN,Parti communiste,0.0
+2,68,HAUT-RHIN,Parti communiste- apparentés,0.0
+2,68,HAUT-RHIN,Radicaux de droite,0.0
+2,68,HAUT-RHIN,Républicains Indépendants,0.0
+2,68,HAUT-RHIN,Union des Démocrates pour la Vème République,89078.0
+2,68,HAUT-RHIN,abstentions,47158.0
+2,68,HAUT-RHIN,blancs_nuls,7884.0
+2,69,RHONE,Alliance républicaine,0.0
+2,69,RHONE,Centre Démocrate,45087.0
+2,69,RHONE,Centristes ralliés,14278.0
+2,69,RHONE,Divers gaullistes,0.0
+2,69,RHONE,Fédération de la Gauche Démocrate et Socialiste,97632.0
+2,69,RHONE,Modérés,9490.0
+2,69,RHONE,Parti Socialiste Unifié,0.0
+2,69,RHONE,Parti communiste,121142.0
+2,69,RHONE,Parti communiste- apparentés,0.0
+2,69,RHONE,Radicaux de droite,0.0
+2,69,RHONE,Républicains Indépendants,13958.0
+2,69,RHONE,Union des Démocrates pour la Vème République,171461.0
+2,69,RHONE,abstentions,148487.0
+2,69,RHONE,blancs_nuls,12000.0
+2,70,HAUTE-SAONE,Alliance républicaine,0.0
+2,70,HAUTE-SAONE,Centre Démocrate,0.0
+2,70,HAUTE-SAONE,Centristes ralliés,0.0
+2,70,HAUTE-SAONE,Divers gaullistes,0.0
+2,70,HAUTE-SAONE,Fédération de la Gauche Démocrate et Socialiste,56143.0
+2,70,HAUTE-SAONE,Modérés,0.0
+2,70,HAUTE-SAONE,Parti Socialiste Unifié,0.0
+2,70,HAUTE-SAONE,Parti communiste,0.0
+2,70,HAUTE-SAONE,Parti communiste- apparentés,0.0
+2,70,HAUTE-SAONE,Radicaux de droite,0.0
+2,70,HAUTE-SAONE,Républicains Indépendants,26770.0
+2,70,HAUTE-SAONE,Union des Démocrates pour la Vème République,24170.0
+2,70,HAUTE-SAONE,abstentions,21731.0
+2,70,HAUTE-SAONE,blancs_nuls,2777.0
+2,71,SAONE-ET-LOIRE,Alliance républicaine,0.0
+2,71,SAONE-ET-LOIRE,Centre Démocrate,0.0
+2,71,SAONE-ET-LOIRE,Centristes ralliés,0.0
+2,71,SAONE-ET-LOIRE,Divers gaullistes,0.0
+2,71,SAONE-ET-LOIRE,Fédération de la Gauche Démocrate et Socialiste,143566.0
+2,71,SAONE-ET-LOIRE,Modérés,0.0
+2,71,SAONE-ET-LOIRE,Parti Socialiste Unifié,0.0
+2,71,SAONE-ET-LOIRE,Parti communiste,0.0
+2,71,SAONE-ET-LOIRE,Parti communiste- apparentés,0.0
+2,71,SAONE-ET-LOIRE,Radicaux de droite,0.0
+2,71,SAONE-ET-LOIRE,Républicains Indépendants,21620.0
+2,71,SAONE-ET-LOIRE,Union des Démocrates pour la Vème République,84958.0
+2,71,SAONE-ET-LOIRE,abstentions,76345.0
+2,71,SAONE-ET-LOIRE,blancs_nuls,4316.0
+2,72,SARTHE,Alliance républicaine,0.0
+2,72,SARTHE,Centre Démocrate,20298.0
+2,72,SARTHE,Centristes ralliés,0.0
+2,72,SARTHE,Divers gaullistes,0.0
+2,72,SARTHE,Fédération de la Gauche Démocrate et Socialiste,20981.0
+2,72,SARTHE,Modérés,0.0
+2,72,SARTHE,Parti Socialiste Unifié,0.0
+2,72,SARTHE,Parti communiste,39394.0
+2,72,SARTHE,Parti communiste- apparentés,0.0
+2,72,SARTHE,Radicaux de droite,0.0
+2,72,SARTHE,Républicains Indépendants,0.0
+2,72,SARTHE,Union des Démocrates pour la Vème République,48906.0
+2,72,SARTHE,abstentions,34116.0
+2,72,SARTHE,blancs_nuls,2886.0
+2,73,SAVOIE,Alliance républicaine,0.0
+2,73,SAVOIE,Centre Démocrate,17798.0
+2,73,SAVOIE,Centristes ralliés,0.0
+2,73,SAVOIE,Divers gaullistes,0.0
+2,73,SAVOIE,Fédération de la Gauche Démocrate et Socialiste,21480.0
+2,73,SAVOIE,Modérés,0.0
+2,73,SAVOIE,Parti Socialiste Unifié,0.0
+2,73,SAVOIE,Parti communiste,14828.0
+2,73,SAVOIE,Parti communiste- apparentés,0.0
+2,73,SAVOIE,Radicaux de droite,0.0
+2,73,SAVOIE,Républicains Indépendants,22409.0
+2,73,SAVOIE,Union des Démocrates pour la Vème République,0.0
+2,73,SAVOIE,abstentions,25475.0
+2,73,SAVOIE,blancs_nuls,2111.0
+2,74,HAUTE-SAVOIE,Alliance républicaine,0.0
+2,74,HAUTE-SAVOIE,Centre Démocrate,33303.0
+2,74,HAUTE-SAVOIE,Centristes ralliés,0.0
+2,74,HAUTE-SAVOIE,Divers gaullistes,0.0
+2,74,HAUTE-SAVOIE,Fédération de la Gauche Démocrate et Socialiste,23039.0
+2,74,HAUTE-SAVOIE,Modérés,0.0
+2,74,HAUTE-SAVOIE,Parti Socialiste Unifié,0.0
+2,74,HAUTE-SAVOIE,Parti communiste,13188.0
+2,74,HAUTE-SAVOIE,Parti communiste- apparentés,0.0
+2,74,HAUTE-SAVOIE,Radicaux de droite,0.0
+2,74,HAUTE-SAVOIE,Républicains Indépendants,23876.0
+2,74,HAUTE-SAVOIE,Union des Démocrates pour la Vème République,25627.0
+2,74,HAUTE-SAVOIE,abstentions,34895.0
+2,74,HAUTE-SAVOIE,blancs_nuls,1546.0
+2,75,PARIS,Alliance républicaine,0.0
+2,75,PARIS,Centre Démocrate,99624.0
+2,75,PARIS,Centristes ralliés,0.0
+2,75,PARIS,Divers gaullistes,0.0
+2,75,PARIS,Fédération de la Gauche Démocrate et Socialiste,57554.0
+2,75,PARIS,Modérés,0.0
+2,75,PARIS,Parti Socialiste Unifié,0.0
+2,75,PARIS,Parti communiste,330400.0
+2,75,PARIS,Parti communiste- apparentés,16124.0
+2,75,PARIS,Radicaux de droite,0.0
+2,75,PARIS,Républicains Indépendants,19772.0
+2,75,PARIS,Union des Démocrates pour la Vème République,561435.0
+2,75,PARIS,abstentions,377404.0
+2,75,PARIS,blancs_nuls,51160.0
+2,76,SEINE-MARITIME,Alliance républicaine,0.0
+2,76,SEINE-MARITIME,Centre Démocrate,0.0
+2,76,SEINE-MARITIME,Centristes ralliés,0.0
+2,76,SEINE-MARITIME,Divers gaullistes,0.0
+2,76,SEINE-MARITIME,Fédération de la Gauche Démocrate et Socialiste,71513.0
+2,76,SEINE-MARITIME,Modérés,0.0
+2,76,SEINE-MARITIME,Parti Socialiste Unifié,0.0
+2,76,SEINE-MARITIME,Parti communiste,125948.0
+2,76,SEINE-MARITIME,Parti communiste- apparentés,0.0
+2,76,SEINE-MARITIME,Radicaux de droite,0.0
+2,76,SEINE-MARITIME,Républicains Indépendants,0.0
+2,76,SEINE-MARITIME,Union des Démocrates pour la Vème République,185978.0
+2,76,SEINE-MARITIME,abstentions,101542.0
+2,76,SEINE-MARITIME,blancs_nuls,17836.0
+2,77,SEINE-ET-MARNE,Alliance républicaine,0.0
+2,77,SEINE-ET-MARNE,Centre Démocrate,23831.0
+2,77,SEINE-ET-MARNE,Centristes ralliés,0.0
+2,77,SEINE-ET-MARNE,Divers gaullistes,0.0
+2,77,SEINE-ET-MARNE,Fédération de la Gauche Démocrate et Socialiste,15582.0
+2,77,SEINE-ET-MARNE,Modérés,0.0
+2,77,SEINE-ET-MARNE,Parti Socialiste Unifié,0.0
+2,77,SEINE-ET-MARNE,Parti communiste,67356.0
+2,77,SEINE-ET-MARNE,Parti communiste- apparentés,0.0
+2,77,SEINE-ET-MARNE,Radicaux de droite,0.0
+2,77,SEINE-ET-MARNE,Républicains Indépendants,0.0
+2,77,SEINE-ET-MARNE,Union des Démocrates pour la Vème République,104581.0
+2,77,SEINE-ET-MARNE,abstentions,55003.0
+2,77,SEINE-ET-MARNE,blancs_nuls,6982.0
+2,78,YVELINES,Alliance républicaine,0.0
+2,78,YVELINES,Centre Démocrate,8731.0
+2,78,YVELINES,Centristes ralliés,0.0
+2,78,YVELINES,Divers gaullistes,0.0
+2,78,YVELINES,Fédération de la Gauche Démocrate et Socialiste,58300.0
+2,78,YVELINES,Modérés,0.0
+2,78,YVELINES,Parti Socialiste Unifié,0.0
+2,78,YVELINES,Parti communiste,98483.0
+2,78,YVELINES,Parti communiste- apparentés,0.0
+2,78,YVELINES,Radicaux de droite,0.0
+2,78,YVELINES,Républicains Indépendants,17848.0
+2,78,YVELINES,Union des Démocrates pour la Vème République,143789.0
+2,78,YVELINES,abstentions,88154.0
+2,78,YVELINES,blancs_nuls,15439.0
+2,79,DEUX-SEVRES,Alliance républicaine,0.0
+2,79,DEUX-SEVRES,Centre Démocrate,25502.0
+2,79,DEUX-SEVRES,Centristes ralliés,29935.0
+2,79,DEUX-SEVRES,Divers gaullistes,0.0
+2,79,DEUX-SEVRES,Fédération de la Gauche Démocrate et Socialiste,43206.0
+2,79,DEUX-SEVRES,Modérés,0.0
+2,79,DEUX-SEVRES,Parti Socialiste Unifié,0.0
+2,79,DEUX-SEVRES,Parti communiste,0.0
+2,79,DEUX-SEVRES,Parti communiste- apparentés,0.0
+2,79,DEUX-SEVRES,Radicaux de droite,0.0
+2,79,DEUX-SEVRES,Républicains Indépendants,0.0
+2,79,DEUX-SEVRES,Union des Démocrates pour la Vème République,11625.0
+2,79,DEUX-SEVRES,abstentions,30981.0
+2,79,DEUX-SEVRES,blancs_nuls,2419.0
+2,80,SOMME,Alliance républicaine,0.0
+2,80,SOMME,Centre Démocrate,0.0
+2,80,SOMME,Centristes ralliés,0.0
+2,80,SOMME,Divers gaullistes,0.0
+2,80,SOMME,Fédération de la Gauche Démocrate et Socialiste,30059.0
+2,80,SOMME,Modérés,0.0
+2,80,SOMME,Parti Socialiste Unifié,0.0
+2,80,SOMME,Parti communiste,99506.0
+2,80,SOMME,Parti communiste- apparentés,0.0
+2,80,SOMME,Radicaux de droite,0.0
+2,80,SOMME,Républicains Indépendants,22867.0
+2,80,SOMME,Union des Démocrates pour la Vème République,95758.0
+2,80,SOMME,abstentions,39558.0
+2,80,SOMME,blancs_nuls,9939.0
+2,81,TARN,Alliance républicaine,0.0
+2,81,TARN,Centre Démocrate,0.0
+2,81,TARN,Centristes ralliés,0.0
+2,81,TARN,Divers gaullistes,0.0
+2,81,TARN,Fédération de la Gauche Démocrate et Socialiste,93026.0
+2,81,TARN,Modérés,0.0
+2,81,TARN,Parti Socialiste Unifié,0.0
+2,81,TARN,Parti communiste,0.0
+2,81,TARN,Parti communiste- apparentés,0.0
+2,81,TARN,Radicaux de droite,26388.0
+2,81,TARN,Républicains Indépendants,0.0
+2,81,TARN,Union des Démocrates pour la Vème République,52738.0
+2,81,TARN,abstentions,29730.0
+2,81,TARN,blancs_nuls,6616.0
+2,82,TARN-ET-GARONNE,Alliance républicaine,0.0
+2,82,TARN-ET-GARONNE,Centre Démocrate,0.0
+2,82,TARN-ET-GARONNE,Centristes ralliés,0.0
+2,82,TARN-ET-GARONNE,Divers gaullistes,0.0
+2,82,TARN-ET-GARONNE,Fédération de la Gauche Démocrate et Socialiste,51264.0
+2,82,TARN-ET-GARONNE,Modérés,0.0
+2,82,TARN-ET-GARONNE,Parti Socialiste Unifié,0.0
+2,82,TARN-ET-GARONNE,Parti communiste,0.0
+2,82,TARN-ET-GARONNE,Parti communiste- apparentés,0.0
+2,82,TARN-ET-GARONNE,Radicaux de droite,0.0
+2,82,TARN-ET-GARONNE,Républicains Indépendants,0.0
+2,82,TARN-ET-GARONNE,Union des Démocrates pour la Vème République,39795.0
+2,82,TARN-ET-GARONNE,abstentions,18098.0
+2,82,TARN-ET-GARONNE,blancs_nuls,2686.0
+2,83,VAR,Alliance républicaine,13865.0
+2,83,VAR,Centre Démocrate,0.0
+2,83,VAR,Centristes ralliés,0.0
+2,83,VAR,Divers gaullistes,0.0
+2,83,VAR,Fédération de la Gauche Démocrate et Socialiste,67602.0
+2,83,VAR,Modérés,0.0
+2,83,VAR,Parti Socialiste Unifié,0.0
+2,83,VAR,Parti communiste,54417.0
+2,83,VAR,Parti communiste- apparentés,0.0
+2,83,VAR,Radicaux de droite,0.0
+2,83,VAR,Républicains Indépendants,0.0
+2,83,VAR,Union des Démocrates pour la Vème République,105730.0
+2,83,VAR,abstentions,67930.0
+2,83,VAR,blancs_nuls,8704.0
+2,84,VAUCLUSE,Alliance républicaine,0.0
+2,84,VAUCLUSE,Centre Démocrate,0.0
+2,84,VAUCLUSE,Centristes ralliés,0.0
+2,84,VAUCLUSE,Divers gaullistes,0.0
+2,84,VAUCLUSE,Fédération de la Gauche Démocrate et Socialiste,66397.0
+2,84,VAUCLUSE,Modérés,0.0
+2,84,VAUCLUSE,Parti Socialiste Unifié,0.0
+2,84,VAUCLUSE,Parti communiste,24696.0
+2,84,VAUCLUSE,Parti communiste- apparentés,0.0
+2,84,VAUCLUSE,Radicaux de droite,0.0
+2,84,VAUCLUSE,Républicains Indépendants,0.0
+2,84,VAUCLUSE,Union des Démocrates pour la Vème République,64975.0
+2,84,VAUCLUSE,abstentions,33811.0
+2,84,VAUCLUSE,blancs_nuls,7229.0
+2,85,VENDEE,Alliance républicaine,0.0
+2,85,VENDEE,Centre Démocrate,34049.0
+2,85,VENDEE,Centristes ralliés,0.0
+2,85,VENDEE,Divers gaullistes,0.0
+2,85,VENDEE,Fédération de la Gauche Démocrate et Socialiste,20873.0
+2,85,VENDEE,Modérés,20146.0
+2,85,VENDEE,Parti Socialiste Unifié,0.0
+2,85,VENDEE,Parti communiste,0.0
+2,85,VENDEE,Parti communiste- apparentés,0.0
+2,85,VENDEE,Radicaux de droite,0.0
+2,85,VENDEE,Républicains Indépendants,24903.0
+2,85,VENDEE,Union des Démocrates pour la Vème République,47902.0
+2,85,VENDEE,abstentions,36712.0
+2,85,VENDEE,blancs_nuls,7267.0
+2,86,VIENNE,Alliance républicaine,0.0
+2,86,VIENNE,Centre Démocrate,24761.0
+2,86,VIENNE,Centristes ralliés,0.0
+2,86,VIENNE,Divers gaullistes,0.0
+2,86,VIENNE,Fédération de la Gauche Démocrate et Socialiste,24738.0
+2,86,VIENNE,Modérés,0.0
+2,86,VIENNE,Parti Socialiste Unifié,0.0
+2,86,VIENNE,Parti communiste,14473.0
+2,86,VIENNE,Parti communiste- apparentés,0.0
+2,86,VIENNE,Radicaux de droite,0.0
+2,86,VIENNE,Républicains Indépendants,0.0
+2,86,VIENNE,Union des Démocrates pour la Vème République,39356.0
+2,86,VIENNE,abstentions,31492.0
+2,86,VIENNE,blancs_nuls,3215.0
+2,87,HAUTE-VIENNE,Alliance républicaine,0.0
+2,87,HAUTE-VIENNE,Centre Démocrate,0.0
+2,87,HAUTE-VIENNE,Centristes ralliés,0.0
+2,87,HAUTE-VIENNE,Divers gaullistes,0.0
+2,87,HAUTE-VIENNE,Fédération de la Gauche Démocrate et Socialiste,79481.0
+2,87,HAUTE-VIENNE,Modérés,0.0
+2,87,HAUTE-VIENNE,Parti Socialiste Unifié,0.0
+2,87,HAUTE-VIENNE,Parti communiste,30186.0
+2,87,HAUTE-VIENNE,Parti communiste- apparentés,0.0
+2,87,HAUTE-VIENNE,Radicaux de droite,0.0
+2,87,HAUTE-VIENNE,Républicains Indépendants,0.0
+2,87,HAUTE-VIENNE,Union des Démocrates pour la Vème République,65843.0
+2,87,HAUTE-VIENNE,abstentions,44677.0
+2,87,HAUTE-VIENNE,blancs_nuls,6708.0
+2,88,VOSGES,Alliance républicaine,0.0
+2,88,VOSGES,Centre Démocrate,0.0
+2,88,VOSGES,Centristes ralliés,0.0
+2,88,VOSGES,Divers gaullistes,0.0
+2,88,VOSGES,Fédération de la Gauche Démocrate et Socialiste,26086.0
+2,88,VOSGES,Modérés,0.0
+2,88,VOSGES,Parti Socialiste Unifié,19845.0
+2,88,VOSGES,Parti communiste,0.0
+2,88,VOSGES,Parti communiste- apparentés,0.0
+2,88,VOSGES,Radicaux de droite,0.0
+2,88,VOSGES,Républicains Indépendants,0.0
+2,88,VOSGES,Union des Démocrates pour la Vème République,49041.0
+2,88,VOSGES,abstentions,23424.0
+2,88,VOSGES,blancs_nuls,2690.0
+2,89,YONNE,Alliance républicaine,0.0
+2,89,YONNE,Centre Démocrate,0.0
+2,89,YONNE,Centristes ralliés,0.0
+2,89,YONNE,Divers gaullistes,0.0
+2,89,YONNE,Fédération de la Gauche Démocrate et Socialiste,22181.0
+2,89,YONNE,Modérés,0.0
+2,89,YONNE,Parti Socialiste Unifié,0.0
+2,89,YONNE,Parti communiste,22853.0
+2,89,YONNE,Parti communiste- apparentés,0.0
+2,89,YONNE,Radicaux de droite,0.0
+2,89,YONNE,Républicains Indépendants,18878.0
+2,89,YONNE,Union des Démocrates pour la Vème République,26283.0
+2,89,YONNE,abstentions,25164.0
+2,89,YONNE,blancs_nuls,3996.0
+2,90,TERRITOIRE DE BELFORT,Alliance républicaine,0.0
+2,90,TERRITOIRE DE BELFORT,Centre Démocrate,0.0
+2,90,TERRITOIRE DE BELFORT,Centristes ralliés,0.0
+2,90,TERRITOIRE DE BELFORT,Divers gaullistes,0.0
+2,90,TERRITOIRE DE BELFORT,Fédération de la Gauche Démocrate et Socialiste,25477.0
+2,90,TERRITOIRE DE BELFORT,Modérés,0.0
+2,90,TERRITOIRE DE BELFORT,Parti Socialiste Unifié,0.0
+2,90,TERRITOIRE DE BELFORT,Parti communiste,0.0
+2,90,TERRITOIRE DE BELFORT,Parti communiste- apparentés,0.0
+2,90,TERRITOIRE DE BELFORT,Radicaux de droite,0.0
+2,90,TERRITOIRE DE BELFORT,Républicains Indépendants,0.0
+2,90,TERRITOIRE DE BELFORT,Union des Démocrates pour la Vème République,24980.0
+2,90,TERRITOIRE DE BELFORT,abstentions,12255.0
+2,90,TERRITOIRE DE BELFORT,blancs_nuls,1301.0
+2,91,ESSONNE,Alliance républicaine,0.0
+2,91,ESSONNE,Centre Démocrate,0.0
+2,91,ESSONNE,Centristes ralliés,0.0
+2,91,ESSONNE,Divers gaullistes,0.0
+2,91,ESSONNE,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,91,ESSONNE,Modérés,0.0
+2,91,ESSONNE,Parti Socialiste Unifié,0.0
+2,91,ESSONNE,Parti communiste,134127.0
+2,91,ESSONNE,Parti communiste- apparentés,0.0
+2,91,ESSONNE,Radicaux de droite,0.0
+2,91,ESSONNE,Républicains Indépendants,0.0
+2,91,ESSONNE,Union des Démocrates pour la Vème République,125583.0
+2,91,ESSONNE,abstentions,55721.0
+2,91,ESSONNE,blancs_nuls,11896.0
+2,92,HAUTS-DE-SEINE,Alliance républicaine,0.0
+2,92,HAUTS-DE-SEINE,Centre Démocrate,13875.0
+2,92,HAUTS-DE-SEINE,Centristes ralliés,0.0
+2,92,HAUTS-DE-SEINE,Divers gaullistes,0.0
+2,92,HAUTS-DE-SEINE,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,92,HAUTS-DE-SEINE,Modérés,0.0
+2,92,HAUTS-DE-SEINE,Parti Socialiste Unifié,0.0
+2,92,HAUTS-DE-SEINE,Parti communiste,280042.0
+2,92,HAUTS-DE-SEINE,Parti communiste- apparentés,0.0
+2,92,HAUTS-DE-SEINE,Radicaux de droite,0.0
+2,92,HAUTS-DE-SEINE,Républicains Indépendants,21201.0
+2,92,HAUTS-DE-SEINE,Union des Démocrates pour la Vème République,273717.0
+2,92,HAUTS-DE-SEINE,abstentions,163608.0
+2,92,HAUTS-DE-SEINE,blancs_nuls,26240.0
+2,93,SEINE-SAINT-DENIS,Alliance républicaine,0.0
+2,93,SEINE-SAINT-DENIS,Centre Démocrate,0.0
+2,93,SEINE-SAINT-DENIS,Centristes ralliés,0.0
+2,93,SEINE-SAINT-DENIS,Divers gaullistes,0.0
+2,93,SEINE-SAINT-DENIS,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,93,SEINE-SAINT-DENIS,Modérés,0.0
+2,93,SEINE-SAINT-DENIS,Parti Socialiste Unifié,0.0
+2,93,SEINE-SAINT-DENIS,Parti communiste,190970.0
+2,93,SEINE-SAINT-DENIS,Parti communiste- apparentés,0.0
+2,93,SEINE-SAINT-DENIS,Radicaux de droite,0.0
+2,93,SEINE-SAINT-DENIS,Républicains Indépendants,25815.0
+2,93,SEINE-SAINT-DENIS,Union des Démocrates pour la Vème République,130396.0
+2,93,SEINE-SAINT-DENIS,abstentions,91185.0
+2,93,SEINE-SAINT-DENIS,blancs_nuls,13673.0
+2,94,VAL-DE-MARNE,Alliance républicaine,0.0
+2,94,VAL-DE-MARNE,Centre Démocrate,0.0
+2,94,VAL-DE-MARNE,Centristes ralliés,0.0
+2,94,VAL-DE-MARNE,Divers gaullistes,0.0
+2,94,VAL-DE-MARNE,Fédération de la Gauche Démocrate et Socialiste,0.0
+2,94,VAL-DE-MARNE,Modérés,0.0
+2,94,VAL-DE-MARNE,Parti Socialiste Unifié,0.0
+2,94,VAL-DE-MARNE,Parti communiste,194451.0
+2,94,VAL-DE-MARNE,Parti communiste- apparentés,0.0
+2,94,VAL-DE-MARNE,Radicaux de droite,0.0
+2,94,VAL-DE-MARNE,Républicains Indépendants,27866.0
+2,94,VAL-DE-MARNE,Union des Démocrates pour la Vème République,174367.0
+2,94,VAL-DE-MARNE,abstentions,104849.0
+2,94,VAL-DE-MARNE,blancs_nuls,19128.0
+2,95,VAL-D'OISE,Alliance républicaine,0.0
+2,95,VAL-D'OISE,Centre Démocrate,0.0
+2,95,VAL-D'OISE,Centristes ralliés,0.0
+2,95,VAL-D'OISE,Divers gaullistes,0.0
+2,95,VAL-D'OISE,Fédération de la Gauche Démocrate et Socialiste,31740.0
+2,95,VAL-D'OISE,Modérés,0.0
+2,95,VAL-D'OISE,Parti Socialiste Unifié,0.0
+2,95,VAL-D'OISE,Parti communiste,80860.0
+2,95,VAL-D'OISE,Parti communiste- apparentés,0.0
+2,95,VAL-D'OISE,Radicaux de droite,0.0
+2,95,VAL-D'OISE,Républicains Indépendants,0.0
+2,95,VAL-D'OISE,Union des Démocrates pour la Vème République,113233.0
+2,95,VAL-D'OISE,abstentions,54225.0
+2,95,VAL-D'OISE,blancs_nuls,9252.0
