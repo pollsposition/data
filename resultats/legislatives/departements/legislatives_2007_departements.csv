@@ -1,0 +1,3988 @@
+tour,code_departement,departement,code_nuance,nuance,voix
+1,01,AIN,COM,Communiste,6225
+1,01,AIN,CPNT,Chasse Pêche Nature Traditions,1682
+1,01,AIN,DIV,Divers,450
+1,01,AIN,DVD,Divers droite,0
+1,01,AIN,DVG,Divers gauche,0
+1,01,AIN,ECO,Ecologiste,2688
+1,01,AIN,EXD,Extrême droite,380
+1,01,AIN,EXG,Extrême gauche,7710
+1,01,AIN,FN,Front national,11189
+1,01,AIN,MAJ,Majorité présidentielle,0
+1,01,AIN,MPF,Mouvement pour la France,3492
+1,01,AIN,RDG,Radical de gauche,9217
+1,01,AIN,REG,Régionaliste,0
+1,01,AIN,SOC,Socialiste,37828
+1,01,AIN,UDFD,UDF-Mouvement Démocrate,16170
+1,01,AIN,UMP,Union pour un Mouvement Populaire,108783
+1,01,AIN,VEC,Les Verts,7250
+1,01,AIN,abstentions,abstentions,159204
+1,01,AIN,blancs_nuls,blancs_nuls,3241
+1,02,AISNE,COM,Communiste,5729
+1,02,AISNE,CPNT,Chasse Pêche Nature Traditions,2367
+1,02,AISNE,DIV,Divers,1967
+1,02,AISNE,DVD,Divers droite,1185
+1,02,AISNE,DVG,Divers gauche,32359
+1,02,AISNE,ECO,Ecologiste,979
+1,02,AISNE,EXD,Extrême droite,510
+1,02,AISNE,EXG,Extrême gauche,7939
+1,02,AISNE,FN,Front national,15885
+1,02,AISNE,MAJ,Majorité présidentielle,0
+1,02,AISNE,MPF,Mouvement pour la France,4270
+1,02,AISNE,RDG,Radical de gauche,0
+1,02,AISNE,REG,Régionaliste,0
+1,02,AISNE,SOC,Socialiste,54352
+1,02,AISNE,UDFD,UDF-Mouvement Démocrate,8863
+1,02,AISNE,UMP,Union pour un Mouvement Populaire,85367
+1,02,AISNE,VEC,Les Verts,3580
+1,02,AISNE,abstentions,abstentions,149087
+1,02,AISNE,blancs_nuls,blancs_nuls,4095
+1,03,ALLIER,COM,Communiste,20673
+1,03,ALLIER,CPNT,Chasse Pêche Nature Traditions,629
+1,03,ALLIER,DIV,Divers,704
+1,03,ALLIER,DVD,Divers droite,1
+1,03,ALLIER,DVG,Divers gauche,10975
+1,03,ALLIER,ECO,Ecologiste,1691
+1,03,ALLIER,EXD,Extrême droite,117
+1,03,ALLIER,EXG,Extrême gauche,4010
+1,03,ALLIER,FN,Front national,5140
+1,03,ALLIER,MAJ,Majorité présidentielle,0
+1,03,ALLIER,MPF,Mouvement pour la France,2135
+1,03,ALLIER,RDG,Radical de gauche,15729
+1,03,ALLIER,REG,Régionaliste,0
+1,03,ALLIER,SOC,Socialiste,24171
+1,03,ALLIER,UDFD,UDF-Mouvement Démocrate,8296
+1,03,ALLIER,UMP,Union pour un Mouvement Populaire,65548
+1,03,ALLIER,VEC,Les Verts,2648
+1,03,ALLIER,abstentions,abstentions,94097
+1,03,ALLIER,blancs_nuls,blancs_nuls,3677
+1,04,ALPES DE HAUTE PROVENCE,COM,Communiste,3093
+1,04,ALPES DE HAUTE PROVENCE,CPNT,Chasse Pêche Nature Traditions,1345
+1,04,ALPES DE HAUTE PROVENCE,DIV,Divers,556
+1,04,ALPES DE HAUTE PROVENCE,DVD,Divers droite,109
+1,04,ALPES DE HAUTE PROVENCE,DVG,Divers gauche,0
+1,04,ALPES DE HAUTE PROVENCE,ECO,Ecologiste,782
+1,04,ALPES DE HAUTE PROVENCE,EXD,Extrême droite,438
+1,04,ALPES DE HAUTE PROVENCE,EXG,Extrême gauche,2429
+1,04,ALPES DE HAUTE PROVENCE,FN,Front national,3302
+1,04,ALPES DE HAUTE PROVENCE,MAJ,Majorité présidentielle,0
+1,04,ALPES DE HAUTE PROVENCE,MPF,Mouvement pour la France,969
+1,04,ALPES DE HAUTE PROVENCE,RDG,Radical de gauche,0
+1,04,ALPES DE HAUTE PROVENCE,REG,Régionaliste,0
+1,04,ALPES DE HAUTE PROVENCE,SOC,Socialiste,25134
+1,04,ALPES DE HAUTE PROVENCE,UDFD,UDF-Mouvement Démocrate,4110
+1,04,ALPES DE HAUTE PROVENCE,UMP,Union pour un Mouvement Populaire,32994
+1,04,ALPES DE HAUTE PROVENCE,VEC,Les Verts,2397
+1,04,ALPES DE HAUTE PROVENCE,abstentions,abstentions,40276
+1,04,ALPES DE HAUTE PROVENCE,blancs_nuls,blancs_nuls,1425
+1,05,HAUTES ALPES,COM,Communiste,618
+1,05,HAUTES ALPES,CPNT,Chasse Pêche Nature Traditions,1132
+1,05,HAUTES ALPES,DIV,Divers,540
+1,05,HAUTES ALPES,DVD,Divers droite,0
+1,05,HAUTES ALPES,DVG,Divers gauche,0
+1,05,HAUTES ALPES,ECO,Ecologiste,645
+1,05,HAUTES ALPES,EXD,Extrême droite,225
+1,05,HAUTES ALPES,EXG,Extrême gauche,4391
+1,05,HAUTES ALPES,FN,Front national,1760
+1,05,HAUTES ALPES,MAJ,Majorité présidentielle,0
+1,05,HAUTES ALPES,MPF,Mouvement pour la France,536
+1,05,HAUTES ALPES,RDG,Radical de gauche,11248
+1,05,HAUTES ALPES,REG,Régionaliste,0
+1,05,HAUTES ALPES,SOC,Socialiste,7972
+1,05,HAUTES ALPES,UDFD,UDF-Mouvement Démocrate,10571
+1,05,HAUTES ALPES,UMP,Union pour un Mouvement Populaire,25402
+1,05,HAUTES ALPES,VEC,Les Verts,2507
+1,05,HAUTES ALPES,abstentions,abstentions,34719
+1,05,HAUTES ALPES,blancs_nuls,blancs_nuls,1255
+1,06,ALPES MARITIMES,COM,Communiste,14981
+1,06,ALPES MARITIMES,CPNT,Chasse Pêche Nature Traditions,799
+1,06,ALPES MARITIMES,DIV,Divers,3093
+1,06,ALPES MARITIMES,DVD,Divers droite,14921
+1,06,ALPES MARITIMES,DVG,Divers gauche,135
+1,06,ALPES MARITIMES,ECO,Ecologiste,5257
+1,06,ALPES MARITIMES,EXD,Extrême droite,5979
+1,06,ALPES MARITIMES,EXG,Extrême gauche,6984
+1,06,ALPES MARITIMES,FN,Front national,26331
+1,06,ALPES MARITIMES,MAJ,Majorité présidentielle,21805
+1,06,ALPES MARITIMES,MPF,Mouvement pour la France,2299
+1,06,ALPES MARITIMES,RDG,Radical de gauche,7372
+1,06,ALPES MARITIMES,REG,Régionaliste,0
+1,06,ALPES MARITIMES,SOC,Socialiste,49716
+1,06,ALPES MARITIMES,UDFD,UDF-Mouvement Démocrate,18744
+1,06,ALPES MARITIMES,UMP,Union pour un Mouvement Populaire,221466
+1,06,ALPES MARITIMES,VEC,Les Verts,31974
+1,06,ALPES MARITIMES,abstentions,abstentions,292842
+1,06,ALPES MARITIMES,blancs_nuls,blancs_nuls,5962
+1,07,ARDECHE,COM,Communiste,6719
+1,07,ARDECHE,CPNT,Chasse Pêche Nature Traditions,2853
+1,07,ARDECHE,DIV,Divers,1054
+1,07,ARDECHE,DVD,Divers droite,9171
+1,07,ARDECHE,DVG,Divers gauche,3952
+1,07,ARDECHE,ECO,Ecologiste,1085
+1,07,ARDECHE,EXD,Extrême droite,504
+1,07,ARDECHE,EXG,Extrême gauche,5653
+1,07,ARDECHE,FN,Front national,5370
+1,07,ARDECHE,MAJ,Majorité présidentielle,1363
+1,07,ARDECHE,MPF,Mouvement pour la France,1290
+1,07,ARDECHE,RDG,Radical de gauche,0
+1,07,ARDECHE,REG,Régionaliste,114
+1,07,ARDECHE,SOC,Socialiste,43265
+1,07,ARDECHE,UDFD,UDF-Mouvement Démocrate,9468
+1,07,ARDECHE,UMP,Union pour un Mouvement Populaire,52305
+1,07,ARDECHE,VEC,Les Verts,4537
+1,07,ARDECHE,abstentions,abstentions,84707
+1,07,ARDECHE,blancs_nuls,blancs_nuls,2568
+1,08,ARDENNES,COM,Communiste,3532
+1,08,ARDENNES,CPNT,Chasse Pêche Nature Traditions,0
+1,08,ARDENNES,DIV,Divers,245
+1,08,ARDENNES,DVD,Divers droite,0
+1,08,ARDENNES,DVG,Divers gauche,9870
+1,08,ARDENNES,ECO,Ecologiste,304
+1,08,ARDENNES,EXD,Extrême droite,826
+1,08,ARDENNES,EXG,Extrême gauche,3604
+1,08,ARDENNES,FN,Front national,5240
+1,08,ARDENNES,MAJ,Majorité présidentielle,0
+1,08,ARDENNES,MPF,Mouvement pour la France,1050
+1,08,ARDENNES,RDG,Radical de gauche,0
+1,08,ARDENNES,REG,Régionaliste,0
+1,08,ARDENNES,SOC,Socialiste,25273
+1,08,ARDENNES,UDFD,UDF-Mouvement Démocrate,7349
+1,08,ARDENNES,UMP,Union pour un Mouvement Populaire,56640
+1,08,ARDENNES,VEC,Les Verts,1976
+1,08,ARDENNES,abstentions,abstentions,82238
+1,08,ARDENNES,blancs_nuls,blancs_nuls,1577
+1,09,ARIEGE,COM,Communiste,4444
+1,09,ARIEGE,CPNT,Chasse Pêche Nature Traditions,1743
+1,09,ARIEGE,DIV,Divers,792
+1,09,ARIEGE,DVD,Divers droite,0
+1,09,ARIEGE,DVG,Divers gauche,0
+1,09,ARIEGE,ECO,Ecologiste,244
+1,09,ARIEGE,EXD,Extrême droite,325
+1,09,ARIEGE,EXG,Extrême gauche,2927
+1,09,ARIEGE,FN,Front national,2181
+1,09,ARIEGE,MAJ,Majorité présidentielle,301
+1,09,ARIEGE,MPF,Mouvement pour la France,1237
+1,09,ARIEGE,RDG,Radical de gauche,0
+1,09,ARIEGE,REG,Régionaliste,0
+1,09,ARIEGE,SOC,Socialiste,31820
+1,09,ARIEGE,UDFD,UDF-Mouvement Démocrate,4097
+1,09,ARIEGE,UMP,Union pour un Mouvement Populaire,20120
+1,09,ARIEGE,VEC,Les Verts,2402
+1,09,ARIEGE,abstentions,abstentions,39619
+1,09,ARIEGE,blancs_nuls,blancs_nuls,2033
+1,10,AUBE,COM,Communiste,5347
+1,10,AUBE,CPNT,Chasse Pêche Nature Traditions,0
+1,10,AUBE,DIV,Divers,1684
+1,10,AUBE,DVD,Divers droite,4643
+1,10,AUBE,DVG,Divers gauche,0
+1,10,AUBE,ECO,Ecologiste,1376
+1,10,AUBE,EXD,Extrême droite,830
+1,10,AUBE,EXG,Extrême gauche,2672
+1,10,AUBE,FN,Front national,9696
+1,10,AUBE,MAJ,Majorité présidentielle,0
+1,10,AUBE,MPF,Mouvement pour la France,1893
+1,10,AUBE,RDG,Radical de gauche,6680
+1,10,AUBE,REG,Régionaliste,0
+1,10,AUBE,SOC,Socialiste,15721
+1,10,AUBE,UDFD,UDF-Mouvement Démocrate,6829
+1,10,AUBE,UMP,Union pour un Mouvement Populaire,56817
+1,10,AUBE,VEC,Les Verts,3453
+1,10,AUBE,abstentions,abstentions,85790
+1,10,AUBE,blancs_nuls,blancs_nuls,2339
+1,11,AUDE,COM,Communiste,6856
+1,11,AUDE,CPNT,Chasse Pêche Nature Traditions,2405
+1,11,AUDE,DIV,Divers,680
+1,11,AUDE,DVD,Divers droite,1
+1,11,AUDE,DVG,Divers gauche,0
+1,11,AUDE,ECO,Ecologiste,1326
+1,11,AUDE,EXD,Extrême droite,1028
+1,11,AUDE,EXG,Extrême gauche,5730
+1,11,AUDE,FN,Front national,8043
+1,11,AUDE,MAJ,Majorité présidentielle,546
+1,11,AUDE,MPF,Mouvement pour la France,808
+1,11,AUDE,RDG,Radical de gauche,0
+1,11,AUDE,REG,Régionaliste,242
+1,11,AUDE,SOC,Socialiste,63741
+1,11,AUDE,UDFD,UDF-Mouvement Démocrate,8134
+1,11,AUDE,UMP,Union pour un Mouvement Populaire,60403
+1,11,AUDE,VEC,Les Verts,3677
+1,11,AUDE,abstentions,abstentions,87670
+1,11,AUDE,blancs_nuls,blancs_nuls,3530
+1,12,AVEYRON,COM,Communiste,3597
+1,12,AVEYRON,CPNT,Chasse Pêche Nature Traditions,2440
+1,12,AVEYRON,DIV,Divers,1111
+1,12,AVEYRON,DVD,Divers droite,0
+1,12,AVEYRON,DVG,Divers gauche,2751
+1,12,AVEYRON,ECO,Ecologiste,1589
+1,12,AVEYRON,EXD,Extrême droite,129
+1,12,AVEYRON,EXG,Extrême gauche,4907
+1,12,AVEYRON,FN,Front national,3217
+1,12,AVEYRON,MAJ,Majorité présidentielle,6535
+1,12,AVEYRON,MPF,Mouvement pour la France,0
+1,12,AVEYRON,RDG,Radical de gauche,4833
+1,12,AVEYRON,REG,Régionaliste,431
+1,12,AVEYRON,SOC,Socialiste,37577
+1,12,AVEYRON,UDFD,UDF-Mouvement Démocrate,12528
+1,12,AVEYRON,UMP,Union pour un Mouvement Populaire,60333
+1,12,AVEYRON,VEC,Les Verts,2796
+1,12,AVEYRON,abstentions,abstentions,69771
+1,12,AVEYRON,blancs_nuls,blancs_nuls,3879
+1,13,BOUCHES DU RHONE,COM,Communiste,62461
+1,13,BOUCHES DU RHONE,CPNT,Chasse Pêche Nature Traditions,5495
+1,13,BOUCHES DU RHONE,DIV,Divers,7332
+1,13,BOUCHES DU RHONE,DVD,Divers droite,19224
+1,13,BOUCHES DU RHONE,DVG,Divers gauche,10480
+1,13,BOUCHES DU RHONE,ECO,Ecologiste,12882
+1,13,BOUCHES DU RHONE,EXD,Extrême droite,5424
+1,13,BOUCHES DU RHONE,EXG,Extrême gauche,20731
+1,13,BOUCHES DU RHONE,FN,Front national,47502
+1,13,BOUCHES DU RHONE,MAJ,Majorité présidentielle,0
+1,13,BOUCHES DU RHONE,MPF,Mouvement pour la France,6094
+1,13,BOUCHES DU RHONE,RDG,Radical de gauche,7083
+1,13,BOUCHES DU RHONE,REG,Régionaliste,975
+1,13,BOUCHES DU RHONE,SOC,Socialiste,150026
+1,13,BOUCHES DU RHONE,UDFD,UDF-Mouvement Démocrate,45936
+1,13,BOUCHES DU RHONE,UMP,Union pour un Mouvement Populaire,317351
+1,13,BOUCHES DU RHONE,VEC,Les Verts,11004
+1,13,BOUCHES DU RHONE,abstentions,abstentions,528273
+1,13,BOUCHES DU RHONE,blancs_nuls,blancs_nuls,11219
+1,14,CALVADOS,COM,Communiste,7476
+1,14,CALVADOS,CPNT,Chasse Pêche Nature Traditions,6651
+1,14,CALVADOS,DIV,Divers,2573
+1,14,CALVADOS,DVD,Divers droite,11512
+1,14,CALVADOS,DVG,Divers gauche,803
+1,14,CALVADOS,ECO,Ecologiste,2123
+1,14,CALVADOS,EXD,Extrême droite,730
+1,14,CALVADOS,EXG,Extrême gauche,11899
+1,14,CALVADOS,FN,Front national,9227
+1,14,CALVADOS,MAJ,Majorité présidentielle,27975
+1,14,CALVADOS,MPF,Mouvement pour la France,3598
+1,14,CALVADOS,RDG,Radical de gauche,16248
+1,14,CALVADOS,REG,Régionaliste,0
+1,14,CALVADOS,SOC,Socialiste,69297
+1,14,CALVADOS,UDFD,UDF-Mouvement Démocrate,13741
+1,14,CALVADOS,UMP,Union pour un Mouvement Populaire,100521
+1,14,CALVADOS,VEC,Les Verts,9197
+1,14,CALVADOS,abstentions,abstentions,185891
+1,14,CALVADOS,blancs_nuls,blancs_nuls,5139
+1,15,CANTAL,COM,Communiste,2041
+1,15,CANTAL,CPNT,Chasse Pêche Nature Traditions,0
+1,15,CANTAL,DIV,Divers,205
+1,15,CANTAL,DVD,Divers droite,4205
+1,15,CANTAL,DVG,Divers gauche,3578
+1,15,CANTAL,ECO,Ecologiste,525
+1,15,CANTAL,EXD,Extrême droite,0
+1,15,CANTAL,EXG,Extrême gauche,1634
+1,15,CANTAL,FN,Front national,539
+1,15,CANTAL,MAJ,Majorité présidentielle,0
+1,15,CANTAL,MPF,Mouvement pour la France,217
+1,15,CANTAL,RDG,Radical de gauche,0
+1,15,CANTAL,REG,Régionaliste,0
+1,15,CANTAL,SOC,Socialiste,17276
+1,15,CANTAL,UDFD,UDF-Mouvement Démocrate,3783
+1,15,CANTAL,UMP,Union pour un Mouvement Populaire,41473
+1,15,CANTAL,VEC,Les Verts,1879
+1,15,CANTAL,abstentions,abstentions,44468
+1,15,CANTAL,blancs_nuls,blancs_nuls,1642
+1,16,CHARENTE,COM,Communiste,3360
+1,16,CHARENTE,CPNT,Chasse Pêche Nature Traditions,2145
+1,16,CHARENTE,DIV,Divers,1000
+1,16,CHARENTE,DVD,Divers droite,7628
+1,16,CHARENTE,DVG,Divers gauche,13782
+1,16,CHARENTE,ECO,Ecologiste,287
+1,16,CHARENTE,EXD,Extrême droite,528
+1,16,CHARENTE,EXG,Extrême gauche,4837
+1,16,CHARENTE,FN,Front national,4409
+1,16,CHARENTE,MAJ,Majorité présidentielle,234
+1,16,CHARENTE,MPF,Mouvement pour la France,1880
+1,16,CHARENTE,RDG,Radical de gauche,629
+1,16,CHARENTE,REG,Régionaliste,123
+1,16,CHARENTE,SOC,Socialiste,51853
+1,16,CHARENTE,UDFD,UDF-Mouvement Démocrate,11323
+1,16,CHARENTE,UMP,Union pour un Mouvement Populaire,50562
+1,16,CHARENTE,VEC,Les Verts,4575
+1,16,CHARENTE,abstentions,abstentions,97949
+1,16,CHARENTE,blancs_nuls,blancs_nuls,3585
+1,17,CHARENTE MARITIME,COM,Communiste,7222
+1,17,CHARENTE MARITIME,CPNT,Chasse Pêche Nature Traditions,7593
+1,17,CHARENTE MARITIME,DIV,Divers,2923
+1,17,CHARENTE MARITIME,DVD,Divers droite,403
+1,17,CHARENTE MARITIME,DVG,Divers gauche,647
+1,17,CHARENTE MARITIME,ECO,Ecologiste,1096
+1,17,CHARENTE MARITIME,EXD,Extrême droite,0
+1,17,CHARENTE MARITIME,EXG,Extrême gauche,8959
+1,17,CHARENTE MARITIME,FN,Front national,8905
+1,17,CHARENTE MARITIME,MAJ,Majorité présidentielle,1719
+1,17,CHARENTE MARITIME,MPF,Mouvement pour la France,4638
+1,17,CHARENTE MARITIME,RDG,Radical de gauche,10798
+1,17,CHARENTE MARITIME,REG,Régionaliste,0
+1,17,CHARENTE MARITIME,SOC,Socialiste,67886
+1,17,CHARENTE MARITIME,UDFD,UDF-Mouvement Démocrate,19289
+1,17,CHARENTE MARITIME,UMP,Union pour un Mouvement Populaire,121774
+1,17,CHARENTE MARITIME,VEC,Les Verts,8113
+1,17,CHARENTE MARITIME,abstentions,abstentions,176705
+1,17,CHARENTE MARITIME,blancs_nuls,blancs_nuls,5529
+1,18,CHER,COM,Communiste,14946
+1,18,CHER,CPNT,Chasse Pêche Nature Traditions,2210
+1,18,CHER,DIV,Divers,558
+1,18,CHER,DVD,Divers droite,0
+1,18,CHER,DVG,Divers gauche,1628
+1,18,CHER,ECO,Ecologiste,249
+1,18,CHER,EXD,Extrême droite,199
+1,18,CHER,EXG,Extrême gauche,5456
+1,18,CHER,FN,Front national,6969
+1,18,CHER,MAJ,Majorité présidentielle,0
+1,18,CHER,MPF,Mouvement pour la France,1892
+1,18,CHER,RDG,Radical de gauche,0
+1,18,CHER,REG,Régionaliste,0
+1,18,CHER,SOC,Socialiste,32571
+1,18,CHER,UDFD,UDF-Mouvement Démocrate,10906
+1,18,CHER,UMP,Union pour un Mouvement Populaire,56140
+1,18,CHER,VEC,Les Verts,3381
+1,18,CHER,abstentions,abstentions,92386
+1,18,CHER,blancs_nuls,blancs_nuls,3137
+1,19,CORREZE,COM,Communiste,7568
+1,19,CORREZE,CPNT,Chasse Pêche Nature Traditions,2147
+1,19,CORREZE,DIV,Divers,653
+1,19,CORREZE,DVD,Divers droite,0
+1,19,CORREZE,DVG,Divers gauche,0
+1,19,CORREZE,ECO,Ecologiste,221
+1,19,CORREZE,EXD,Extrême droite,466
+1,19,CORREZE,EXG,Extrême gauche,3611
+1,19,CORREZE,FN,Front national,2166
+1,19,CORREZE,MAJ,Majorité présidentielle,0
+1,19,CORREZE,MPF,Mouvement pour la France,1754
+1,19,CORREZE,RDG,Radical de gauche,0
+1,19,CORREZE,REG,Régionaliste,0
+1,19,CORREZE,SOC,Socialiste,48692
+1,19,CORREZE,UDFD,UDF-Mouvement Démocrate,7241
+1,19,CORREZE,UMP,Union pour un Mouvement Populaire,52094
+1,19,CORREZE,VEC,Les Verts,2032
+1,19,CORREZE,abstentions,abstentions,55843
+1,19,CORREZE,blancs_nuls,blancs_nuls,3105
+1,21,COTE D'OR,COM,Communiste,4102
+1,21,COTE D'OR,CPNT,Chasse Pêche Nature Traditions,0
+1,21,COTE D'OR,DIV,Divers,1618
+1,21,COTE D'OR,DVD,Divers droite,1142
+1,21,COTE D'OR,DVG,Divers gauche,276
+1,21,COTE D'OR,ECO,Ecologiste,2013
+1,21,COTE D'OR,EXD,Extrême droite,1062
+1,21,COTE D'OR,EXG,Extrême gauche,7325
+1,21,COTE D'OR,FN,Front national,9492
+1,21,COTE D'OR,MAJ,Majorité présidentielle,22390
+1,21,COTE D'OR,MPF,Mouvement pour la France,3100
+1,21,COTE D'OR,RDG,Radical de gauche,11786
+1,21,COTE D'OR,REG,Régionaliste,0
+1,21,COTE D'OR,SOC,Socialiste,48149
+1,21,COTE D'OR,UDFD,UDF-Mouvement Démocrate,12472
+1,21,COTE D'OR,UMP,Union pour un Mouvement Populaire,80114
+1,21,COTE D'OR,VEC,Les Verts,6553
+1,21,COTE D'OR,abstentions,abstentions,136128
+1,21,COTE D'OR,blancs_nuls,blancs_nuls,3567
+1,22,COTES D'ARMOR,COM,Communiste,15132
+1,22,COTES D'ARMOR,CPNT,Chasse Pêche Nature Traditions,2691
+1,22,COTES D'ARMOR,DIV,Divers,852
+1,22,COTES D'ARMOR,DVD,Divers droite,1449
+1,22,COTES D'ARMOR,DVG,Divers gauche,796
+1,22,COTES D'ARMOR,ECO,Ecologiste,1050
+1,22,COTES D'ARMOR,EXD,Extrême droite,254
+1,22,COTES D'ARMOR,EXG,Extrême gauche,12435
+1,22,COTES D'ARMOR,FN,Front national,7090
+1,22,COTES D'ARMOR,MAJ,Majorité présidentielle,0
+1,22,COTES D'ARMOR,MPF,Mouvement pour la France,4450
+1,22,COTES D'ARMOR,RDG,Radical de gauche,1175
+1,22,COTES D'ARMOR,REG,Régionaliste,4035
+1,22,COTES D'ARMOR,SOC,Socialiste,105035
+1,22,COTES D'ARMOR,UDFD,UDF-Mouvement Démocrate,18892
+1,22,COTES D'ARMOR,UMP,Union pour un Mouvement Populaire,107577
+1,22,COTES D'ARMOR,VEC,Les Verts,9613
+1,22,COTES D'ARMOR,abstentions,abstentions,149314
+1,22,COTES D'ARMOR,blancs_nuls,blancs_nuls,5389
+1,23,CREUSE,COM,Communiste,2290
+1,23,CREUSE,CPNT,Chasse Pêche Nature Traditions,607
+1,23,CREUSE,DIV,Divers,389
+1,23,CREUSE,DVD,Divers droite,0
+1,23,CREUSE,DVG,Divers gauche,9621
+1,23,CREUSE,ECO,Ecologiste,253
+1,23,CREUSE,EXD,Extrême droite,575
+1,23,CREUSE,EXG,Extrême gauche,2832
+1,23,CREUSE,FN,Front national,609
+1,23,CREUSE,MAJ,Majorité présidentielle,104
+1,23,CREUSE,MPF,Mouvement pour la France,280
+1,23,CREUSE,RDG,Radical de gauche,0
+1,23,CREUSE,REG,Régionaliste,239
+1,23,CREUSE,SOC,Socialiste,14442
+1,23,CREUSE,UDFD,UDF-Mouvement Démocrate,6518
+1,23,CREUSE,UMP,Union pour un Mouvement Populaire,24870
+1,23,CREUSE,VEC,Les Verts,359
+1,23,CREUSE,abstentions,abstentions,34223
+1,23,CREUSE,blancs_nuls,blancs_nuls,1646
+1,24,DORDOGNE,COM,Communiste,17572
+1,24,DORDOGNE,CPNT,Chasse Pêche Nature Traditions,3504
+1,24,DORDOGNE,DIV,Divers,1775
+1,24,DORDOGNE,DVD,Divers droite,657
+1,24,DORDOGNE,DVG,Divers gauche,0
+1,24,DORDOGNE,ECO,Ecologiste,1795
+1,24,DORDOGNE,EXD,Extrême droite,284
+1,24,DORDOGNE,EXG,Extrême gauche,6309
+1,24,DORDOGNE,FN,Front national,7241
+1,24,DORDOGNE,MAJ,Majorité présidentielle,0
+1,24,DORDOGNE,MPF,Mouvement pour la France,3261
+1,24,DORDOGNE,RDG,Radical de gauche,0
+1,24,DORDOGNE,REG,Régionaliste,407
+1,24,DORDOGNE,SOC,Socialiste,71482
+1,24,DORDOGNE,UDFD,UDF-Mouvement Démocrate,14464
+1,24,DORDOGNE,UMP,Union pour un Mouvement Populaire,76033
+1,24,DORDOGNE,VEC,Les Verts,3880
+1,24,DORDOGNE,abstentions,abstentions,96224
+1,24,DORDOGNE,blancs_nuls,blancs_nuls,5085
+1,25,DOUBS,COM,Communiste,3538
+1,25,DOUBS,CPNT,Chasse Pêche Nature Traditions,1357
+1,25,DOUBS,DIV,Divers,1650
+1,25,DOUBS,DVD,Divers droite,1122
+1,25,DOUBS,DVG,Divers gauche,9548
+1,25,DOUBS,ECO,Ecologiste,2015
+1,25,DOUBS,EXD,Extrême droite,466
+1,25,DOUBS,EXG,Extrême gauche,8134
+1,25,DOUBS,FN,Front national,11485
+1,25,DOUBS,MAJ,Majorité présidentielle,0
+1,25,DOUBS,MPF,Mouvement pour la France,2499
+1,25,DOUBS,RDG,Radical de gauche,0
+1,25,DOUBS,REG,Régionaliste,0
+1,25,DOUBS,SOC,Socialiste,51896
+1,25,DOUBS,UDFD,UDF-Mouvement Démocrate,14111
+1,25,DOUBS,UMP,Union pour un Mouvement Populaire,99305
+1,25,DOUBS,VEC,Les Verts,7672
+1,25,DOUBS,abstentions,abstentions,136614
+1,25,DOUBS,blancs_nuls,blancs_nuls,3712
+1,26,DROME,COM,Communiste,6950
+1,26,DROME,CPNT,Chasse Pêche Nature Traditions,0
+1,26,DROME,DIV,Divers,226
+1,26,DROME,DVD,Divers droite,150
+1,26,DROME,DVG,Divers gauche,12548
+1,26,DROME,ECO,Ecologiste,2129
+1,26,DROME,EXD,Extrême droite,822
+1,26,DROME,EXG,Extrême gauche,6758
+1,26,DROME,FN,Front national,11482
+1,26,DROME,MAJ,Majorité présidentielle,0
+1,26,DROME,MPF,Mouvement pour la France,2546
+1,26,DROME,RDG,Radical de gauche,0
+1,26,DROME,REG,Régionaliste,192
+1,26,DROME,SOC,Socialiste,39556
+1,26,DROME,UDFD,UDF-Mouvement Démocrate,19130
+1,26,DROME,UMP,Union pour un Mouvement Populaire,90346
+1,26,DROME,VEC,Les Verts,12384
+1,26,DROME,abstentions,abstentions,130807
+1,26,DROME,blancs_nuls,blancs_nuls,3230
+1,27,EURE,COM,Communiste,13504
+1,27,EURE,CPNT,Chasse Pêche Nature Traditions,3550
+1,27,EURE,DIV,Divers,1465
+1,27,EURE,DVD,Divers droite,6595
+1,27,EURE,DVG,Divers gauche,0
+1,27,EURE,ECO,Ecologiste,2432
+1,27,EURE,EXD,Extrême droite,1606
+1,27,EURE,EXG,Extrême gauche,9082
+1,27,EURE,FN,Front national,12408
+1,27,EURE,MAJ,Majorité présidentielle,33513
+1,27,EURE,MPF,Mouvement pour la France,3102
+1,27,EURE,RDG,Radical de gauche,2285
+1,27,EURE,REG,Régionaliste,0
+1,27,EURE,SOC,Socialiste,58745
+1,27,EURE,UDFD,UDF-Mouvement Démocrate,15887
+1,27,EURE,UMP,Union pour un Mouvement Populaire,71787
+1,27,EURE,VEC,Les Verts,6077
+1,27,EURE,abstentions,abstentions,157845
+1,27,EURE,blancs_nuls,blancs_nuls,4879
+1,28,EURE ET LOIR,COM,Communiste,3799
+1,28,EURE ET LOIR,CPNT,Chasse Pêche Nature Traditions,2818
+1,28,EURE ET LOIR,DIV,Divers,0
+1,28,EURE ET LOIR,DVD,Divers droite,4797
+1,28,EURE ET LOIR,DVG,Divers gauche,0
+1,28,EURE ET LOIR,ECO,Ecologiste,0
+1,28,EURE ET LOIR,EXD,Extrême droite,0
+1,28,EURE ET LOIR,EXG,Extrême gauche,6704
+1,28,EURE ET LOIR,FN,Front national,11060
+1,28,EURE ET LOIR,MAJ,Majorité présidentielle,23918
+1,28,EURE ET LOIR,MPF,Mouvement pour la France,2354
+1,28,EURE ET LOIR,RDG,Radical de gauche,12470
+1,28,EURE ET LOIR,REG,Régionaliste,0
+1,28,EURE ET LOIR,SOC,Socialiste,30571
+1,28,EURE ET LOIR,UDFD,UDF-Mouvement Démocrate,15620
+1,28,EURE ET LOIR,UMP,Union pour un Mouvement Populaire,53837
+1,28,EURE ET LOIR,VEC,Les Verts,5585
+1,28,EURE ET LOIR,abstentions,abstentions,117655
+1,28,EURE ET LOIR,blancs_nuls,blancs_nuls,3432
+1,29,FINISTERE,COM,Communiste,9004
+1,29,FINISTERE,CPNT,Chasse Pêche Nature Traditions,936
+1,29,FINISTERE,DIV,Divers,2741
+1,29,FINISTERE,DVD,Divers droite,0
+1,29,FINISTERE,DVG,Divers gauche,7393
+1,29,FINISTERE,ECO,Ecologiste,3204
+1,29,FINISTERE,EXD,Extrême droite,355
+1,29,FINISTERE,EXG,Extrême gauche,20223
+1,29,FINISTERE,FN,Front national,8427
+1,29,FINISTERE,MAJ,Majorité présidentielle,0
+1,29,FINISTERE,MPF,Mouvement pour la France,4397
+1,29,FINISTERE,RDG,Radical de gauche,0
+1,29,FINISTERE,REG,Régionaliste,531
+1,29,FINISTERE,SOC,Socialiste,140150
+1,29,FINISTERE,UDFD,UDF-Mouvement Démocrate,46597
+1,29,FINISTERE,UMP,Union pour un Mouvement Populaire,172527
+1,29,FINISTERE,VEC,Les Verts,17875
+1,29,FINISTERE,abstentions,abstentions,229238
+1,29,FINISTERE,blancs_nuls,blancs_nuls,6030
+1,2A,CORSE SUD,COM,Communiste,5196
+1,2A,CORSE SUD,CPNT,Chasse Pêche Nature Traditions,0
+1,2A,CORSE SUD,DIV,Divers,0
+1,2A,CORSE SUD,DVD,Divers droite,2871
+1,2A,CORSE SUD,DVG,Divers gauche,8606
+1,2A,CORSE SUD,ECO,Ecologiste,937
+1,2A,CORSE SUD,EXD,Extrême droite,203
+1,2A,CORSE SUD,EXG,Extrême gauche,187
+1,2A,CORSE SUD,FN,Front national,1879
+1,2A,CORSE SUD,MAJ,Majorité présidentielle,0
+1,2A,CORSE SUD,MPF,Mouvement pour la France,0
+1,2A,CORSE SUD,RDG,Radical de gauche,0
+1,2A,CORSE SUD,REG,Régionaliste,9181
+1,2A,CORSE SUD,SOC,Socialiste,2329
+1,2A,CORSE SUD,UDFD,UDF-Mouvement Démocrate,0
+1,2A,CORSE SUD,UMP,Union pour un Mouvement Populaire,23607
+1,2A,CORSE SUD,VEC,Les Verts,0
+1,2A,CORSE SUD,abstentions,abstentions,38623
+1,2A,CORSE SUD,blancs_nuls,blancs_nuls,794
+1,2B,HAUTE CORSE,COM,Communiste,3206
+1,2B,HAUTE CORSE,CPNT,Chasse Pêche Nature Traditions,0
+1,2B,HAUTE CORSE,DIV,Divers,0
+1,2B,HAUTE CORSE,DVD,Divers droite,0
+1,2B,HAUTE CORSE,DVG,Divers gauche,0
+1,2B,HAUTE CORSE,ECO,Ecologiste,1051
+1,2B,HAUTE CORSE,EXD,Extrême droite,372
+1,2B,HAUTE CORSE,EXG,Extrême gauche,834
+1,2B,HAUTE CORSE,FN,Front national,1578
+1,2B,HAUTE CORSE,MAJ,Majorité présidentielle,0
+1,2B,HAUTE CORSE,MPF,Mouvement pour la France,0
+1,2B,HAUTE CORSE,RDG,Radical de gauche,25165
+1,2B,HAUTE CORSE,REG,Régionaliste,7150
+1,2B,HAUTE CORSE,SOC,Socialiste,0
+1,2B,HAUTE CORSE,UDFD,UDF-Mouvement Démocrate,0
+1,2B,HAUTE CORSE,UMP,Union pour un Mouvement Populaire,29140
+1,2B,HAUTE CORSE,VEC,Les Verts,0
+1,2B,HAUTE CORSE,abstentions,abstentions,42355
+1,2B,HAUTE CORSE,blancs_nuls,blancs_nuls,1122
+1,30,GARD,COM,Communiste,29777
+1,30,GARD,CPNT,Chasse Pêche Nature Traditions,3535
+1,30,GARD,DIV,Divers,3296
+1,30,GARD,DVD,Divers droite,2207
+1,30,GARD,DVG,Divers gauche,1289
+1,30,GARD,ECO,Ecologiste,3696
+1,30,GARD,EXD,Extrême droite,1834
+1,30,GARD,EXG,Extrême gauche,12131
+1,30,GARD,FN,Front national,19172
+1,30,GARD,MAJ,Majorité présidentielle,22105
+1,30,GARD,MPF,Mouvement pour la France,2724
+1,30,GARD,RDG,Radical de gauche,0
+1,30,GARD,REG,Régionaliste,951
+1,30,GARD,SOC,Socialiste,61516
+1,30,GARD,UDFD,UDF-Mouvement Démocrate,12571
+1,30,GARD,UMP,Union pour un Mouvement Populaire,111736
+1,30,GARD,VEC,Les Verts,4781
+1,30,GARD,abstentions,abstentions,192162
+1,30,GARD,blancs_nuls,blancs_nuls,5438
+1,31,HAUTE GARONNE,COM,Communiste,12637
+1,31,HAUTE GARONNE,CPNT,Chasse Pêche Nature Traditions,4659
+1,31,HAUTE GARONNE,DIV,Divers,4750
+1,31,HAUTE GARONNE,DVD,Divers droite,1610
+1,31,HAUTE GARONNE,DVG,Divers gauche,1255
+1,31,HAUTE GARONNE,ECO,Ecologiste,4709
+1,31,HAUTE GARONNE,EXD,Extrême droite,1558
+1,31,HAUTE GARONNE,EXG,Extrême gauche,26123
+1,31,HAUTE GARONNE,FN,Front national,16978
+1,31,HAUTE GARONNE,MAJ,Majorité présidentielle,21566
+1,31,HAUTE GARONNE,MPF,Mouvement pour la France,3661
+1,31,HAUTE GARONNE,RDG,Radical de gauche,2847
+1,31,HAUTE GARONNE,REG,Régionaliste,1150
+1,31,HAUTE GARONNE,SOC,Socialiste,176018
+1,31,HAUTE GARONNE,UDFD,UDF-Mouvement Démocrate,44772
+1,31,HAUTE GARONNE,UMP,Union pour un Mouvement Populaire,153454
+1,31,HAUTE GARONNE,VEC,Les Verts,15135
+1,31,HAUTE GARONNE,abstentions,abstentions,293502
+1,31,HAUTE GARONNE,blancs_nuls,blancs_nuls,8526
+1,32,GERS,COM,Communiste,3243
+1,32,GERS,CPNT,Chasse Pêche Nature Traditions,1142
+1,32,GERS,DIV,Divers,606
+1,32,GERS,DVD,Divers droite,1222
+1,32,GERS,DVG,Divers gauche,0
+1,32,GERS,ECO,Ecologiste,394
+1,32,GERS,EXD,Extrême droite,0
+1,32,GERS,EXG,Extrême gauche,3422
+1,32,GERS,FN,Front national,2669
+1,32,GERS,MAJ,Majorité présidentielle,151
+1,32,GERS,MPF,Mouvement pour la France,1323
+1,32,GERS,RDG,Radical de gauche,4173
+1,32,GERS,REG,Régionaliste,193
+1,32,GERS,SOC,Socialiste,31730
+1,32,GERS,UDFD,UDF-Mouvement Démocrate,8076
+1,32,GERS,UMP,Union pour un Mouvement Populaire,32105
+1,32,GERS,VEC,Les Verts,2228
+1,32,GERS,abstentions,abstentions,45895
+1,32,GERS,blancs_nuls,blancs_nuls,2208
+1,33,GIRONDE,COM,Communiste,21542
+1,33,GIRONDE,CPNT,Chasse Pêche Nature Traditions,12281
+1,33,GIRONDE,DIV,Divers,4526
+1,33,GIRONDE,DVD,Divers droite,5790
+1,33,GIRONDE,DVG,Divers gauche,626
+1,33,GIRONDE,ECO,Ecologiste,1199
+1,33,GIRONDE,EXD,Extrême droite,1743
+1,33,GIRONDE,EXG,Extrême gauche,20798
+1,33,GIRONDE,FN,Front national,20631
+1,33,GIRONDE,MAJ,Majorité présidentielle,9108
+1,33,GIRONDE,MPF,Mouvement pour la France,5917
+1,33,GIRONDE,RDG,Radical de gauche,0
+1,33,GIRONDE,REG,Régionaliste,0
+1,33,GIRONDE,SOC,Socialiste,184133
+1,33,GIRONDE,UDFD,UDF-Mouvement Démocrate,55140
+1,33,GIRONDE,UMP,Union pour un Mouvement Populaire,216333
+1,33,GIRONDE,VEC,Les Verts,36978
+1,33,GIRONDE,abstentions,abstentions,353382
+1,33,GIRONDE,blancs_nuls,blancs_nuls,8993
+1,34,HERAULT,COM,Communiste,28090
+1,34,HERAULT,CPNT,Chasse Pêche Nature Traditions,7969
+1,34,HERAULT,DIV,Divers,3675
+1,34,HERAULT,DVD,Divers droite,2633
+1,34,HERAULT,DVG,Divers gauche,1228
+1,34,HERAULT,ECO,Ecologiste,5369
+1,34,HERAULT,EXD,Extrême droite,1377
+1,34,HERAULT,EXG,Extrême gauche,16860
+1,34,HERAULT,FN,Front national,26142
+1,34,HERAULT,MAJ,Majorité présidentielle,0
+1,34,HERAULT,MPF,Mouvement pour la France,3825
+1,34,HERAULT,RDG,Radical de gauche,0
+1,34,HERAULT,REG,Régionaliste,366
+1,34,HERAULT,SOC,Socialiste,109136
+1,34,HERAULT,UDFD,UDF-Mouvement Démocrate,27531
+1,34,HERAULT,UMP,Union pour un Mouvement Populaire,181802
+1,34,HERAULT,VEC,Les Verts,12892
+1,34,HERAULT,abstentions,abstentions,267535
+1,34,HERAULT,blancs_nuls,blancs_nuls,7598
+1,35,ILLE ET VILAINE,COM,Communiste,7040
+1,35,ILLE ET VILAINE,CPNT,Chasse Pêche Nature Traditions,1676
+1,35,ILLE ET VILAINE,DIV,Divers,3594
+1,35,ILLE ET VILAINE,DVD,Divers droite,3961
+1,35,ILLE ET VILAINE,DVG,Divers gauche,14292
+1,35,ILLE ET VILAINE,ECO,Ecologiste,1913
+1,35,ILLE ET VILAINE,EXD,Extrême droite,174
+1,35,ILLE ET VILAINE,EXG,Extrême gauche,14839
+1,35,ILLE ET VILAINE,FN,Front national,8386
+1,35,ILLE ET VILAINE,MAJ,Majorité présidentielle,0
+1,35,ILLE ET VILAINE,MPF,Mouvement pour la France,4027
+1,35,ILLE ET VILAINE,RDG,Radical de gauche,5526
+1,35,ILLE ET VILAINE,REG,Régionaliste,6254
+1,35,ILLE ET VILAINE,SOC,Socialiste,102810
+1,35,ILLE ET VILAINE,UDFD,UDF-Mouvement Démocrate,52435
+1,35,ILLE ET VILAINE,UMP,Union pour un Mouvement Populaire,166841
+1,35,ILLE ET VILAINE,VEC,Les Verts,19354
+1,35,ILLE ET VILAINE,abstentions,abstentions,249026
+1,35,ILLE ET VILAINE,blancs_nuls,blancs_nuls,6910
+1,36,INDRE,COM,Communiste,3801
+1,36,INDRE,CPNT,Chasse Pêche Nature Traditions,1668
+1,36,INDRE,DIV,Divers,603
+1,36,INDRE,DVD,Divers droite,1596
+1,36,INDRE,DVG,Divers gauche,10921
+1,36,INDRE,ECO,Ecologiste,944
+1,36,INDRE,EXD,Extrême droite,358
+1,36,INDRE,EXG,Extrême gauche,4918
+1,36,INDRE,FN,Front national,4905
+1,36,INDRE,MAJ,Majorité présidentielle,0
+1,36,INDRE,MPF,Mouvement pour la France,810
+1,36,INDRE,RDG,Radical de gauche,0
+1,36,INDRE,REG,Régionaliste,0
+1,36,INDRE,SOC,Socialiste,24108
+1,36,INDRE,UDFD,UDF-Mouvement Démocrate,6305
+1,36,INDRE,UMP,Union pour un Mouvement Populaire,45239
+1,36,INDRE,VEC,Les Verts,2593
+1,36,INDRE,abstentions,abstentions,65733
+1,36,INDRE,blancs_nuls,blancs_nuls,3114
+1,37,INDRE ET LOIRE,COM,Communiste,8487
+1,37,INDRE ET LOIRE,CPNT,Chasse Pêche Nature Traditions,2790
+1,37,INDRE ET LOIRE,DIV,Divers,2313
+1,37,INDRE ET LOIRE,DVD,Divers droite,0
+1,37,INDRE ET LOIRE,DVG,Divers gauche,491
+1,37,INDRE ET LOIRE,ECO,Ecologiste,1006
+1,37,INDRE ET LOIRE,EXD,Extrême droite,782
+1,37,INDRE ET LOIRE,EXG,Extrême gauche,9164
+1,37,INDRE ET LOIRE,FN,Front national,9284
+1,37,INDRE ET LOIRE,MAJ,Majorité présidentielle,0
+1,37,INDRE ET LOIRE,MPF,Mouvement pour la France,4891
+1,37,INDRE ET LOIRE,RDG,Radical de gauche,15068
+1,37,INDRE ET LOIRE,REG,Régionaliste,0
+1,37,INDRE ET LOIRE,SOC,Socialiste,58697
+1,37,INDRE ET LOIRE,UDFD,UDF-Mouvement Démocrate,18612
+1,37,INDRE ET LOIRE,UMP,Union pour un Mouvement Populaire,110135
+1,37,INDRE ET LOIRE,VEC,Les Verts,7287
+1,37,INDRE ET LOIRE,abstentions,abstentions,150613
+1,37,INDRE ET LOIRE,blancs_nuls,blancs_nuls,4007
+1,38,ISERE,COM,Communiste,16513
+1,38,ISERE,CPNT,Chasse Pêche Nature Traditions,1069
+1,38,ISERE,DIV,Divers,2786
+1,38,ISERE,DVD,Divers droite,15484
+1,38,ISERE,DVG,Divers gauche,6720
+1,38,ISERE,ECO,Ecologiste,4477
+1,38,ISERE,EXD,Extrême droite,2229
+1,38,ISERE,EXG,Extrême gauche,15131
+1,38,ISERE,FN,Front national,18149
+1,38,ISERE,MAJ,Majorité présidentielle,16165
+1,38,ISERE,MPF,Mouvement pour la France,6302
+1,38,ISERE,RDG,Radical de gauche,1231
+1,38,ISERE,REG,Régionaliste,0
+1,38,ISERE,SOC,Socialiste,142816
+1,38,ISERE,UDFD,UDF-Mouvement Démocrate,34821
+1,38,ISERE,UMP,Union pour un Mouvement Populaire,155515
+1,38,ISERE,VEC,Les Verts,20523
+1,38,ISERE,abstentions,abstentions,323178
+1,38,ISERE,blancs_nuls,blancs_nuls,6301
+1,39,JURA,COM,Communiste,7631
+1,39,JURA,CPNT,Chasse Pêche Nature Traditions,0
+1,39,JURA,DIV,Divers,743
+1,39,JURA,DVD,Divers droite,4060
+1,39,JURA,DVG,Divers gauche,6123
+1,39,JURA,ECO,Ecologiste,1067
+1,39,JURA,EXD,Extrême droite,601
+1,39,JURA,EXG,Extrême gauche,3043
+1,39,JURA,FN,Front national,4575
+1,39,JURA,MAJ,Majorité présidentielle,315
+1,39,JURA,MPF,Mouvement pour la France,3801
+1,39,JURA,RDG,Radical de gauche,0
+1,39,JURA,REG,Régionaliste,0
+1,39,JURA,SOC,Socialiste,19453
+1,39,JURA,UDFD,UDF-Mouvement Démocrate,6156
+1,39,JURA,UMP,Union pour un Mouvement Populaire,52997
+1,39,JURA,VEC,Les Verts,4952
+1,39,JURA,abstentions,abstentions,70340
+1,39,JURA,blancs_nuls,blancs_nuls,2105
+1,40,LANDES,COM,Communiste,7110
+1,40,LANDES,CPNT,Chasse Pêche Nature Traditions,4518
+1,40,LANDES,DIV,Divers,1328
+1,40,LANDES,DVD,Divers droite,278
+1,40,LANDES,DVG,Divers gauche,0
+1,40,LANDES,ECO,Ecologiste,0
+1,40,LANDES,EXD,Extrême droite,526
+1,40,LANDES,EXG,Extrême gauche,4517
+1,40,LANDES,FN,Front national,4040
+1,40,LANDES,MAJ,Majorité présidentielle,786
+1,40,LANDES,MPF,Mouvement pour la France,1158
+1,40,LANDES,RDG,Radical de gauche,0
+1,40,LANDES,REG,Régionaliste,0
+1,40,LANDES,SOC,Socialiste,75773
+1,40,LANDES,UDFD,UDF-Mouvement Démocrate,16132
+1,40,LANDES,UMP,Union pour un Mouvement Populaire,66193
+1,40,LANDES,VEC,Les Verts,3939
+1,40,LANDES,abstentions,abstentions,93970
+1,40,LANDES,blancs_nuls,blancs_nuls,3656
+1,41,LOIR ET CHER,COM,Communiste,5117
+1,41,LOIR ET CHER,CPNT,Chasse Pêche Nature Traditions,2774
+1,41,LOIR ET CHER,DIV,Divers,774
+1,41,LOIR ET CHER,DVD,Divers droite,8420
+1,41,LOIR ET CHER,DVG,Divers gauche,0
+1,41,LOIR ET CHER,ECO,Ecologiste,1328
+1,41,LOIR ET CHER,EXD,Extrême droite,284
+1,41,LOIR ET CHER,EXG,Extrême gauche,5703
+1,41,LOIR ET CHER,FN,Front national,9026
+1,41,LOIR ET CHER,MAJ,Majorité présidentielle,39244
+1,41,LOIR ET CHER,MPF,Mouvement pour la France,3242
+1,41,LOIR ET CHER,RDG,Radical de gauche,0
+1,41,LOIR ET CHER,REG,Régionaliste,0
+1,41,LOIR ET CHER,SOC,Socialiste,40579
+1,41,LOIR ET CHER,UDFD,UDF-Mouvement Démocrate,4161
+1,41,LOIR ET CHER,UMP,Union pour un Mouvement Populaire,22643
+1,41,LOIR ET CHER,VEC,Les Verts,5449
+1,41,LOIR ET CHER,abstentions,abstentions,89244
+1,41,LOIR ET CHER,blancs_nuls,blancs_nuls,3562
+1,42,LOIRE,COM,Communiste,13029
+1,42,LOIRE,CPNT,Chasse Pêche Nature Traditions,0
+1,42,LOIRE,DIV,Divers,3819
+1,42,LOIRE,DVD,Divers droite,0
+1,42,LOIRE,DVG,Divers gauche,293
+1,42,LOIRE,ECO,Ecologiste,2499
+1,42,LOIRE,EXD,Extrême droite,1270
+1,42,LOIRE,EXG,Extrême gauche,11100
+1,42,LOIRE,FN,Front national,16528
+1,42,LOIRE,MAJ,Majorité présidentielle,22056
+1,42,LOIRE,MPF,Mouvement pour la France,3723
+1,42,LOIRE,RDG,Radical de gauche,13291
+1,42,LOIRE,REG,Régionaliste,0
+1,42,LOIRE,SOC,Socialiste,55227
+1,42,LOIRE,UDFD,UDF-Mouvement Démocrate,27991
+1,42,LOIRE,UMP,Union pour un Mouvement Populaire,108695
+1,42,LOIRE,VEC,Les Verts,8869
+1,42,LOIRE,abstentions,abstentions,214844
+1,42,LOIRE,blancs_nuls,blancs_nuls,4615
+1,43,HAUTE LOIRE,COM,Communiste,1512
+1,43,HAUTE LOIRE,CPNT,Chasse Pêche Nature Traditions,0
+1,43,HAUTE LOIRE,DIV,Divers,7749
+1,43,HAUTE LOIRE,DVD,Divers droite,0
+1,43,HAUTE LOIRE,DVG,Divers gauche,0
+1,43,HAUTE LOIRE,ECO,Ecologiste,1981
+1,43,HAUTE LOIRE,EXD,Extrême droite,182
+1,43,HAUTE LOIRE,EXG,Extrême gauche,5602
+1,43,HAUTE LOIRE,FN,Front national,4071
+1,43,HAUTE LOIRE,MAJ,Majorité présidentielle,0
+1,43,HAUTE LOIRE,MPF,Mouvement pour la France,774
+1,43,HAUTE LOIRE,RDG,Radical de gauche,0
+1,43,HAUTE LOIRE,REG,Régionaliste,565
+1,43,HAUTE LOIRE,SOC,Socialiste,22978
+1,43,HAUTE LOIRE,UDFD,UDF-Mouvement Démocrate,9572
+1,43,HAUTE LOIRE,UMP,Union pour un Mouvement Populaire,52356
+1,43,HAUTE LOIRE,VEC,Les Verts,1494
+1,43,HAUTE LOIRE,abstentions,abstentions,62046
+1,43,HAUTE LOIRE,blancs_nuls,blancs_nuls,2620
+1,44,LOIRE ATLANTIQUE,COM,Communiste,11098
+1,44,LOIRE ATLANTIQUE,CPNT,Chasse Pêche Nature Traditions,7975
+1,44,LOIRE ATLANTIQUE,DIV,Divers,3575
+1,44,LOIRE ATLANTIQUE,DVD,Divers droite,3022
+1,44,LOIRE ATLANTIQUE,DVG,Divers gauche,743
+1,44,LOIRE ATLANTIQUE,ECO,Ecologiste,5483
+1,44,LOIRE ATLANTIQUE,EXD,Extrême droite,1687
+1,44,LOIRE ATLANTIQUE,EXG,Extrême gauche,21459
+1,44,LOIRE ATLANTIQUE,FN,Front national,11142
+1,44,LOIRE ATLANTIQUE,MAJ,Majorité présidentielle,24327
+1,44,LOIRE ATLANTIQUE,MPF,Mouvement pour la France,10039
+1,44,LOIRE ATLANTIQUE,RDG,Radical de gauche,552
+1,44,LOIRE ATLANTIQUE,REG,Régionaliste,2686
+1,44,LOIRE ATLANTIQUE,SOC,Socialiste,173459
+1,44,LOIRE ATLANTIQUE,UDFD,UDF-Mouvement Démocrate,49229
+1,44,LOIRE ATLANTIQUE,UMP,Union pour un Mouvement Populaire,198215
+1,44,LOIRE ATLANTIQUE,VEC,Les Verts,35141
+1,44,LOIRE ATLANTIQUE,abstentions,abstentions,328871
+1,44,LOIRE ATLANTIQUE,blancs_nuls,blancs_nuls,8919
+1,45,LOIRET,COM,Communiste,12098
+1,45,LOIRET,CPNT,Chasse Pêche Nature Traditions,1844
+1,45,LOIRET,DIV,Divers,1555
+1,45,LOIRET,DVD,Divers droite,12487
+1,45,LOIRET,DVG,Divers gauche,0
+1,45,LOIRET,ECO,Ecologiste,2248
+1,45,LOIRET,EXD,Extrême droite,1378
+1,45,LOIRET,EXG,Extrême gauche,7266
+1,45,LOIRET,FN,Front national,14241
+1,45,LOIRET,MAJ,Majorité présidentielle,0
+1,45,LOIRET,MPF,Mouvement pour la France,3724
+1,45,LOIRET,RDG,Radical de gauche,0
+1,45,LOIRET,REG,Régionaliste,0
+1,45,LOIRET,SOC,Socialiste,62157
+1,45,LOIRET,UDFD,UDF-Mouvement Démocrate,20844
+1,45,LOIRET,UMP,Union pour un Mouvement Populaire,114808
+1,45,LOIRET,VEC,Les Verts,7685
+1,45,LOIRET,abstentions,abstentions,170987
+1,45,LOIRET,blancs_nuls,blancs_nuls,4532
+1,46,LOT,COM,Communiste,3751
+1,46,LOT,CPNT,Chasse Pêche Nature Traditions,2066
+1,46,LOT,DIV,Divers,992
+1,46,LOT,DVD,Divers droite,141
+1,46,LOT,DVG,Divers gauche,0
+1,46,LOT,ECO,Ecologiste,0
+1,46,LOT,EXD,Extrême droite,367
+1,46,LOT,EXG,Extrême gauche,3521
+1,46,LOT,FN,Front national,1942
+1,46,LOT,MAJ,Majorité présidentielle,228
+1,46,LOT,MPF,Mouvement pour la France,998
+1,46,LOT,RDG,Radical de gauche,16685
+1,46,LOT,REG,Régionaliste,766
+1,46,LOT,SOC,Socialiste,18472
+1,46,LOT,UDFD,UDF-Mouvement Démocrate,6294
+1,46,LOT,UMP,Union pour un Mouvement Populaire,31480
+1,46,LOT,VEC,Les Verts,1471
+1,46,LOT,abstentions,abstentions,41886
+1,46,LOT,blancs_nuls,blancs_nuls,2333
+1,47,LOT ET GARONNE,COM,Communiste,7593
+1,47,LOT ET GARONNE,CPNT,Chasse Pêche Nature Traditions,3161
+1,47,LOT ET GARONNE,DIV,Divers,2680
+1,47,LOT ET GARONNE,DVD,Divers droite,1773
+1,47,LOT ET GARONNE,DVG,Divers gauche,0
+1,47,LOT ET GARONNE,ECO,Ecologiste,1456
+1,47,LOT ET GARONNE,EXD,Extrême droite,0
+1,47,LOT ET GARONNE,EXG,Extrême gauche,5483
+1,47,LOT ET GARONNE,FN,Front national,7303
+1,47,LOT ET GARONNE,MAJ,Majorité présidentielle,24843
+1,47,LOT ET GARONNE,MPF,Mouvement pour la France,2123
+1,47,LOT ET GARONNE,RDG,Radical de gauche,0
+1,47,LOT ET GARONNE,REG,Régionaliste,321
+1,47,LOT ET GARONNE,SOC,Socialiste,49209
+1,47,LOT ET GARONNE,UDFD,UDF-Mouvement Démocrate,0
+1,47,LOT ET GARONNE,UMP,Union pour un Mouvement Populaire,43912
+1,47,LOT ET GARONNE,VEC,Les Verts,3609
+1,47,LOT ET GARONNE,abstentions,abstentions,82136
+1,47,LOT ET GARONNE,blancs_nuls,blancs_nuls,3878
+1,48,LOZERE,COM,Communiste,1857
+1,48,LOZERE,CPNT,Chasse Pêche Nature Traditions,0
+1,48,LOZERE,DIV,Divers,326
+1,48,LOZERE,DVD,Divers droite,0
+1,48,LOZERE,DVG,Divers gauche,0
+1,48,LOZERE,ECO,Ecologiste,0
+1,48,LOZERE,EXD,Extrême droite,76
+1,48,LOZERE,EXG,Extrême gauche,2282
+1,48,LOZERE,FN,Front national,1025
+1,48,LOZERE,MAJ,Majorité présidentielle,0
+1,48,LOZERE,MPF,Mouvement pour la France,0
+1,48,LOZERE,RDG,Radical de gauche,561
+1,48,LOZERE,REG,Régionaliste,43
+1,48,LOZERE,SOC,Socialiste,8851
+1,48,LOZERE,UDFD,UDF-Mouvement Démocrate,4066
+1,48,LOZERE,UMP,Union pour un Mouvement Populaire,22002
+1,48,LOZERE,VEC,Les Verts,0
+1,48,LOZERE,abstentions,abstentions,17632
+1,48,LOZERE,blancs_nuls,blancs_nuls,896
+1,49,MAINE ET LOIRE,COM,Communiste,4985
+1,49,MAINE ET LOIRE,CPNT,Chasse Pêche Nature Traditions,0
+1,49,MAINE ET LOIRE,DIV,Divers,3501
+1,49,MAINE ET LOIRE,DVD,Divers droite,1399
+1,49,MAINE ET LOIRE,DVG,Divers gauche,322
+1,49,MAINE ET LOIRE,ECO,Ecologiste,2768
+1,49,MAINE ET LOIRE,EXD,Extrême droite,1424
+1,49,MAINE ET LOIRE,EXG,Extrême gauche,14873
+1,49,MAINE ET LOIRE,FN,Front national,7695
+1,49,MAINE ET LOIRE,MAJ,Majorité présidentielle,0
+1,49,MAINE ET LOIRE,MPF,Mouvement pour la France,6130
+1,49,MAINE ET LOIRE,RDG,Radical de gauche,8911
+1,49,MAINE ET LOIRE,REG,Régionaliste,0
+1,49,MAINE ET LOIRE,SOC,Socialiste,70399
+1,49,MAINE ET LOIRE,UDFD,UDF-Mouvement Démocrate,38282
+1,49,MAINE ET LOIRE,UMP,Union pour un Mouvement Populaire,157770
+1,49,MAINE ET LOIRE,VEC,Les Verts,12932
+1,49,MAINE ET LOIRE,abstentions,abstentions,203133
+1,49,MAINE ET LOIRE,blancs_nuls,blancs_nuls,8104
+1,50,MANCHE,COM,Communiste,3656
+1,50,MANCHE,CPNT,Chasse Pêche Nature Traditions,5648
+1,50,MANCHE,DIV,Divers,1483
+1,50,MANCHE,DVD,Divers droite,21523
+1,50,MANCHE,DVG,Divers gauche,0
+1,50,MANCHE,ECO,Ecologiste,986
+1,50,MANCHE,EXD,Extrême droite,0
+1,50,MANCHE,EXG,Extrême gauche,9313
+1,50,MANCHE,FN,Front national,8871
+1,50,MANCHE,MAJ,Majorité présidentielle,4741
+1,50,MANCHE,MPF,Mouvement pour la France,1575
+1,50,MANCHE,RDG,Radical de gauche,1286
+1,50,MANCHE,REG,Régionaliste,0
+1,50,MANCHE,SOC,Socialiste,56155
+1,50,MANCHE,UDFD,UDF-Mouvement Démocrate,16081
+1,50,MANCHE,UMP,Union pour un Mouvement Populaire,90827
+1,50,MANCHE,VEC,Les Verts,6034
+1,50,MANCHE,abstentions,abstentions,140248
+1,50,MANCHE,blancs_nuls,blancs_nuls,4238
+1,51,MARNE,COM,Communiste,5688
+1,51,MARNE,CPNT,Chasse Pêche Nature Traditions,0
+1,51,MARNE,DIV,Divers,1260
+1,51,MARNE,DVD,Divers droite,12869
+1,51,MARNE,DVG,Divers gauche,712
+1,51,MARNE,ECO,Ecologiste,1268
+1,51,MARNE,EXD,Extrême droite,1133
+1,51,MARNE,EXG,Extrême gauche,7478
+1,51,MARNE,FN,Front national,11736
+1,51,MARNE,MAJ,Majorité présidentielle,24769
+1,51,MARNE,MPF,Mouvement pour la France,2209
+1,51,MARNE,RDG,Radical de gauche,160
+1,51,MARNE,REG,Régionaliste,0
+1,51,MARNE,SOC,Socialiste,45284
+1,51,MARNE,UDFD,UDF-Mouvement Démocrate,15847
+1,51,MARNE,UMP,Union pour un Mouvement Populaire,75334
+1,51,MARNE,VEC,Les Verts,5356
+1,51,MARNE,abstentions,abstentions,168414
+1,51,MARNE,blancs_nuls,blancs_nuls,4577
+1,52,HAUTE MARNE,COM,Communiste,3328
+1,52,HAUTE MARNE,CPNT,Chasse Pêche Nature Traditions,0
+1,52,HAUTE MARNE,DIV,Divers,0
+1,52,HAUTE MARNE,DVD,Divers droite,1007
+1,52,HAUTE MARNE,DVG,Divers gauche,3020
+1,52,HAUTE MARNE,ECO,Ecologiste,985
+1,52,HAUTE MARNE,EXD,Extrême droite,539
+1,52,HAUTE MARNE,EXG,Extrême gauche,3327
+1,52,HAUTE MARNE,FN,Front national,5752
+1,52,HAUTE MARNE,MAJ,Majorité présidentielle,0
+1,52,HAUTE MARNE,MPF,Mouvement pour la France,400
+1,52,HAUTE MARNE,RDG,Radical de gauche,0
+1,52,HAUTE MARNE,REG,Régionaliste,0
+1,52,HAUTE MARNE,SOC,Socialiste,11838
+1,52,HAUTE MARNE,UDFD,UDF-Mouvement Démocrate,5187
+1,52,HAUTE MARNE,UMP,Union pour un Mouvement Populaire,45162
+1,52,HAUTE MARNE,VEC,Les Verts,1622
+1,52,HAUTE MARNE,abstentions,abstentions,58732
+1,52,HAUTE MARNE,blancs_nuls,blancs_nuls,1835
+1,53,MAYENNE,COM,Communiste,1661
+1,53,MAYENNE,CPNT,Chasse Pêche Nature Traditions,0
+1,53,MAYENNE,DIV,Divers,1040
+1,53,MAYENNE,DVD,Divers droite,860
+1,53,MAYENNE,DVG,Divers gauche,504
+1,53,MAYENNE,ECO,Ecologiste,0
+1,53,MAYENNE,EXD,Extrême droite,338
+1,53,MAYENNE,EXG,Extrême gauche,3640
+1,53,MAYENNE,FN,Front national,2768
+1,53,MAYENNE,MAJ,Majorité présidentielle,2324
+1,53,MAYENNE,MPF,Mouvement pour la France,1578
+1,53,MAYENNE,RDG,Radical de gauche,0
+1,53,MAYENNE,REG,Régionaliste,0
+1,53,MAYENNE,SOC,Socialiste,34937
+1,53,MAYENNE,UDFD,UDF-Mouvement Démocrate,14667
+1,53,MAYENNE,UMP,Union pour un Mouvement Populaire,67156
+1,53,MAYENNE,VEC,Les Verts,4925
+1,53,MAYENNE,abstentions,abstentions,80764
+1,53,MAYENNE,blancs_nuls,blancs_nuls,3532
+1,54,MEURTHE ET MOSELLE,COM,Communiste,19136
+1,54,MEURTHE ET MOSELLE,CPNT,Chasse Pêche Nature Traditions,0
+1,54,MEURTHE ET MOSELLE,DIV,Divers,612
+1,54,MEURTHE ET MOSELLE,DVD,Divers droite,224
+1,54,MEURTHE ET MOSELLE,DVG,Divers gauche,2723
+1,54,MEURTHE ET MOSELLE,ECO,Ecologiste,3157
+1,54,MEURTHE ET MOSELLE,EXD,Extrême droite,1880
+1,54,MEURTHE ET MOSELLE,EXG,Extrême gauche,10469
+1,54,MEURTHE ET MOSELLE,FN,Front national,13274
+1,54,MEURTHE ET MOSELLE,MAJ,Majorité présidentielle,208
+1,54,MEURTHE ET MOSELLE,MPF,Mouvement pour la France,2856
+1,54,MEURTHE ET MOSELLE,RDG,Radical de gauche,805
+1,54,MEURTHE ET MOSELLE,REG,Régionaliste,0
+1,54,MEURTHE ET MOSELLE,SOC,Socialiste,78890
+1,54,MEURTHE ET MOSELLE,UDFD,UDF-Mouvement Démocrate,20669
+1,54,MEURTHE ET MOSELLE,UMP,Union pour un Mouvement Populaire,114256
+1,54,MEURTHE ET MOSELLE,VEC,Les Verts,5770
+1,54,MEURTHE ET MOSELLE,abstentions,abstentions,213220
+1,54,MEURTHE ET MOSELLE,blancs_nuls,blancs_nuls,4324
+1,55,MEUSE,COM,Communiste,1560
+1,55,MEUSE,CPNT,Chasse Pêche Nature Traditions,0
+1,55,MEUSE,DIV,Divers,1711
+1,55,MEUSE,DVD,Divers droite,5239
+1,55,MEUSE,DVG,Divers gauche,0
+1,55,MEUSE,ECO,Ecologiste,695
+1,55,MEUSE,EXD,Extrême droite,500
+1,55,MEUSE,EXG,Extrême gauche,3447
+1,55,MEUSE,FN,Front national,5044
+1,55,MEUSE,MAJ,Majorité présidentielle,0
+1,55,MEUSE,MPF,Mouvement pour la France,821
+1,55,MEUSE,RDG,Radical de gauche,0
+1,55,MEUSE,REG,Régionaliste,0
+1,55,MEUSE,SOC,Socialiste,23839
+1,55,MEUSE,UDFD,UDF-Mouvement Démocrate,9274
+1,55,MEUSE,UMP,Union pour un Mouvement Populaire,27489
+1,55,MEUSE,VEC,Les Verts,2292
+1,55,MEUSE,abstentions,abstentions,57917
+1,55,MEUSE,blancs_nuls,blancs_nuls,1898
+1,56,MORBIHAN,COM,Communiste,16817
+1,56,MORBIHAN,CPNT,Chasse Pêche Nature Traditions,1705
+1,56,MORBIHAN,DIV,Divers,7032
+1,56,MORBIHAN,DVD,Divers droite,18841
+1,56,MORBIHAN,DVG,Divers gauche,2566
+1,56,MORBIHAN,ECO,Ecologiste,1194
+1,56,MORBIHAN,EXD,Extrême droite,692
+1,56,MORBIHAN,EXG,Extrême gauche,8249
+1,56,MORBIHAN,FN,Front national,10157
+1,56,MORBIHAN,MAJ,Majorité présidentielle,7346
+1,56,MORBIHAN,MPF,Mouvement pour la France,3254
+1,56,MORBIHAN,RDG,Radical de gauche,0
+1,56,MORBIHAN,REG,Régionaliste,2377
+1,56,MORBIHAN,SOC,Socialiste,99850
+1,56,MORBIHAN,UDFD,UDF-Mouvement Démocrate,13342
+1,56,MORBIHAN,UMP,Union pour un Mouvement Populaire,136883
+1,56,MORBIHAN,VEC,Les Verts,10490
+1,56,MORBIHAN,abstentions,abstentions,188986
+1,56,MORBIHAN,blancs_nuls,blancs_nuls,7078
+1,57,MOSELLE,COM,Communiste,8835
+1,57,MOSELLE,CPNT,Chasse Pêche Nature Traditions,0
+1,57,MOSELLE,DIV,Divers,2846
+1,57,MOSELLE,DVD,Divers droite,11424
+1,57,MOSELLE,DVG,Divers gauche,150
+1,57,MOSELLE,ECO,Ecologiste,4977
+1,57,MOSELLE,EXD,Extrême droite,3570
+1,57,MOSELLE,EXG,Extrême gauche,13324
+1,57,MOSELLE,FN,Front national,21452
+1,57,MOSELLE,MAJ,Majorité présidentielle,0
+1,57,MOSELLE,MPF,Mouvement pour la France,4646
+1,57,MOSELLE,RDG,Radical de gauche,2796
+1,57,MOSELLE,REG,Régionaliste,0
+1,57,MOSELLE,SOC,Socialiste,85436
+1,57,MOSELLE,UDFD,UDF-Mouvement Démocrate,30087
+1,57,MOSELLE,UMP,Union pour un Mouvement Populaire,177061
+1,57,MOSELLE,VEC,Les Verts,8187
+1,57,MOSELLE,abstentions,abstentions,358822
+1,57,MOSELLE,blancs_nuls,blancs_nuls,8452
+1,58,NIEVRE,COM,Communiste,4645
+1,58,NIEVRE,CPNT,Chasse Pêche Nature Traditions,465
+1,58,NIEVRE,DIV,Divers,455
+1,58,NIEVRE,DVD,Divers droite,0
+1,58,NIEVRE,DVG,Divers gauche,0
+1,58,NIEVRE,ECO,Ecologiste,353
+1,58,NIEVRE,EXD,Extrême droite,395
+1,58,NIEVRE,EXG,Extrême gauche,3525
+1,58,NIEVRE,FN,Front national,4629
+1,58,NIEVRE,MAJ,Majorité présidentielle,0
+1,58,NIEVRE,MPF,Mouvement pour la France,1706
+1,58,NIEVRE,RDG,Radical de gauche,0
+1,58,NIEVRE,REG,Régionaliste,0
+1,58,NIEVRE,SOC,Socialiste,42529
+1,58,NIEVRE,UDFD,UDF-Mouvement Démocrate,5031
+1,58,NIEVRE,UMP,Union pour un Mouvement Populaire,35372
+1,58,NIEVRE,VEC,Les Verts,3068
+1,58,NIEVRE,abstentions,abstentions,65463
+1,58,NIEVRE,blancs_nuls,blancs_nuls,2077
+1,59,NORD,COM,Communiste,93223
+1,59,NORD,CPNT,Chasse Pêche Nature Traditions,11625
+1,59,NORD,DIV,Divers,3933
+1,59,NORD,DVD,Divers droite,38029
+1,59,NORD,DVG,Divers gauche,18047
+1,59,NORD,ECO,Ecologiste,10751
+1,59,NORD,EXD,Extrême droite,4943
+1,59,NORD,EXG,Extrême gauche,37578
+1,59,NORD,FN,Front national,61236
+1,59,NORD,MAJ,Majorité présidentielle,12982
+1,59,NORD,MPF,Mouvement pour la France,4526
+1,59,NORD,RDG,Radical de gauche,7913
+1,59,NORD,REG,Régionaliste,0
+1,59,NORD,SOC,Socialiste,254801
+1,59,NORD,UDFD,UDF-Mouvement Démocrate,68870
+1,59,NORD,UMP,Union pour un Mouvement Populaire,354459
+1,59,NORD,VEC,Les Verts,27570
+1,59,NORD,abstentions,abstentions,753892
+1,59,NORD,blancs_nuls,blancs_nuls,20748
+1,60,OISE,COM,Communiste,21939
+1,60,OISE,CPNT,Chasse Pêche Nature Traditions,2775
+1,60,OISE,DIV,Divers,7084
+1,60,OISE,DVD,Divers droite,0
+1,60,OISE,DVG,Divers gauche,221
+1,60,OISE,ECO,Ecologiste,1232
+1,60,OISE,EXD,Extrême droite,1013
+1,60,OISE,EXG,Extrême gauche,11123
+1,60,OISE,FN,Front national,20883
+1,60,OISE,MAJ,Majorité présidentielle,144
+1,60,OISE,MPF,Mouvement pour la France,6331
+1,60,OISE,RDG,Radical de gauche,3557
+1,60,OISE,REG,Régionaliste,0
+1,60,OISE,SOC,Socialiste,65302
+1,60,OISE,UDFD,UDF-Mouvement Démocrate,16993
+1,60,OISE,UMP,Union pour un Mouvement Populaire,147926
+1,60,OISE,VEC,Les Verts,6722
+1,60,OISE,abstentions,abstentions,219705
+1,60,OISE,blancs_nuls,blancs_nuls,6268
+1,61,ORNE,COM,Communiste,1592
+1,61,ORNE,CPNT,Chasse Pêche Nature Traditions,1756
+1,61,ORNE,DIV,Divers,1330
+1,61,ORNE,DVD,Divers droite,0
+1,61,ORNE,DVG,Divers gauche,13628
+1,61,ORNE,ECO,Ecologiste,0
+1,61,ORNE,EXD,Extrême droite,0
+1,61,ORNE,EXG,Extrême gauche,3715
+1,61,ORNE,FN,Front national,6121
+1,61,ORNE,MAJ,Majorité présidentielle,0
+1,61,ORNE,MPF,Mouvement pour la France,1894
+1,61,ORNE,RDG,Radical de gauche,0
+1,61,ORNE,REG,Régionaliste,0
+1,61,ORNE,SOC,Socialiste,19910
+1,61,ORNE,UDFD,UDF-Mouvement Démocrate,11729
+1,61,ORNE,UMP,Union pour un Mouvement Populaire,68297
+1,61,ORNE,VEC,Les Verts,4014
+1,61,ORNE,abstentions,abstentions,80388
+1,61,ORNE,blancs_nuls,blancs_nuls,2551
+1,62,PAS DE CALAIS,COM,Communiste,42176
+1,62,PAS DE CALAIS,CPNT,Chasse Pêche Nature Traditions,16523
+1,62,PAS DE CALAIS,DIV,Divers,9445
+1,62,PAS DE CALAIS,DVD,Divers droite,12063
+1,62,PAS DE CALAIS,DVG,Divers gauche,654
+1,62,PAS DE CALAIS,ECO,Ecologiste,4532
+1,62,PAS DE CALAIS,EXD,Extrême droite,2421
+1,62,PAS DE CALAIS,EXG,Extrême gauche,27199
+1,62,PAS DE CALAIS,FN,Front national,47256
+1,62,PAS DE CALAIS,MAJ,Majorité présidentielle,7384
+1,62,PAS DE CALAIS,MPF,Mouvement pour la France,3685
+1,62,PAS DE CALAIS,RDG,Radical de gauche,0
+1,62,PAS DE CALAIS,REG,Régionaliste,0
+1,62,PAS DE CALAIS,SOC,Socialiste,235759
+1,62,PAS DE CALAIS,UDFD,UDF-Mouvement Démocrate,28487
+1,62,PAS DE CALAIS,UMP,Union pour un Mouvement Populaire,191602
+1,62,PAS DE CALAIS,VEC,Les Verts,15309
+1,62,PAS DE CALAIS,abstentions,abstentions,420258
+1,62,PAS DE CALAIS,blancs_nuls,blancs_nuls,16727
+1,63,PUY DE DOME,COM,Communiste,27472
+1,63,PUY DE DOME,CPNT,Chasse Pêche Nature Traditions,848
+1,63,PUY DE DOME,DIV,Divers,2643
+1,63,PUY DE DOME,DVD,Divers droite,145
+1,63,PUY DE DOME,DVG,Divers gauche,5663
+1,63,PUY DE DOME,ECO,Ecologiste,2269
+1,63,PUY DE DOME,EXD,Extrême droite,421
+1,63,PUY DE DOME,EXG,Extrême gauche,11295
+1,63,PUY DE DOME,FN,Front national,7210
+1,63,PUY DE DOME,MAJ,Majorité présidentielle,0
+1,63,PUY DE DOME,MPF,Mouvement pour la France,3751
+1,63,PUY DE DOME,RDG,Radical de gauche,0
+1,63,PUY DE DOME,REG,Régionaliste,0
+1,63,PUY DE DOME,SOC,Socialiste,87649
+1,63,PUY DE DOME,UDFD,UDF-Mouvement Démocrate,23145
+1,63,PUY DE DOME,UMP,Union pour un Mouvement Populaire,91595
+1,63,PUY DE DOME,VEC,Les Verts,6458
+1,63,PUY DE DOME,abstentions,abstentions,169490
+1,63,PUY DE DOME,blancs_nuls,blancs_nuls,5178
+1,64,PYRENEES ATLANTIQUES,COM,Communiste,8388
+1,64,PYRENEES ATLANTIQUES,CPNT,Chasse Pêche Nature Traditions,5220
+1,64,PYRENEES ATLANTIQUES,DIV,Divers,2379
+1,64,PYRENEES ATLANTIQUES,DVD,Divers droite,151
+1,64,PYRENEES ATLANTIQUES,DVG,Divers gauche,0
+1,64,PYRENEES ATLANTIQUES,ECO,Ecologiste,1479
+1,64,PYRENEES ATLANTIQUES,EXD,Extrême droite,0
+1,64,PYRENEES ATLANTIQUES,EXG,Extrême gauche,7940
+1,64,PYRENEES ATLANTIQUES,FN,Front national,6511
+1,64,PYRENEES ATLANTIQUES,MAJ,Majorité présidentielle,0
+1,64,PYRENEES ATLANTIQUES,MPF,Mouvement pour la France,873
+1,64,PYRENEES ATLANTIQUES,RDG,Radical de gauche,0
+1,64,PYRENEES ATLANTIQUES,REG,Régionaliste,10781
+1,64,PYRENEES ATLANTIQUES,SOC,Socialiste,86868
+1,64,PYRENEES ATLANTIQUES,UDFD,UDF-Mouvement Démocrate,59318
+1,64,PYRENEES ATLANTIQUES,UMP,Union pour un Mouvement Populaire,108177
+1,64,PYRENEES ATLANTIQUES,VEC,Les Verts,7651
+1,64,PYRENEES ATLANTIQUES,abstentions,abstentions,167587
+1,64,PYRENEES ATLANTIQUES,blancs_nuls,blancs_nuls,4618
+1,65,HAUTES PYRENEES,COM,Communiste,5904
+1,65,HAUTES PYRENEES,CPNT,Chasse Pêche Nature Traditions,0
+1,65,HAUTES PYRENEES,DIV,Divers,623
+1,65,HAUTES PYRENEES,DVD,Divers droite,0
+1,65,HAUTES PYRENEES,DVG,Divers gauche,2012
+1,65,HAUTES PYRENEES,ECO,Ecologiste,946
+1,65,HAUTES PYRENEES,EXD,Extrême droite,567
+1,65,HAUTES PYRENEES,EXG,Extrême gauche,4207
+1,65,HAUTES PYRENEES,FN,Front national,3053
+1,65,HAUTES PYRENEES,MAJ,Majorité présidentielle,651
+1,65,HAUTES PYRENEES,MPF,Mouvement pour la France,0
+1,65,HAUTES PYRENEES,RDG,Radical de gauche,16356
+1,65,HAUTES PYRENEES,REG,Régionaliste,0
+1,65,HAUTES PYRENEES,SOC,Socialiste,27668
+1,65,HAUTES PYRENEES,UDFD,UDF-Mouvement Démocrate,12581
+1,65,HAUTES PYRENEES,UMP,Union pour un Mouvement Populaire,34604
+1,65,HAUTES PYRENEES,VEC,Les Verts,2664
+1,65,HAUTES PYRENEES,abstentions,abstentions,62204
+1,65,HAUTES PYRENEES,blancs_nuls,blancs_nuls,2621
+1,66,PYRENEES ORIENTALES,COM,Communiste,16472
+1,66,PYRENEES ORIENTALES,CPNT,Chasse Pêche Nature Traditions,2204
+1,66,PYRENEES ORIENTALES,DIV,Divers,1637
+1,66,PYRENEES ORIENTALES,DVD,Divers droite,1245
+1,66,PYRENEES ORIENTALES,DVG,Divers gauche,10072
+1,66,PYRENEES ORIENTALES,ECO,Ecologiste,2408
+1,66,PYRENEES ORIENTALES,EXD,Extrême droite,624
+1,66,PYRENEES ORIENTALES,EXG,Extrême gauche,5692
+1,66,PYRENEES ORIENTALES,FN,Front national,10727
+1,66,PYRENEES ORIENTALES,MAJ,Majorité présidentielle,0
+1,66,PYRENEES ORIENTALES,MPF,Mouvement pour la France,1983
+1,66,PYRENEES ORIENTALES,RDG,Radical de gauche,0
+1,66,PYRENEES ORIENTALES,REG,Régionaliste,2794
+1,66,PYRENEES ORIENTALES,SOC,Socialiste,39344
+1,66,PYRENEES ORIENTALES,UDFD,UDF-Mouvement Démocrate,10879
+1,66,PYRENEES ORIENTALES,UMP,Union pour un Mouvement Populaire,84373
+1,66,PYRENEES ORIENTALES,VEC,Les Verts,2617
+1,66,PYRENEES ORIENTALES,abstentions,abstentions,119517
+1,66,PYRENEES ORIENTALES,blancs_nuls,blancs_nuls,4063
+1,67,BAS RHIN,COM,Communiste,2207
+1,67,BAS RHIN,CPNT,Chasse Pêche Nature Traditions,0
+1,67,BAS RHIN,DIV,Divers,5542
+1,67,BAS RHIN,DVD,Divers droite,4125
+1,67,BAS RHIN,DVG,Divers gauche,818
+1,67,BAS RHIN,ECO,Ecologiste,6683
+1,67,BAS RHIN,EXD,Extrême droite,2683
+1,67,BAS RHIN,EXG,Extrême gauche,9688
+1,67,BAS RHIN,FN,Front national,22574
+1,67,BAS RHIN,MAJ,Majorité présidentielle,0
+1,67,BAS RHIN,MPF,Mouvement pour la France,516
+1,67,BAS RHIN,RDG,Radical de gauche,0
+1,67,BAS RHIN,REG,Régionaliste,0
+1,67,BAS RHIN,SOC,Socialiste,54441
+1,67,BAS RHIN,UDFD,UDF-Mouvement Démocrate,49936
+1,67,BAS RHIN,UMP,Union pour un Mouvement Populaire,219421
+1,67,BAS RHIN,VEC,Les Verts,16923
+1,67,BAS RHIN,abstentions,abstentions,320754
+1,67,BAS RHIN,blancs_nuls,blancs_nuls,7333
+1,68,HAUT RHIN,COM,Communiste,1438
+1,68,HAUT RHIN,CPNT,Chasse Pêche Nature Traditions,0
+1,68,HAUT RHIN,DIV,Divers,4044
+1,68,HAUT RHIN,DVD,Divers droite,14758
+1,68,HAUT RHIN,DVG,Divers gauche,1375
+1,68,HAUT RHIN,ECO,Ecologiste,6170
+1,68,HAUT RHIN,EXD,Extrême droite,605
+1,68,HAUT RHIN,EXG,Extrême gauche,5388
+1,68,HAUT RHIN,FN,Front national,16651
+1,68,HAUT RHIN,MAJ,Majorité présidentielle,19341
+1,68,HAUT RHIN,MPF,Mouvement pour la France,2277
+1,68,HAUT RHIN,RDG,Radical de gauche,677
+1,68,HAUT RHIN,REG,Régionaliste,891
+1,68,HAUT RHIN,SOC,Socialiste,45256
+1,68,HAUT RHIN,UDFD,UDF-Mouvement Démocrate,24119
+1,68,HAUT RHIN,UMP,Union pour un Mouvement Populaire,125787
+1,68,HAUT RHIN,VEC,Les Verts,11106
+1,68,HAUT RHIN,abstentions,abstentions,223290
+1,68,HAUT RHIN,blancs_nuls,blancs_nuls,5864
+1,69,RHONE,COM,Communiste,17468
+1,69,RHONE,CPNT,Chasse Pêche Nature Traditions,0
+1,69,RHONE,DIV,Divers,6681
+1,69,RHONE,DVD,Divers droite,6584
+1,69,RHONE,DVG,Divers gauche,4691
+1,69,RHONE,ECO,Ecologiste,4115
+1,69,RHONE,EXD,Extrême droite,1387
+1,69,RHONE,EXG,Extrême gauche,21151
+1,69,RHONE,FN,Front national,29791
+1,69,RHONE,MAJ,Majorité présidentielle,123
+1,69,RHONE,MPF,Mouvement pour la France,8581
+1,69,RHONE,RDG,Radical de gauche,8709
+1,69,RHONE,REG,Régionaliste,0
+1,69,RHONE,SOC,Socialiste,133861
+1,69,RHONE,UDFD,UDF-Mouvement Démocrate,65155
+1,69,RHONE,UMP,Union pour un Mouvement Populaire,284047
+1,69,RHONE,VEC,Les Verts,21655
+1,69,RHONE,abstentions,abstentions,424574
+1,69,RHONE,blancs_nuls,blancs_nuls,6788
+1,70,HAUTE SAONE,COM,Communiste,2562
+1,70,HAUTE SAONE,CPNT,Chasse Pêche Nature Traditions,1844
+1,70,HAUTE SAONE,DIV,Divers,365
+1,70,HAUTE SAONE,DVD,Divers droite,0
+1,70,HAUTE SAONE,DVG,Divers gauche,231
+1,70,HAUTE SAONE,ECO,Ecologiste,955
+1,70,HAUTE SAONE,EXD,Extrême droite,195
+1,70,HAUTE SAONE,EXG,Extrême gauche,4001
+1,70,HAUTE SAONE,FN,Front national,7359
+1,70,HAUTE SAONE,MAJ,Majorité présidentielle,0
+1,70,HAUTE SAONE,MPF,Mouvement pour la France,844
+1,70,HAUTE SAONE,RDG,Radical de gauche,0
+1,70,HAUTE SAONE,REG,Régionaliste,0
+1,70,HAUTE SAONE,SOC,Socialiste,31821
+1,70,HAUTE SAONE,UDFD,UDF-Mouvement Démocrate,4541
+1,70,HAUTE SAONE,UMP,Union pour un Mouvement Populaire,54333
+1,70,HAUTE SAONE,VEC,Les Verts,3313
+1,70,HAUTE SAONE,abstentions,abstentions,64580
+1,70,HAUTE SAONE,blancs_nuls,blancs_nuls,2907
+1,71,SAONE ET LOIRE,COM,Communiste,5150
+1,71,SAONE ET LOIRE,CPNT,Chasse Pêche Nature Traditions,0
+1,71,SAONE ET LOIRE,DIV,Divers,37
+1,71,SAONE ET LOIRE,DVD,Divers droite,0
+1,71,SAONE ET LOIRE,DVG,Divers gauche,2044
+1,71,SAONE ET LOIRE,ECO,Ecologiste,1218
+1,71,SAONE ET LOIRE,EXD,Extrême droite,626
+1,71,SAONE ET LOIRE,EXG,Extrême gauche,7390
+1,71,SAONE ET LOIRE,FN,Front national,9064
+1,71,SAONE ET LOIRE,MAJ,Majorité présidentielle,0
+1,71,SAONE ET LOIRE,MPF,Mouvement pour la France,2986
+1,71,SAONE ET LOIRE,RDG,Radical de gauche,13304
+1,71,SAONE ET LOIRE,REG,Régionaliste,0
+1,71,SAONE ET LOIRE,SOC,Socialiste,75815
+1,71,SAONE ET LOIRE,UDFD,UDF-Mouvement Démocrate,15303
+1,71,SAONE ET LOIRE,UMP,Union pour un Mouvement Populaire,111778
+1,71,SAONE ET LOIRE,VEC,Les Verts,5032
+1,71,SAONE ET LOIRE,abstentions,abstentions,155910
+1,71,SAONE ET LOIRE,blancs_nuls,blancs_nuls,4609
+1,72,SARTHE,COM,Communiste,7061
+1,72,SARTHE,CPNT,Chasse Pêche Nature Traditions,1885
+1,72,SARTHE,DIV,Divers,2027
+1,72,SARTHE,DVD,Divers droite,0
+1,72,SARTHE,DVG,Divers gauche,10
+1,72,SARTHE,ECO,Ecologiste,1012
+1,72,SARTHE,EXD,Extrême droite,728
+1,72,SARTHE,EXG,Extrême gauche,9204
+1,72,SARTHE,FN,Front national,7469
+1,72,SARTHE,MAJ,Majorité présidentielle,0
+1,72,SARTHE,MPF,Mouvement pour la France,3921
+1,72,SARTHE,RDG,Radical de gauche,0
+1,72,SARTHE,REG,Régionaliste,0
+1,72,SARTHE,SOC,Socialiste,70872
+1,72,SARTHE,UDFD,UDF-Mouvement Démocrate,12907
+1,72,SARTHE,UMP,Union pour un Mouvement Populaire,115552
+1,72,SARTHE,VEC,Les Verts,7421
+1,72,SARTHE,abstentions,abstentions,156106
+1,72,SARTHE,blancs_nuls,blancs_nuls,6338
+1,73,SAVOIE,COM,Communiste,4975
+1,73,SAVOIE,CPNT,Chasse Pêche Nature Traditions,0
+1,73,SAVOIE,DIV,Divers,2097
+1,73,SAVOIE,DVD,Divers droite,3160
+1,73,SAVOIE,DVG,Divers gauche,0
+1,73,SAVOIE,ECO,Ecologiste,997
+1,73,SAVOIE,EXD,Extrême droite,417
+1,73,SAVOIE,EXG,Extrême gauche,5750
+1,73,SAVOIE,FN,Front national,7207
+1,73,SAVOIE,MAJ,Majorité présidentielle,0
+1,73,SAVOIE,MPF,Mouvement pour la France,1699
+1,73,SAVOIE,RDG,Radical de gauche,0
+1,73,SAVOIE,REG,Régionaliste,27
+1,73,SAVOIE,SOC,Socialiste,37339
+1,73,SAVOIE,UDFD,UDF-Mouvement Démocrate,15078
+1,73,SAVOIE,UMP,Union pour un Mouvement Populaire,80555
+1,73,SAVOIE,VEC,Les Verts,7650
+1,73,SAVOIE,abstentions,abstentions,120194
+1,73,SAVOIE,blancs_nuls,blancs_nuls,2398
+1,74,HAUTE SAVOIE,COM,Communiste,4453
+1,74,HAUTE SAVOIE,CPNT,Chasse Pêche Nature Traditions,581
+1,74,HAUTE SAVOIE,DIV,Divers,4293
+1,74,HAUTE SAVOIE,DVD,Divers droite,21343
+1,74,HAUTE SAVOIE,DVG,Divers gauche,0
+1,74,HAUTE SAVOIE,ECO,Ecologiste,5049
+1,74,HAUTE SAVOIE,EXD,Extrême droite,313
+1,74,HAUTE SAVOIE,EXG,Extrême gauche,5501
+1,74,HAUTE SAVOIE,FN,Front national,12378
+1,74,HAUTE SAVOIE,MAJ,Majorité présidentielle,12732
+1,74,HAUTE SAVOIE,MPF,Mouvement pour la France,2845
+1,74,HAUTE SAVOIE,RDG,Radical de gauche,537
+1,74,HAUTE SAVOIE,REG,Régionaliste,112
+1,74,HAUTE SAVOIE,SOC,Socialiste,48668
+1,74,HAUTE SAVOIE,UDFD,UDF-Mouvement Démocrate,18700
+1,74,HAUTE SAVOIE,UMP,Union pour un Mouvement Populaire,113627
+1,74,HAUTE SAVOIE,VEC,Les Verts,11090
+1,74,HAUTE SAVOIE,abstentions,abstentions,210634
+1,74,HAUTE SAVOIE,blancs_nuls,blancs_nuls,4207
+1,75,PARIS,COM,Communiste,20122
+1,75,PARIS,CPNT,Chasse Pêche Nature Traditions,0
+1,75,PARIS,DIV,Divers,7173
+1,75,PARIS,DVD,Divers droite,19425
+1,75,PARIS,DVG,Divers gauche,7829
+1,75,PARIS,ECO,Ecologiste,3465
+1,75,PARIS,EXD,Extrême droite,2786
+1,75,PARIS,EXG,Extrême gauche,26221
+1,75,PARIS,FN,Front national,20458
+1,75,PARIS,MAJ,Majorité présidentielle,3084
+1,75,PARIS,MPF,Mouvement pour la France,2883
+1,75,PARIS,RDG,Radical de gauche,4385
+1,75,PARIS,REG,Régionaliste,0
+1,75,PARIS,SOC,Socialiste,196696
+1,75,PARIS,UDFD,UDF-Mouvement Démocrate,93080
+1,75,PARIS,UMP,Union pour un Mouvement Populaire,307219
+1,75,PARIS,VEC,Les Verts,59647
+1,75,PARIS,abstentions,abstentions,466521
+1,75,PARIS,blancs_nuls,blancs_nuls,6931
+1,76,SEINE MARITIME,COM,Communiste,44167
+1,76,SEINE MARITIME,CPNT,Chasse Pêche Nature Traditions,4527
+1,76,SEINE MARITIME,DIV,Divers,3460
+1,76,SEINE MARITIME,DVD,Divers droite,2941
+1,76,SEINE MARITIME,DVG,Divers gauche,1255
+1,76,SEINE MARITIME,ECO,Ecologiste,1463
+1,76,SEINE MARITIME,EXD,Extrême droite,3019
+1,76,SEINE MARITIME,EXG,Extrême gauche,19961
+1,76,SEINE MARITIME,FN,Front national,21797
+1,76,SEINE MARITIME,MAJ,Majorité présidentielle,10266
+1,76,SEINE MARITIME,MPF,Mouvement pour la France,4114
+1,76,SEINE MARITIME,RDG,Radical de gauche,3850
+1,76,SEINE MARITIME,REG,Régionaliste,0
+1,76,SEINE MARITIME,SOC,Socialiste,156707
+1,76,SEINE MARITIME,UDFD,UDF-Mouvement Démocrate,29869
+1,76,SEINE MARITIME,UMP,Union pour un Mouvement Populaire,203874
+1,76,SEINE MARITIME,VEC,Les Verts,14878
+1,76,SEINE MARITIME,abstentions,abstentions,340942
+1,76,SEINE MARITIME,blancs_nuls,blancs_nuls,10205
+1,77,SEINE ET MARNE,COM,Communiste,14307
+1,77,SEINE ET MARNE,CPNT,Chasse Pêche Nature Traditions,1102
+1,77,SEINE ET MARNE,DIV,Divers,2886
+1,77,SEINE ET MARNE,DVD,Divers droite,10917
+1,77,SEINE ET MARNE,DVG,Divers gauche,10801
+1,77,SEINE ET MARNE,ECO,Ecologiste,3595
+1,77,SEINE ET MARNE,EXD,Extrême droite,2755
+1,77,SEINE ET MARNE,EXG,Extrême gauche,14817
+1,77,SEINE ET MARNE,FN,Front national,22493
+1,77,SEINE ET MARNE,MAJ,Majorité présidentielle,0
+1,77,SEINE ET MARNE,MPF,Mouvement pour la France,4511
+1,77,SEINE ET MARNE,RDG,Radical de gauche,177
+1,77,SEINE ET MARNE,REG,Régionaliste,0
+1,77,SEINE ET MARNE,SOC,Socialiste,97915
+1,77,SEINE ET MARNE,UDFD,UDF-Mouvement Démocrate,37999
+1,77,SEINE ET MARNE,UMP,Union pour un Mouvement Populaire,219567
+1,77,SEINE ET MARNE,VEC,Les Verts,14789
+1,77,SEINE ET MARNE,abstentions,abstentions,340870
+1,77,SEINE ET MARNE,blancs_nuls,blancs_nuls,6889
+1,78,YVELINES,COM,Communiste,16574
+1,78,YVELINES,CPNT,Chasse Pêche Nature Traditions,0
+1,78,YVELINES,DIV,Divers,6687
+1,78,YVELINES,DVD,Divers droite,3747
+1,78,YVELINES,DVG,Divers gauche,11477
+1,78,YVELINES,ECO,Ecologiste,4880
+1,78,YVELINES,EXD,Extrême droite,2836
+1,78,YVELINES,EXG,Extrême gauche,14412
+1,78,YVELINES,FN,Front national,21499
+1,78,YVELINES,MAJ,Majorité présidentielle,25278
+1,78,YVELINES,MPF,Mouvement pour la France,9289
+1,78,YVELINES,RDG,Radical de gauche,0
+1,78,YVELINES,REG,Régionaliste,0
+1,78,YVELINES,SOC,Socialiste,99282
+1,78,YVELINES,UDFD,UDF-Mouvement Démocrate,59567
+1,78,YVELINES,UMP,Union pour un Mouvement Populaire,254201
+1,78,YVELINES,VEC,Les Verts,18659
+1,78,YVELINES,abstentions,abstentions,349460
+1,78,YVELINES,blancs_nuls,blancs_nuls,7489
+1,79,DEUX SEVRES,COM,Communiste,1243
+1,79,DEUX SEVRES,CPNT,Chasse Pêche Nature Traditions,458
+1,79,DEUX SEVRES,DIV,Divers,1967
+1,79,DEUX SEVRES,DVD,Divers droite,0
+1,79,DEUX SEVRES,DVG,Divers gauche,0
+1,79,DEUX SEVRES,ECO,Ecologiste,880
+1,79,DEUX SEVRES,EXD,Extrême droite,0
+1,79,DEUX SEVRES,EXG,Extrême gauche,5312
+1,79,DEUX SEVRES,FN,Front national,3664
+1,79,DEUX SEVRES,MAJ,Majorité présidentielle,0
+1,79,DEUX SEVRES,MPF,Mouvement pour la France,4292
+1,79,DEUX SEVRES,RDG,Radical de gauche,0
+1,79,DEUX SEVRES,REG,Régionaliste,0
+1,79,DEUX SEVRES,SOC,Socialiste,65456
+1,79,DEUX SEVRES,UDFD,UDF-Mouvement Démocrate,10346
+1,79,DEUX SEVRES,UMP,Union pour un Mouvement Populaire,69105
+1,79,DEUX SEVRES,VEC,Les Verts,5664
+1,79,DEUX SEVRES,abstentions,abstentions,97321
+1,79,DEUX SEVRES,blancs_nuls,blancs_nuls,4157
+1,80,SOMME,COM,Communiste,6082
+1,80,SOMME,CPNT,Chasse Pêche Nature Traditions,10542
+1,80,SOMME,DIV,Divers,1578
+1,80,SOMME,DVD,Divers droite,1153
+1,80,SOMME,DVG,Divers gauche,17545
+1,80,SOMME,ECO,Ecologiste,365
+1,80,SOMME,EXD,Extrême droite,1351
+1,80,SOMME,EXG,Extrême gauche,8892
+1,80,SOMME,FN,Front national,13903
+1,80,SOMME,MAJ,Majorité présidentielle,45502
+1,80,SOMME,MPF,Mouvement pour la France,2328
+1,80,SOMME,RDG,Radical de gauche,452
+1,80,SOMME,REG,Régionaliste,0
+1,80,SOMME,SOC,Socialiste,67362
+1,80,SOMME,UDFD,UDF-Mouvement Démocrate,11833
+1,80,SOMME,UMP,Union pour un Mouvement Populaire,57599
+1,80,SOMME,VEC,Les Verts,5520
+1,80,SOMME,abstentions,abstentions,153230
+1,80,SOMME,blancs_nuls,blancs_nuls,5975
+1,81,TARN,COM,Communiste,8157
+1,81,TARN,CPNT,Chasse Pêche Nature Traditions,2866
+1,81,TARN,DIV,Divers,1246
+1,81,TARN,DVD,Divers droite,12936
+1,81,TARN,DVG,Divers gauche,4237
+1,81,TARN,ECO,Ecologiste,1850
+1,81,TARN,EXD,Extrême droite,663
+1,81,TARN,EXG,Extrême gauche,5900
+1,81,TARN,FN,Front national,6709
+1,81,TARN,MAJ,Majorité présidentielle,13655
+1,81,TARN,MPF,Mouvement pour la France,1664
+1,81,TARN,RDG,Radical de gauche,6330
+1,81,TARN,REG,Régionaliste,454
+1,81,TARN,SOC,Socialiste,49961
+1,81,TARN,UDFD,UDF-Mouvement Démocrate,10551
+1,81,TARN,UMP,Union pour un Mouvement Populaire,51486
+1,81,TARN,VEC,Les Verts,3392
+1,81,TARN,abstentions,abstentions,90617
+1,81,TARN,blancs_nuls,blancs_nuls,4586
+1,82,TARN ET GARONNE,COM,Communiste,3147
+1,82,TARN ET GARONNE,CPNT,Chasse Pêche Nature Traditions,2835
+1,82,TARN ET GARONNE,DIV,Divers,1039
+1,82,TARN ET GARONNE,DVD,Divers droite,237
+1,82,TARN ET GARONNE,DVG,Divers gauche,0
+1,82,TARN ET GARONNE,ECO,Ecologiste,498
+1,82,TARN ET GARONNE,EXD,Extrême droite,666
+1,82,TARN ET GARONNE,EXG,Extrême gauche,4157
+1,82,TARN ET GARONNE,FN,Front national,5032
+1,82,TARN ET GARONNE,MAJ,Majorité présidentielle,0
+1,82,TARN ET GARONNE,MPF,Mouvement pour la France,1207
+1,82,TARN ET GARONNE,RDG,Radical de gauche,15458
+1,82,TARN ET GARONNE,REG,Régionaliste,181
+1,82,TARN ET GARONNE,SOC,Socialiste,16635
+1,82,TARN ET GARONNE,UDFD,UDF-Mouvement Démocrate,9036
+1,82,TARN ET GARONNE,UMP,Union pour un Mouvement Populaire,42323
+1,82,TARN ET GARONNE,VEC,Les Verts,3897
+1,82,TARN ET GARONNE,abstentions,abstentions,57428
+1,82,TARN ET GARONNE,blancs_nuls,blancs_nuls,2671
+1,83,VAR,COM,Communiste,14517
+1,83,VAR,CPNT,Chasse Pêche Nature Traditions,4696
+1,83,VAR,DIV,Divers,3078
+1,83,VAR,DVD,Divers droite,12854
+1,83,VAR,DVG,Divers gauche,6996
+1,83,VAR,ECO,Ecologiste,5925
+1,83,VAR,EXD,Extrême droite,3050
+1,83,VAR,EXG,Extrême gauche,10688
+1,83,VAR,FN,Front national,29027
+1,83,VAR,MAJ,Majorité présidentielle,500
+1,83,VAR,MPF,Mouvement pour la France,6154
+1,83,VAR,RDG,Radical de gauche,8042
+1,83,VAR,REG,Régionaliste,178
+1,83,VAR,SOC,Socialiste,56116
+1,83,VAR,UDFD,UDF-Mouvement Démocrate,30576
+1,83,VAR,UMP,Union pour un Mouvement Populaire,217293
+1,83,VAR,VEC,Les Verts,7079
+1,83,VAR,abstentions,abstentions,297209
+1,83,VAR,blancs_nuls,blancs_nuls,6601
+1,84,VAUCLUSE,COM,Communiste,8670
+1,84,VAUCLUSE,CPNT,Chasse Pêche Nature Traditions,2989
+1,84,VAUCLUSE,DIV,Divers,2618
+1,84,VAUCLUSE,DVD,Divers droite,10511
+1,84,VAUCLUSE,DVG,Divers gauche,0
+1,84,VAUCLUSE,ECO,Ecologiste,1724
+1,84,VAUCLUSE,EXD,Extrême droite,1384
+1,84,VAUCLUSE,EXG,Extrême gauche,7572
+1,84,VAUCLUSE,FN,Front national,14951
+1,84,VAUCLUSE,MAJ,Majorité présidentielle,0
+1,84,VAUCLUSE,MPF,Mouvement pour la France,14146
+1,84,VAUCLUSE,RDG,Radical de gauche,0
+1,84,VAUCLUSE,REG,Régionaliste,363
+1,84,VAUCLUSE,SOC,Socialiste,47302
+1,84,VAUCLUSE,UDFD,UDF-Mouvement Démocrate,14939
+1,84,VAUCLUSE,UMP,Union pour un Mouvement Populaire,93564
+1,84,VAUCLUSE,VEC,Les Verts,4432
+1,84,VAUCLUSE,abstentions,abstentions,143281
+1,84,VAUCLUSE,blancs_nuls,blancs_nuls,4015
+1,85,VENDEE,COM,Communiste,4552
+1,85,VENDEE,CPNT,Chasse Pêche Nature Traditions,5660
+1,85,VENDEE,DIV,Divers,2053
+1,85,VENDEE,DVD,Divers droite,45363
+1,85,VENDEE,DVG,Divers gauche,0
+1,85,VENDEE,ECO,Ecologiste,2735
+1,85,VENDEE,EXD,Extrême droite,1899
+1,85,VENDEE,EXG,Extrême gauche,6494
+1,85,VENDEE,FN,Front national,6631
+1,85,VENDEE,MAJ,Majorité présidentielle,17761
+1,85,VENDEE,MPF,Mouvement pour la France,34458
+1,85,VENDEE,RDG,Radical de gauche,4495
+1,85,VENDEE,REG,Régionaliste,0
+1,85,VENDEE,SOC,Socialiste,59813
+1,85,VENDEE,UDFD,UDF-Mouvement Démocrate,20656
+1,85,VENDEE,UMP,Union pour un Mouvement Populaire,60782
+1,85,VENDEE,VEC,Les Verts,11659
+1,85,VENDEE,abstentions,abstentions,173417
+1,85,VENDEE,blancs_nuls,blancs_nuls,7419
+1,86,VIENNE,COM,Communiste,7009
+1,86,VIENNE,CPNT,Chasse Pêche Nature Traditions,2631
+1,86,VIENNE,DIV,Divers,1707
+1,86,VIENNE,DVD,Divers droite,3667
+1,86,VIENNE,DVG,Divers gauche,618
+1,86,VIENNE,ECO,Ecologiste,1899
+1,86,VIENNE,EXD,Extrême droite,254
+1,86,VIENNE,EXG,Extrême gauche,7110
+1,86,VIENNE,FN,Front national,5545
+1,86,VIENNE,MAJ,Majorité présidentielle,20237
+1,86,VIENNE,MPF,Mouvement pour la France,3736
+1,86,VIENNE,RDG,Radical de gauche,0
+1,86,VIENNE,REG,Régionaliste,0
+1,86,VIENNE,SOC,Socialiste,62146
+1,86,VIENNE,UDFD,UDF-Mouvement Démocrate,7361
+1,86,VIENNE,UMP,Union pour un Mouvement Populaire,52437
+1,86,VIENNE,VEC,Les Verts,7258
+1,86,VIENNE,abstentions,abstentions,111686
+1,86,VIENNE,blancs_nuls,blancs_nuls,4685
+1,87,HAUTE VIENNE,COM,Communiste,3966
+1,87,HAUTE VIENNE,CPNT,Chasse Pêche Nature Traditions,1423
+1,87,HAUTE VIENNE,DIV,Divers,768
+1,87,HAUTE VIENNE,DVD,Divers droite,506
+1,87,HAUTE VIENNE,DVG,Divers gauche,9502
+1,87,HAUTE VIENNE,ECO,Ecologiste,1380
+1,87,HAUTE VIENNE,EXD,Extrême droite,473
+1,87,HAUTE VIENNE,EXG,Extrême gauche,7725
+1,87,HAUTE VIENNE,FN,Front national,4829
+1,87,HAUTE VIENNE,MAJ,Majorité présidentielle,646
+1,87,HAUTE VIENNE,MPF,Mouvement pour la France,2036
+1,87,HAUTE VIENNE,RDG,Radical de gauche,0
+1,87,HAUTE VIENNE,REG,Régionaliste,473
+1,87,HAUTE VIENNE,SOC,Socialiste,72650
+1,87,HAUTE VIENNE,UDFD,UDF-Mouvement Démocrate,9525
+1,87,HAUTE VIENNE,UMP,Union pour un Mouvement Populaire,56629
+1,87,HAUTE VIENNE,VEC,Les Verts,3527
+1,87,HAUTE VIENNE,abstentions,abstentions,85997
+1,87,HAUTE VIENNE,blancs_nuls,blancs_nuls,4504
+1,88,VOSGES,COM,Communiste,1403
+1,88,VOSGES,CPNT,Chasse Pêche Nature Traditions,0
+1,88,VOSGES,DIV,Divers,2053
+1,88,VOSGES,DVD,Divers droite,756
+1,88,VOSGES,DVG,Divers gauche,2695
+1,88,VOSGES,ECO,Ecologiste,1110
+1,88,VOSGES,EXD,Extrême droite,1109
+1,88,VOSGES,EXG,Extrême gauche,8469
+1,88,VOSGES,FN,Front national,10397
+1,88,VOSGES,MAJ,Majorité présidentielle,0
+1,88,VOSGES,MPF,Mouvement pour la France,1119
+1,88,VOSGES,RDG,Radical de gauche,0
+1,88,VOSGES,REG,Régionaliste,0
+1,88,VOSGES,SOC,Socialiste,41991
+1,88,VOSGES,UDFD,UDF-Mouvement Démocrate,11460
+1,88,VOSGES,UMP,Union pour un Mouvement Populaire,84453
+1,88,VOSGES,VEC,Les Verts,1944
+1,88,VOSGES,abstentions,abstentions,116281
+1,88,VOSGES,blancs_nuls,blancs_nuls,4278
+1,89,YONNE,COM,Communiste,1526
+1,89,YONNE,CPNT,Chasse Pêche Nature Traditions,2393
+1,89,YONNE,DIV,Divers,1234
+1,89,YONNE,DVD,Divers droite,7883
+1,89,YONNE,DVG,Divers gauche,613
+1,89,YONNE,ECO,Ecologiste,0
+1,89,YONNE,EXD,Extrême droite,0
+1,89,YONNE,EXG,Extrême gauche,8378
+1,89,YONNE,FN,Front national,9268
+1,89,YONNE,MAJ,Majorité présidentielle,0
+1,89,YONNE,MPF,Mouvement pour la France,2086
+1,89,YONNE,RDG,Radical de gauche,11396
+1,89,YONNE,REG,Régionaliste,0
+1,89,YONNE,SOC,Socialiste,22634
+1,89,YONNE,UDFD,UDF-Mouvement Démocrate,13280
+1,89,YONNE,UMP,Union pour un Mouvement Populaire,57791
+1,89,YONNE,VEC,Les Verts,4614
+1,89,YONNE,abstentions,abstentions,99865
+1,89,YONNE,blancs_nuls,blancs_nuls,3271
+1,90,TERRITOIRE DE BELFORT,COM,Communiste,946
+1,90,TERRITOIRE DE BELFORT,CPNT,Chasse Pêche Nature Traditions,0
+1,90,TERRITOIRE DE BELFORT,DIV,Divers,787
+1,90,TERRITOIRE DE BELFORT,DVD,Divers droite,0
+1,90,TERRITOIRE DE BELFORT,DVG,Divers gauche,7467
+1,90,TERRITOIRE DE BELFORT,ECO,Ecologiste,464
+1,90,TERRITOIRE DE BELFORT,EXD,Extrême droite,368
+1,90,TERRITOIRE DE BELFORT,EXG,Extrême gauche,2245
+1,90,TERRITOIRE DE BELFORT,FN,Front national,2785
+1,90,TERRITOIRE DE BELFORT,MAJ,Majorité présidentielle,0
+1,90,TERRITOIRE DE BELFORT,MPF,Mouvement pour la France,552
+1,90,TERRITOIRE DE BELFORT,RDG,Radical de gauche,0
+1,90,TERRITOIRE DE BELFORT,REG,Régionaliste,0
+1,90,TERRITOIRE DE BELFORT,SOC,Socialiste,8829
+1,90,TERRITOIRE DE BELFORT,UDFD,UDF-Mouvement Démocrate,3673
+1,90,TERRITOIRE DE BELFORT,UMP,Union pour un Mouvement Populaire,26424
+1,90,TERRITOIRE DE BELFORT,VEC,Les Verts,2243
+1,90,TERRITOIRE DE BELFORT,abstentions,abstentions,36172
+1,90,TERRITOIRE DE BELFORT,blancs_nuls,blancs_nuls,1277
+1,91,ESSONNE,COM,Communiste,17019
+1,91,ESSONNE,CPNT,Chasse Pêche Nature Traditions,0
+1,91,ESSONNE,DIV,Divers,2825
+1,91,ESSONNE,DVD,Divers droite,26051
+1,91,ESSONNE,DVG,Divers gauche,3052
+1,91,ESSONNE,ECO,Ecologiste,3975
+1,91,ESSONNE,EXD,Extrême droite,1732
+1,91,ESSONNE,EXG,Extrême gauche,14841
+1,91,ESSONNE,FN,Front national,15961
+1,91,ESSONNE,MAJ,Majorité présidentielle,0
+1,91,ESSONNE,MPF,Mouvement pour la France,3819
+1,91,ESSONNE,RDG,Radical de gauche,187
+1,91,ESSONNE,REG,Régionaliste,0
+1,91,ESSONNE,SOC,Socialiste,123662
+1,91,ESSONNE,UDFD,UDF-Mouvement Démocrate,44720
+1,91,ESSONNE,UMP,Union pour un Mouvement Populaire,179393
+1,91,ESSONNE,VEC,Les Verts,15241
+1,91,ESSONNE,abstentions,abstentions,290506
+1,91,ESSONNE,blancs_nuls,blancs_nuls,5520
+1,92,HAUTS DE SEINE,COM,Communiste,36208
+1,92,HAUTS DE SEINE,CPNT,Chasse Pêche Nature Traditions,0
+1,92,HAUTS DE SEINE,DIV,Divers,10310
+1,92,HAUTS DE SEINE,DVD,Divers droite,14519
+1,92,HAUTS DE SEINE,DVG,Divers gauche,806
+1,92,HAUTS DE SEINE,ECO,Ecologiste,3412
+1,92,HAUTS DE SEINE,EXD,Extrême droite,2241
+1,92,HAUTS DE SEINE,EXG,Extrême gauche,14228
+1,92,HAUTS DE SEINE,FN,Front national,16232
+1,92,HAUTS DE SEINE,MAJ,Majorité présidentielle,57414
+1,92,HAUTS DE SEINE,MPF,Mouvement pour la France,2540
+1,92,HAUTS DE SEINE,RDG,Radical de gauche,8928
+1,92,HAUTS DE SEINE,REG,Régionaliste,0
+1,92,HAUTS DE SEINE,SOC,Socialiste,109109
+1,92,HAUTS DE SEINE,UDFD,UDF-Mouvement Démocrate,55697
+1,92,HAUTS DE SEINE,UMP,Union pour un Mouvement Populaire,210943
+1,92,HAUTS DE SEINE,VEC,Les Verts,18332
+1,92,HAUTS DE SEINE,abstentions,abstentions,350276
+1,92,HAUTS DE SEINE,blancs_nuls,blancs_nuls,8113
+1,93,SEINE SAINT-DENIS,COM,Communiste,47525
+1,93,SEINE SAINT-DENIS,CPNT,Chasse Pêche Nature Traditions,0
+1,93,SEINE SAINT-DENIS,DIV,Divers,7715
+1,93,SEINE SAINT-DENIS,DVD,Divers droite,26739
+1,93,SEINE SAINT-DENIS,DVG,Divers gauche,9239
+1,93,SEINE SAINT-DENIS,ECO,Ecologiste,3132
+1,93,SEINE SAINT-DENIS,EXD,Extrême droite,2811
+1,93,SEINE SAINT-DENIS,EXG,Extrême gauche,16752
+1,93,SEINE SAINT-DENIS,FN,Front national,19105
+1,93,SEINE SAINT-DENIS,MAJ,Majorité présidentielle,7797
+1,93,SEINE SAINT-DENIS,MPF,Mouvement pour la France,2852
+1,93,SEINE SAINT-DENIS,RDG,Radical de gauche,476
+1,93,SEINE SAINT-DENIS,REG,Régionaliste,0
+1,93,SEINE SAINT-DENIS,SOC,Socialiste,103314
+1,93,SEINE SAINT-DENIS,UDFD,UDF-Mouvement Démocrate,11522
+1,93,SEINE SAINT-DENIS,UMP,Union pour un Mouvement Populaire,105730
+1,93,SEINE SAINT-DENIS,VEC,Les Verts,13135
+1,93,SEINE SAINT-DENIS,abstentions,abstentions,329136
+1,93,SEINE SAINT-DENIS,blancs_nuls,blancs_nuls,6601
+1,94,VAL DE MARNE,COM,Communiste,39222
+1,94,VAL DE MARNE,CPNT,Chasse Pêche Nature Traditions,0
+1,94,VAL DE MARNE,DIV,Divers,4239
+1,94,VAL DE MARNE,DVD,Divers droite,9168
+1,94,VAL DE MARNE,DVG,Divers gauche,13289
+1,94,VAL DE MARNE,ECO,Ecologiste,2271
+1,94,VAL DE MARNE,EXD,Extrême droite,2325
+1,94,VAL DE MARNE,EXG,Extrême gauche,15126
+1,94,VAL DE MARNE,FN,Front national,16467
+1,94,VAL DE MARNE,MAJ,Majorité présidentielle,0
+1,94,VAL DE MARNE,MPF,Mouvement pour la France,3338
+1,94,VAL DE MARNE,RDG,Radical de gauche,10588
+1,94,VAL DE MARNE,REG,Régionaliste,0
+1,94,VAL DE MARNE,SOC,Socialiste,91133
+1,94,VAL DE MARNE,UDFD,UDF-Mouvement Démocrate,42538
+1,94,VAL DE MARNE,UMP,Union pour un Mouvement Populaire,173235
+1,94,VAL DE MARNE,VEC,Les Verts,16577
+1,94,VAL DE MARNE,abstentions,abstentions,308422
+1,94,VAL DE MARNE,blancs_nuls,blancs_nuls,5847
+1,95,VAL D'OISE,COM,Communiste,13403
+1,95,VAL D'OISE,CPNT,Chasse Pêche Nature Traditions,0
+1,95,VAL D'OISE,DIV,Divers,4984
+1,95,VAL D'OISE,DVD,Divers droite,4957
+1,95,VAL D'OISE,DVG,Divers gauche,2750
+1,95,VAL D'OISE,ECO,Ecologiste,4578
+1,95,VAL D'OISE,EXD,Extrême droite,1925
+1,95,VAL D'OISE,EXG,Extrême gauche,15426
+1,95,VAL D'OISE,FN,Front national,17657
+1,95,VAL D'OISE,MAJ,Majorité présidentielle,0
+1,95,VAL D'OISE,MPF,Mouvement pour la France,4467
+1,95,VAL D'OISE,RDG,Radical de gauche,0
+1,95,VAL D'OISE,REG,Régionaliste,0
+1,95,VAL D'OISE,SOC,Socialiste,99514
+1,95,VAL D'OISE,UDFD,UDF-Mouvement Démocrate,32673
+1,95,VAL D'OISE,UMP,Union pour un Mouvement Populaire,170722
+1,95,VAL D'OISE,VEC,Les Verts,11257
+1,95,VAL D'OISE,abstentions,abstentions,289590
+1,95,VAL D'OISE,blancs_nuls,blancs_nuls,5490
+1,971,GUADELOUPE,COM,Communiste,0
+1,971,GUADELOUPE,CPNT,Chasse Pêche Nature Traditions,0
+1,971,GUADELOUPE,DIV,Divers,9019
+1,971,GUADELOUPE,DVD,Divers droite,12778
+1,971,GUADELOUPE,DVG,Divers gauche,33721
+1,971,GUADELOUPE,ECO,Ecologiste,0
+1,971,GUADELOUPE,EXD,Extrême droite,0
+1,971,GUADELOUPE,EXG,Extrême gauche,1108
+1,971,GUADELOUPE,FN,Front national,0
+1,971,GUADELOUPE,MAJ,Majorité présidentielle,258
+1,971,GUADELOUPE,MPF,Mouvement pour la France,0
+1,971,GUADELOUPE,RDG,Radical de gauche,0
+1,971,GUADELOUPE,REG,Régionaliste,0
+1,971,GUADELOUPE,SOC,Socialiste,14889
+1,971,GUADELOUPE,UDFD,UDF-Mouvement Démocrate,1933
+1,971,GUADELOUPE,UMP,Union pour un Mouvement Populaire,18069
+1,971,GUADELOUPE,VEC,Les Verts,4126
+1,971,GUADELOUPE,abstentions,abstentions,200074
+1,971,GUADELOUPE,blancs_nuls,blancs_nuls,7770
+1,972,MARTINIQUE,COM,Communiste,0
+1,972,MARTINIQUE,CPNT,Chasse Pêche Nature Traditions,0
+1,972,MARTINIQUE,DIV,Divers,784
+1,972,MARTINIQUE,DVD,Divers droite,2352
+1,972,MARTINIQUE,DVG,Divers gauche,32252
+1,972,MARTINIQUE,ECO,Ecologiste,0
+1,972,MARTINIQUE,EXD,Extrême droite,0
+1,972,MARTINIQUE,EXG,Extrême gauche,972
+1,972,MARTINIQUE,FN,Front national,0
+1,972,MARTINIQUE,MAJ,Majorité présidentielle,0
+1,972,MARTINIQUE,MPF,Mouvement pour la France,0
+1,972,MARTINIQUE,RDG,Radical de gauche,0
+1,972,MARTINIQUE,REG,Régionaliste,22525
+1,972,MARTINIQUE,SOC,Socialiste,13050
+1,972,MARTINIQUE,UDFD,UDF-Mouvement Démocrate,0
+1,972,MARTINIQUE,UMP,Union pour un Mouvement Populaire,25998
+1,972,MARTINIQUE,VEC,Les Verts,0
+1,972,MARTINIQUE,abstentions,abstentions,184382
+1,972,MARTINIQUE,blancs_nuls,blancs_nuls,5950
+1,973,GUYANE,COM,Communiste,0
+1,973,GUYANE,CPNT,Chasse Pêche Nature Traditions,0
+1,973,GUYANE,DIV,Divers,363
+1,973,GUYANE,DVD,Divers droite,0
+1,973,GUYANE,DVG,Divers gauche,9054
+1,973,GUYANE,ECO,Ecologiste,0
+1,973,GUYANE,EXD,Extrême droite,0
+1,973,GUYANE,EXG,Extrême gauche,0
+1,973,GUYANE,FN,Front national,295
+1,973,GUYANE,MAJ,Majorité présidentielle,0
+1,973,GUYANE,MPF,Mouvement pour la France,0
+1,973,GUYANE,RDG,Radical de gauche,0
+1,973,GUYANE,REG,Régionaliste,2710
+1,973,GUYANE,SOC,Socialiste,0
+1,973,GUYANE,UDFD,UDF-Mouvement Démocrate,1054
+1,973,GUYANE,UMP,Union pour un Mouvement Populaire,8084
+1,973,GUYANE,VEC,Les Verts,1380
+1,973,GUYANE,abstentions,abstentions,38819
+1,973,GUYANE,blancs_nuls,blancs_nuls,1051
+1,974,LA REUNION,COM,Communiste,0
+1,974,LA REUNION,CPNT,Chasse Pêche Nature Traditions,0
+1,974,LA REUNION,DIV,Divers,11136
+1,974,LA REUNION,DVD,Divers droite,26981
+1,974,LA REUNION,DVG,Divers gauche,67420
+1,974,LA REUNION,ECO,Ecologiste,659
+1,974,LA REUNION,EXD,Extrême droite,0
+1,974,LA REUNION,EXG,Extrême gauche,2278
+1,974,LA REUNION,FN,Front national,253
+1,974,LA REUNION,MAJ,Majorité présidentielle,0
+1,974,LA REUNION,MPF,Mouvement pour la France,0
+1,974,LA REUNION,RDG,Radical de gauche,172
+1,974,LA REUNION,REG,Régionaliste,527
+1,974,LA REUNION,SOC,Socialiste,57103
+1,974,LA REUNION,UDFD,UDF-Mouvement Démocrate,5656
+1,974,LA REUNION,UMP,Union pour un Mouvement Populaire,70831
+1,974,LA REUNION,VEC,Les Verts,4895
+1,974,LA REUNION,abstentions,abstentions,252945
+1,974,LA REUNION,blancs_nuls,blancs_nuls,12174
+1,975,SAINT PIERRE ET MIQUELON,COM,Communiste,0
+1,975,SAINT PIERRE ET MIQUELON,CPNT,Chasse Pêche Nature Traditions,0
+1,975,SAINT PIERRE ET MIQUELON,DIV,Divers,0
+1,975,SAINT PIERRE ET MIQUELON,DVD,Divers droite,206
+1,975,SAINT PIERRE ET MIQUELON,DVG,Divers gauche,377
+1,975,SAINT PIERRE ET MIQUELON,ECO,Ecologiste,0
+1,975,SAINT PIERRE ET MIQUELON,EXD,Extrême droite,0
+1,975,SAINT PIERRE ET MIQUELON,EXG,Extrême gauche,0
+1,975,SAINT PIERRE ET MIQUELON,FN,Front national,0
+1,975,SAINT PIERRE ET MIQUELON,MAJ,Majorité présidentielle,0
+1,975,SAINT PIERRE ET MIQUELON,MPF,Mouvement pour la France,0
+1,975,SAINT PIERRE ET MIQUELON,RDG,Radical de gauche,966
+1,975,SAINT PIERRE ET MIQUELON,REG,Régionaliste,0
+1,975,SAINT PIERRE ET MIQUELON,SOC,Socialiste,463
+1,975,SAINT PIERRE ET MIQUELON,UDFD,UDF-Mouvement Démocrate,0
+1,975,SAINT PIERRE ET MIQUELON,UMP,Union pour un Mouvement Populaire,1098
+1,975,SAINT PIERRE ET MIQUELON,VEC,Les Verts,0
+1,975,SAINT PIERRE ET MIQUELON,abstentions,abstentions,1691
+1,975,SAINT PIERRE ET MIQUELON,blancs_nuls,blancs_nuls,123
+1,976,MAYOTTE,COM,Communiste,0
+1,976,MAYOTTE,CPNT,Chasse Pêche Nature Traditions,0
+1,976,MAYOTTE,DIV,Divers,7715
+1,976,MAYOTTE,DVD,Divers droite,2364
+1,976,MAYOTTE,DVG,Divers gauche,6569
+1,976,MAYOTTE,ECO,Ecologiste,0
+1,976,MAYOTTE,EXD,Extrême droite,0
+1,976,MAYOTTE,EXG,Extrême gauche,0
+1,976,MAYOTTE,FN,Front national,201
+1,976,MAYOTTE,MAJ,Majorité présidentielle,0
+1,976,MAYOTTE,MPF,Mouvement pour la France,0
+1,976,MAYOTTE,RDG,Radical de gauche,0
+1,976,MAYOTTE,REG,Régionaliste,0
+1,976,MAYOTTE,SOC,Socialiste,2185
+1,976,MAYOTTE,UDFD,UDF-Mouvement Démocrate,2628
+1,976,MAYOTTE,UMP,Union pour un Mouvement Populaire,8472
+1,976,MAYOTTE,VEC,Les Verts,205
+1,976,MAYOTTE,abstentions,abstentions,32934
+1,976,MAYOTTE,blancs_nuls,blancs_nuls,1397
+1,986,WALLIS-ET-FUTUNA,COM,Communiste,0
+1,986,WALLIS-ET-FUTUNA,CPNT,Chasse Pêche Nature Traditions,0
+1,986,WALLIS-ET-FUTUNA,DIV,Divers,0
+1,986,WALLIS-ET-FUTUNA,DVD,Divers droite,1101
+1,986,WALLIS-ET-FUTUNA,DVG,Divers gauche,0
+1,986,WALLIS-ET-FUTUNA,ECO,Ecologiste,0
+1,986,WALLIS-ET-FUTUNA,EXD,Extrême droite,0
+1,986,WALLIS-ET-FUTUNA,EXG,Extrême gauche,0
+1,986,WALLIS-ET-FUTUNA,FN,Front national,0
+1,986,WALLIS-ET-FUTUNA,MAJ,Majorité présidentielle,0
+1,986,WALLIS-ET-FUTUNA,MPF,Mouvement pour la France,0
+1,986,WALLIS-ET-FUTUNA,RDG,Radical de gauche,0
+1,986,WALLIS-ET-FUTUNA,REG,Régionaliste,0
+1,986,WALLIS-ET-FUTUNA,SOC,Socialiste,2424
+1,986,WALLIS-ET-FUTUNA,UDFD,UDF-Mouvement Démocrate,1634
+1,986,WALLIS-ET-FUTUNA,UMP,Union pour un Mouvement Populaire,2625
+1,986,WALLIS-ET-FUTUNA,VEC,Les Verts,0
+1,986,WALLIS-ET-FUTUNA,abstentions,abstentions,3311
+1,986,WALLIS-ET-FUTUNA,blancs_nuls,blancs_nuls,65
+1,987,POLYNESIE FRANCAISE,COM,Communiste,0
+1,987,POLYNESIE FRANCAISE,CPNT,Chasse Pêche Nature Traditions,0
+1,987,POLYNESIE FRANCAISE,DIV,Divers,5477
+1,987,POLYNESIE FRANCAISE,DVD,Divers droite,36319
+1,987,POLYNESIE FRANCAISE,DVG,Divers gauche,651
+1,987,POLYNESIE FRANCAISE,ECO,Ecologiste,0
+1,987,POLYNESIE FRANCAISE,EXD,Extrême droite,0
+1,987,POLYNESIE FRANCAISE,EXG,Extrême gauche,0
+1,987,POLYNESIE FRANCAISE,FN,Front national,0
+1,987,POLYNESIE FRANCAISE,MAJ,Majorité présidentielle,0
+1,987,POLYNESIE FRANCAISE,MPF,Mouvement pour la France,0
+1,987,POLYNESIE FRANCAISE,RDG,Radical de gauche,0
+1,987,POLYNESIE FRANCAISE,REG,Régionaliste,34496
+1,987,POLYNESIE FRANCAISE,SOC,Socialiste,0
+1,987,POLYNESIE FRANCAISE,UDFD,UDF-Mouvement Démocrate,0
+1,987,POLYNESIE FRANCAISE,UMP,Union pour un Mouvement Populaire,14352
+1,987,POLYNESIE FRANCAISE,VEC,Les Verts,0
+1,987,POLYNESIE FRANCAISE,abstentions,abstentions,75613
+1,987,POLYNESIE FRANCAISE,blancs_nuls,blancs_nuls,821
+1,988,NOUVELLE CALEDONIE,COM,Communiste,0
+1,988,NOUVELLE CALEDONIE,CPNT,Chasse Pêche Nature Traditions,0
+1,988,NOUVELLE CALEDONIE,DIV,Divers,233
+1,988,NOUVELLE CALEDONIE,DVD,Divers droite,13952
+1,988,NOUVELLE CALEDONIE,DVG,Divers gauche,0
+1,988,NOUVELLE CALEDONIE,ECO,Ecologiste,0
+1,988,NOUVELLE CALEDONIE,EXD,Extrême droite,0
+1,988,NOUVELLE CALEDONIE,EXG,Extrême gauche,4431
+1,988,NOUVELLE CALEDONIE,FN,Front national,4078
+1,988,NOUVELLE CALEDONIE,MAJ,Majorité présidentielle,0
+1,988,NOUVELLE CALEDONIE,MPF,Mouvement pour la France,0
+1,988,NOUVELLE CALEDONIE,RDG,Radical de gauche,0
+1,988,NOUVELLE CALEDONIE,REG,Régionaliste,17669
+1,988,NOUVELLE CALEDONIE,SOC,Socialiste,0
+1,988,NOUVELLE CALEDONIE,UDFD,UDF-Mouvement Démocrate,5316
+1,988,NOUVELLE CALEDONIE,UMP,Union pour un Mouvement Populaire,30298
+1,988,NOUVELLE CALEDONIE,VEC,Les Verts,0
+1,988,NOUVELLE CALEDONIE,abstentions,abstentions,67690
+1,988,NOUVELLE CALEDONIE,blancs_nuls,blancs_nuls,2115
+2,01,AIN,COM,Communiste,0
+2,01,AIN,CPNT,Chasse Pêche Nature Traditions,0
+2,01,AIN,DIV,Divers,0
+2,01,AIN,DVD,Divers droite,0.0
+2,01,AIN,DVG,Divers gauche,0
+2,01,AIN,ECO,Ecologiste,0
+2,01,AIN,EXD,Extrême droite,0.0
+2,01,AIN,EXG,Extrême gauche,0
+2,01,AIN,FN,Front national,0.0
+2,01,AIN,MAJ,Majorité présidentielle,0
+2,01,AIN,MPF,Mouvement pour la France,0
+2,01,AIN,RDG,Radical de gauche,0
+2,01,AIN,REG,Régionaliste,0
+2,01,AIN,SOC,Socialiste,41391
+2,01,AIN,UDFD,UDF-Mouvement Démocrate,0
+2,01,AIN,UMP,Union pour un Mouvement Populaire,54117
+2,01,AIN,VEC,Les Verts,0
+2,01,AIN,abstentions,abstentions,75489
+2,01,AIN,blancs_nuls,blancs_nuls,2305
+2,02,AISNE,COM,Communiste,0
+2,02,AISNE,CPNT,Chasse Pêche Nature Traditions,0
+2,02,AISNE,DIV,Divers,0
+2,02,AISNE,DVD,Divers droite,0.0
+2,02,AISNE,DVG,Divers gauche,49291
+2,02,AISNE,ECO,Ecologiste,0
+2,02,AISNE,EXD,Extrême droite,0.0
+2,02,AISNE,EXG,Extrême gauche,0
+2,02,AISNE,FN,Front national,0.0
+2,02,AISNE,MAJ,Majorité présidentielle,0
+2,02,AISNE,MPF,Mouvement pour la France,0
+2,02,AISNE,RDG,Radical de gauche,0
+2,02,AISNE,REG,Régionaliste,0
+2,02,AISNE,SOC,Socialiste,45854
+2,02,AISNE,UDFD,UDF-Mouvement Démocrate,0
+2,02,AISNE,UMP,Union pour un Mouvement Populaire,86182
+2,02,AISNE,VEC,Les Verts,0
+2,02,AISNE,abstentions,abstentions,116965
+2,02,AISNE,blancs_nuls,blancs_nuls,5543
+2,03,ALLIER,COM,Communiste,0
+2,03,ALLIER,CPNT,Chasse Pêche Nature Traditions,0
+2,03,ALLIER,DIV,Divers,0
+2,03,ALLIER,DVD,Divers droite,0.0
+2,03,ALLIER,DVG,Divers gauche,20725
+2,03,ALLIER,ECO,Ecologiste,0
+2,03,ALLIER,EXD,Extrême droite,0.0
+2,03,ALLIER,EXG,Extrême gauche,0
+2,03,ALLIER,FN,Front national,0.0
+2,03,ALLIER,MAJ,Majorité présidentielle,0
+2,03,ALLIER,MPF,Mouvement pour la France,0
+2,03,ALLIER,RDG,Radical de gauche,24066
+2,03,ALLIER,REG,Régionaliste,0
+2,03,ALLIER,SOC,Socialiste,46838
+2,03,ALLIER,UDFD,UDF-Mouvement Démocrate,0
+2,03,ALLIER,UMP,Union pour un Mouvement Populaire,78766
+2,03,ALLIER,VEC,Les Verts,0
+2,03,ALLIER,abstentions,abstentions,84907
+2,03,ALLIER,blancs_nuls,blancs_nuls,4930
+2,04,ALPES DE HAUTE PROVENCE,COM,Communiste,0
+2,04,ALPES DE HAUTE PROVENCE,CPNT,Chasse Pêche Nature Traditions,0
+2,04,ALPES DE HAUTE PROVENCE,DIV,Divers,0
+2,04,ALPES DE HAUTE PROVENCE,DVD,Divers droite,0.0
+2,04,ALPES DE HAUTE PROVENCE,DVG,Divers gauche,0
+2,04,ALPES DE HAUTE PROVENCE,ECO,Ecologiste,0
+2,04,ALPES DE HAUTE PROVENCE,EXD,Extrême droite,0.0
+2,04,ALPES DE HAUTE PROVENCE,EXG,Extrême gauche,0
+2,04,ALPES DE HAUTE PROVENCE,FN,Front national,0.0
+2,04,ALPES DE HAUTE PROVENCE,MAJ,Majorité présidentielle,0
+2,04,ALPES DE HAUTE PROVENCE,MPF,Mouvement pour la France,0
+2,04,ALPES DE HAUTE PROVENCE,RDG,Radical de gauche,0
+2,04,ALPES DE HAUTE PROVENCE,REG,Régionaliste,0
+2,04,ALPES DE HAUTE PROVENCE,SOC,Socialiste,38631
+2,04,ALPES DE HAUTE PROVENCE,UDFD,UDF-Mouvement Démocrate,0
+2,04,ALPES DE HAUTE PROVENCE,UMP,Union pour un Mouvement Populaire,39843
+2,04,ALPES DE HAUTE PROVENCE,VEC,Les Verts,0
+2,04,ALPES DE HAUTE PROVENCE,abstentions,abstentions,38500
+2,04,ALPES DE HAUTE PROVENCE,blancs_nuls,blancs_nuls,2381
+2,05,HAUTES ALPES,COM,Communiste,0
+2,05,HAUTES ALPES,CPNT,Chasse Pêche Nature Traditions,0
+2,05,HAUTES ALPES,DIV,Divers,0
+2,05,HAUTES ALPES,DVD,Divers droite,0.0
+2,05,HAUTES ALPES,DVG,Divers gauche,0
+2,05,HAUTES ALPES,ECO,Ecologiste,0
+2,05,HAUTES ALPES,EXD,Extrême droite,0.0
+2,05,HAUTES ALPES,EXG,Extrême gauche,0
+2,05,HAUTES ALPES,FN,Front national,0.0
+2,05,HAUTES ALPES,MAJ,Majorité présidentielle,0
+2,05,HAUTES ALPES,MPF,Mouvement pour la France,0
+2,05,HAUTES ALPES,RDG,Radical de gauche,17184
+2,05,HAUTES ALPES,REG,Régionaliste,0
+2,05,HAUTES ALPES,SOC,Socialiste,17345
+2,05,HAUTES ALPES,UDFD,UDF-Mouvement Démocrate,0
+2,05,HAUTES ALPES,UMP,Union pour un Mouvement Populaire,32784
+2,05,HAUTES ALPES,VEC,Les Verts,0
+2,05,HAUTES ALPES,abstentions,abstentions,33821
+2,05,HAUTES ALPES,blancs_nuls,blancs_nuls,2372
+2,06,ALPES MARITIMES,COM,Communiste,0
+2,06,ALPES MARITIMES,CPNT,Chasse Pêche Nature Traditions,0
+2,06,ALPES MARITIMES,DIV,Divers,0
+2,06,ALPES MARITIMES,DVD,Divers droite,14993.0
+2,06,ALPES MARITIMES,DVG,Divers gauche,0
+2,06,ALPES MARITIMES,ECO,Ecologiste,0
+2,06,ALPES MARITIMES,EXD,Extrême droite,0.0
+2,06,ALPES MARITIMES,EXG,Extrême gauche,0
+2,06,ALPES MARITIMES,FN,Front national,0.0
+2,06,ALPES MARITIMES,MAJ,Majorité présidentielle,0
+2,06,ALPES MARITIMES,MPF,Mouvement pour la France,0
+2,06,ALPES MARITIMES,RDG,Radical de gauche,0
+2,06,ALPES MARITIMES,REG,Régionaliste,0
+2,06,ALPES MARITIMES,SOC,Socialiste,11780
+2,06,ALPES MARITIMES,UDFD,UDF-Mouvement Démocrate,0
+2,06,ALPES MARITIMES,UMP,Union pour un Mouvement Populaire,36664
+2,06,ALPES MARITIMES,VEC,Les Verts,0
+2,06,ALPES MARITIMES,abstentions,abstentions,59065
+2,06,ALPES MARITIMES,blancs_nuls,blancs_nuls,3487
+2,07,ARDECHE,COM,Communiste,0
+2,07,ARDECHE,CPNT,Chasse Pêche Nature Traditions,0
+2,07,ARDECHE,DIV,Divers,0
+2,07,ARDECHE,DVD,Divers droite,0.0
+2,07,ARDECHE,DVG,Divers gauche,0
+2,07,ARDECHE,ECO,Ecologiste,0
+2,07,ARDECHE,EXD,Extrême droite,0.0
+2,07,ARDECHE,EXG,Extrême gauche,0
+2,07,ARDECHE,FN,Front national,0.0
+2,07,ARDECHE,MAJ,Majorité présidentielle,0
+2,07,ARDECHE,MPF,Mouvement pour la France,0
+2,07,ARDECHE,RDG,Radical de gauche,0
+2,07,ARDECHE,REG,Régionaliste,0
+2,07,ARDECHE,SOC,Socialiste,78571
+2,07,ARDECHE,UDFD,UDF-Mouvement Démocrate,0
+2,07,ARDECHE,UMP,Union pour un Mouvement Populaire,68958
+2,07,ARDECHE,VEC,Les Verts,0
+2,07,ARDECHE,abstentions,abstentions,84154
+2,07,ARDECHE,blancs_nuls,blancs_nuls,4282
+2,08,ARDENNES,COM,Communiste,0
+2,08,ARDENNES,CPNT,Chasse Pêche Nature Traditions,0
+2,08,ARDENNES,DIV,Divers,0
+2,08,ARDENNES,DVD,Divers droite,0.0
+2,08,ARDENNES,DVG,Divers gauche,0
+2,08,ARDENNES,ECO,Ecologiste,0
+2,08,ARDENNES,EXD,Extrême droite,0.0
+2,08,ARDENNES,EXG,Extrême gauche,0
+2,08,ARDENNES,FN,Front national,0.0
+2,08,ARDENNES,MAJ,Majorité présidentielle,0
+2,08,ARDENNES,MPF,Mouvement pour la France,0
+2,08,ARDENNES,RDG,Radical de gauche,0
+2,08,ARDENNES,REG,Régionaliste,0
+2,08,ARDENNES,SOC,Socialiste,37233
+2,08,ARDENNES,UDFD,UDF-Mouvement Démocrate,0
+2,08,ARDENNES,UMP,Union pour un Mouvement Populaire,44000
+2,08,ARDENNES,VEC,Les Verts,0
+2,08,ARDENNES,abstentions,abstentions,56446
+2,08,ARDENNES,blancs_nuls,blancs_nuls,2024
+2,09,ARIEGE,COM,Communiste,0
+2,09,ARIEGE,CPNT,Chasse Pêche Nature Traditions,0
+2,09,ARIEGE,DIV,Divers,0
+2,09,ARIEGE,DVD,Divers droite,0.0
+2,09,ARIEGE,DVG,Divers gauche,0
+2,09,ARIEGE,ECO,Ecologiste,0
+2,09,ARIEGE,EXD,Extrême droite,0.0
+2,09,ARIEGE,EXG,Extrême gauche,0
+2,09,ARIEGE,FN,Front national,0.0
+2,09,ARIEGE,MAJ,Majorité présidentielle,0
+2,09,ARIEGE,MPF,Mouvement pour la France,0
+2,09,ARIEGE,RDG,Radical de gauche,0
+2,09,ARIEGE,REG,Régionaliste,0
+2,09,ARIEGE,SOC,Socialiste,44928
+2,09,ARIEGE,UDFD,UDF-Mouvement Démocrate,0
+2,09,ARIEGE,UMP,Union pour un Mouvement Populaire,25977
+2,09,ARIEGE,VEC,Les Verts,0
+2,09,ARIEGE,abstentions,abstentions,40092
+2,09,ARIEGE,blancs_nuls,blancs_nuls,3274
+2,10,AUBE,COM,Communiste,0
+2,10,AUBE,CPNT,Chasse Pêche Nature Traditions,0
+2,10,AUBE,DIV,Divers,0
+2,10,AUBE,DVD,Divers droite,0.0
+2,10,AUBE,DVG,Divers gauche,0
+2,10,AUBE,ECO,Ecologiste,0
+2,10,AUBE,EXD,Extrême droite,0.0
+2,10,AUBE,EXG,Extrême gauche,0
+2,10,AUBE,FN,Front national,0.0
+2,10,AUBE,MAJ,Majorité présidentielle,0
+2,10,AUBE,MPF,Mouvement pour la France,0
+2,10,AUBE,RDG,Radical de gauche,13324
+2,10,AUBE,REG,Régionaliste,0
+2,10,AUBE,SOC,Socialiste,12793
+2,10,AUBE,UDFD,UDF-Mouvement Démocrate,0
+2,10,AUBE,UMP,Union pour un Mouvement Populaire,44739
+2,10,AUBE,VEC,Les Verts,0
+2,10,AUBE,abstentions,abstentions,57493
+2,10,AUBE,blancs_nuls,blancs_nuls,3079
+2,11,AUDE,COM,Communiste,0
+2,11,AUDE,CPNT,Chasse Pêche Nature Traditions,0
+2,11,AUDE,DIV,Divers,0
+2,11,AUDE,DVD,Divers droite,0.0
+2,11,AUDE,DVG,Divers gauche,0
+2,11,AUDE,ECO,Ecologiste,0
+2,11,AUDE,EXD,Extrême droite,0.0
+2,11,AUDE,EXG,Extrême gauche,0
+2,11,AUDE,FN,Front national,0.0
+2,11,AUDE,MAJ,Majorité présidentielle,0
+2,11,AUDE,MPF,Mouvement pour la France,0
+2,11,AUDE,RDG,Radical de gauche,0
+2,11,AUDE,REG,Régionaliste,0
+2,11,AUDE,SOC,Socialiste,92719
+2,11,AUDE,UDFD,UDF-Mouvement Démocrate,0
+2,11,AUDE,UMP,Union pour un Mouvement Populaire,75046
+2,11,AUDE,VEC,Les Verts,0
+2,11,AUDE,abstentions,abstentions,81099
+2,11,AUDE,blancs_nuls,blancs_nuls,5924
+2,12,AVEYRON,COM,Communiste,0
+2,12,AVEYRON,CPNT,Chasse Pêche Nature Traditions,0
+2,12,AVEYRON,DIV,Divers,0
+2,12,AVEYRON,DVD,Divers droite,0.0
+2,12,AVEYRON,DVG,Divers gauche,0
+2,12,AVEYRON,ECO,Ecologiste,0
+2,12,AVEYRON,EXD,Extrême droite,0.0
+2,12,AVEYRON,EXG,Extrême gauche,0
+2,12,AVEYRON,FN,Front national,0.0
+2,12,AVEYRON,MAJ,Majorité présidentielle,0
+2,12,AVEYRON,MPF,Mouvement pour la France,0
+2,12,AVEYRON,RDG,Radical de gauche,0
+2,12,AVEYRON,REG,Régionaliste,0
+2,12,AVEYRON,SOC,Socialiste,67056
+2,12,AVEYRON,UDFD,UDF-Mouvement Démocrate,0
+2,12,AVEYRON,UMP,Union pour un Mouvement Populaire,76989
+2,12,AVEYRON,VEC,Les Verts,0
+2,12,AVEYRON,abstentions,abstentions,68685
+2,12,AVEYRON,blancs_nuls,blancs_nuls,5686
+2,13,BOUCHES DU RHONE,COM,Communiste,59160
+2,13,BOUCHES DU RHONE,CPNT,Chasse Pêche Nature Traditions,0
+2,13,BOUCHES DU RHONE,DIV,Divers,0
+2,13,BOUCHES DU RHONE,DVD,Divers droite,26794.0
+2,13,BOUCHES DU RHONE,DVG,Divers gauche,0
+2,13,BOUCHES DU RHONE,ECO,Ecologiste,0
+2,13,BOUCHES DU RHONE,EXD,Extrême droite,0.0
+2,13,BOUCHES DU RHONE,EXG,Extrême gauche,0
+2,13,BOUCHES DU RHONE,FN,Front national,0.0
+2,13,BOUCHES DU RHONE,MAJ,Majorité présidentielle,0
+2,13,BOUCHES DU RHONE,MPF,Mouvement pour la France,0
+2,13,BOUCHES DU RHONE,RDG,Radical de gauche,13220
+2,13,BOUCHES DU RHONE,REG,Régionaliste,0
+2,13,BOUCHES DU RHONE,SOC,Socialiste,149597
+2,13,BOUCHES DU RHONE,UDFD,UDF-Mouvement Démocrate,0
+2,13,BOUCHES DU RHONE,UMP,Union pour un Mouvement Populaire,257438
+2,13,BOUCHES DU RHONE,VEC,Les Verts,0
+2,13,BOUCHES DU RHONE,abstentions,abstentions,405618
+2,13,BOUCHES DU RHONE,blancs_nuls,blancs_nuls,23589
+2,14,CALVADOS,COM,Communiste,0
+2,14,CALVADOS,CPNT,Chasse Pêche Nature Traditions,0
+2,14,CALVADOS,DIV,Divers,0
+2,14,CALVADOS,DVD,Divers droite,0.0
+2,14,CALVADOS,DVG,Divers gauche,0
+2,14,CALVADOS,ECO,Ecologiste,0
+2,14,CALVADOS,EXD,Extrême droite,0.0
+2,14,CALVADOS,EXG,Extrême gauche,0
+2,14,CALVADOS,FN,Front national,0.0
+2,14,CALVADOS,MAJ,Majorité présidentielle,41249
+2,14,CALVADOS,MPF,Mouvement pour la France,0
+2,14,CALVADOS,RDG,Radical de gauche,24771
+2,14,CALVADOS,REG,Régionaliste,0
+2,14,CALVADOS,SOC,Socialiste,93867
+2,14,CALVADOS,UDFD,UDF-Mouvement Démocrate,0
+2,14,CALVADOS,UMP,Union pour un Mouvement Populaire,84495
+2,14,CALVADOS,VEC,Les Verts,0
+2,14,CALVADOS,abstentions,abstentions,152620
+2,14,CALVADOS,blancs_nuls,blancs_nuls,5953
+2,15,CANTAL,COM,Communiste,0
+2,15,CANTAL,CPNT,Chasse Pêche Nature Traditions,0
+2,15,CANTAL,DIV,Divers,0
+2,15,CANTAL,DVD,Divers droite,0.0
+2,15,CANTAL,DVG,Divers gauche,0
+2,15,CANTAL,ECO,Ecologiste,0
+2,15,CANTAL,EXD,Extrême droite,0.0
+2,15,CANTAL,EXG,Extrême gauche,0
+2,15,CANTAL,FN,Front national,0.0
+2,15,CANTAL,MAJ,Majorité présidentielle,0
+2,15,CANTAL,MPF,Mouvement pour la France,0
+2,15,CANTAL,RDG,Radical de gauche,0
+2,15,CANTAL,REG,Régionaliste,0
+2,15,CANTAL,SOC,Socialiste,17774
+2,15,CANTAL,UDFD,UDF-Mouvement Démocrate,0
+2,15,CANTAL,UMP,Union pour un Mouvement Populaire,22584
+2,15,CANTAL,VEC,Les Verts,0
+2,15,CANTAL,abstentions,abstentions,23159
+2,15,CANTAL,blancs_nuls,blancs_nuls,1247
+2,16,CHARENTE,COM,Communiste,0
+2,16,CHARENTE,CPNT,Chasse Pêche Nature Traditions,0
+2,16,CHARENTE,DIV,Divers,0
+2,16,CHARENTE,DVD,Divers droite,0.0
+2,16,CHARENTE,DVG,Divers gauche,23024
+2,16,CHARENTE,ECO,Ecologiste,0
+2,16,CHARENTE,EXD,Extrême droite,0.0
+2,16,CHARENTE,EXG,Extrême gauche,0
+2,16,CHARENTE,FN,Front national,0.0
+2,16,CHARENTE,MAJ,Majorité présidentielle,0
+2,16,CHARENTE,MPF,Mouvement pour la France,0
+2,16,CHARENTE,RDG,Radical de gauche,0
+2,16,CHARENTE,REG,Régionaliste,0
+2,16,CHARENTE,SOC,Socialiste,70029
+2,16,CHARENTE,UDFD,UDF-Mouvement Démocrate,0
+2,16,CHARENTE,UMP,Union pour un Mouvement Populaire,68210
+2,16,CHARENTE,VEC,Les Verts,0
+2,16,CHARENTE,abstentions,abstentions,94912
+2,16,CHARENTE,blancs_nuls,blancs_nuls,4506
+2,17,CHARENTE MARITIME,COM,Communiste,0
+2,17,CHARENTE MARITIME,CPNT,Chasse Pêche Nature Traditions,0
+2,17,CHARENTE MARITIME,DIV,Divers,0
+2,17,CHARENTE MARITIME,DVD,Divers droite,0.0
+2,17,CHARENTE MARITIME,DVG,Divers gauche,0
+2,17,CHARENTE MARITIME,ECO,Ecologiste,0
+2,17,CHARENTE MARITIME,EXD,Extrême droite,0.0
+2,17,CHARENTE MARITIME,EXG,Extrême gauche,0
+2,17,CHARENTE MARITIME,FN,Front national,0.0
+2,17,CHARENTE MARITIME,MAJ,Majorité présidentielle,0
+2,17,CHARENTE MARITIME,MPF,Mouvement pour la France,0
+2,17,CHARENTE MARITIME,RDG,Radical de gauche,0
+2,17,CHARENTE MARITIME,REG,Régionaliste,0
+2,17,CHARENTE MARITIME,SOC,Socialiste,84947
+2,17,CHARENTE MARITIME,UDFD,UDF-Mouvement Démocrate,0
+2,17,CHARENTE MARITIME,UMP,Union pour un Mouvement Populaire,77252
+2,17,CHARENTE MARITIME,VEC,Les Verts,0
+2,17,CHARENTE MARITIME,abstentions,abstentions,100362
+2,17,CHARENTE MARITIME,blancs_nuls,blancs_nuls,5927
+2,18,CHER,COM,Communiste,23318
+2,18,CHER,CPNT,Chasse Pêche Nature Traditions,0
+2,18,CHER,DIV,Divers,0
+2,18,CHER,DVD,Divers droite,0.0
+2,18,CHER,DVG,Divers gauche,0
+2,18,CHER,ECO,Ecologiste,0
+2,18,CHER,EXD,Extrême droite,0.0
+2,18,CHER,EXG,Extrême gauche,0
+2,18,CHER,FN,Front national,0.0
+2,18,CHER,MAJ,Majorité présidentielle,0
+2,18,CHER,MPF,Mouvement pour la France,0
+2,18,CHER,RDG,Radical de gauche,0
+2,18,CHER,REG,Régionaliste,0
+2,18,CHER,SOC,Socialiste,45174
+2,18,CHER,UDFD,UDF-Mouvement Démocrate,0
+2,18,CHER,UMP,Union pour un Mouvement Populaire,68076
+2,18,CHER,VEC,Les Verts,0
+2,18,CHER,abstentions,abstentions,91083
+2,18,CHER,blancs_nuls,blancs_nuls,4978
+2,19,CORREZE,COM,Communiste,0
+2,19,CORREZE,CPNT,Chasse Pêche Nature Traditions,0
+2,19,CORREZE,DIV,Divers,0
+2,19,CORREZE,DVD,Divers droite,0.0
+2,19,CORREZE,DVG,Divers gauche,0
+2,19,CORREZE,ECO,Ecologiste,0
+2,19,CORREZE,EXD,Extrême droite,0.0
+2,19,CORREZE,EXG,Extrême gauche,0
+2,19,CORREZE,FN,Front national,0.0
+2,19,CORREZE,MAJ,Majorité présidentielle,0
+2,19,CORREZE,MPF,Mouvement pour la France,0
+2,19,CORREZE,RDG,Radical de gauche,0
+2,19,CORREZE,REG,Régionaliste,0
+2,19,CORREZE,SOC,Socialiste,70064
+2,19,CORREZE,UDFD,UDF-Mouvement Démocrate,0
+2,19,CORREZE,UMP,Union pour un Mouvement Populaire,59573
+2,19,CORREZE,VEC,Les Verts,0
+2,19,CORREZE,abstentions,abstentions,53539
+2,19,CORREZE,blancs_nuls,blancs_nuls,4375
+2,21,COTE D'OR,COM,Communiste,0
+2,21,COTE D'OR,CPNT,Chasse Pêche Nature Traditions,0
+2,21,COTE D'OR,DIV,Divers,0
+2,21,COTE D'OR,DVD,Divers droite,0.0
+2,21,COTE D'OR,DVG,Divers gauche,0
+2,21,COTE D'OR,ECO,Ecologiste,0
+2,21,COTE D'OR,EXD,Extrême droite,0.0
+2,21,COTE D'OR,EXG,Extrême gauche,0
+2,21,COTE D'OR,FN,Front national,0.0
+2,21,COTE D'OR,MAJ,Majorité présidentielle,0
+2,21,COTE D'OR,MPF,Mouvement pour la France,0
+2,21,COTE D'OR,RDG,Radical de gauche,0
+2,21,COTE D'OR,REG,Régionaliste,0
+2,21,COTE D'OR,SOC,Socialiste,55519
+2,21,COTE D'OR,UDFD,UDF-Mouvement Démocrate,0
+2,21,COTE D'OR,UMP,Union pour un Mouvement Populaire,63070
+2,21,COTE D'OR,VEC,Les Verts,0
+2,21,COTE D'OR,abstentions,abstentions,78703
+2,21,COTE D'OR,blancs_nuls,blancs_nuls,3083
+2,22,COTES D'ARMOR,COM,Communiste,0
+2,22,COTES D'ARMOR,CPNT,Chasse Pêche Nature Traditions,0
+2,22,COTES D'ARMOR,DIV,Divers,0
+2,22,COTES D'ARMOR,DVD,Divers droite,0.0
+2,22,COTES D'ARMOR,DVG,Divers gauche,0
+2,22,COTES D'ARMOR,ECO,Ecologiste,0
+2,22,COTES D'ARMOR,EXD,Extrême droite,0.0
+2,22,COTES D'ARMOR,EXG,Extrême gauche,0
+2,22,COTES D'ARMOR,FN,Front national,0.0
+2,22,COTES D'ARMOR,MAJ,Majorité présidentielle,0
+2,22,COTES D'ARMOR,MPF,Mouvement pour la France,0
+2,22,COTES D'ARMOR,RDG,Radical de gauche,0
+2,22,COTES D'ARMOR,REG,Régionaliste,0
+2,22,COTES D'ARMOR,SOC,Socialiste,166986
+2,22,COTES D'ARMOR,UDFD,UDF-Mouvement Démocrate,0
+2,22,COTES D'ARMOR,UMP,Union pour un Mouvement Populaire,132587
+2,22,COTES D'ARMOR,VEC,Les Verts,0
+2,22,COTES D'ARMOR,abstentions,abstentions,140265
+2,22,COTES D'ARMOR,blancs_nuls,blancs_nuls,7191
+2,23,CREUSE,COM,Communiste,0
+2,23,CREUSE,CPNT,Chasse Pêche Nature Traditions,0
+2,23,CREUSE,DIV,Divers,0
+2,23,CREUSE,DVD,Divers droite,0.0
+2,23,CREUSE,DVG,Divers gauche,13920
+2,23,CREUSE,ECO,Ecologiste,0
+2,23,CREUSE,EXD,Extrême droite,0.0
+2,23,CREUSE,EXG,Extrême gauche,0
+2,23,CREUSE,FN,Front national,0.0
+2,23,CREUSE,MAJ,Majorité présidentielle,0
+2,23,CREUSE,MPF,Mouvement pour la France,0
+2,23,CREUSE,RDG,Radical de gauche,0
+2,23,CREUSE,REG,Régionaliste,0
+2,23,CREUSE,SOC,Socialiste,19432
+2,23,CREUSE,UDFD,UDF-Mouvement Démocrate,0
+2,23,CREUSE,UMP,Union pour un Mouvement Populaire,31141
+2,23,CREUSE,VEC,Les Verts,0
+2,23,CREUSE,abstentions,abstentions,32554
+2,23,CREUSE,blancs_nuls,blancs_nuls,2801
+2,24,DORDOGNE,COM,Communiste,0
+2,24,DORDOGNE,CPNT,Chasse Pêche Nature Traditions,0
+2,24,DORDOGNE,DIV,Divers,0
+2,24,DORDOGNE,DVD,Divers droite,0.0
+2,24,DORDOGNE,DVG,Divers gauche,0
+2,24,DORDOGNE,ECO,Ecologiste,0
+2,24,DORDOGNE,EXD,Extrême droite,0.0
+2,24,DORDOGNE,EXG,Extrême gauche,0
+2,24,DORDOGNE,FN,Front national,0.0
+2,24,DORDOGNE,MAJ,Majorité présidentielle,0
+2,24,DORDOGNE,MPF,Mouvement pour la France,0
+2,24,DORDOGNE,RDG,Radical de gauche,0
+2,24,DORDOGNE,REG,Régionaliste,0
+2,24,DORDOGNE,SOC,Socialiste,117455
+2,24,DORDOGNE,UDFD,UDF-Mouvement Démocrate,0
+2,24,DORDOGNE,UMP,Union pour un Mouvement Populaire,94488
+2,24,DORDOGNE,VEC,Les Verts,0
+2,24,DORDOGNE,abstentions,abstentions,90948
+2,24,DORDOGNE,blancs_nuls,blancs_nuls,7059
+2,25,DOUBS,COM,Communiste,0
+2,25,DOUBS,CPNT,Chasse Pêche Nature Traditions,0
+2,25,DOUBS,DIV,Divers,0
+2,25,DOUBS,DVD,Divers droite,0.0
+2,25,DOUBS,DVG,Divers gauche,0
+2,25,DOUBS,ECO,Ecologiste,0
+2,25,DOUBS,EXD,Extrême droite,0.0
+2,25,DOUBS,EXG,Extrême gauche,0
+2,25,DOUBS,FN,Front national,0.0
+2,25,DOUBS,MAJ,Majorité présidentielle,0
+2,25,DOUBS,MPF,Mouvement pour la France,0
+2,25,DOUBS,RDG,Radical de gauche,0
+2,25,DOUBS,REG,Régionaliste,0
+2,25,DOUBS,SOC,Socialiste,82222
+2,25,DOUBS,UDFD,UDF-Mouvement Démocrate,0
+2,25,DOUBS,UMP,Union pour un Mouvement Populaire,87121
+2,25,DOUBS,VEC,Les Verts,0
+2,25,DOUBS,abstentions,abstentions,106164
+2,25,DOUBS,blancs_nuls,blancs_nuls,4998
+2,26,DROME,COM,Communiste,0
+2,26,DROME,CPNT,Chasse Pêche Nature Traditions,0
+2,26,DROME,DIV,Divers,0
+2,26,DROME,DVD,Divers droite,0.0
+2,26,DROME,DVG,Divers gauche,21225
+2,26,DROME,ECO,Ecologiste,0
+2,26,DROME,EXD,Extrême droite,0.0
+2,26,DROME,EXG,Extrême gauche,0
+2,26,DROME,FN,Front national,0.0
+2,26,DROME,MAJ,Majorité présidentielle,0
+2,26,DROME,MPF,Mouvement pour la France,0
+2,26,DROME,RDG,Radical de gauche,0
+2,26,DROME,REG,Régionaliste,0
+2,26,DROME,SOC,Socialiste,70885
+2,26,DROME,UDFD,UDF-Mouvement Démocrate,0
+2,26,DROME,UMP,Union pour un Mouvement Populaire,110521
+2,26,DROME,VEC,Les Verts,0
+2,26,DROME,abstentions,abstentions,130260
+2,26,DROME,blancs_nuls,blancs_nuls,6358
+2,27,EURE,COM,Communiste,0
+2,27,EURE,CPNT,Chasse Pêche Nature Traditions,0
+2,27,EURE,DIV,Divers,0
+2,27,EURE,DVD,Divers droite,0.0
+2,27,EURE,DVG,Divers gauche,0
+2,27,EURE,ECO,Ecologiste,0
+2,27,EURE,EXD,Extrême droite,0.0
+2,27,EURE,EXG,Extrême gauche,0
+2,27,EURE,FN,Front national,0.0
+2,27,EURE,MAJ,Majorité présidentielle,0
+2,27,EURE,MPF,Mouvement pour la France,0
+2,27,EURE,RDG,Radical de gauche,0
+2,27,EURE,REG,Régionaliste,0
+2,27,EURE,SOC,Socialiste,86663
+2,27,EURE,UDFD,UDF-Mouvement Démocrate,0
+2,27,EURE,UMP,Union pour un Mouvement Populaire,99375
+2,27,EURE,VEC,Les Verts,0
+2,27,EURE,abstentions,abstentions,134417
+2,27,EURE,blancs_nuls,blancs_nuls,6049
+2,28,EURE ET LOIR,COM,Communiste,0
+2,28,EURE ET LOIR,CPNT,Chasse Pêche Nature Traditions,0
+2,28,EURE ET LOIR,DIV,Divers,0
+2,28,EURE ET LOIR,DVD,Divers droite,0.0
+2,28,EURE ET LOIR,DVG,Divers gauche,0
+2,28,EURE ET LOIR,ECO,Ecologiste,0
+2,28,EURE ET LOIR,EXD,Extrême droite,0.0
+2,28,EURE ET LOIR,EXG,Extrême gauche,0
+2,28,EURE ET LOIR,FN,Front national,0.0
+2,28,EURE ET LOIR,MAJ,Majorité présidentielle,0
+2,28,EURE ET LOIR,MPF,Mouvement pour la France,0
+2,28,EURE ET LOIR,RDG,Radical de gauche,18950
+2,28,EURE ET LOIR,REG,Régionaliste,0
+2,28,EURE ET LOIR,SOC,Socialiste,37993
+2,28,EURE ET LOIR,UDFD,UDF-Mouvement Démocrate,0
+2,28,EURE ET LOIR,UMP,Union pour un Mouvement Populaire,67324
+2,28,EURE ET LOIR,VEC,Les Verts,0
+2,28,EURE ET LOIR,abstentions,abstentions,97505
+2,28,EURE ET LOIR,blancs_nuls,blancs_nuls,4950
+2,29,FINISTERE,COM,Communiste,0
+2,29,FINISTERE,CPNT,Chasse Pêche Nature Traditions,0
+2,29,FINISTERE,DIV,Divers,0
+2,29,FINISTERE,DVD,Divers droite,0.0
+2,29,FINISTERE,DVG,Divers gauche,0
+2,29,FINISTERE,ECO,Ecologiste,0
+2,29,FINISTERE,EXD,Extrême droite,0.0
+2,29,FINISTERE,EXG,Extrême gauche,0
+2,29,FINISTERE,FN,Front national,0.0
+2,29,FINISTERE,MAJ,Majorité présidentielle,0
+2,29,FINISTERE,MPF,Mouvement pour la France,0
+2,29,FINISTERE,RDG,Radical de gauche,0
+2,29,FINISTERE,REG,Régionaliste,0
+2,29,FINISTERE,SOC,Socialiste,221068
+2,29,FINISTERE,UDFD,UDF-Mouvement Démocrate,0
+2,29,FINISTERE,UMP,Union pour un Mouvement Populaire,212495
+2,29,FINISTERE,VEC,Les Verts,0
+2,29,FINISTERE,abstentions,abstentions,225395
+2,29,FINISTERE,blancs_nuls,blancs_nuls,10629
+2,2A,CORSE SUD,COM,Communiste,0
+2,2A,CORSE SUD,CPNT,Chasse Pêche Nature Traditions,0
+2,2A,CORSE SUD,DIV,Divers,0
+2,2A,CORSE SUD,DVD,Divers droite,0.0
+2,2A,CORSE SUD,DVG,Divers gauche,15922
+2,2A,CORSE SUD,ECO,Ecologiste,0
+2,2A,CORSE SUD,EXD,Extrême droite,0.0
+2,2A,CORSE SUD,EXG,Extrême gauche,0
+2,2A,CORSE SUD,FN,Front national,0.0
+2,2A,CORSE SUD,MAJ,Majorité présidentielle,0
+2,2A,CORSE SUD,MPF,Mouvement pour la France,0
+2,2A,CORSE SUD,RDG,Radical de gauche,0
+2,2A,CORSE SUD,REG,Régionaliste,0
+2,2A,CORSE SUD,SOC,Socialiste,0
+2,2A,CORSE SUD,UDFD,UDF-Mouvement Démocrate,0
+2,2A,CORSE SUD,UMP,Union pour un Mouvement Populaire,13424
+2,2A,CORSE SUD,VEC,Les Verts,0
+2,2A,CORSE SUD,abstentions,abstentions,14710
+2,2A,CORSE SUD,blancs_nuls,blancs_nuls,653
+2,2B,HAUTE CORSE,COM,Communiste,0
+2,2B,HAUTE CORSE,CPNT,Chasse Pêche Nature Traditions,0
+2,2B,HAUTE CORSE,DIV,Divers,0
+2,2B,HAUTE CORSE,DVD,Divers droite,0.0
+2,2B,HAUTE CORSE,DVG,Divers gauche,0
+2,2B,HAUTE CORSE,ECO,Ecologiste,0
+2,2B,HAUTE CORSE,EXD,Extrême droite,0.0
+2,2B,HAUTE CORSE,EXG,Extrême gauche,0
+2,2B,HAUTE CORSE,FN,Front national,0.0
+2,2B,HAUTE CORSE,MAJ,Majorité présidentielle,0
+2,2B,HAUTE CORSE,MPF,Mouvement pour la France,0
+2,2B,HAUTE CORSE,RDG,Radical de gauche,38911
+2,2B,HAUTE CORSE,REG,Régionaliste,0
+2,2B,HAUTE CORSE,SOC,Socialiste,0
+2,2B,HAUTE CORSE,UDFD,UDF-Mouvement Démocrate,0
+2,2B,HAUTE CORSE,UMP,Union pour un Mouvement Populaire,39625
+2,2B,HAUTE CORSE,VEC,Les Verts,0
+2,2B,HAUTE CORSE,abstentions,abstentions,30710
+2,2B,HAUTE CORSE,blancs_nuls,blancs_nuls,2669
+2,30,GARD,COM,Communiste,24778
+2,30,GARD,CPNT,Chasse Pêche Nature Traditions,0
+2,30,GARD,DIV,Divers,0
+2,30,GARD,DVD,Divers droite,0.0
+2,30,GARD,DVG,Divers gauche,0
+2,30,GARD,ECO,Ecologiste,0
+2,30,GARD,EXD,Extrême droite,0.0
+2,30,GARD,EXG,Extrême gauche,0
+2,30,GARD,FN,Front national,0.0
+2,30,GARD,MAJ,Majorité présidentielle,25717
+2,30,GARD,MPF,Mouvement pour la France,0
+2,30,GARD,RDG,Radical de gauche,0
+2,30,GARD,REG,Régionaliste,0
+2,30,GARD,SOC,Socialiste,102876
+2,30,GARD,UDFD,UDF-Mouvement Démocrate,0
+2,30,GARD,UMP,Union pour un Mouvement Populaire,133791
+2,30,GARD,VEC,Les Verts,0
+2,30,GARD,abstentions,abstentions,192995
+2,30,GARD,blancs_nuls,blancs_nuls,10661
+2,31,HAUTE GARONNE,COM,Communiste,0
+2,31,HAUTE GARONNE,CPNT,Chasse Pêche Nature Traditions,0
+2,31,HAUTE GARONNE,DIV,Divers,0
+2,31,HAUTE GARONNE,DVD,Divers droite,0.0
+2,31,HAUTE GARONNE,DVG,Divers gauche,0
+2,31,HAUTE GARONNE,ECO,Ecologiste,0
+2,31,HAUTE GARONNE,EXD,Extrême droite,0.0
+2,31,HAUTE GARONNE,EXG,Extrême gauche,0
+2,31,HAUTE GARONNE,FN,Front national,0.0
+2,31,HAUTE GARONNE,MAJ,Majorité présidentielle,18186
+2,31,HAUTE GARONNE,MPF,Mouvement pour la France,0
+2,31,HAUTE GARONNE,RDG,Radical de gauche,0
+2,31,HAUTE GARONNE,REG,Régionaliste,0
+2,31,HAUTE GARONNE,SOC,Socialiste,277109
+2,31,HAUTE GARONNE,UDFD,UDF-Mouvement Démocrate,0
+2,31,HAUTE GARONNE,UMP,Union pour un Mouvement Populaire,194583
+2,31,HAUTE GARONNE,VEC,Les Verts,0
+2,31,HAUTE GARONNE,abstentions,abstentions,290378
+2,31,HAUTE GARONNE,blancs_nuls,blancs_nuls,14643
+2,32,GERS,COM,Communiste,0
+2,32,GERS,CPNT,Chasse Pêche Nature Traditions,0
+2,32,GERS,DIV,Divers,0
+2,32,GERS,DVD,Divers droite,0.0
+2,32,GERS,DVG,Divers gauche,0
+2,32,GERS,ECO,Ecologiste,0
+2,32,GERS,EXD,Extrême droite,0.0
+2,32,GERS,EXG,Extrême gauche,0
+2,32,GERS,FN,Front national,0.0
+2,32,GERS,MAJ,Majorité présidentielle,0
+2,32,GERS,MPF,Mouvement pour la France,0
+2,32,GERS,RDG,Radical de gauche,0
+2,32,GERS,REG,Régionaliste,0
+2,32,GERS,SOC,Socialiste,51518
+2,32,GERS,UDFD,UDF-Mouvement Démocrate,0
+2,32,GERS,UMP,Union pour un Mouvement Populaire,42436
+2,32,GERS,VEC,Les Verts,0
+2,32,GERS,abstentions,abstentions,43363
+2,32,GERS,blancs_nuls,blancs_nuls,3434
+2,33,GIRONDE,COM,Communiste,0
+2,33,GIRONDE,CPNT,Chasse Pêche Nature Traditions,0
+2,33,GIRONDE,DIV,Divers,0
+2,33,GIRONDE,DVD,Divers droite,0.0
+2,33,GIRONDE,DVG,Divers gauche,0
+2,33,GIRONDE,ECO,Ecologiste,0
+2,33,GIRONDE,EXD,Extrême droite,0.0
+2,33,GIRONDE,EXG,Extrême gauche,0
+2,33,GIRONDE,FN,Front national,0.0
+2,33,GIRONDE,MAJ,Majorité présidentielle,0
+2,33,GIRONDE,MPF,Mouvement pour la France,0
+2,33,GIRONDE,RDG,Radical de gauche,0
+2,33,GIRONDE,REG,Régionaliste,0
+2,33,GIRONDE,SOC,Socialiste,287858
+2,33,GIRONDE,UDFD,UDF-Mouvement Démocrate,0
+2,33,GIRONDE,UMP,Union pour un Mouvement Populaire,272403
+2,33,GIRONDE,VEC,Les Verts,26611
+2,33,GIRONDE,abstentions,abstentions,354885
+2,33,GIRONDE,blancs_nuls,blancs_nuls,17321
+2,34,HERAULT,COM,Communiste,34933
+2,34,HERAULT,CPNT,Chasse Pêche Nature Traditions,0
+2,34,HERAULT,DIV,Divers,0
+2,34,HERAULT,DVD,Divers droite,0.0
+2,34,HERAULT,DVG,Divers gauche,0
+2,34,HERAULT,ECO,Ecologiste,0
+2,34,HERAULT,EXD,Extrême droite,0.0
+2,34,HERAULT,EXG,Extrême gauche,0
+2,34,HERAULT,FN,Front national,0.0
+2,34,HERAULT,MAJ,Majorité présidentielle,0
+2,34,HERAULT,MPF,Mouvement pour la France,0
+2,34,HERAULT,RDG,Radical de gauche,0
+2,34,HERAULT,REG,Régionaliste,0
+2,34,HERAULT,SOC,Socialiste,168435
+2,34,HERAULT,UDFD,UDF-Mouvement Démocrate,0
+2,34,HERAULT,UMP,Union pour un Mouvement Populaire,223603
+2,34,HERAULT,VEC,Les Verts,0
+2,34,HERAULT,abstentions,abstentions,261842
+2,34,HERAULT,blancs_nuls,blancs_nuls,15249
+2,35,ILLE ET VILAINE,COM,Communiste,0
+2,35,ILLE ET VILAINE,CPNT,Chasse Pêche Nature Traditions,0
+2,35,ILLE ET VILAINE,DIV,Divers,0
+2,35,ILLE ET VILAINE,DVD,Divers droite,0.0
+2,35,ILLE ET VILAINE,DVG,Divers gauche,30050
+2,35,ILLE ET VILAINE,ECO,Ecologiste,0
+2,35,ILLE ET VILAINE,EXD,Extrême droite,0.0
+2,35,ILLE ET VILAINE,EXG,Extrême gauche,0
+2,35,ILLE ET VILAINE,FN,Front national,0.0
+2,35,ILLE ET VILAINE,MAJ,Majorité présidentielle,0
+2,35,ILLE ET VILAINE,MPF,Mouvement pour la France,0
+2,35,ILLE ET VILAINE,RDG,Radical de gauche,0
+2,35,ILLE ET VILAINE,REG,Régionaliste,0
+2,35,ILLE ET VILAINE,SOC,Socialiste,121063
+2,35,ILLE ET VILAINE,UDFD,UDF-Mouvement Démocrate,21534
+2,35,ILLE ET VILAINE,UMP,Union pour un Mouvement Populaire,149221
+2,35,ILLE ET VILAINE,VEC,Les Verts,0
+2,35,ILLE ET VILAINE,abstentions,abstentions,216518
+2,35,ILLE ET VILAINE,blancs_nuls,blancs_nuls,12171
+2,36,INDRE,COM,Communiste,0
+2,36,INDRE,CPNT,Chasse Pêche Nature Traditions,0
+2,36,INDRE,DIV,Divers,0
+2,36,INDRE,DVD,Divers droite,0.0
+2,36,INDRE,DVG,Divers gauche,18186
+2,36,INDRE,ECO,Ecologiste,0
+2,36,INDRE,EXD,Extrême droite,0.0
+2,36,INDRE,EXG,Extrême gauche,0
+2,36,INDRE,FN,Front national,0.0
+2,36,INDRE,MAJ,Majorité présidentielle,0
+2,36,INDRE,MPF,Mouvement pour la France,0
+2,36,INDRE,RDG,Radical de gauche,0
+2,36,INDRE,REG,Régionaliste,0
+2,36,INDRE,SOC,Socialiste,37194
+2,36,INDRE,UDFD,UDF-Mouvement Démocrate,0
+2,36,INDRE,UMP,Union pour un Mouvement Populaire,55693
+2,36,INDRE,VEC,Les Verts,0
+2,36,INDRE,abstentions,abstentions,62281
+2,36,INDRE,blancs_nuls,blancs_nuls,4262
+2,37,INDRE ET LOIRE,COM,Communiste,0
+2,37,INDRE ET LOIRE,CPNT,Chasse Pêche Nature Traditions,0
+2,37,INDRE ET LOIRE,DIV,Divers,0
+2,37,INDRE ET LOIRE,DVD,Divers droite,0.0
+2,37,INDRE ET LOIRE,DVG,Divers gauche,0
+2,37,INDRE ET LOIRE,ECO,Ecologiste,0
+2,37,INDRE ET LOIRE,EXD,Extrême droite,0.0
+2,37,INDRE ET LOIRE,EXG,Extrême gauche,0
+2,37,INDRE ET LOIRE,FN,Front national,0.0
+2,37,INDRE ET LOIRE,MAJ,Majorité présidentielle,0
+2,37,INDRE ET LOIRE,MPF,Mouvement pour la France,0
+2,37,INDRE ET LOIRE,RDG,Radical de gauche,25312
+2,37,INDRE ET LOIRE,REG,Régionaliste,0
+2,37,INDRE ET LOIRE,SOC,Socialiste,89825
+2,37,INDRE ET LOIRE,UDFD,UDF-Mouvement Démocrate,0
+2,37,INDRE ET LOIRE,UMP,Union pour un Mouvement Populaire,126249
+2,37,INDRE ET LOIRE,VEC,Les Verts,0
+2,37,INDRE ET LOIRE,abstentions,abstentions,155563
+2,37,INDRE ET LOIRE,blancs_nuls,blancs_nuls,6685
+2,38,ISERE,COM,Communiste,0
+2,38,ISERE,CPNT,Chasse Pêche Nature Traditions,0
+2,38,ISERE,DIV,Divers,0
+2,38,ISERE,DVD,Divers droite,0.0
+2,38,ISERE,DVG,Divers gauche,0
+2,38,ISERE,ECO,Ecologiste,0
+2,38,ISERE,EXD,Extrême droite,0.0
+2,38,ISERE,EXG,Extrême gauche,0
+2,38,ISERE,FN,Front national,0.0
+2,38,ISERE,MAJ,Majorité présidentielle,18825
+2,38,ISERE,MPF,Mouvement pour la France,0
+2,38,ISERE,RDG,Radical de gauche,0
+2,38,ISERE,REG,Régionaliste,0
+2,38,ISERE,SOC,Socialiste,218288
+2,38,ISERE,UDFD,UDF-Mouvement Démocrate,0
+2,38,ISERE,UMP,Union pour un Mouvement Populaire,158411
+2,38,ISERE,VEC,Les Verts,0
+2,38,ISERE,abstentions,abstentions,282301
+2,38,ISERE,blancs_nuls,blancs_nuls,11381
+2,39,JURA,COM,Communiste,0
+2,39,JURA,CPNT,Chasse Pêche Nature Traditions,0
+2,39,JURA,DIV,Divers,0
+2,39,JURA,DVD,Divers droite,0.0
+2,39,JURA,DVG,Divers gauche,0
+2,39,JURA,ECO,Ecologiste,0
+2,39,JURA,EXD,Extrême droite,0.0
+2,39,JURA,EXG,Extrême gauche,0
+2,39,JURA,FN,Front national,0.0
+2,39,JURA,MAJ,Majorité présidentielle,0
+2,39,JURA,MPF,Mouvement pour la France,0
+2,39,JURA,RDG,Radical de gauche,0
+2,39,JURA,REG,Régionaliste,0
+2,39,JURA,SOC,Socialiste,19325
+2,39,JURA,UDFD,UDF-Mouvement Démocrate,0
+2,39,JURA,UMP,Union pour un Mouvement Populaire,43982
+2,39,JURA,VEC,Les Verts,0
+2,39,JURA,abstentions,abstentions,53726
+2,39,JURA,blancs_nuls,blancs_nuls,6377
+2,40,LANDES,COM,Communiste,0
+2,40,LANDES,CPNT,Chasse Pêche Nature Traditions,0
+2,40,LANDES,DIV,Divers,0
+2,40,LANDES,DVD,Divers droite,0.0
+2,40,LANDES,DVG,Divers gauche,0
+2,40,LANDES,ECO,Ecologiste,0
+2,40,LANDES,EXD,Extrême droite,0.0
+2,40,LANDES,EXG,Extrême gauche,0
+2,40,LANDES,FN,Front national,0.0
+2,40,LANDES,MAJ,Majorité présidentielle,0
+2,40,LANDES,MPF,Mouvement pour la France,0
+2,40,LANDES,RDG,Radical de gauche,0
+2,40,LANDES,REG,Régionaliste,0
+2,40,LANDES,SOC,Socialiste,104417
+2,40,LANDES,UDFD,UDF-Mouvement Démocrate,0
+2,40,LANDES,UMP,Union pour un Mouvement Populaire,82776
+2,40,LANDES,VEC,Les Verts,0
+2,40,LANDES,abstentions,abstentions,91145
+2,40,LANDES,blancs_nuls,blancs_nuls,5551
+2,41,LOIR ET CHER,COM,Communiste,0
+2,41,LOIR ET CHER,CPNT,Chasse Pêche Nature Traditions,0
+2,41,LOIR ET CHER,DIV,Divers,0
+2,41,LOIR ET CHER,DVD,Divers droite,0.0
+2,41,LOIR ET CHER,DVG,Divers gauche,0
+2,41,LOIR ET CHER,ECO,Ecologiste,0
+2,41,LOIR ET CHER,EXD,Extrême droite,0.0
+2,41,LOIR ET CHER,EXG,Extrême gauche,0
+2,41,LOIR ET CHER,FN,Front national,0.0
+2,41,LOIR ET CHER,MAJ,Majorité présidentielle,51125
+2,41,LOIR ET CHER,MPF,Mouvement pour la France,0
+2,41,LOIR ET CHER,RDG,Radical de gauche,0
+2,41,LOIR ET CHER,REG,Régionaliste,0
+2,41,LOIR ET CHER,SOC,Socialiste,65518
+2,41,LOIR ET CHER,UDFD,UDF-Mouvement Démocrate,0
+2,41,LOIR ET CHER,UMP,Union pour un Mouvement Populaire,26735
+2,41,LOIR ET CHER,VEC,Les Verts,0
+2,41,LOIR ET CHER,abstentions,abstentions,92434
+2,41,LOIR ET CHER,blancs_nuls,blancs_nuls,5738
+2,42,LOIRE,COM,Communiste,0
+2,42,LOIRE,CPNT,Chasse Pêche Nature Traditions,0
+2,42,LOIRE,DIV,Divers,0
+2,42,LOIRE,DVD,Divers droite,0.0
+2,42,LOIRE,DVG,Divers gauche,0
+2,42,LOIRE,ECO,Ecologiste,0
+2,42,LOIRE,EXD,Extrême droite,0.0
+2,42,LOIRE,EXG,Extrême gauche,0
+2,42,LOIRE,FN,Front national,0.0
+2,42,LOIRE,MAJ,Majorité présidentielle,25189
+2,42,LOIRE,MPF,Mouvement pour la France,0
+2,42,LOIRE,RDG,Radical de gauche,0
+2,42,LOIRE,REG,Régionaliste,0
+2,42,LOIRE,SOC,Socialiste,104620
+2,42,LOIRE,UDFD,UDF-Mouvement Démocrate,0
+2,42,LOIRE,UMP,Union pour un Mouvement Populaire,93096
+2,42,LOIRE,VEC,Les Verts,0
+2,42,LOIRE,abstentions,abstentions,175883
+2,42,LOIRE,blancs_nuls,blancs_nuls,7316
+2,43,HAUTE LOIRE,COM,Communiste,0
+2,43,HAUTE LOIRE,CPNT,Chasse Pêche Nature Traditions,0
+2,43,HAUTE LOIRE,DIV,Divers,0
+2,43,HAUTE LOIRE,DVD,Divers droite,0.0
+2,43,HAUTE LOIRE,DVG,Divers gauche,0
+2,43,HAUTE LOIRE,ECO,Ecologiste,0
+2,43,HAUTE LOIRE,EXD,Extrême droite,0.0
+2,43,HAUTE LOIRE,EXG,Extrême gauche,0
+2,43,HAUTE LOIRE,FN,Front national,0.0
+2,43,HAUTE LOIRE,MAJ,Majorité présidentielle,0
+2,43,HAUTE LOIRE,MPF,Mouvement pour la France,0
+2,43,HAUTE LOIRE,RDG,Radical de gauche,0
+2,43,HAUTE LOIRE,REG,Régionaliste,0
+2,43,HAUTE LOIRE,SOC,Socialiste,21090
+2,43,HAUTE LOIRE,UDFD,UDF-Mouvement Démocrate,0
+2,43,HAUTE LOIRE,UMP,Union pour un Mouvement Populaire,24389
+2,43,HAUTE LOIRE,VEC,Les Verts,0
+2,43,HAUTE LOIRE,abstentions,abstentions,31379
+2,43,HAUTE LOIRE,blancs_nuls,blancs_nuls,3508
+2,44,LOIRE ATLANTIQUE,COM,Communiste,0
+2,44,LOIRE ATLANTIQUE,CPNT,Chasse Pêche Nature Traditions,0
+2,44,LOIRE ATLANTIQUE,DIV,Divers,0
+2,44,LOIRE ATLANTIQUE,DVD,Divers droite,0.0
+2,44,LOIRE ATLANTIQUE,DVG,Divers gauche,0
+2,44,LOIRE ATLANTIQUE,ECO,Ecologiste,0
+2,44,LOIRE ATLANTIQUE,EXD,Extrême droite,0.0
+2,44,LOIRE ATLANTIQUE,EXG,Extrême gauche,0
+2,44,LOIRE ATLANTIQUE,FN,Front national,0.0
+2,44,LOIRE ATLANTIQUE,MAJ,Majorité présidentielle,25086
+2,44,LOIRE ATLANTIQUE,MPF,Mouvement pour la France,0
+2,44,LOIRE ATLANTIQUE,RDG,Radical de gauche,0
+2,44,LOIRE ATLANTIQUE,REG,Régionaliste,0
+2,44,LOIRE ATLANTIQUE,SOC,Socialiste,256033
+2,44,LOIRE ATLANTIQUE,UDFD,UDF-Mouvement Démocrate,0
+2,44,LOIRE ATLANTIQUE,UMP,Union pour un Mouvement Populaire,228938
+2,44,LOIRE ATLANTIQUE,VEC,Les Verts,23029
+2,44,LOIRE ATLANTIQUE,abstentions,abstentions,352343
+2,44,LOIRE ATLANTIQUE,blancs_nuls,blancs_nuls,12158
+2,45,LOIRET,COM,Communiste,0
+2,45,LOIRET,CPNT,Chasse Pêche Nature Traditions,0
+2,45,LOIRET,DIV,Divers,0
+2,45,LOIRET,DVD,Divers droite,0.0
+2,45,LOIRET,DVG,Divers gauche,0
+2,45,LOIRET,ECO,Ecologiste,0
+2,45,LOIRET,EXD,Extrême droite,0.0
+2,45,LOIRET,EXG,Extrême gauche,0
+2,45,LOIRET,FN,Front national,0.0
+2,45,LOIRET,MAJ,Majorité présidentielle,0
+2,45,LOIRET,MPF,Mouvement pour la France,0
+2,45,LOIRET,RDG,Radical de gauche,0
+2,45,LOIRET,REG,Régionaliste,0
+2,45,LOIRET,SOC,Socialiste,85469
+2,45,LOIRET,UDFD,UDF-Mouvement Démocrate,0
+2,45,LOIRET,UMP,Union pour un Mouvement Populaire,108962
+2,45,LOIRET,VEC,Les Verts,0
+2,45,LOIRET,abstentions,abstentions,143621
+2,45,LOIRET,blancs_nuls,blancs_nuls,6139
+2,46,LOT,COM,Communiste,0
+2,46,LOT,CPNT,Chasse Pêche Nature Traditions,0
+2,46,LOT,DIV,Divers,0
+2,46,LOT,DVD,Divers droite,0.0
+2,46,LOT,DVG,Divers gauche,0
+2,46,LOT,ECO,Ecologiste,0
+2,46,LOT,EXD,Extrême droite,0.0
+2,46,LOT,EXG,Extrême gauche,0
+2,46,LOT,FN,Front national,0.0
+2,46,LOT,MAJ,Majorité présidentielle,0
+2,46,LOT,MPF,Mouvement pour la France,0
+2,46,LOT,RDG,Radical de gauche,26419
+2,46,LOT,REG,Régionaliste,0
+2,46,LOT,SOC,Socialiste,25985
+2,46,LOT,UDFD,UDF-Mouvement Démocrate,0
+2,46,LOT,UMP,Union pour un Mouvement Populaire,39485
+2,46,LOT,VEC,Les Verts,0
+2,46,LOT,abstentions,abstentions,38402
+2,46,LOT,blancs_nuls,blancs_nuls,3094
+2,47,LOT ET GARONNE,COM,Communiste,0
+2,47,LOT ET GARONNE,CPNT,Chasse Pêche Nature Traditions,0
+2,47,LOT ET GARONNE,DIV,Divers,0
+2,47,LOT ET GARONNE,DVD,Divers droite,0.0
+2,47,LOT ET GARONNE,DVG,Divers gauche,0
+2,47,LOT ET GARONNE,ECO,Ecologiste,0
+2,47,LOT ET GARONNE,EXD,Extrême droite,0.0
+2,47,LOT ET GARONNE,EXG,Extrême gauche,0
+2,47,LOT ET GARONNE,FN,Front national,0.0
+2,47,LOT ET GARONNE,MAJ,Majorité présidentielle,28945
+2,47,LOT ET GARONNE,MPF,Mouvement pour la France,0
+2,47,LOT ET GARONNE,RDG,Radical de gauche,0
+2,47,LOT ET GARONNE,REG,Régionaliste,0
+2,47,LOT ET GARONNE,SOC,Socialiste,74329
+2,47,LOT ET GARONNE,UDFD,UDF-Mouvement Démocrate,0
+2,47,LOT ET GARONNE,UMP,Union pour un Mouvement Populaire,53138
+2,47,LOT ET GARONNE,VEC,Les Verts,0
+2,47,LOT ET GARONNE,abstentions,abstentions,77214
+2,47,LOT ET GARONNE,blancs_nuls,blancs_nuls,6013
+2,48,LOZERE,COM,Communiste,0
+2,48,LOZERE,CPNT,Chasse Pêche Nature Traditions,0
+2,48,LOZERE,DIV,Divers,0
+2,48,LOZERE,DVD,Divers droite,0.0
+2,48,LOZERE,DVG,Divers gauche,0
+2,48,LOZERE,ECO,Ecologiste,0
+2,48,LOZERE,EXD,Extrême droite,0.0
+2,48,LOZERE,EXG,Extrême gauche,0
+2,48,LOZERE,FN,Front national,0.0
+2,48,LOZERE,MAJ,Majorité présidentielle,0
+2,48,LOZERE,MPF,Mouvement pour la France,0
+2,48,LOZERE,RDG,Radical de gauche,0
+2,48,LOZERE,REG,Régionaliste,0
+2,48,LOZERE,SOC,Socialiste,9887
+2,48,LOZERE,UDFD,UDF-Mouvement Démocrate,0
+2,48,LOZERE,UMP,Union pour un Mouvement Populaire,11425
+2,48,LOZERE,VEC,Les Verts,0
+2,48,LOZERE,abstentions,abstentions,9979
+2,48,LOZERE,blancs_nuls,blancs_nuls,761
+2,49,MAINE ET LOIRE,COM,Communiste,0
+2,49,MAINE ET LOIRE,CPNT,Chasse Pêche Nature Traditions,0
+2,49,MAINE ET LOIRE,DIV,Divers,0
+2,49,MAINE ET LOIRE,DVD,Divers droite,0.0
+2,49,MAINE ET LOIRE,DVG,Divers gauche,0
+2,49,MAINE ET LOIRE,ECO,Ecologiste,0
+2,49,MAINE ET LOIRE,EXD,Extrême droite,0.0
+2,49,MAINE ET LOIRE,EXG,Extrême gauche,0
+2,49,MAINE ET LOIRE,FN,Front national,0.0
+2,49,MAINE ET LOIRE,MAJ,Majorité présidentielle,0
+2,49,MAINE ET LOIRE,MPF,Mouvement pour la France,0
+2,49,MAINE ET LOIRE,RDG,Radical de gauche,0
+2,49,MAINE ET LOIRE,REG,Régionaliste,0
+2,49,MAINE ET LOIRE,SOC,Socialiste,86556
+2,49,MAINE ET LOIRE,UDFD,UDF-Mouvement Démocrate,0
+2,49,MAINE ET LOIRE,UMP,Union pour un Mouvement Populaire,100475
+2,49,MAINE ET LOIRE,VEC,Les Verts,0
+2,49,MAINE ET LOIRE,abstentions,abstentions,136492
+2,49,MAINE ET LOIRE,blancs_nuls,blancs_nuls,6343
+2,50,MANCHE,COM,Communiste,0
+2,50,MANCHE,CPNT,Chasse Pêche Nature Traditions,0
+2,50,MANCHE,DIV,Divers,0
+2,50,MANCHE,DVD,Divers droite,25528.0
+2,50,MANCHE,DVG,Divers gauche,0
+2,50,MANCHE,ECO,Ecologiste,0
+2,50,MANCHE,EXD,Extrême droite,0.0
+2,50,MANCHE,EXG,Extrême gauche,0
+2,50,MANCHE,FN,Front national,0.0
+2,50,MANCHE,MAJ,Majorité présidentielle,0
+2,50,MANCHE,MPF,Mouvement pour la France,0
+2,50,MANCHE,RDG,Radical de gauche,0
+2,50,MANCHE,REG,Régionaliste,0
+2,50,MANCHE,SOC,Socialiste,80538
+2,50,MANCHE,UDFD,UDF-Mouvement Démocrate,0
+2,50,MANCHE,UMP,Union pour un Mouvement Populaire,112093
+2,50,MANCHE,VEC,Les Verts,0
+2,50,MANCHE,abstentions,abstentions,145443
+2,50,MANCHE,blancs_nuls,blancs_nuls,9023
+2,51,MARNE,COM,Communiste,0
+2,51,MARNE,CPNT,Chasse Pêche Nature Traditions,0
+2,51,MARNE,DIV,Divers,0
+2,51,MARNE,DVD,Divers droite,0.0
+2,51,MARNE,DVG,Divers gauche,0
+2,51,MARNE,ECO,Ecologiste,0
+2,51,MARNE,EXD,Extrême droite,0.0
+2,51,MARNE,EXG,Extrême gauche,0
+2,51,MARNE,FN,Front national,0.0
+2,51,MARNE,MAJ,Majorité présidentielle,0
+2,51,MARNE,MPF,Mouvement pour la France,0
+2,51,MARNE,RDG,Radical de gauche,0
+2,51,MARNE,REG,Régionaliste,0
+2,51,MARNE,SOC,Socialiste,56689
+2,51,MARNE,UDFD,UDF-Mouvement Démocrate,0
+2,51,MARNE,UMP,Union pour un Mouvement Populaire,71829
+2,51,MARNE,VEC,Les Verts,0
+2,51,MARNE,abstentions,abstentions,118177
+2,51,MARNE,blancs_nuls,blancs_nuls,5442
+2,53,MAYENNE,COM,Communiste,0
+2,53,MAYENNE,CPNT,Chasse Pêche Nature Traditions,0
+2,53,MAYENNE,DIV,Divers,0
+2,53,MAYENNE,DVD,Divers droite,0.0
+2,53,MAYENNE,DVG,Divers gauche,0
+2,53,MAYENNE,ECO,Ecologiste,0
+2,53,MAYENNE,EXD,Extrême droite,0.0
+2,53,MAYENNE,EXG,Extrême gauche,0
+2,53,MAYENNE,FN,Front national,0.0
+2,53,MAYENNE,MAJ,Majorité présidentielle,0
+2,53,MAYENNE,MPF,Mouvement pour la France,0
+2,53,MAYENNE,RDG,Radical de gauche,0
+2,53,MAYENNE,REG,Régionaliste,0
+2,53,MAYENNE,SOC,Socialiste,25258
+2,53,MAYENNE,UDFD,UDF-Mouvement Démocrate,16796
+2,53,MAYENNE,UMP,Union pour un Mouvement Populaire,42685
+2,53,MAYENNE,VEC,Les Verts,0
+2,53,MAYENNE,abstentions,abstentions,60908
+2,53,MAYENNE,blancs_nuls,blancs_nuls,3043
+2,54,MEURTHE ET MOSELLE,COM,Communiste,0
+2,54,MEURTHE ET MOSELLE,CPNT,Chasse Pêche Nature Traditions,0
+2,54,MEURTHE ET MOSELLE,DIV,Divers,0
+2,54,MEURTHE ET MOSELLE,DVD,Divers droite,0.0
+2,54,MEURTHE ET MOSELLE,DVG,Divers gauche,0
+2,54,MEURTHE ET MOSELLE,ECO,Ecologiste,0
+2,54,MEURTHE ET MOSELLE,EXD,Extrême droite,0.0
+2,54,MEURTHE ET MOSELLE,EXG,Extrême gauche,0
+2,54,MEURTHE ET MOSELLE,FN,Front national,0.0
+2,54,MEURTHE ET MOSELLE,MAJ,Majorité présidentielle,0
+2,54,MEURTHE ET MOSELLE,MPF,Mouvement pour la France,0
+2,54,MEURTHE ET MOSELLE,RDG,Radical de gauche,0
+2,54,MEURTHE ET MOSELLE,REG,Régionaliste,0
+2,54,MEURTHE ET MOSELLE,SOC,Socialiste,136972
+2,54,MEURTHE ET MOSELLE,UDFD,UDF-Mouvement Démocrate,0
+2,54,MEURTHE ET MOSELLE,UMP,Union pour un Mouvement Populaire,137035
+2,54,MEURTHE ET MOSELLE,VEC,Les Verts,0
+2,54,MEURTHE ET MOSELLE,abstentions,abstentions,210802
+2,54,MEURTHE ET MOSELLE,blancs_nuls,blancs_nuls,7650
+2,55,MEUSE,COM,Communiste,0
+2,55,MEUSE,CPNT,Chasse Pêche Nature Traditions,0
+2,55,MEUSE,DIV,Divers,0
+2,55,MEUSE,DVD,Divers droite,0.0
+2,55,MEUSE,DVG,Divers gauche,0
+2,55,MEUSE,ECO,Ecologiste,0
+2,55,MEUSE,EXD,Extrême droite,0.0
+2,55,MEUSE,EXG,Extrême gauche,0
+2,55,MEUSE,FN,Front national,0.0
+2,55,MEUSE,MAJ,Majorité présidentielle,0
+2,55,MEUSE,MPF,Mouvement pour la France,0
+2,55,MEUSE,RDG,Radical de gauche,0
+2,55,MEUSE,REG,Régionaliste,0
+2,55,MEUSE,SOC,Socialiste,40842
+2,55,MEUSE,UDFD,UDF-Mouvement Démocrate,0
+2,55,MEUSE,UMP,Union pour un Mouvement Populaire,42410
+2,55,MEUSE,VEC,Les Verts,0
+2,55,MEUSE,abstentions,abstentions,55274
+2,55,MEUSE,blancs_nuls,blancs_nuls,3186
+2,56,MORBIHAN,COM,Communiste,0
+2,56,MORBIHAN,CPNT,Chasse Pêche Nature Traditions,0
+2,56,MORBIHAN,DIV,Divers,0
+2,56,MORBIHAN,DVD,Divers droite,0.0
+2,56,MORBIHAN,DVG,Divers gauche,0
+2,56,MORBIHAN,ECO,Ecologiste,0
+2,56,MORBIHAN,EXD,Extrême droite,0.0
+2,56,MORBIHAN,EXG,Extrême gauche,0
+2,56,MORBIHAN,FN,Front national,0.0
+2,56,MORBIHAN,MAJ,Majorité présidentielle,0
+2,56,MORBIHAN,MPF,Mouvement pour la France,0
+2,56,MORBIHAN,RDG,Radical de gauche,0
+2,56,MORBIHAN,REG,Régionaliste,0
+2,56,MORBIHAN,SOC,Socialiste,160620
+2,56,MORBIHAN,UDFD,UDF-Mouvement Démocrate,0
+2,56,MORBIHAN,UMP,Union pour un Mouvement Populaire,170726
+2,56,MORBIHAN,VEC,Les Verts,0
+2,56,MORBIHAN,abstentions,abstentions,195924
+2,56,MORBIHAN,blancs_nuls,blancs_nuls,9530
+2,57,MOSELLE,COM,Communiste,0
+2,57,MOSELLE,CPNT,Chasse Pêche Nature Traditions,0
+2,57,MOSELLE,DIV,Divers,0
+2,57,MOSELLE,DVD,Divers droite,0.0
+2,57,MOSELLE,DVG,Divers gauche,0
+2,57,MOSELLE,ECO,Ecologiste,0
+2,57,MOSELLE,EXD,Extrême droite,0.0
+2,57,MOSELLE,EXG,Extrême gauche,0
+2,57,MOSELLE,FN,Front national,0.0
+2,57,MOSELLE,MAJ,Majorité présidentielle,0
+2,57,MOSELLE,MPF,Mouvement pour la France,0
+2,57,MOSELLE,RDG,Radical de gauche,0
+2,57,MOSELLE,REG,Régionaliste,0
+2,57,MOSELLE,SOC,Socialiste,99507
+2,57,MOSELLE,UDFD,UDF-Mouvement Démocrate,0
+2,57,MOSELLE,UMP,Union pour un Mouvement Populaire,114076
+2,57,MOSELLE,VEC,Les Verts,0
+2,57,MOSELLE,abstentions,abstentions,223502
+2,57,MOSELLE,blancs_nuls,blancs_nuls,7290
+2,58,NIEVRE,COM,Communiste,0
+2,58,NIEVRE,CPNT,Chasse Pêche Nature Traditions,0
+2,58,NIEVRE,DIV,Divers,0
+2,58,NIEVRE,DVD,Divers droite,0.0
+2,58,NIEVRE,DVG,Divers gauche,0
+2,58,NIEVRE,ECO,Ecologiste,0
+2,58,NIEVRE,EXD,Extrême droite,0.0
+2,58,NIEVRE,EXG,Extrême gauche,0
+2,58,NIEVRE,FN,Front national,0.0
+2,58,NIEVRE,MAJ,Majorité présidentielle,0
+2,58,NIEVRE,MPF,Mouvement pour la France,0
+2,58,NIEVRE,RDG,Radical de gauche,0
+2,58,NIEVRE,REG,Régionaliste,0
+2,58,NIEVRE,SOC,Socialiste,58798
+2,58,NIEVRE,UDFD,UDF-Mouvement Démocrate,0
+2,58,NIEVRE,UMP,Union pour un Mouvement Populaire,44140
+2,58,NIEVRE,VEC,Les Verts,0
+2,58,NIEVRE,abstentions,abstentions,63504
+2,58,NIEVRE,blancs_nuls,blancs_nuls,3297
+2,59,NORD,COM,Communiste,59498
+2,59,NORD,CPNT,Chasse Pêche Nature Traditions,0
+2,59,NORD,DIV,Divers,0
+2,59,NORD,DVD,Divers droite,21720.0
+2,59,NORD,DVG,Divers gauche,23448
+2,59,NORD,ECO,Ecologiste,0
+2,59,NORD,EXD,Extrême droite,0.0
+2,59,NORD,EXG,Extrême gauche,0
+2,59,NORD,FN,Front national,0.0
+2,59,NORD,MAJ,Majorité présidentielle,17844
+2,59,NORD,MPF,Mouvement pour la France,0
+2,59,NORD,RDG,Radical de gauche,0
+2,59,NORD,REG,Régionaliste,0
+2,59,NORD,SOC,Socialiste,373052
+2,59,NORD,UDFD,UDF-Mouvement Démocrate,0
+2,59,NORD,UMP,Union pour un Mouvement Populaire,343426
+2,59,NORD,VEC,Les Verts,0
+2,59,NORD,abstentions,abstentions,684739
+2,59,NORD,blancs_nuls,blancs_nuls,37337
+2,60,OISE,COM,Communiste,19437
+2,60,OISE,CPNT,Chasse Pêche Nature Traditions,0
+2,60,OISE,DIV,Divers,0
+2,60,OISE,DVD,Divers droite,0.0
+2,60,OISE,DVG,Divers gauche,0
+2,60,OISE,ECO,Ecologiste,0
+2,60,OISE,EXD,Extrême droite,0.0
+2,60,OISE,EXG,Extrême gauche,0
+2,60,OISE,FN,Front national,0.0
+2,60,OISE,MAJ,Majorité présidentielle,0
+2,60,OISE,MPF,Mouvement pour la France,0
+2,60,OISE,RDG,Radical de gauche,0
+2,60,OISE,REG,Régionaliste,0
+2,60,OISE,SOC,Socialiste,61282
+2,60,OISE,UDFD,UDF-Mouvement Démocrate,0
+2,60,OISE,UMP,Union pour un Mouvement Populaire,92132
+2,60,OISE,VEC,Les Verts,0
+2,60,OISE,abstentions,abstentions,126161
+2,60,OISE,blancs_nuls,blancs_nuls,7774
+2,61,ORNE,COM,Communiste,0
+2,61,ORNE,CPNT,Chasse Pêche Nature Traditions,0
+2,61,ORNE,DIV,Divers,0
+2,61,ORNE,DVD,Divers droite,0.0
+2,61,ORNE,DVG,Divers gauche,20103
+2,61,ORNE,ECO,Ecologiste,0
+2,61,ORNE,EXD,Extrême droite,0.0
+2,61,ORNE,EXG,Extrême gauche,0
+2,61,ORNE,FN,Front national,0.0
+2,61,ORNE,MAJ,Majorité présidentielle,0
+2,61,ORNE,MPF,Mouvement pour la France,0
+2,61,ORNE,RDG,Radical de gauche,0
+2,61,ORNE,REG,Régionaliste,0
+2,61,ORNE,SOC,Socialiste,0
+2,61,ORNE,UDFD,UDF-Mouvement Démocrate,0
+2,61,ORNE,UMP,Union pour un Mouvement Populaire,22504
+2,61,ORNE,VEC,Les Verts,0
+2,61,ORNE,abstentions,abstentions,28679
+2,61,ORNE,blancs_nuls,blancs_nuls,1208
+2,62,PAS DE CALAIS,COM,Communiste,0
+2,62,PAS DE CALAIS,CPNT,Chasse Pêche Nature Traditions,0
+2,62,PAS DE CALAIS,DIV,Divers,0
+2,62,PAS DE CALAIS,DVD,Divers droite,0.0
+2,62,PAS DE CALAIS,DVG,Divers gauche,0
+2,62,PAS DE CALAIS,ECO,Ecologiste,0
+2,62,PAS DE CALAIS,EXD,Extrême droite,0.0
+2,62,PAS DE CALAIS,EXG,Extrême gauche,0
+2,62,PAS DE CALAIS,FN,Front national,17107.0
+2,62,PAS DE CALAIS,MAJ,Majorité présidentielle,0
+2,62,PAS DE CALAIS,MPF,Mouvement pour la France,0
+2,62,PAS DE CALAIS,RDG,Radical de gauche,0
+2,62,PAS DE CALAIS,REG,Régionaliste,0
+2,62,PAS DE CALAIS,SOC,Socialiste,335436
+2,62,PAS DE CALAIS,UDFD,UDF-Mouvement Démocrate,0
+2,62,PAS DE CALAIS,UMP,Union pour un Mouvement Populaire,235678
+2,62,PAS DE CALAIS,VEC,Les Verts,0
+2,62,PAS DE CALAIS,abstentions,abstentions,398167
+2,62,PAS DE CALAIS,blancs_nuls,blancs_nuls,25694
+2,63,PUY DE DOME,COM,Communiste,27819
+2,63,PUY DE DOME,CPNT,Chasse Pêche Nature Traditions,0
+2,63,PUY DE DOME,DIV,Divers,0
+2,63,PUY DE DOME,DVD,Divers droite,0.0
+2,63,PUY DE DOME,DVG,Divers gauche,0
+2,63,PUY DE DOME,ECO,Ecologiste,0
+2,63,PUY DE DOME,EXD,Extrême droite,0.0
+2,63,PUY DE DOME,EXG,Extrême gauche,0
+2,63,PUY DE DOME,FN,Front national,0.0
+2,63,PUY DE DOME,MAJ,Majorité présidentielle,0
+2,63,PUY DE DOME,MPF,Mouvement pour la France,0
+2,63,PUY DE DOME,RDG,Radical de gauche,0
+2,63,PUY DE DOME,REG,Régionaliste,0
+2,63,PUY DE DOME,SOC,Socialiste,130738
+2,63,PUY DE DOME,UDFD,UDF-Mouvement Démocrate,0
+2,63,PUY DE DOME,UMP,Union pour un Mouvement Populaire,113550
+2,63,PUY DE DOME,VEC,Les Verts,0
+2,63,PUY DE DOME,abstentions,abstentions,164676
+2,63,PUY DE DOME,blancs_nuls,blancs_nuls,8554
+2,64,PYRENEES ATLANTIQUES,COM,Communiste,0
+2,64,PYRENEES ATLANTIQUES,CPNT,Chasse Pêche Nature Traditions,0
+2,64,PYRENEES ATLANTIQUES,DIV,Divers,0
+2,64,PYRENEES ATLANTIQUES,DVD,Divers droite,0.0
+2,64,PYRENEES ATLANTIQUES,DVG,Divers gauche,0
+2,64,PYRENEES ATLANTIQUES,ECO,Ecologiste,0
+2,64,PYRENEES ATLANTIQUES,EXD,Extrême droite,0.0
+2,64,PYRENEES ATLANTIQUES,EXG,Extrême gauche,0
+2,64,PYRENEES ATLANTIQUES,FN,Front national,0.0
+2,64,PYRENEES ATLANTIQUES,MAJ,Majorité présidentielle,0
+2,64,PYRENEES ATLANTIQUES,MPF,Mouvement pour la France,0
+2,64,PYRENEES ATLANTIQUES,RDG,Radical de gauche,0
+2,64,PYRENEES ATLANTIQUES,REG,Régionaliste,0
+2,64,PYRENEES ATLANTIQUES,SOC,Socialiste,131108
+2,64,PYRENEES ATLANTIQUES,UDFD,UDF-Mouvement Démocrate,48480
+2,64,PYRENEES ATLANTIQUES,UMP,Union pour un Mouvement Populaire,112977
+2,64,PYRENEES ATLANTIQUES,VEC,Les Verts,0
+2,64,PYRENEES ATLANTIQUES,abstentions,abstentions,171826
+2,64,PYRENEES ATLANTIQUES,blancs_nuls,blancs_nuls,13460
+2,65,HAUTES PYRENEES,COM,Communiste,0
+2,65,HAUTES PYRENEES,CPNT,Chasse Pêche Nature Traditions,0
+2,65,HAUTES PYRENEES,DIV,Divers,0
+2,65,HAUTES PYRENEES,DVD,Divers droite,0.0
+2,65,HAUTES PYRENEES,DVG,Divers gauche,0
+2,65,HAUTES PYRENEES,ECO,Ecologiste,0
+2,65,HAUTES PYRENEES,EXD,Extrême droite,0.0
+2,65,HAUTES PYRENEES,EXG,Extrême gauche,0
+2,65,HAUTES PYRENEES,FN,Front national,0.0
+2,65,HAUTES PYRENEES,MAJ,Majorité présidentielle,0
+2,65,HAUTES PYRENEES,MPF,Mouvement pour la France,0
+2,65,HAUTES PYRENEES,RDG,Radical de gauche,23075
+2,65,HAUTES PYRENEES,REG,Régionaliste,0
+2,65,HAUTES PYRENEES,SOC,Socialiste,42565
+2,65,HAUTES PYRENEES,UDFD,UDF-Mouvement Démocrate,0
+2,65,HAUTES PYRENEES,UMP,Union pour un Mouvement Populaire,45890
+2,65,HAUTES PYRENEES,VEC,Les Verts,0
+2,65,HAUTES PYRENEES,abstentions,abstentions,60528
+2,65,HAUTES PYRENEES,blancs_nuls,blancs_nuls,4687
+2,66,PYRENEES ORIENTALES,COM,Communiste,16167
+2,66,PYRENEES ORIENTALES,CPNT,Chasse Pêche Nature Traditions,0
+2,66,PYRENEES ORIENTALES,DIV,Divers,0
+2,66,PYRENEES ORIENTALES,DVD,Divers droite,0.0
+2,66,PYRENEES ORIENTALES,DVG,Divers gauche,27790
+2,66,PYRENEES ORIENTALES,ECO,Ecologiste,0
+2,66,PYRENEES ORIENTALES,EXD,Extrême droite,0.0
+2,66,PYRENEES ORIENTALES,EXG,Extrême gauche,0
+2,66,PYRENEES ORIENTALES,FN,Front national,0.0
+2,66,PYRENEES ORIENTALES,MAJ,Majorité présidentielle,0
+2,66,PYRENEES ORIENTALES,MPF,Mouvement pour la France,0
+2,66,PYRENEES ORIENTALES,RDG,Radical de gauche,0
+2,66,PYRENEES ORIENTALES,REG,Régionaliste,0
+2,66,PYRENEES ORIENTALES,SOC,Socialiste,41943
+2,66,PYRENEES ORIENTALES,UDFD,UDF-Mouvement Démocrate,0
+2,66,PYRENEES ORIENTALES,UMP,Union pour un Mouvement Populaire,103991
+2,66,PYRENEES ORIENTALES,VEC,Les Verts,0
+2,66,PYRENEES ORIENTALES,abstentions,abstentions,117981
+2,66,PYRENEES ORIENTALES,blancs_nuls,blancs_nuls,8449
+2,67,BAS RHIN,COM,Communiste,0
+2,67,BAS RHIN,CPNT,Chasse Pêche Nature Traditions,0
+2,67,BAS RHIN,DIV,Divers,0
+2,67,BAS RHIN,DVD,Divers droite,0.0
+2,67,BAS RHIN,DVG,Divers gauche,0
+2,67,BAS RHIN,ECO,Ecologiste,0
+2,67,BAS RHIN,EXD,Extrême droite,0.0
+2,67,BAS RHIN,EXG,Extrême gauche,0
+2,67,BAS RHIN,FN,Front national,0.0
+2,67,BAS RHIN,MAJ,Majorité présidentielle,0
+2,67,BAS RHIN,MPF,Mouvement pour la France,0
+2,67,BAS RHIN,RDG,Radical de gauche,0
+2,67,BAS RHIN,REG,Régionaliste,0
+2,67,BAS RHIN,SOC,Socialiste,41808
+2,67,BAS RHIN,UDFD,UDF-Mouvement Démocrate,0
+2,67,BAS RHIN,UMP,Union pour un Mouvement Populaire,43793
+2,67,BAS RHIN,VEC,Les Verts,0
+2,67,BAS RHIN,abstentions,abstentions,83561
+2,67,BAS RHIN,blancs_nuls,blancs_nuls,1894
+2,68,HAUT RHIN,COM,Communiste,0
+2,68,HAUT RHIN,CPNT,Chasse Pêche Nature Traditions,0
+2,68,HAUT RHIN,DIV,Divers,0
+2,68,HAUT RHIN,DVD,Divers droite,24298.0
+2,68,HAUT RHIN,DVG,Divers gauche,0
+2,68,HAUT RHIN,ECO,Ecologiste,0
+2,68,HAUT RHIN,EXD,Extrême droite,0.0
+2,68,HAUT RHIN,EXG,Extrême gauche,0
+2,68,HAUT RHIN,FN,Front national,0.0
+2,68,HAUT RHIN,MAJ,Majorité présidentielle,0
+2,68,HAUT RHIN,MPF,Mouvement pour la France,0
+2,68,HAUT RHIN,RDG,Radical de gauche,0
+2,68,HAUT RHIN,REG,Régionaliste,0
+2,68,HAUT RHIN,SOC,Socialiste,11641
+2,68,HAUT RHIN,UDFD,UDF-Mouvement Démocrate,0
+2,68,HAUT RHIN,UMP,Union pour un Mouvement Populaire,27469
+2,68,HAUT RHIN,VEC,Les Verts,0
+2,68,HAUT RHIN,abstentions,abstentions,59724
+2,68,HAUT RHIN,blancs_nuls,blancs_nuls,3327
+2,69,RHONE,COM,Communiste,13574
+2,69,RHONE,CPNT,Chasse Pêche Nature Traditions,0
+2,69,RHONE,DIV,Divers,0
+2,69,RHONE,DVD,Divers droite,0.0
+2,69,RHONE,DVG,Divers gauche,0
+2,69,RHONE,ECO,Ecologiste,0
+2,69,RHONE,EXD,Extrême droite,0.0
+2,69,RHONE,EXG,Extrême gauche,0
+2,69,RHONE,FN,Front national,0.0
+2,69,RHONE,MAJ,Majorité présidentielle,0
+2,69,RHONE,MPF,Mouvement pour la France,0
+2,69,RHONE,RDG,Radical de gauche,16687
+2,69,RHONE,REG,Régionaliste,0
+2,69,RHONE,SOC,Socialiste,173665
+2,69,RHONE,UDFD,UDF-Mouvement Démocrate,0
+2,69,RHONE,UMP,Union pour un Mouvement Populaire,236687
+2,69,RHONE,VEC,Les Verts,0
+2,69,RHONE,abstentions,abstentions,347164
+2,69,RHONE,blancs_nuls,blancs_nuls,10865
+2,70,HAUTE SAONE,COM,Communiste,0
+2,70,HAUTE SAONE,CPNT,Chasse Pêche Nature Traditions,0
+2,70,HAUTE SAONE,DIV,Divers,0
+2,70,HAUTE SAONE,DVD,Divers droite,0.0
+2,70,HAUTE SAONE,DVG,Divers gauche,0
+2,70,HAUTE SAONE,ECO,Ecologiste,0
+2,70,HAUTE SAONE,EXD,Extrême droite,0.0
+2,70,HAUTE SAONE,EXG,Extrême gauche,0
+2,70,HAUTE SAONE,FN,Front national,0.0
+2,70,HAUTE SAONE,MAJ,Majorité présidentielle,0
+2,70,HAUTE SAONE,MPF,Mouvement pour la France,0
+2,70,HAUTE SAONE,RDG,Radical de gauche,0
+2,70,HAUTE SAONE,REG,Régionaliste,0
+2,70,HAUTE SAONE,SOC,Socialiste,20795
+2,70,HAUTE SAONE,UDFD,UDF-Mouvement Démocrate,0
+2,70,HAUTE SAONE,UMP,Union pour un Mouvement Populaire,19498
+2,70,HAUTE SAONE,VEC,Les Verts,0
+2,70,HAUTE SAONE,abstentions,abstentions,22055
+2,70,HAUTE SAONE,blancs_nuls,blancs_nuls,1763
+2,71,SAONE ET LOIRE,COM,Communiste,0
+2,71,SAONE ET LOIRE,CPNT,Chasse Pêche Nature Traditions,0
+2,71,SAONE ET LOIRE,DIV,Divers,0
+2,71,SAONE ET LOIRE,DVD,Divers droite,0.0
+2,71,SAONE ET LOIRE,DVG,Divers gauche,0
+2,71,SAONE ET LOIRE,ECO,Ecologiste,0
+2,71,SAONE ET LOIRE,EXD,Extrême droite,0.0
+2,71,SAONE ET LOIRE,EXG,Extrême gauche,0
+2,71,SAONE ET LOIRE,FN,Front national,0.0
+2,71,SAONE ET LOIRE,MAJ,Majorité présidentielle,0
+2,71,SAONE ET LOIRE,MPF,Mouvement pour la France,0
+2,71,SAONE ET LOIRE,RDG,Radical de gauche,20187
+2,71,SAONE ET LOIRE,REG,Régionaliste,0
+2,71,SAONE ET LOIRE,SOC,Socialiste,106590
+2,71,SAONE ET LOIRE,UDFD,UDF-Mouvement Démocrate,0
+2,71,SAONE ET LOIRE,UMP,Union pour un Mouvement Populaire,130731
+2,71,SAONE ET LOIRE,VEC,Les Verts,0
+2,71,SAONE ET LOIRE,abstentions,abstentions,146158
+2,71,SAONE ET LOIRE,blancs_nuls,blancs_nuls,6556
+2,72,SARTHE,COM,Communiste,0
+2,72,SARTHE,CPNT,Chasse Pêche Nature Traditions,0
+2,72,SARTHE,DIV,Divers,0
+2,72,SARTHE,DVD,Divers droite,0.0
+2,72,SARTHE,DVG,Divers gauche,0
+2,72,SARTHE,ECO,Ecologiste,0
+2,72,SARTHE,EXD,Extrême droite,0.0
+2,72,SARTHE,EXG,Extrême gauche,0
+2,72,SARTHE,FN,Front national,0.0
+2,72,SARTHE,MAJ,Majorité présidentielle,0
+2,72,SARTHE,MPF,Mouvement pour la France,0
+2,72,SARTHE,RDG,Radical de gauche,0
+2,72,SARTHE,REG,Régionaliste,0
+2,72,SARTHE,SOC,Socialiste,84727
+2,72,SARTHE,UDFD,UDF-Mouvement Démocrate,0
+2,72,SARTHE,UMP,Union pour un Mouvement Populaire,97768
+2,72,SARTHE,VEC,Les Verts,0
+2,72,SARTHE,abstentions,abstentions,136768
+2,72,SARTHE,blancs_nuls,blancs_nuls,5203
+2,73,SAVOIE,COM,Communiste,0
+2,73,SAVOIE,CPNT,Chasse Pêche Nature Traditions,0
+2,73,SAVOIE,DIV,Divers,0
+2,73,SAVOIE,DVD,Divers droite,0.0
+2,73,SAVOIE,DVG,Divers gauche,0
+2,73,SAVOIE,ECO,Ecologiste,0
+2,73,SAVOIE,EXD,Extrême droite,0.0
+2,73,SAVOIE,EXG,Extrême gauche,0
+2,73,SAVOIE,FN,Front national,0.0
+2,73,SAVOIE,MAJ,Majorité présidentielle,0
+2,73,SAVOIE,MPF,Mouvement pour la France,0
+2,73,SAVOIE,RDG,Radical de gauche,0
+2,73,SAVOIE,REG,Régionaliste,0
+2,73,SAVOIE,SOC,Socialiste,24547
+2,73,SAVOIE,UDFD,UDF-Mouvement Démocrate,0
+2,73,SAVOIE,UMP,Union pour un Mouvement Populaire,29483
+2,73,SAVOIE,VEC,Les Verts,0
+2,73,SAVOIE,abstentions,abstentions,40489
+2,73,SAVOIE,blancs_nuls,blancs_nuls,1273
+2,74,HAUTE SAVOIE,COM,Communiste,0
+2,74,HAUTE SAVOIE,CPNT,Chasse Pêche Nature Traditions,0
+2,74,HAUTE SAVOIE,DIV,Divers,0
+2,74,HAUTE SAVOIE,DVD,Divers droite,20434.0
+2,74,HAUTE SAVOIE,DVG,Divers gauche,0
+2,74,HAUTE SAVOIE,ECO,Ecologiste,0
+2,74,HAUTE SAVOIE,EXD,Extrême droite,0.0
+2,74,HAUTE SAVOIE,EXG,Extrême gauche,0
+2,74,HAUTE SAVOIE,FN,Front national,0.0
+2,74,HAUTE SAVOIE,MAJ,Majorité présidentielle,16379
+2,74,HAUTE SAVOIE,MPF,Mouvement pour la France,0
+2,74,HAUTE SAVOIE,RDG,Radical de gauche,0
+2,74,HAUTE SAVOIE,REG,Régionaliste,0
+2,74,HAUTE SAVOIE,SOC,Socialiste,19019
+2,74,HAUTE SAVOIE,UDFD,UDF-Mouvement Démocrate,0
+2,74,HAUTE SAVOIE,UMP,Union pour un Mouvement Populaire,33210
+2,74,HAUTE SAVOIE,VEC,Les Verts,0
+2,74,HAUTE SAVOIE,abstentions,abstentions,97797
+2,74,HAUTE SAVOIE,blancs_nuls,blancs_nuls,6503
+2,75,PARIS,COM,Communiste,0
+2,75,PARIS,CPNT,Chasse Pêche Nature Traditions,0
+2,75,PARIS,DIV,Divers,0
+2,75,PARIS,DVD,Divers droite,0.0
+2,75,PARIS,DVG,Divers gauche,0
+2,75,PARIS,ECO,Ecologiste,0
+2,75,PARIS,EXD,Extrême droite,0.0
+2,75,PARIS,EXG,Extrême gauche,0
+2,75,PARIS,FN,Front national,0.0
+2,75,PARIS,MAJ,Majorité présidentielle,0
+2,75,PARIS,MPF,Mouvement pour la France,0
+2,75,PARIS,RDG,Radical de gauche,0
+2,75,PARIS,REG,Régionaliste,0
+2,75,PARIS,SOC,Socialiste,285529
+2,75,PARIS,UDFD,UDF-Mouvement Démocrate,0
+2,75,PARIS,UMP,Union pour un Mouvement Populaire,248436
+2,75,PARIS,VEC,Les Verts,41335
+2,75,PARIS,abstentions,abstentions,404938
+2,75,PARIS,blancs_nuls,blancs_nuls,14211
+2,76,SEINE MARITIME,COM,Communiste,37236
+2,76,SEINE MARITIME,CPNT,Chasse Pêche Nature Traditions,0
+2,76,SEINE MARITIME,DIV,Divers,0
+2,76,SEINE MARITIME,DVD,Divers droite,0.0
+2,76,SEINE MARITIME,DVG,Divers gauche,0
+2,76,SEINE MARITIME,ECO,Ecologiste,0
+2,76,SEINE MARITIME,EXD,Extrême droite,0.0
+2,76,SEINE MARITIME,EXG,Extrême gauche,0
+2,76,SEINE MARITIME,FN,Front national,0.0
+2,76,SEINE MARITIME,MAJ,Majorité présidentielle,0
+2,76,SEINE MARITIME,MPF,Mouvement pour la France,0
+2,76,SEINE MARITIME,RDG,Radical de gauche,0
+2,76,SEINE MARITIME,REG,Régionaliste,0
+2,76,SEINE MARITIME,SOC,Socialiste,213305
+2,76,SEINE MARITIME,UDFD,UDF-Mouvement Démocrate,0
+2,76,SEINE MARITIME,UMP,Union pour un Mouvement Populaire,218796
+2,76,SEINE MARITIME,VEC,Les Verts,0
+2,76,SEINE MARITIME,abstentions,abstentions,321541
+2,76,SEINE MARITIME,blancs_nuls,blancs_nuls,13198
+2,77,SEINE ET MARNE,COM,Communiste,0
+2,77,SEINE ET MARNE,CPNT,Chasse Pêche Nature Traditions,0
+2,77,SEINE ET MARNE,DIV,Divers,0
+2,77,SEINE ET MARNE,DVD,Divers droite,13482.0
+2,77,SEINE ET MARNE,DVG,Divers gauche,14996
+2,77,SEINE ET MARNE,ECO,Ecologiste,0
+2,77,SEINE ET MARNE,EXD,Extrême droite,0.0
+2,77,SEINE ET MARNE,EXG,Extrême gauche,0
+2,77,SEINE ET MARNE,FN,Front national,0.0
+2,77,SEINE ET MARNE,MAJ,Majorité présidentielle,0
+2,77,SEINE ET MARNE,MPF,Mouvement pour la France,0
+2,77,SEINE ET MARNE,RDG,Radical de gauche,0
+2,77,SEINE ET MARNE,REG,Régionaliste,0
+2,77,SEINE ET MARNE,SOC,Socialiste,115673
+2,77,SEINE ET MARNE,UDFD,UDF-Mouvement Démocrate,0
+2,77,SEINE ET MARNE,UMP,Union pour un Mouvement Populaire,186811
+2,77,SEINE ET MARNE,VEC,Les Verts,0
+2,77,SEINE ET MARNE,abstentions,abstentions,298119
+2,77,SEINE ET MARNE,blancs_nuls,blancs_nuls,13279
+2,78,YVELINES,COM,Communiste,0
+2,78,YVELINES,CPNT,Chasse Pêche Nature Traditions,0
+2,78,YVELINES,DIV,Divers,0
+2,78,YVELINES,DVD,Divers droite,0.0
+2,78,YVELINES,DVG,Divers gauche,17442
+2,78,YVELINES,ECO,Ecologiste,0
+2,78,YVELINES,EXD,Extrême droite,0.0
+2,78,YVELINES,EXG,Extrême gauche,0
+2,78,YVELINES,FN,Front national,0.0
+2,78,YVELINES,MAJ,Majorité présidentielle,0
+2,78,YVELINES,MPF,Mouvement pour la France,0
+2,78,YVELINES,RDG,Radical de gauche,0
+2,78,YVELINES,REG,Régionaliste,0
+2,78,YVELINES,SOC,Socialiste,94495
+2,78,YVELINES,UDFD,UDF-Mouvement Démocrate,0
+2,78,YVELINES,UMP,Union pour un Mouvement Populaire,138821
+2,78,YVELINES,VEC,Les Verts,0
+2,78,YVELINES,abstentions,abstentions,205021
+2,78,YVELINES,blancs_nuls,blancs_nuls,9418
+2,79,DEUX SEVRES,COM,Communiste,0
+2,79,DEUX SEVRES,CPNT,Chasse Pêche Nature Traditions,0
+2,79,DEUX SEVRES,DIV,Divers,0
+2,79,DEUX SEVRES,DVD,Divers droite,0.0
+2,79,DEUX SEVRES,DVG,Divers gauche,0
+2,79,DEUX SEVRES,ECO,Ecologiste,0
+2,79,DEUX SEVRES,EXD,Extrême droite,0.0
+2,79,DEUX SEVRES,EXG,Extrême gauche,0
+2,79,DEUX SEVRES,FN,Front national,0.0
+2,79,DEUX SEVRES,MAJ,Majorité présidentielle,0
+2,79,DEUX SEVRES,MPF,Mouvement pour la France,0
+2,79,DEUX SEVRES,RDG,Radical de gauche,0
+2,79,DEUX SEVRES,REG,Régionaliste,0
+2,79,DEUX SEVRES,SOC,Socialiste,72490
+2,79,DEUX SEVRES,UDFD,UDF-Mouvement Démocrate,0
+2,79,DEUX SEVRES,UMP,Union pour un Mouvement Populaire,53272
+2,79,DEUX SEVRES,VEC,Les Verts,0
+2,79,DEUX SEVRES,abstentions,abstentions,78868
+2,79,DEUX SEVRES,blancs_nuls,blancs_nuls,3510
+2,80,SOMME,COM,Communiste,0
+2,80,SOMME,CPNT,Chasse Pêche Nature Traditions,0
+2,80,SOMME,DIV,Divers,0
+2,80,SOMME,DVD,Divers droite,0.0
+2,80,SOMME,DVG,Divers gauche,18618
+2,80,SOMME,ECO,Ecologiste,0
+2,80,SOMME,EXD,Extrême droite,0.0
+2,80,SOMME,EXG,Extrême gauche,0
+2,80,SOMME,FN,Front national,0.0
+2,80,SOMME,MAJ,Majorité présidentielle,54937
+2,80,SOMME,MPF,Mouvement pour la France,0
+2,80,SOMME,RDG,Radical de gauche,0
+2,80,SOMME,REG,Régionaliste,0
+2,80,SOMME,SOC,Socialiste,107162
+2,80,SOMME,UDFD,UDF-Mouvement Démocrate,0
+2,80,SOMME,UMP,Union pour un Mouvement Populaire,70950
+2,80,SOMME,VEC,Les Verts,0
+2,80,SOMME,abstentions,abstentions,149676
+2,80,SOMME,blancs_nuls,blancs_nuls,9818
+2,81,TARN,COM,Communiste,0
+2,81,TARN,CPNT,Chasse Pêche Nature Traditions,0
+2,81,TARN,DIV,Divers,0
+2,81,TARN,DVD,Divers droite,10832.0
+2,81,TARN,DVG,Divers gauche,0
+2,81,TARN,ECO,Ecologiste,0
+2,81,TARN,EXD,Extrême droite,0.0
+2,81,TARN,EXG,Extrême gauche,0
+2,81,TARN,FN,Front national,0.0
+2,81,TARN,MAJ,Majorité présidentielle,19927
+2,81,TARN,MPF,Mouvement pour la France,0
+2,81,TARN,RDG,Radical de gauche,0
+2,81,TARN,REG,Régionaliste,0
+2,81,TARN,SOC,Socialiste,75880
+2,81,TARN,UDFD,UDF-Mouvement Démocrate,0
+2,81,TARN,UMP,Union pour un Mouvement Populaire,65959
+2,81,TARN,VEC,Les Verts,0
+2,81,TARN,abstentions,abstentions,92997
+2,81,TARN,blancs_nuls,blancs_nuls,11642
+2,82,TARN ET GARONNE,COM,Communiste,0
+2,82,TARN ET GARONNE,CPNT,Chasse Pêche Nature Traditions,0
+2,82,TARN ET GARONNE,DIV,Divers,0
+2,82,TARN ET GARONNE,DVD,Divers droite,0.0
+2,82,TARN ET GARONNE,DVG,Divers gauche,0
+2,82,TARN ET GARONNE,ECO,Ecologiste,0
+2,82,TARN ET GARONNE,EXD,Extrême droite,0.0
+2,82,TARN ET GARONNE,EXG,Extrême gauche,0
+2,82,TARN ET GARONNE,FN,Front national,0.0
+2,82,TARN ET GARONNE,MAJ,Majorité présidentielle,0
+2,82,TARN ET GARONNE,MPF,Mouvement pour la France,0
+2,82,TARN ET GARONNE,RDG,Radical de gauche,26811
+2,82,TARN ET GARONNE,REG,Régionaliste,0
+2,82,TARN ET GARONNE,SOC,Socialiste,26357
+2,82,TARN ET GARONNE,UDFD,UDF-Mouvement Démocrate,0
+2,82,TARN ET GARONNE,UMP,Union pour un Mouvement Populaire,53284
+2,82,TARN ET GARONNE,VEC,Les Verts,0
+2,82,TARN ET GARONNE,abstentions,abstentions,55370
+2,82,TARN ET GARONNE,blancs_nuls,blancs_nuls,4602
+2,83,VAR,COM,Communiste,0
+2,83,VAR,CPNT,Chasse Pêche Nature Traditions,0
+2,83,VAR,DIV,Divers,0
+2,83,VAR,DVD,Divers droite,0.0
+2,83,VAR,DVG,Divers gauche,0
+2,83,VAR,ECO,Ecologiste,0
+2,83,VAR,EXD,Extrême droite,0.0
+2,83,VAR,EXG,Extrême gauche,0
+2,83,VAR,FN,Front national,0.0
+2,83,VAR,MAJ,Majorité présidentielle,0
+2,83,VAR,MPF,Mouvement pour la France,0
+2,83,VAR,RDG,Radical de gauche,0
+2,83,VAR,REG,Régionaliste,0
+2,83,VAR,SOC,Socialiste,22200
+2,83,VAR,UDFD,UDF-Mouvement Démocrate,0
+2,83,VAR,UMP,Union pour un Mouvement Populaire,43047
+2,83,VAR,VEC,Les Verts,0
+2,83,VAR,abstentions,abstentions,53497
+2,83,VAR,blancs_nuls,blancs_nuls,2672
+2,84,VAUCLUSE,COM,Communiste,0
+2,84,VAUCLUSE,CPNT,Chasse Pêche Nature Traditions,0
+2,84,VAUCLUSE,DIV,Divers,0
+2,84,VAUCLUSE,DVD,Divers droite,0.0
+2,84,VAUCLUSE,DVG,Divers gauche,0
+2,84,VAUCLUSE,ECO,Ecologiste,0
+2,84,VAUCLUSE,EXD,Extrême droite,0.0
+2,84,VAUCLUSE,EXG,Extrême gauche,0
+2,84,VAUCLUSE,FN,Front national,0.0
+2,84,VAUCLUSE,MAJ,Majorité présidentielle,0
+2,84,VAUCLUSE,MPF,Mouvement pour la France,0
+2,84,VAUCLUSE,RDG,Radical de gauche,0
+2,84,VAUCLUSE,REG,Régionaliste,0
+2,84,VAUCLUSE,SOC,Socialiste,87625
+2,84,VAUCLUSE,UDFD,UDF-Mouvement Démocrate,0
+2,84,VAUCLUSE,UMP,Union pour un Mouvement Populaire,126144
+2,84,VAUCLUSE,VEC,Les Verts,0
+2,84,VAUCLUSE,abstentions,abstentions,148796
+2,84,VAUCLUSE,blancs_nuls,blancs_nuls,9874
+2,85,VENDEE,COM,Communiste,0
+2,85,VENDEE,CPNT,Chasse Pêche Nature Traditions,0
+2,85,VENDEE,DIV,Divers,0
+2,85,VENDEE,DVD,Divers droite,0.0
+2,85,VENDEE,DVG,Divers gauche,0
+2,85,VENDEE,ECO,Ecologiste,0
+2,85,VENDEE,EXD,Extrême droite,0.0
+2,85,VENDEE,EXG,Extrême gauche,0
+2,85,VENDEE,FN,Front national,0.0
+2,85,VENDEE,MAJ,Majorité présidentielle,29055
+2,85,VENDEE,MPF,Mouvement pour la France,0
+2,85,VENDEE,RDG,Radical de gauche,0
+2,85,VENDEE,REG,Régionaliste,0
+2,85,VENDEE,SOC,Socialiste,46277
+2,85,VENDEE,UDFD,UDF-Mouvement Démocrate,0
+2,85,VENDEE,UMP,Union pour un Mouvement Populaire,29393
+2,85,VENDEE,VEC,Les Verts,0
+2,85,VENDEE,abstentions,abstentions,78854
+2,85,VENDEE,blancs_nuls,blancs_nuls,3558
+2,86,VIENNE,COM,Communiste,0
+2,86,VIENNE,CPNT,Chasse Pêche Nature Traditions,0
+2,86,VIENNE,DIV,Divers,0
+2,86,VIENNE,DVD,Divers droite,0.0
+2,86,VIENNE,DVG,Divers gauche,0
+2,86,VIENNE,ECO,Ecologiste,0
+2,86,VIENNE,EXD,Extrême droite,0.0
+2,86,VIENNE,EXG,Extrême gauche,0
+2,86,VIENNE,FN,Front national,0.0
+2,86,VIENNE,MAJ,Majorité présidentielle,24282
+2,86,VIENNE,MPF,Mouvement pour la France,0
+2,86,VIENNE,RDG,Radical de gauche,0
+2,86,VIENNE,REG,Régionaliste,0
+2,86,VIENNE,SOC,Socialiste,95116
+2,86,VIENNE,UDFD,UDF-Mouvement Démocrate,0
+2,86,VIENNE,UMP,Union pour un Mouvement Populaire,62675
+2,86,VIENNE,VEC,Les Verts,0
+2,86,VIENNE,abstentions,abstentions,111505
+2,86,VIENNE,blancs_nuls,blancs_nuls,6405
+2,87,HAUTE VIENNE,COM,Communiste,0
+2,87,HAUTE VIENNE,CPNT,Chasse Pêche Nature Traditions,0
+2,87,HAUTE VIENNE,DIV,Divers,0
+2,87,HAUTE VIENNE,DVD,Divers droite,0.0
+2,87,HAUTE VIENNE,DVG,Divers gauche,0
+2,87,HAUTE VIENNE,ECO,Ecologiste,0
+2,87,HAUTE VIENNE,EXD,Extrême droite,0.0
+2,87,HAUTE VIENNE,EXG,Extrême gauche,0
+2,87,HAUTE VIENNE,FN,Front national,0.0
+2,87,HAUTE VIENNE,MAJ,Majorité présidentielle,0
+2,87,HAUTE VIENNE,MPF,Mouvement pour la France,0
+2,87,HAUTE VIENNE,RDG,Radical de gauche,0
+2,87,HAUTE VIENNE,REG,Régionaliste,0
+2,87,HAUTE VIENNE,SOC,Socialiste,104339
+2,87,HAUTE VIENNE,UDFD,UDF-Mouvement Démocrate,0
+2,87,HAUTE VIENNE,UMP,Union pour un Mouvement Populaire,66735
+2,87,HAUTE VIENNE,VEC,Les Verts,0
+2,87,HAUTE VIENNE,abstentions,abstentions,88435
+2,87,HAUTE VIENNE,blancs_nuls,blancs_nuls,7042
+2,88,VOSGES,COM,Communiste,0
+2,88,VOSGES,CPNT,Chasse Pêche Nature Traditions,0
+2,88,VOSGES,DIV,Divers,0
+2,88,VOSGES,DVD,Divers droite,0.0
+2,88,VOSGES,DVG,Divers gauche,0
+2,88,VOSGES,ECO,Ecologiste,0
+2,88,VOSGES,EXD,Extrême droite,0.0
+2,88,VOSGES,EXG,Extrême gauche,0
+2,88,VOSGES,FN,Front national,0.0
+2,88,VOSGES,MAJ,Majorité présidentielle,0
+2,88,VOSGES,MPF,Mouvement pour la France,0
+2,88,VOSGES,RDG,Radical de gauche,0
+2,88,VOSGES,REG,Régionaliste,0
+2,88,VOSGES,SOC,Socialiste,37121
+2,88,VOSGES,UDFD,UDF-Mouvement Démocrate,0
+2,88,VOSGES,UMP,Union pour un Mouvement Populaire,46032
+2,88,VOSGES,VEC,Les Verts,0
+2,88,VOSGES,abstentions,abstentions,58150
+2,88,VOSGES,blancs_nuls,blancs_nuls,3771
+2,89,YONNE,COM,Communiste,0
+2,89,YONNE,CPNT,Chasse Pêche Nature Traditions,0
+2,89,YONNE,DIV,Divers,0
+2,89,YONNE,DVD,Divers droite,0.0
+2,89,YONNE,DVG,Divers gauche,0
+2,89,YONNE,ECO,Ecologiste,0
+2,89,YONNE,EXD,Extrême droite,0.0
+2,89,YONNE,EXG,Extrême gauche,0
+2,89,YONNE,FN,Front national,0.0
+2,89,YONNE,MAJ,Majorité présidentielle,0
+2,89,YONNE,MPF,Mouvement pour la France,0
+2,89,YONNE,RDG,Radical de gauche,24290
+2,89,YONNE,REG,Régionaliste,0
+2,89,YONNE,SOC,Socialiste,40509
+2,89,YONNE,UDFD,UDF-Mouvement Démocrate,0
+2,89,YONNE,UMP,Union pour un Mouvement Populaire,75337
+2,89,YONNE,VEC,Les Verts,0
+2,89,YONNE,abstentions,abstentions,100188
+2,89,YONNE,blancs_nuls,blancs_nuls,5905
+2,90,TERRITOIRE DE BELFORT,COM,Communiste,0
+2,90,TERRITOIRE DE BELFORT,CPNT,Chasse Pêche Nature Traditions,0
+2,90,TERRITOIRE DE BELFORT,DIV,Divers,0
+2,90,TERRITOIRE DE BELFORT,DVD,Divers droite,0.0
+2,90,TERRITOIRE DE BELFORT,DVG,Divers gauche,13119
+2,90,TERRITOIRE DE BELFORT,ECO,Ecologiste,0
+2,90,TERRITOIRE DE BELFORT,EXD,Extrême droite,0.0
+2,90,TERRITOIRE DE BELFORT,EXG,Extrême gauche,0
+2,90,TERRITOIRE DE BELFORT,FN,Front national,0.0
+2,90,TERRITOIRE DE BELFORT,MAJ,Majorité présidentielle,0
+2,90,TERRITOIRE DE BELFORT,MPF,Mouvement pour la France,0
+2,90,TERRITOIRE DE BELFORT,RDG,Radical de gauche,0
+2,90,TERRITOIRE DE BELFORT,REG,Régionaliste,0
+2,90,TERRITOIRE DE BELFORT,SOC,Socialiste,11612
+2,90,TERRITOIRE DE BELFORT,UDFD,UDF-Mouvement Démocrate,0
+2,90,TERRITOIRE DE BELFORT,UMP,Union pour un Mouvement Populaire,32179
+2,90,TERRITOIRE DE BELFORT,VEC,Les Verts,0
+2,90,TERRITOIRE DE BELFORT,abstentions,abstentions,34567
+2,90,TERRITOIRE DE BELFORT,blancs_nuls,blancs_nuls,2752
+2,91,ESSONNE,COM,Communiste,0
+2,91,ESSONNE,CPNT,Chasse Pêche Nature Traditions,0
+2,91,ESSONNE,DIV,Divers,0
+2,91,ESSONNE,DVD,Divers droite,0.0
+2,91,ESSONNE,DVG,Divers gauche,0
+2,91,ESSONNE,ECO,Ecologiste,0
+2,91,ESSONNE,EXD,Extrême droite,0.0
+2,91,ESSONNE,EXG,Extrême gauche,0
+2,91,ESSONNE,FN,Front national,0.0
+2,91,ESSONNE,MAJ,Majorité présidentielle,0
+2,91,ESSONNE,MPF,Mouvement pour la France,0
+2,91,ESSONNE,RDG,Radical de gauche,0
+2,91,ESSONNE,REG,Régionaliste,0
+2,91,ESSONNE,SOC,Socialiste,166021
+2,91,ESSONNE,UDFD,UDF-Mouvement Démocrate,0
+2,91,ESSONNE,UMP,Union pour un Mouvement Populaire,171659
+2,91,ESSONNE,VEC,Les Verts,0
+2,91,ESSONNE,abstentions,abstentions,244830
+2,91,ESSONNE,blancs_nuls,blancs_nuls,8626
+2,92,HAUTS DE SEINE,COM,Communiste,59862
+2,92,HAUTS DE SEINE,CPNT,Chasse Pêche Nature Traditions,0
+2,92,HAUTS DE SEINE,DIV,Divers,0
+2,92,HAUTS DE SEINE,DVD,Divers droite,0.0
+2,92,HAUTS DE SEINE,DVG,Divers gauche,0
+2,92,HAUTS DE SEINE,ECO,Ecologiste,0
+2,92,HAUTS DE SEINE,EXD,Extrême droite,0.0
+2,92,HAUTS DE SEINE,EXG,Extrême gauche,0
+2,92,HAUTS DE SEINE,FN,Front national,0.0
+2,92,HAUTS DE SEINE,MAJ,Majorité présidentielle,36311
+2,92,HAUTS DE SEINE,MPF,Mouvement pour la France,0
+2,92,HAUTS DE SEINE,RDG,Radical de gauche,0
+2,92,HAUTS DE SEINE,REG,Régionaliste,0
+2,92,HAUTS DE SEINE,SOC,Socialiste,93304
+2,92,HAUTS DE SEINE,UDFD,UDF-Mouvement Démocrate,0
+2,92,HAUTS DE SEINE,UMP,Union pour un Mouvement Populaire,119507
+2,92,HAUTS DE SEINE,VEC,Les Verts,0
+2,92,HAUTS DE SEINE,abstentions,abstentions,241032
+2,92,HAUTS DE SEINE,blancs_nuls,blancs_nuls,10320
+2,93,SEINE SAINT-DENIS,COM,Communiste,54845
+2,93,SEINE SAINT-DENIS,CPNT,Chasse Pêche Nature Traditions,0
+2,93,SEINE SAINT-DENIS,DIV,Divers,0
+2,93,SEINE SAINT-DENIS,DVD,Divers droite,15795.0
+2,93,SEINE SAINT-DENIS,DVG,Divers gauche,11912
+2,93,SEINE SAINT-DENIS,ECO,Ecologiste,0
+2,93,SEINE SAINT-DENIS,EXD,Extrême droite,0.0
+2,93,SEINE SAINT-DENIS,EXG,Extrême gauche,0
+2,93,SEINE SAINT-DENIS,FN,Front national,0.0
+2,93,SEINE SAINT-DENIS,MAJ,Majorité présidentielle,0
+2,93,SEINE SAINT-DENIS,MPF,Mouvement pour la France,0
+2,93,SEINE SAINT-DENIS,RDG,Radical de gauche,0
+2,93,SEINE SAINT-DENIS,REG,Régionaliste,0
+2,93,SEINE SAINT-DENIS,SOC,Socialiste,126522
+2,93,SEINE SAINT-DENIS,UDFD,UDF-Mouvement Démocrate,0
+2,93,SEINE SAINT-DENIS,UMP,Union pour un Mouvement Populaire,135339
+2,93,SEINE SAINT-DENIS,VEC,Les Verts,0
+2,93,SEINE SAINT-DENIS,abstentions,abstentions,353468
+2,93,SEINE SAINT-DENIS,blancs_nuls,blancs_nuls,15784
+2,94,VAL DE MARNE,COM,Communiste,34112
+2,94,VAL DE MARNE,CPNT,Chasse Pêche Nature Traditions,0
+2,94,VAL DE MARNE,DIV,Divers,0
+2,94,VAL DE MARNE,DVD,Divers droite,0.0
+2,94,VAL DE MARNE,DVG,Divers gauche,0
+2,94,VAL DE MARNE,ECO,Ecologiste,0
+2,94,VAL DE MARNE,EXD,Extrême droite,0.0
+2,94,VAL DE MARNE,EXG,Extrême gauche,0
+2,94,VAL DE MARNE,FN,Front national,0.0
+2,94,VAL DE MARNE,MAJ,Majorité présidentielle,0
+2,94,VAL DE MARNE,MPF,Mouvement pour la France,0
+2,94,VAL DE MARNE,RDG,Radical de gauche,18171
+2,94,VAL DE MARNE,REG,Régionaliste,0
+2,94,VAL DE MARNE,SOC,Socialiste,122135
+2,94,VAL DE MARNE,UDFD,UDF-Mouvement Démocrate,13305
+2,94,VAL DE MARNE,UMP,Union pour un Mouvement Populaire,176805
+2,94,VAL DE MARNE,VEC,Les Verts,0
+2,94,VAL DE MARNE,abstentions,abstentions,315242
+2,94,VAL DE MARNE,blancs_nuls,blancs_nuls,12379
+2,95,VAL D'OISE,COM,Communiste,0
+2,95,VAL D'OISE,CPNT,Chasse Pêche Nature Traditions,0
+2,95,VAL D'OISE,DIV,Divers,0
+2,95,VAL D'OISE,DVD,Divers droite,0.0
+2,95,VAL D'OISE,DVG,Divers gauche,0
+2,95,VAL D'OISE,ECO,Ecologiste,0
+2,95,VAL D'OISE,EXD,Extrême droite,0.0
+2,95,VAL D'OISE,EXG,Extrême gauche,0
+2,95,VAL D'OISE,FN,Front national,0.0
+2,95,VAL D'OISE,MAJ,Majorité présidentielle,0
+2,95,VAL D'OISE,MPF,Mouvement pour la France,0
+2,95,VAL D'OISE,RDG,Radical de gauche,0
+2,95,VAL D'OISE,REG,Régionaliste,0
+2,95,VAL D'OISE,SOC,Socialiste,167219
+2,95,VAL D'OISE,UDFD,UDF-Mouvement Démocrate,0
+2,95,VAL D'OISE,UMP,Union pour un Mouvement Populaire,196151
+2,95,VAL D'OISE,VEC,Les Verts,0
+2,95,VAL D'OISE,abstentions,abstentions,306188
+2,95,VAL D'OISE,blancs_nuls,blancs_nuls,9824
+2,971,GUADELOUPE,COM,Communiste,0
+2,971,GUADELOUPE,CPNT,Chasse Pêche Nature Traditions,0
+2,971,GUADELOUPE,DIV,Divers,14279
+2,971,GUADELOUPE,DVD,Divers droite,8596.0
+2,971,GUADELOUPE,DVG,Divers gauche,48748
+2,971,GUADELOUPE,ECO,Ecologiste,0
+2,971,GUADELOUPE,EXD,Extrême droite,0.0
+2,971,GUADELOUPE,EXG,Extrême gauche,0
+2,971,GUADELOUPE,FN,Front national,0.0
+2,971,GUADELOUPE,MAJ,Majorité présidentielle,0
+2,971,GUADELOUPE,MPF,Mouvement pour la France,0
+2,971,GUADELOUPE,RDG,Radical de gauche,0
+2,971,GUADELOUPE,REG,Régionaliste,0
+2,971,GUADELOUPE,SOC,Socialiste,15830
+2,971,GUADELOUPE,UDFD,UDF-Mouvement Démocrate,0
+2,971,GUADELOUPE,UMP,Union pour un Mouvement Populaire,32758
+2,971,GUADELOUPE,VEC,Les Verts,0
+2,971,GUADELOUPE,abstentions,abstentions,174476
+2,971,GUADELOUPE,blancs_nuls,blancs_nuls,8808
+2,972,MARTINIQUE,COM,Communiste,0
+2,972,MARTINIQUE,CPNT,Chasse Pêche Nature Traditions,0
+2,972,MARTINIQUE,DIV,Divers,0
+2,972,MARTINIQUE,DVD,Divers droite,0.0
+2,972,MARTINIQUE,DVG,Divers gauche,36023
+2,972,MARTINIQUE,ECO,Ecologiste,0
+2,972,MARTINIQUE,EXD,Extrême droite,0.0
+2,972,MARTINIQUE,EXG,Extrême gauche,0
+2,972,MARTINIQUE,FN,Front national,0.0
+2,972,MARTINIQUE,MAJ,Majorité présidentielle,0
+2,972,MARTINIQUE,MPF,Mouvement pour la France,0
+2,972,MARTINIQUE,RDG,Radical de gauche,0
+2,972,MARTINIQUE,REG,Régionaliste,26673
+2,972,MARTINIQUE,SOC,Socialiste,14151
+2,972,MARTINIQUE,UDFD,UDF-Mouvement Démocrate,0
+2,972,MARTINIQUE,UMP,Union pour un Mouvement Populaire,37126
+2,972,MARTINIQUE,VEC,Les Verts,0
+2,972,MARTINIQUE,abstentions,abstentions,166873
+2,972,MARTINIQUE,blancs_nuls,blancs_nuls,7410
+2,973,GUYANE,COM,Communiste,0
+2,973,GUYANE,CPNT,Chasse Pêche Nature Traditions,0
+2,973,GUYANE,DIV,Divers,0
+2,973,GUYANE,DVD,Divers droite,0.0
+2,973,GUYANE,DVG,Divers gauche,14707
+2,973,GUYANE,ECO,Ecologiste,0
+2,973,GUYANE,EXD,Extrême droite,0.0
+2,973,GUYANE,EXG,Extrême gauche,0
+2,973,GUYANE,FN,Front national,0.0
+2,973,GUYANE,MAJ,Majorité présidentielle,0
+2,973,GUYANE,MPF,Mouvement pour la France,0
+2,973,GUYANE,RDG,Radical de gauche,0
+2,973,GUYANE,REG,Régionaliste,0
+2,973,GUYANE,SOC,Socialiste,0
+2,973,GUYANE,UDFD,UDF-Mouvement Démocrate,0
+2,973,GUYANE,UMP,Union pour un Mouvement Populaire,11320
+2,973,GUYANE,VEC,Les Verts,0
+2,973,GUYANE,abstentions,abstentions,35431
+2,973,GUYANE,blancs_nuls,blancs_nuls,1350
+2,974,LA REUNION,COM,Communiste,0
+2,974,LA REUNION,CPNT,Chasse Pêche Nature Traditions,0
+2,974,LA REUNION,DIV,Divers,0
+2,974,LA REUNION,DVD,Divers droite,23657.0
+2,974,LA REUNION,DVG,Divers gauche,64307
+2,974,LA REUNION,ECO,Ecologiste,0
+2,974,LA REUNION,EXD,Extrême droite,0.0
+2,974,LA REUNION,EXG,Extrême gauche,0
+2,974,LA REUNION,FN,Front national,0.0
+2,974,LA REUNION,MAJ,Majorité présidentielle,0
+2,974,LA REUNION,MPF,Mouvement pour la France,0
+2,974,LA REUNION,RDG,Radical de gauche,0
+2,974,LA REUNION,REG,Régionaliste,0
+2,974,LA REUNION,SOC,Socialiste,89488
+2,974,LA REUNION,UDFD,UDF-Mouvement Démocrate,0
+2,974,LA REUNION,UMP,Union pour un Mouvement Populaire,118555
+2,974,LA REUNION,VEC,Les Verts,0
+2,974,LA REUNION,abstentions,abstentions,200448
+2,974,LA REUNION,blancs_nuls,blancs_nuls,16468
+2,975,SAINT PIERRE ET MIQUELON,COM,Communiste,0
+2,975,SAINT PIERRE ET MIQUELON,CPNT,Chasse Pêche Nature Traditions,0
+2,975,SAINT PIERRE ET MIQUELON,DIV,Divers,0
+2,975,SAINT PIERRE ET MIQUELON,DVD,Divers droite,0.0
+2,975,SAINT PIERRE ET MIQUELON,DVG,Divers gauche,0
+2,975,SAINT PIERRE ET MIQUELON,ECO,Ecologiste,0
+2,975,SAINT PIERRE ET MIQUELON,EXD,Extrême droite,0.0
+2,975,SAINT PIERRE ET MIQUELON,EXG,Extrême gauche,0
+2,975,SAINT PIERRE ET MIQUELON,FN,Front national,0.0
+2,975,SAINT PIERRE ET MIQUELON,MAJ,Majorité présidentielle,0
+2,975,SAINT PIERRE ET MIQUELON,MPF,Mouvement pour la France,0
+2,975,SAINT PIERRE ET MIQUELON,RDG,Radical de gauche,1816
+2,975,SAINT PIERRE ET MIQUELON,REG,Régionaliste,0
+2,975,SAINT PIERRE ET MIQUELON,SOC,Socialiste,0
+2,975,SAINT PIERRE ET MIQUELON,UDFD,UDF-Mouvement Démocrate,0
+2,975,SAINT PIERRE ET MIQUELON,UMP,Union pour un Mouvement Populaire,1726
+2,975,SAINT PIERRE ET MIQUELON,VEC,Les Verts,0
+2,975,SAINT PIERRE ET MIQUELON,abstentions,abstentions,1183
+2,975,SAINT PIERRE ET MIQUELON,blancs_nuls,blancs_nuls,198
+2,976,MAYOTTE,COM,Communiste,0
+2,976,MAYOTTE,CPNT,Chasse Pêche Nature Traditions,0
+2,976,MAYOTTE,DIV,Divers,18789
+2,976,MAYOTTE,DVD,Divers droite,0.0
+2,976,MAYOTTE,DVG,Divers gauche,0
+2,976,MAYOTTE,ECO,Ecologiste,0
+2,976,MAYOTTE,EXD,Extrême droite,0.0
+2,976,MAYOTTE,EXG,Extrême gauche,0
+2,976,MAYOTTE,FN,Front national,0.0
+2,976,MAYOTTE,MAJ,Majorité présidentielle,0
+2,976,MAYOTTE,MPF,Mouvement pour la France,0
+2,976,MAYOTTE,RDG,Radical de gauche,0
+2,976,MAYOTTE,REG,Régionaliste,0
+2,976,MAYOTTE,SOC,Socialiste,0
+2,976,MAYOTTE,UDFD,UDF-Mouvement Démocrate,0
+2,976,MAYOTTE,UMP,Union pour un Mouvement Populaire,14594
+2,976,MAYOTTE,VEC,Les Verts,0
+2,976,MAYOTTE,abstentions,abstentions,30052
+2,976,MAYOTTE,blancs_nuls,blancs_nuls,1269
+2,986,WALLIS-ET-FUTUNA,COM,Communiste,0
+2,986,WALLIS-ET-FUTUNA,CPNT,Chasse Pêche Nature Traditions,0
+2,986,WALLIS-ET-FUTUNA,DIV,Divers,0
+2,986,WALLIS-ET-FUTUNA,DVD,Divers droite,0.0
+2,986,WALLIS-ET-FUTUNA,DVG,Divers gauche,0
+2,986,WALLIS-ET-FUTUNA,ECO,Ecologiste,0
+2,986,WALLIS-ET-FUTUNA,EXD,Extrême droite,0.0
+2,986,WALLIS-ET-FUTUNA,EXG,Extrême gauche,0
+2,986,WALLIS-ET-FUTUNA,FN,Front national,0.0
+2,986,WALLIS-ET-FUTUNA,MAJ,Majorité présidentielle,0
+2,986,WALLIS-ET-FUTUNA,MPF,Mouvement pour la France,0
+2,986,WALLIS-ET-FUTUNA,RDG,Radical de gauche,0
+2,986,WALLIS-ET-FUTUNA,REG,Régionaliste,0
+2,986,WALLIS-ET-FUTUNA,SOC,Socialiste,4152
+2,986,WALLIS-ET-FUTUNA,UDFD,UDF-Mouvement Démocrate,0
+2,986,WALLIS-ET-FUTUNA,UMP,Union pour un Mouvement Populaire,3865
+2,986,WALLIS-ET-FUTUNA,VEC,Les Verts,0
+2,986,WALLIS-ET-FUTUNA,abstentions,abstentions,3068
+2,986,WALLIS-ET-FUTUNA,blancs_nuls,blancs_nuls,72
+2,987,POLYNESIE FRANCAISE,COM,Communiste,0
+2,987,POLYNESIE FRANCAISE,CPNT,Chasse Pêche Nature Traditions,0
+2,987,POLYNESIE FRANCAISE,DIV,Divers,0
+2,987,POLYNESIE FRANCAISE,DVD,Divers droite,32459.0
+2,987,POLYNESIE FRANCAISE,DVG,Divers gauche,0
+2,987,POLYNESIE FRANCAISE,ECO,Ecologiste,0
+2,987,POLYNESIE FRANCAISE,EXD,Extrême droite,0.0
+2,987,POLYNESIE FRANCAISE,EXG,Extrême gauche,0
+2,987,POLYNESIE FRANCAISE,FN,Front national,0.0
+2,987,POLYNESIE FRANCAISE,MAJ,Majorité présidentielle,0
+2,987,POLYNESIE FRANCAISE,MPF,Mouvement pour la France,0
+2,987,POLYNESIE FRANCAISE,RDG,Radical de gauche,0
+2,987,POLYNESIE FRANCAISE,REG,Régionaliste,46257
+2,987,POLYNESIE FRANCAISE,SOC,Socialiste,0
+2,987,POLYNESIE FRANCAISE,UDFD,UDF-Mouvement Démocrate,0
+2,987,POLYNESIE FRANCAISE,UMP,Union pour un Mouvement Populaire,24707
+2,987,POLYNESIE FRANCAISE,VEC,Les Verts,0
+2,987,POLYNESIE FRANCAISE,abstentions,abstentions,62390
+2,987,POLYNESIE FRANCAISE,blancs_nuls,blancs_nuls,1899
+2,988,NOUVELLE CALEDONIE,COM,Communiste,0
+2,988,NOUVELLE CALEDONIE,CPNT,Chasse Pêche Nature Traditions,0
+2,988,NOUVELLE CALEDONIE,DIV,Divers,0
+2,988,NOUVELLE CALEDONIE,DVD,Divers droite,0.0
+2,988,NOUVELLE CALEDONIE,DVG,Divers gauche,0
+2,988,NOUVELLE CALEDONIE,ECO,Ecologiste,0
+2,988,NOUVELLE CALEDONIE,EXD,Extrême droite,0.0
+2,988,NOUVELLE CALEDONIE,EXG,Extrême gauche,0
+2,988,NOUVELLE CALEDONIE,FN,Front national,0.0
+2,988,NOUVELLE CALEDONIE,MAJ,Majorité présidentielle,0
+2,988,NOUVELLE CALEDONIE,MPF,Mouvement pour la France,0
+2,988,NOUVELLE CALEDONIE,RDG,Radical de gauche,0
+2,988,NOUVELLE CALEDONIE,REG,Régionaliste,33554
+2,988,NOUVELLE CALEDONIE,SOC,Socialiste,0
+2,988,NOUVELLE CALEDONIE,UDFD,UDF-Mouvement Démocrate,0
+2,988,NOUVELLE CALEDONIE,UMP,Union pour un Mouvement Populaire,52291
+2,988,NOUVELLE CALEDONIE,VEC,Les Verts,0
+2,988,NOUVELLE CALEDONIE,abstentions,abstentions,58615
+2,988,NOUVELLE CALEDONIE,blancs_nuls,blancs_nuls,2406
+2,Extrême gauche,0,"0,00",RDG,Radical de gauche
+2,Extrême gauche,0,"0,00",DVG,Divers gauche
+2,Extrême gauche,0,"0,00",VEC,Les Verts
+2,Extrême gauche,0,"0,00",ECO,Ecologiste
+2,Extrême gauche,0,"0,00",REG,Régionaliste
+2,Extrême gauche,0,"0,00",CPNT,Chasse Pêche Nature Traditions
+2,Extrême gauche,0,"0,00",DIV,Divers
+2,Extrême gauche,0,"0,00",UDFD,UDF-Mouvement Démocrate
+2,Extrême gauche,0,"0,00",MAJ,Majorité présidentielle
+2,Extrême gauche,0,"0,00",UMP,Union pour un Mouvement Populaire
+2,Extrême gauche,0,"0,00",MPF,Mouvement pour la France
+2,Extrême gauche,0,"0,00",DVD,Divers droite
+2,Extrême gauche,0,"0,00",FN,Front national
+2,Extrême gauche,0,"0,00",EXD,Extrême droite
+2,Extrême gauche,0,abstentions,abstentions,"0,00"
+2,Extrême gauche,0,blancs_nuls,blancs_nuls,"0,00"
